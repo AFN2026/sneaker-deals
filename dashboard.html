@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sneaker Deals Dashboard</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f4f6fb;
+      color: #1a1a2e;
+      min-height: 100vh;
+    }
+
+    header {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      color: white;
+      padding: 1.4rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
+    }
+    header h1 { font-size: 1.55rem; font-weight: 700; letter-spacing: -0.02em; }
+    header .sub { font-size: 0.8rem; opacity: 0.6; margin-top: 0.2rem; }
+    .badge {
+      margin-left: auto;
+      background: #e94560;
+      color: white;
+      border-radius: 999px;
+      padding: 0.2rem 0.75rem;
+      font-size: 0.82rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    main { max-width: 1440px; margin: 0 auto; padding: 1.5rem 2rem; }
+
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.65rem;
+      margin-bottom: 1.1rem;
+      align-items: center;
+    }
+    .controls input[type="search"],
+    .controls select {
+      padding: 0.48rem 0.8rem;
+      border: 1.5px solid #dde2ee;
+      border-radius: 8px;
+      font-size: 0.88rem;
+      background: white;
+      outline: none;
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+    .controls input[type="search"] { min-width: 230px; }
+    .controls input[type="search"]:focus,
+    .controls select:focus {
+      border-color: #4361ee;
+      box-shadow: 0 0 0 3px rgba(67, 97, 238, 0.13);
+    }
+    #count {
+      margin-left: auto;
+      font-size: 0.82rem;
+      color: #888;
+    }
+
+    .table-wrap {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 2px 14px rgba(0, 0, 0, 0.07);
+      overflow: auto;
+      max-height: calc(100vh - 220px);
+    }
+    table { border-collapse: collapse; width: 100%; }
+
+    thead th {
+      position: sticky;
+      top: 0;
+      background: #eef2ff;
+      border-bottom: 2px solid #d8e2ff;
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #4361ee;
+      padding: 0.85rem 1rem;
+      white-space: nowrap;
+      user-select: none;
+    }
+    thead th[data-col] { cursor: pointer; }
+    thead th[data-col]:hover { background: #dce6ff; }
+    thead th .arrow { margin-left: 0.3em; opacity: 0.35; font-size: 0.7em; }
+    thead th.asc  .arrow::after { content: "▲"; opacity: 1; }
+    thead th.desc .arrow::after { content: "▼"; opacity: 1; }
+    thead th:not(.asc):not(.desc) .arrow::after { content: "⇅"; }
+
+    tbody tr { border-bottom: 1px solid #f2f4f8; transition: background 0.08s; }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:hover { background: #fafbff; }
+    td { padding: 0.7rem 1rem; font-size: 0.88rem; vertical-align: middle; }
+
+    td.title-cell { max-width: 400px; line-height: 1.4; }
+
+    td.price-cell {
+      font-weight: 800;
+      font-size: 0.95rem;
+      color: #e94560;
+      white-space: nowrap;
+    }
+    td.price-cell.no-price { color: #ccc; font-weight: 400; font-size: 0.85rem; }
+
+    .source-badge {
+      display: inline-block;
+      padding: 0.18rem 0.6rem;
+      border-radius: 999px;
+      font-size: 0.74rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .src-HotUKDeals { background: #fff0e5; color: #d45500; }
+    .src-Slickdeals  { background: #e5f7ee; color: #148c54; }
+
+    .kw-tag {
+      display: inline-block;
+      padding: 0.12rem 0.5rem;
+      background: #eef2ff;
+      color: #4361ee;
+      border-radius: 5px;
+      font-size: 0.74rem;
+      font-weight: 600;
+    }
+
+    td.date-cell { white-space: nowrap; color: #666; font-size: 0.82rem; }
+
+    td a {
+      color: #4361ee;
+      text-decoration: none;
+      font-size: 0.82rem;
+      white-space: nowrap;
+    }
+    td a:hover { text-decoration: underline; }
+
+    .empty-row td {
+      text-align: center;
+      padding: 3.5rem 1rem;
+      color: #aaa;
+      font-size: 0.95rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1.2rem;
+      font-size: 0.78rem;
+      color: #bbb;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Sneaker Deals Dashboard</h1>
+    <div class="sub">Aggregated from HotUKDeals &amp; Slickdeals</div>
+  </div>
+  <span class="badge" id="total-badge">— deals</span>
+</header>
+
+<main>
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search titles…" autocomplete="off">
+    <select id="filter-source"><option value="">All sources</option></select>
+    <select id="filter-keyword"><option value="">All keywords</option></select>
+    <span id="count"></span>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th data-col="title">Title<span class="arrow"></span></th>
+          <th data-col="price">Price<span class="arrow"></span></th>
+          <th data-col="source">Source<span class="arrow"></span></th>
+          <th data-col="keyword">Keyword<span class="arrow"></span></th>
+          <th data-col="date">Date (UTC)<span class="arrow"></span></th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+</main>
+
+<footer id="footer"></footer>
+
+<script src="deals.js"></script>
+<script>
+(() => {
+  const deals   = window.DEALS || [];
+  const tbody   = document.getElementById("tbody");
+  const searchEl = document.getElementById("search");
+  const srcEl    = document.getElementById("filter-source");
+  const kwEl     = document.getElementById("filter-keyword");
+  const countEl  = document.getElementById("count");
+  const badge    = document.getElementById("total-badge");
+  const footer   = document.getElementById("footer");
+
+  badge.textContent = `${deals.length} deal${deals.length !== 1 ? "s" : ""}`;
+
+  if (!deals.length) {
+    footer.textContent = "No deals loaded — run fetch_deals.py first, then reload this page.";
+  } else {
+    const newest = deals.find(d => d.date);
+    footer.textContent = newest ? `Last fetched: ${newest.date} UTC` : "";
+  }
+
+  // Populate filter dropdowns from actual data
+  [...new Set(deals.map(d => d.source))].sort()
+    .forEach(s => srcEl.add(new Option(s, s)));
+  [...new Set(deals.map(d => d.keyword))].sort()
+    .forEach(k => kwEl.add(new Option(k, k)));
+
+  // Sort state: start with newest first
+  let sortCol = "date", sortDir = -1;
+  document.querySelector('th[data-col="date"]').classList.add("desc");
+
+  function priceNum(p) {
+    const n = parseFloat((p || "").replace(/[^0-9.]/g, ""));
+    return isNaN(n) ? Infinity : n;
+  }
+
+  function compare(a, b) {
+    let va = a[sortCol] ?? "", vb = b[sortCol] ?? "";
+    if (sortCol === "price") { va = priceNum(a.price); vb = priceNum(b.price); }
+    return va < vb ? -sortDir : va > vb ? sortDir : 0;
+  }
+
+  function esc(s) {
+    return String(s ?? "")
+      .replace(/&/g, "&amp;").replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  }
+
+  function render() {
+    const q   = searchEl.value.toLowerCase();
+    const src = srcEl.value;
+    const kw  = kwEl.value;
+
+    const filtered = deals
+      .filter(d =>
+        (!q   || d.title.toLowerCase().includes(q)) &&
+        (!src || d.source  === src) &&
+        (!kw  || d.keyword === kw)
+      )
+      .sort(compare);
+
+    countEl.textContent = `Showing ${filtered.length} of ${deals.length}`;
+
+    if (!filtered.length) {
+      tbody.innerHTML = `<tr class="empty-row"><td colspan="6">No deals match your filters.</td></tr>`;
+      return;
+    }
+
+    tbody.innerHTML = filtered.map(d => {
+      const hasPrice = d.price && d.price.trim();
+      return `<tr>
+        <td class="title-cell">${esc(d.title)}</td>
+        <td class="price-cell${hasPrice ? "" : " no-price"}">${hasPrice ? esc(d.price) : "—"}</td>
+        <td><span class="source-badge src-${esc(d.source)}">${esc(d.source)}</span></td>
+        <td><span class="kw-tag">${esc(d.keyword)}</span></td>
+        <td class="date-cell">${esc(d.date)}</td>
+        <td><a href="${esc(d.link)}" target="_blank" rel="noopener noreferrer">View deal ↗</a></td>
+      </tr>`;
+    }).join("");
+  }
+
+  document.querySelectorAll("thead th[data-col]").forEach(th => {
+    th.addEventListener("click", () => {
+      const col = th.dataset.col;
+      sortDir = sortCol === col ? -sortDir : (col === "date" ? -1 : 1);
+      sortCol = col;
+      document.querySelectorAll("thead th").forEach(t => t.classList.remove("asc", "desc"));
+      th.classList.add(sortDir === 1 ? "asc" : "desc");
+      render();
+    });
+  });
+
+  searchEl.addEventListener("input", render);
+  srcEl.addEventListener("change", render);
+  kwEl.addEventListener("change", render);
+
+  render();
+})();
+</script>
+</body>
+</html>
