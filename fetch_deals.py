@@ -18,10 +18,10 @@ KEYWORDS = [
 
 FEEDS = [
     ("HotUKDeals", "https://www.hotukdeals.com/rss/search?q={query}"),
-    ("Slickdeals",  "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&q={query}&rss=1"),
 ]
 
-_PRICE_RE = re.compile(r'[£$€]\s*\d[\d,.]*')
+# GBP-only: entries with prices in other currencies are stored without a price
+_PRICE_RE = re.compile(r'£\s*\d[\d,.]*')
 
 
 def _extract_price(text: str) -> str:
