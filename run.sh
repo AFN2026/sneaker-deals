@@ -13,7 +13,7 @@ python fetch_deals.py
 echo "==> Opening dashboard…"
 python -c "
 import pathlib, webbrowser
-url = pathlib.Path('dashboard.html').resolve().as_uri()
+url = pathlib.Path('index.html').resolve().as_uri()
 print('Opening:', url)
 webbrowser.open(url)
 "

@@ -139,7 +139,7 @@ if __name__ == "__main__":
         json.dumps(deals, indent=2, ensure_ascii=False),
         encoding="utf-8",
     )
-    # deals.js lets dashboard.html load data without a local server (no CORS issues)
+    # deals.js lets index.html load data without a local server (no CORS issues)
     Path("deals.js").write_text(
         "window.DEALS = " + json.dumps(deals, indent=2, ensure_ascii=False) + ";\n",
         encoding="utf-8",
