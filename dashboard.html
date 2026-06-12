@@ -161,7 +161,7 @@
 <header>
   <div>
     <h1>Sneaker Deals Dashboard</h1>
-    <div class="sub">Aggregated from HotUKDeals (UK deals, GBP)</div>
+    <div class="sub">HotUKDeals top&nbsp;30 hot deals · filtered for sneaker keywords · GBP only</div>
   </div>
   <span class="badge" id="total-badge">— deals</span>
 </header>
@@ -208,7 +208,7 @@
   badge.textContent = `${deals.length} deal${deals.length !== 1 ? "s" : ""}`;
 
   if (!deals.length) {
-    footer.textContent = "No deals loaded — run fetch_deals.py first, then reload this page.";
+    footer.textContent = "No sneaker deals in today’s HotUKDeals top 30 — run fetch_deals.py again later, or reload after the feed refreshes.";
   } else {
     const newest = deals.find(d => d.date);
     footer.textContent = newest ? `Last fetched: ${newest.date} UTC` : "";
