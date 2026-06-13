@@ -1,1 +1,26 @@
-window.DEALS = [];
+window.DEALS = [
+  {
+    "title": "Nike Air Force 1 Premium Trainers - Grey",
+    "price": "£80",
+    "link": "https://www.hotukdeals.com/deals/nike-air-force-1-premium-grey-4911475",
+    "date": "2026-06-13 09:46",
+    "source": "HotUKDeals",
+    "keyword": "nike"
+  },
+  {
+    "title": "Adidas muchen Trainers Black",
+    "price": "£60",
+    "link": "https://www.hotukdeals.com/deals/adidas-muchen-4911473",
+    "date": "2026-06-13 09:44",
+    "source": "HotUKDeals",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Originals Munchen",
+    "price": "£50",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-munchen-4911469",
+    "date": "2026-06-13 09:40",
+    "source": "HotUKDeals",
+    "keyword": "adidas"
+  }
+];
