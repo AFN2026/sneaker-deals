@@ -41,7 +41,7 @@
       display: flex;
       flex-wrap: wrap;
       gap: 0.65rem;
-      margin-bottom: 1.1rem;
+      margin-bottom: 1.4rem;
       align-items: center;
     }
     .controls input[type="search"],
@@ -66,12 +66,56 @@
       color: #888;
     }
 
+    .deals-section { margin-bottom: 2rem; }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 0.6rem;
+    }
+    .section-header h2 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #1a1a2e;
+    }
+    .section-header .section-sub {
+      font-size: 0.85rem;
+      font-weight: 400;
+      color: #666;
+    }
+    .section-badge {
+      background: #e94560;
+      color: white;
+      border-radius: 999px;
+      padding: 0.15rem 0.6rem;
+      font-size: 0.76rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .section-badge.us { background: #2e7d32; }
+
+    .import-note {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.5rem;
+      background: #fffbea;
+      border: 1.5px solid #ffe082;
+      border-radius: 8px;
+      padding: 0.65rem 0.9rem;
+      font-size: 0.84rem;
+      color: #6d4c00;
+      margin-bottom: 0.6rem;
+      line-height: 1.45;
+    }
+    .import-note .icon { flex-shrink: 0; font-size: 1rem; }
+
     .table-wrap {
       background: white;
       border-radius: 12px;
       box-shadow: 0 2px 14px rgba(0, 0, 0, 0.07);
       overflow: auto;
-      max-height: calc(100vh - 220px);
+      max-height: 480px;
     }
     table { border-collapse: collapse; width: 100%; }
 
@@ -89,8 +133,14 @@
       white-space: nowrap;
       user-select: none;
     }
+    .deals-section.us thead th {
+      background: #e8f5e9;
+      border-bottom-color: #c8e6c9;
+      color: #2e7d32;
+    }
     thead th[data-col] { cursor: pointer; }
     thead th[data-col]:hover { background: #dce6ff; }
+    .deals-section.us thead th[data-col]:hover { background: #c8e6c9; }
     thead th .arrow { margin-left: 0.3em; opacity: 0.35; font-size: 0.7em; }
     thead th.asc  .arrow::after { content: "▲"; opacity: 1; }
     thead th.desc .arrow::after { content: "▼"; opacity: 1; }
@@ -109,17 +159,8 @@
       color: #e94560;
       white-space: nowrap;
     }
+    td.price-cell.us-price { color: #2e7d32; }
     td.price-cell.no-price { color: #ccc; font-weight: 400; font-size: 0.85rem; }
-
-    .source-badge {
-      display: inline-block;
-      padding: 0.18rem 0.6rem;
-      border-radius: 999px;
-      font-size: 0.74rem;
-      font-weight: 700;
-      white-space: nowrap;
-    }
-    .src-HotUKDeals { background: #fff0e5; color: #d45500; }
 
     .kw-tag {
       display: inline-block;
@@ -129,6 +170,10 @@
       border-radius: 5px;
       font-size: 0.74rem;
       font-weight: 600;
+    }
+    .deals-section.us .kw-tag {
+      background: #e8f5e9;
+      color: #2e7d32;
     }
 
     td.date-cell { white-space: nowrap; color: #666; font-size: 0.82rem; }
@@ -161,7 +206,7 @@
 <header>
   <div>
     <h1>Sneaker Deals Dashboard</h1>
-    <div class="sub">HotUKDeals top&nbsp;30 hot deals · filtered for sneaker keywords · GBP only</div>
+    <div class="sub">HotUKDeals (GBP) &amp; Slickdeals (USD) · filtered for sneaker keywords</div>
   </div>
   <span class="badge" id="total-badge">— deals</span>
 </header>
@@ -169,26 +214,57 @@
 <main>
   <div class="controls">
     <input type="search" id="search" placeholder="Search titles…" autocomplete="off">
-    <select id="filter-source"><option value="">All sources</option></select>
     <select id="filter-keyword"><option value="">All keywords</option></select>
     <span id="count"></span>
   </div>
 
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th data-col="title">Title<span class="arrow"></span></th>
-          <th data-col="price">Price<span class="arrow"></span></th>
-          <th data-col="source">Source<span class="arrow"></span></th>
-          <th data-col="keyword">Keyword<span class="arrow"></span></th>
-          <th data-col="date">Date (UTC)<span class="arrow"></span></th>
-          <th>Link</th>
-        </tr>
-      </thead>
-      <tbody id="tbody"></tbody>
-    </table>
-  </div>
+  <!-- UK section -->
+  <section class="deals-section uk" id="section-uk">
+    <div class="section-header">
+      <h2>UK Deals <span class="section-sub">(HotUKDeals)</span></h2>
+      <span class="section-badge" id="uk-badge">— deals</span>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead id="uk-thead">
+          <tr>
+            <th data-col="title" data-section="uk">Title<span class="arrow"></span></th>
+            <th data-col="price" data-section="uk">Price (£)<span class="arrow"></span></th>
+            <th data-col="keyword" data-section="uk">Keyword<span class="arrow"></span></th>
+            <th data-col="date" data-section="uk">Date (UTC)<span class="arrow"></span></th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody id="uk-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- US section -->
+  <section class="deals-section us" id="section-us">
+    <div class="section-header">
+      <h2>US Deals <span class="section-sub">(Slickdeals)</span></h2>
+      <span class="section-badge us" id="us-badge">— deals</span>
+    </div>
+    <div class="import-note">
+      <span class="icon">⚠️</span>
+      <span>Check shipping availability and import duty/VAT before ordering to the UK — these can add 20%+ to the price.</span>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead id="us-thead">
+          <tr>
+            <th data-col="title" data-section="us">Title<span class="arrow"></span></th>
+            <th data-col="price" data-section="us">Price ($)<span class="arrow"></span></th>
+            <th data-col="keyword" data-section="us">Keyword<span class="arrow"></span></th>
+            <th data-col="date" data-section="us">Date (UTC)<span class="arrow"></span></th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody id="us-tbody"></tbody>
+      </table>
+    </div>
+  </section>
 </main>
 
 <footer id="footer"></footer>
@@ -196,10 +272,11 @@
 <script src="deals.js"></script>
 <script>
 (() => {
-  const deals   = window.DEALS || [];
-  const tbody   = document.getElementById("tbody");
+  const deals  = window.DEALS || [];
+  const ukData = deals.filter(d => d.source === "HotUKDeals");
+  const usData = deals.filter(d => d.source === "Slickdeals");
+
   const searchEl = document.getElementById("search");
-  const srcEl    = document.getElementById("filter-source");
   const kwEl     = document.getElementById("filter-keyword");
   const countEl  = document.getElementById("count");
   const badge    = document.getElementById("total-badge");
@@ -208,31 +285,36 @@
   badge.textContent = `${deals.length} deal${deals.length !== 1 ? "s" : ""}`;
 
   if (!deals.length) {
-    footer.textContent = "No sneaker deals in today’s HotUKDeals top 30 — run fetch_deals.py again later, or reload after the feed refreshes.";
+    footer.textContent = "No sneaker deals found — run fetch_deals.py to refresh.";
   } else {
     const newest = deals.find(d => d.date);
     footer.textContent = newest ? `Last fetched: ${newest.date} UTC` : "";
   }
 
-  // Populate filter dropdowns from actual data
-  [...new Set(deals.map(d => d.source))].sort()
-    .forEach(s => srcEl.add(new Option(s, s)));
+  // Keyword filter from all deals
   [...new Set(deals.map(d => d.keyword))].sort()
     .forEach(k => kwEl.add(new Option(k, k)));
 
-  // Sort state: start with newest first
-  let sortCol = "date", sortDir = -1;
-  document.querySelector('th[data-col="date"]').classList.add("desc");
+  // Per-section sort state
+  const sortState = {
+    uk: { col: "date", dir: -1 },
+    us: { col: "date", dir: -1 },
+  };
+  document.querySelector('#uk-thead th[data-col="date"]').classList.add("desc");
+  document.querySelector('#us-thead th[data-col="date"]').classList.add("desc");
 
   function priceNum(p) {
     const n = parseFloat((p || "").replace(/[^0-9.]/g, ""));
     return isNaN(n) ? Infinity : n;
   }
 
-  function compare(a, b) {
-    let va = a[sortCol] ?? "", vb = b[sortCol] ?? "";
-    if (sortCol === "price") { va = priceNum(a.price); vb = priceNum(b.price); }
-    return va < vb ? -sortDir : va > vb ? sortDir : 0;
+  function makeSorter(section) {
+    return (a, b) => {
+      const { col, dir } = sortState[section];
+      let va = a[col] ?? "", vb = b[col] ?? "";
+      if (col === "price") { va = priceNum(a.price); vb = priceNum(b.price); }
+      return va < vb ? -dir : va > vb ? dir : 0;
+    };
   }
 
   function esc(s) {
@@ -241,32 +323,17 @@
       .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
   }
 
-  function render() {
-    const q   = searchEl.value.toLowerCase();
-    const src = srcEl.value;
-    const kw  = kwEl.value;
-
-    const filtered = deals
-      .filter(d =>
-        (!q   || d.title.toLowerCase().includes(q)) &&
-        (!src || d.source  === src) &&
-        (!kw  || d.keyword === kw)
-      )
-      .sort(compare);
-
-    countEl.textContent = `Showing ${filtered.length} of ${deals.length}`;
-
-    if (!filtered.length) {
-      tbody.innerHTML = `<tr class="empty-row"><td colspan="6">No deals match your filters.</td></tr>`;
+  function renderRows(tbodyId, data, priceClass) {
+    const tbody = document.getElementById(tbodyId);
+    if (!data.length) {
+      tbody.innerHTML = `<tr class="empty-row"><td colspan="5">No deals match your filters.</td></tr>`;
       return;
     }
-
-    tbody.innerHTML = filtered.map(d => {
+    tbody.innerHTML = data.map(d => {
       const hasPrice = d.price && d.price.trim();
       return `<tr>
         <td class="title-cell">${esc(d.title)}</td>
-        <td class="price-cell${hasPrice ? "" : " no-price"}">${hasPrice ? esc(d.price) : "—"}</td>
-        <td><span class="source-badge src-${esc(d.source)}">${esc(d.source)}</span></td>
+        <td class="price-cell${hasPrice ? (" " + priceClass) : " no-price"}">${hasPrice ? esc(d.price) : "—"}</td>
         <td><span class="kw-tag">${esc(d.keyword)}</span></td>
         <td class="date-cell">${esc(d.date)}</td>
         <td><a href="${esc(d.link)}" target="_blank" rel="noopener noreferrer">View deal ↗</a></td>
@@ -274,19 +341,43 @@
     }).join("");
   }
 
+  function render() {
+    const q  = searchEl.value.toLowerCase();
+    const kw = kwEl.value;
+
+    const filtUK = ukData
+      .filter(d => (!q || d.title.toLowerCase().includes(q)) && (!kw || d.keyword === kw))
+      .sort(makeSorter("uk"));
+    const filtUS = usData
+      .filter(d => (!q || d.title.toLowerCase().includes(q)) && (!kw || d.keyword === kw))
+      .sort(makeSorter("us"));
+
+    document.getElementById("uk-badge").textContent =
+      `${filtUK.length} deal${filtUK.length !== 1 ? "s" : ""}`;
+    document.getElementById("us-badge").textContent =
+      `${filtUS.length} deal${filtUS.length !== 1 ? "s" : ""}`;
+    countEl.textContent = `Showing ${filtUK.length + filtUS.length} of ${deals.length}`;
+
+    renderRows("uk-tbody", filtUK, "");
+    renderRows("us-tbody", filtUS, "us-price");
+  }
+
   document.querySelectorAll("thead th[data-col]").forEach(th => {
     th.addEventListener("click", () => {
-      const col = th.dataset.col;
-      sortDir = sortCol === col ? -sortDir : (col === "date" ? -1 : 1);
-      sortCol = col;
-      document.querySelectorAll("thead th").forEach(t => t.classList.remove("asc", "desc"));
-      th.classList.add(sortDir === 1 ? "asc" : "desc");
+      const col     = th.dataset.col;
+      const section = th.dataset.section;
+      const state   = sortState[section];
+      state.dir = state.col === col ? -state.dir : (col === "date" ? -1 : 1);
+      state.col = col;
+
+      const theadId = section === "uk" ? "uk-thead" : "us-thead";
+      document.querySelectorAll(`#${theadId} th`).forEach(t => t.classList.remove("asc", "desc"));
+      th.classList.add(state.dir === 1 ? "asc" : "desc");
       render();
     });
   });
 
   searchEl.addEventListener("input", render);
-  srcEl.addEventListener("change", render);
   kwEl.addEventListener("change", render);
 
   render();

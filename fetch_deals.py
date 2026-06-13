@@ -29,10 +29,26 @@ TITLE_ONLY_KEYWORDS = [
     "sneakers",
 ]
 
-# HotUKDeals /rss/search was removed; /rss returns the top-30 hot deals as
-# valid XML. We filter client-side for sneaker-related entries.
-FEED_SOURCE = "HotUKDeals"
-FEED_URL    = "https://www.hotukdeals.com/rss"
+_PRICE_GBP_RE = re.compile(r'£\s*\d[\d,.]*')
+_PRICE_USD_RE = re.compile(r'\$\s*\d[\d,.]*')
+
+# HotUKDeals /rss returns the top-30 hot deals as valid XML.
+# Slickdeals popular-deals RSS is the equivalent US feed.
+# Both are filtered client-side for sneaker-related entries.
+FEEDS = [
+    {
+        "source":   "HotUKDeals",
+        "url":      "https://www.hotukdeals.com/rss",
+        "currency": "GBP",
+        "price_re": _PRICE_GBP_RE,
+    },
+    {
+        "source":   "Slickdeals",
+        "url":      "https://slickdeals.net/newsearch.php?mode=popdeals&searcharea=deals&q=&rss=1",
+        "currency": "USD",
+        "price_re": _PRICE_USD_RE,
+    },
+]
 
 _UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -40,17 +56,16 @@ _UA = (
     "Chrome/125.0.0.0 Safari/537.36"
 )
 
-_TAG_RE   = re.compile(r'<[^>]+>')
-_PRICE_RE = re.compile(r'£\s*\d[\d,.]*')
+_TAG_RE = re.compile(r'<[^>]+>')
 
 
 def _strip_html(text: str) -> str:
     return html.unescape(_TAG_RE.sub(' ', text or ''))
 
 
-def _extract_price(text: str) -> str:
-    """Return the first GBP price found in raw HTML or plain text."""
-    m = _PRICE_RE.search(text or "")
+def _extract_price(text: str, price_re: re.Pattern) -> str:
+    """Return the first price matching price_re found in raw HTML or plain text."""
+    m = price_re.search(text or "")
     return m.group(0).strip() if m else ""
 
 
@@ -78,55 +93,65 @@ def fetch_all() -> list[dict]:
     deals: list[dict] = []
     seen:  set[str]   = set()
 
-    print(f"  Fetching {FEED_SOURCE}…")
-    try:
-        feed = feedparser.parse(FEED_URL, agent=_UA)
-    except Exception as exc:
-        print(f"    [!] Error: {exc}")
-        return deals
+    for feed_cfg in FEEDS:
+        source   = feed_cfg["source"]
+        url      = feed_cfg["url"]
+        currency = feed_cfg["currency"]
+        price_re = feed_cfg["price_re"]
 
-    status = feed.get("status", 200)
-    if status >= 400:
-        print(f"    [!] HTTP {status} from {FEED_URL}")
-        return deals
-
-    total = len(feed.entries)
-    print(f"    Got {total} entries from top-30 feed — filtering for sneaker keywords…")
-
-    for entry in feed.entries:
-        link = entry.get("link", "")
-        if not link or link in seen:
-            continue
-
-        title   = entry.get("title", "").strip()
-        summary = entry.get("summary", "")
-
-        matched = _first_match(title, summary)
-        if not matched:
-            continue
-
-        seen.add(link)
-        price = _extract_price(title) or _extract_price(summary)
-
+        print(f"  Fetching {source}…")
         try:
-            pp = entry.published_parsed
-            date_str = datetime(
-                pp.tm_year, pp.tm_mon, pp.tm_mday,
-                pp.tm_hour, pp.tm_min, tzinfo=timezone.utc,
-            ).strftime("%Y-%m-%d %H:%M")
-        except Exception:
-            date_str = entry.get("published", "")
+            feed = feedparser.parse(url, agent=_UA)
+        except Exception as exc:
+            print(f"    [!] Error: {exc}")
+            continue
 
-        deals.append({
-            "title":   title,
-            "price":   price,
-            "link":    link,
-            "date":    date_str,
-            "source":  FEED_SOURCE,
-            "keyword": matched,
-        })
+        status = feed.get("status", 200)
+        if status >= 400:
+            print(f"    [!] HTTP {status} from {url}")
+            continue
 
-    print(f"    Matched {len(deals)} sneaker deal(s) out of {total}")
+        total = len(feed.entries)
+        print(f"    Got {total} entries — filtering for sneaker keywords…")
+
+        source_count = 0
+        for entry in feed.entries:
+            link = entry.get("link", "")
+            if not link or link in seen:
+                continue
+
+            title   = entry.get("title", "").strip()
+            summary = entry.get("summary", "")
+
+            matched = _first_match(title, summary)
+            if not matched:
+                continue
+
+            seen.add(link)
+            price = _extract_price(title, price_re) or _extract_price(summary, price_re)
+
+            try:
+                pp = entry.published_parsed
+                date_str = datetime(
+                    pp.tm_year, pp.tm_mon, pp.tm_mday,
+                    pp.tm_hour, pp.tm_min, tzinfo=timezone.utc,
+                ).strftime("%Y-%m-%d %H:%M")
+            except Exception:
+                date_str = entry.get("published", "")
+
+            deals.append({
+                "title":    title,
+                "price":    price,
+                "link":     link,
+                "date":     date_str,
+                "source":   source,
+                "currency": currency,
+                "keyword":  matched,
+            })
+            source_count += 1
+
+        print(f"    Matched {source_count} sneaker deal(s) out of {total}")
+
     deals.sort(key=lambda d: d["date"], reverse=True)
     return deals
 
