@@ -274,7 +274,7 @@
 <script>
 (() => {
   const deals  = window.DEALS || [];
-  const ukData = deals.filter(d => d.source === "HotUKDeals");
+  const ukData = deals.filter(d => d.currency === "GBP");
   const usData = deals.filter(d => d.currency === "USD");
 
   const searchEl = document.getElementById("search");
