@@ -206,7 +206,7 @@
 <header>
   <div>
     <h1>Sneaker Deals Dashboard</h1>
-    <div class="sub">HotUKDeals (GBP) &amp; Slickdeals (USD) · filtered for sneaker keywords</div>
+    <div class="sub">HotUKDeals (GBP) · Slickdeals &amp; DealNews (USD) · filtered for sneaker keywords</div>
   </div>
   <span class="badge" id="total-badge">— deals</span>
 </header>
@@ -243,7 +243,7 @@
   <!-- US section -->
   <section class="deals-section us" id="section-us">
     <div class="section-header">
-      <h2>US Deals <span class="section-sub">(Slickdeals)</span></h2>
+      <h2>US Deals <span class="section-sub">(Slickdeals · DealNews)</span></h2>
       <span class="section-badge us" id="us-badge">— deals</span>
     </div>
     <div class="import-note">
@@ -258,6 +258,7 @@
             <th data-col="price" data-section="us">Price ($)<span class="arrow"></span></th>
             <th data-col="keyword" data-section="us">Keyword<span class="arrow"></span></th>
             <th data-col="date" data-section="us">Date (UTC)<span class="arrow"></span></th>
+            <th data-col="source" data-section="us">Source<span class="arrow"></span></th>
             <th>Link</th>
           </tr>
         </thead>
@@ -274,7 +275,7 @@
 (() => {
   const deals  = window.DEALS || [];
   const ukData = deals.filter(d => d.source === "HotUKDeals");
-  const usData = deals.filter(d => d.source === "Slickdeals");
+  const usData = deals.filter(d => d.currency === "USD");
 
   const searchEl = document.getElementById("search");
   const kwEl     = document.getElementById("filter-keyword");
@@ -323,20 +324,22 @@
       .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
   }
 
-  function renderRows(tbodyId, data, priceClass) {
+  function renderRows(tbodyId, data, priceClass, showSource) {
     const tbody = document.getElementById(tbodyId);
+    const cols = showSource ? 6 : 5;
     if (!data.length) {
-      tbody.innerHTML = `<tr class="empty-row"><td colspan="5">No deals match your filters.</td></tr>`;
+      tbody.innerHTML = `<tr class="empty-row"><td colspan="${cols}">No deals match your filters.</td></tr>`;
       return;
     }
     tbody.innerHTML = data.map(d => {
       const hasPrice = d.price && d.price.trim();
+      const srcCell = showSource ? `<td class="date-cell">${esc(d.source)}</td>` : "";
       return `<tr>
         <td class="title-cell">${esc(d.title)}</td>
         <td class="price-cell${hasPrice ? (" " + priceClass) : " no-price"}">${hasPrice ? esc(d.price) : "—"}</td>
         <td><span class="kw-tag">${esc(d.keyword)}</span></td>
         <td class="date-cell">${esc(d.date)}</td>
-        <td><a href="${esc(d.link)}" target="_blank" rel="noopener noreferrer">View deal ↗</a></td>
+        ${srcCell}<td><a href="${esc(d.link)}" target="_blank" rel="noopener noreferrer">View deal ↗</a></td>
       </tr>`;
     }).join("");
   }
@@ -359,7 +362,7 @@
     countEl.textContent = `Showing ${filtUK.length + filtUS.length} of ${deals.length}`;
 
     renderRows("uk-tbody", filtUK, "");
-    renderRows("us-tbody", filtUS, "us-price");
+    renderRows("us-tbody", filtUS, "us-price", true);
   }
 
   document.querySelectorAll("thead th[data-col]").forEach(th => {

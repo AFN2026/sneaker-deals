@@ -1,37 +1,118 @@
 window.DEALS = [
   {
-    "title": "Nike Air Force 1 Premium Trainers - Grey",
-    "price": "£80",
-    "link": "https://www.hotukdeals.com/deals/nike-air-force-1-premium-grey-4911475",
-    "date": "2026-06-13 09:46",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "adidas Men's Shoe Deals Summer Kickoff Event for From $14, sneakers from $24 + free shipping",
+    "price": "$14,",
+    "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-Summer-Kickoff-Event-for-From-14-sneakers-from-24-free-shipping/21840397.html?iref=rss-c280",
+    "date": "2026-06-13 10:10",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Tommy Hilfiger Men's Brecon3 Sneakers for $34 + free shipping w/ Prime",
+    "price": "$34",
+    "link": "https://www.dealnews.com/Tommy-Hilfiger-Mens-Brecon3-Sneakers-for-34-free-shipping-w-Prime/21840388.html?iref=rss-c280",
+    "date": "2026-06-13 07:52",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Men's Run 60s 2.0 Shoes for $22 + free shipping",
+    "price": "$22",
+    "link": "https://www.dealnews.com/adidas-Mens-Run-60-s-2-0-Shoes-for-22-free-shipping/21840339.html?iref=rss-c280",
+    "date": "2026-06-12 19:13",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Summer Kickoff Shoe Deals for From $15, Sneakers from $26 + Free shipping",
+    "price": "$15,",
+    "link": "https://www.dealnews.com/adidas-Mens-Summer-Kickoff-Shoe-Deals-for-From-15-Sneakers-from-26-Free-shipping/21840044.html?iref=rss-c280",
+    "date": "2026-06-11 18:49",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Duramo 10 Running Shoes for $26 + free shipping",
+    "price": "$26",
+    "link": "https://www.dealnews.com/adidas-Mens-Duramo-10-Running-Shoes-for-26-free-shipping/21840002.html?iref=rss-c280",
+    "date": "2026-06-11 15:24",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Lite Racer 4.0 Shoes for $25 + free shipping",
+    "price": "$25",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-25-free-shipping/21839993.html?iref=rss-c280",
+    "date": "2026-06-11 15:07",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "New Balance Men's Fresh Foam X Kaiha Road Running Shoes  for $48 + free shipping w/ $89",
+    "price": "$48",
+    "link": "https://www.dealnews.com/New-Balance-Mens-Fresh-Foam-X-Kaiha-Road-Running-Shoes-for-48-free-shipping-w-89/21839905.html?iref=rss-c280",
+    "date": "2026-06-11 10:31",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "Macy's Men's Friends and Family Shoe Deals: Up to 71% off + Extra 30% off + free shipping w/ $39",
+    "price": "$39",
+    "link": "https://www.dealnews.com/Macys-Mens-Friends-and-Family-Shoe-Deals-Up-to-71-off-Extra-30-off-free-shipping-w-39/21839904.html?iref=rss-c280",
+    "date": "2026-06-11 10:30",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
-    "title": "Adidas muchen Trainers Black",
-    "price": "£60",
-    "link": "https://www.hotukdeals.com/deals/adidas-muchen-4911473",
-    "date": "2026-06-13 09:44",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
+    "title": "Nike Giannis Freak 7 Basketball Shoes for $49 + free shipping w/ $50",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Nike-Giannis-Freak-7-Basketball-Shoes-for-49-free-shipping-w-50/21839885.html?iref=rss-c280",
+    "date": "2026-06-11 09:40",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
-    "title": "adidas Originals Munchen",
-    "price": "£50",
-    "link": "https://www.hotukdeals.com/deals/adidas-originals-munchen-4911469",
-    "date": "2026-06-13 09:40",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
+    "title": "Nike Men's Book 1 Basketball Shoes for $66 + free shipping",
+    "price": "$66",
+    "link": "https://www.dealnews.com/Nike-Mens-Book-1-Basketball-Shoes-for-66-free-shipping/21839871.html?iref=rss-c280",
+    "date": "2026-06-11 09:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
-    "title": "adidas Men's Tech Apparel T-Shirt FIFA World Cup 26 (Ray Blue / White / Black) $12.6",
-    "price": "$12.6",
-    "link": "https://slickdeals.net/f/19617090-adidas-men-s-tech-apparel-t-shirt-fifa-world-cup-26-ray-blue-white-black-12-6?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-06-11 09:31",
-    "source": "Slickdeals",
+    "title": "Nike Men's KD18 Basketball Shoes for $78",
+    "price": "$78",
+    "link": "https://www.dealnews.com/Nike-Mens-KD18-Basketball-Shoes-for-78/21839854.html?iref=rss-c280",
+    "date": "2026-06-11 08:31",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "lululemon Men's We Made Too Much Father's Day Shoe Specials for Slides from $49, sneakers from $99 + free shipping",
+    "price": "$49,",
+    "link": "https://www.dealnews.com/lululemon-Mens-We-Made-Too-Much-Fathers-Day-Shoe-Specials-for-Slides-from-49-sneakers-from-99-free-shipping/21839844.html?iref=rss-c280",
+    "date": "2026-06-11 08:09",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Men's Summer Kickoff Shoe Deals for From $15, sneakers from $28 + free shipping",
+    "price": "$15,",
+    "link": "https://www.dealnews.com/adidas-Mens-Summer-Kickoff-Shoe-Deals-for-From-15-sneakers-from-28-free-shipping/21837967.html?iref=rss-c280",
+    "date": "2026-06-04 08:41",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   }

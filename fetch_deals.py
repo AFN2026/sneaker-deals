@@ -34,7 +34,8 @@ _PRICE_USD_RE = re.compile(r'\$\s*\d[\d,.]*')
 
 # HotUKDeals /rss returns the top-30 hot deals as valid XML.
 # Slickdeals popular-deals RSS is the equivalent US feed.
-# Both are filtered client-side for sneaker-related entries.
+# DealNews Shoes RSS targets the footwear category directly (USD).
+# All feeds are filtered client-side for sneaker-related entries.
 FEEDS = [
     {
         "source":   "HotUKDeals",
@@ -45,6 +46,12 @@ FEEDS = [
     {
         "source":   "Slickdeals",
         "url":      "https://slickdeals.net/newsearch.php?mode=popdeals&searcharea=deals&q=&rss=1",
+        "currency": "USD",
+        "price_re": _PRICE_USD_RE,
+    },
+    {
+        "source":   "DealNews",
+        "url":      "https://www.dealnews.com/c280/Clothing-Accessories/Shoes/?rss=1",
         "currency": "USD",
         "price_re": _PRICE_USD_RE,
     },
