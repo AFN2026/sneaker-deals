@@ -1,21 +1,21 @@
 window.DEALS = [
   {
-    "title": "adidas Originals SL 72 OG Trainers in Brown and Yellow",
-    "price": "£76.50",
-    "link": "https://www.hotukdeals.com/deals/adidas-originals-sl-72-og-trainers-in-brown-and-yellow-4911784",
-    "date": "2026-06-13 21:28",
+    "title": "The Blues Brothers Complete Dual Disc, 2CD, Import",
+    "price": "£8.66",
+    "link": "https://www.hotukdeals.com/deals/the-blues-brothers-complete-dual-disc-2cd-import-4912019",
+    "date": "2026-06-14 10:41",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "adidas"
+    "keyword": "jordan"
   },
   {
-    "title": "New Balance 471 Sneaker Great Plains",
-    "price": "£54",
-    "link": "https://www.hotukdeals.com/deals/new-balance-471-sneaker-great-plains-4911782",
-    "date": "2026-06-13 21:23",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "new balance"
+    "title": "Bruno Marc Men's Breathable Sneakers for $25 + free shipping",
+    "price": "$25",
+    "link": "https://www.dealnews.com/Bruno-Marc-Mens-Breathable-Sneakers-for-25-free-shipping/21840332.html?iref=rss-c280",
+    "date": "2026-06-14 04:00",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
   },
   {
     "title": "Nike Air Max Summer Promo Code: Extra 20% off + free shipping w/ $50",
@@ -61,6 +61,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
+  },
+  {
+    "title": "$38.97* | Under Armour Men's Charged Surge 4 Sneakers at Amazon",
+    "price": "$38.97",
+    "link": "https://slickdeals.net/f/19625178-38-97-under-armour-men-s-charged-surge-4-sneakers-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-13 13:07",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "sneakers"
   },
   {
     "title": "adidas Men's Terrex Eastrail 3 Climaproof Hiking Shoes for $38 + free shipping",
