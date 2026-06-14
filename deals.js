@@ -1,21 +1,39 @@
 window.DEALS = [
   {
-    "title": "Adidas ADIZERO EVO SL EXO M - Trainers - footwear white/core black/iron metallic - Selected sizes",
-    "price": "£104",
-    "link": "https://www.hotukdeals.com/deals/adidas-adizero-evo-sl-exo-m-trainers-footwear-whitecore-blackiron-metallic-4912131",
-    "date": "2026-06-14 15:42",
+    "title": "Nike Men's / Women's Air Trainer Huarache Shoes for $95 + free shipping",
+    "price": "$95",
+    "link": "https://www.dealnews.com/Nike-Mens-Womens-Air-Trainer-Huarache-Shoes-for-95-free-shipping/21840525.html?iref=rss-c280",
+    "date": "2026-06-14 21:58",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Adidas kids Replica Home Shirt Arsenal 26/27",
+    "price": "£44.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-kids-replica-home-shirt-arsenal-2627-4912258",
+    "date": "2026-06-14 20:37",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
   },
   {
-    "title": "Adidas Men's Ultraboost 5x Shoes (4 colors) - $64.80 + free shipping",
-    "price": "$64.80",
-    "link": "https://slickdeals.net/f/19627635-adidas-men-s-ultraboost-5x-shoes-4-colors-64-80-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-06-14 08:07",
+    "title": "adidas Men's Daily 4.0 Shoes (2 Colors) $25.80",
+    "price": "$25.80",
+    "link": "https://slickdeals.net/f/19629036-adidas-men-s-daily-4-0-shoes-2-colors-25-80?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-14 19:36",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's / Women's Jordan Flight Court Shoes for $62 + free shipping",
+    "price": "$62",
+    "link": "https://www.dealnews.com/Nike-Mens-Womens-Jordan-Flight-Court-Shoes-for-62-free-shipping/21840517.html?iref=rss-c280",
+    "date": "2026-06-14 19:15",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "Bruno Marc Men's Breathable Sneakers for $25 + free shipping",
@@ -99,15 +117,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Kids' House Of Tiro T-Shirt (Various, Limited Sizes) $9 + Free Shipping",
-    "price": "$9",
-    "link": "https://slickdeals.net/f/19624428-adidas-kids-house-of-tiro-t-shirt-various-limited-sizes-9-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-06-13 06:51",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Run 60s 2.0 Shoes for $22 + free shipping",
     "price": "$22",
     "link": "https://www.dealnews.com/adidas-Mens-Run-60-s-2-0-Shoes-for-22-free-shipping/21840339.html?iref=rss-c280",
@@ -121,24 +130,6 @@ window.DEALS = [
     "price": "$15,",
     "link": "https://www.dealnews.com/adidas-Mens-Summer-Kickoff-Shoe-Deals-for-From-15-Sneakers-from-26-Free-shipping/21840044.html?iref=rss-c280",
     "date": "2026-06-11 18:49",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Duramo 10 Running Shoes for $26 + free shipping",
-    "price": "$26",
-    "link": "https://www.dealnews.com/adidas-Mens-Duramo-10-Running-Shoes-for-26-free-shipping/21840002.html?iref=rss-c280",
-    "date": "2026-06-11 15:24",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Lite Racer 4.0 Shoes for $25 + free shipping",
-    "price": "$25",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-25-free-shipping/21839993.html?iref=rss-c280",
-    "date": "2026-06-11 15:07",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
