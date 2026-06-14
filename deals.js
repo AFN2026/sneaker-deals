@@ -1,12 +1,21 @@
 window.DEALS = [
   {
-    "title": "The Blues Brothers Complete Dual Disc, 2CD, Import",
-    "price": "£8.66",
-    "link": "https://www.hotukdeals.com/deals/the-blues-brothers-complete-dual-disc-2cd-import-4912019",
-    "date": "2026-06-14 10:41",
+    "title": "Adidas ADIZERO EVO SL EXO M - Trainers - footwear white/core black/iron metallic - Selected sizes",
+    "price": "£104",
+    "link": "https://www.hotukdeals.com/deals/adidas-adizero-evo-sl-exo-m-trainers-footwear-whitecore-blackiron-metallic-4912131",
+    "date": "2026-06-14 15:42",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "jordan"
+    "keyword": "adidas"
+  },
+  {
+    "title": "Adidas Men's Ultraboost 5x Shoes (4 colors) - $64.80 + free shipping",
+    "price": "$64.80",
+    "link": "https://slickdeals.net/f/19627635-adidas-men-s-ultraboost-5x-shoes-4-colors-64-80-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-14 08:07",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "Bruno Marc Men's Breathable Sneakers for $25 + free shipping",
@@ -63,15 +72,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "$38.97* | Under Armour Men's Charged Surge 4 Sneakers at Amazon",
-    "price": "$38.97",
-    "link": "https://slickdeals.net/f/19625178-38-97-under-armour-men-s-charged-surge-4-sneakers-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-06-13 13:07",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
     "title": "adidas Men's Terrex Eastrail 3 Climaproof Hiking Shoes for $38 + free shipping",
     "price": "$38",
     "link": "https://www.dealnews.com/adidas-Mens-Terrex-Eastrail-3-Climaproof-Hiking-Shoes-for-38-free-shipping/21840427.html?iref=rss-c280",
@@ -95,6 +95,15 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-Summer-Kickoff-Event-for-From-14-sneakers-from-24-free-shipping/21840397.html?iref=rss-c280",
     "date": "2026-06-13 10:10",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Kids' House Of Tiro T-Shirt (Various, Limited Sizes) $9 + Free Shipping",
+    "price": "$9",
+    "link": "https://slickdeals.net/f/19624428-adidas-kids-house-of-tiro-t-shirt-various-limited-sizes-9-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-13 06:51",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
