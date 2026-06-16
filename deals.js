@@ -1,147 +1,102 @@
 window.DEALS = [
   {
-    "title": "New Balance Dynasoft UA800 v1 Shoes - Unisex Sizes 3.5 - 13.5 + Wide-Fit - w/Discount for Carers - Free Returns & Shipping for Members",
-    "price": "£31.50",
-    "link": "https://www.hotukdeals.com/deals/new-balance-dynasoft-ua800-v1-shoes-unisex-sizes-35-135-wide-fit-wdiscount-for-carers-free-returns-shipping-for-members-4913058",
-    "date": "2026-06-15 17:52",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "adidas Men's Advantage Shoe (Cloud White/Cloud White/Green, 8,10-12) $17.40 + Free Shipping",
+    "price": "$17.40",
+    "link": "https://slickdeals.net/f/19636263-adidas-men-s-advantage-shoe-cloud-white-cloud-white-green-8-10-12-17-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-16 15:41",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Lite Racer 4.0 Shoes for $19.80 + free shipping",
+    "price": "$19.80",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-19-80-free-shipping/21841070.html?iref=rss-c280",
+    "date": "2026-06-16 15:38",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Air Force 1 '07 LV8 Shoes for $68 + free shipping",
+    "price": "$68",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-07-LV8-Shoes-for-68-free-shipping/21841057.html?iref=rss-c280",
+    "date": "2026-06-16 15:13",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Amazon Essentials Men's Low-Top Classic Sneakers for from $22 + free shipping w/ Prime",
+    "price": "$22",
+    "link": "https://www.dealnews.com/Amazon-Essentials-Mens-Low-Top-Classic-Sneakers-for-from-22-free-shipping-w-Prime/21841003.html?iref=rss-c280",
+    "date": "2026-06-16 13:28",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "New Balance Men's Fresh Foam 520 v9 Shoes for $48 + free shipping",
+    "price": "$48",
+    "link": "https://www.dealnews.com/New-Balance-Mens-Fresh-Foam-520-v9-Shoes-for-48-free-shipping/21840928.html?iref=rss-c280",
+    "date": "2026-06-16 09:55",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "new balance"
   },
   {
-    "title": "Under Armour Women's Sneakers Deals: Up to 30% off + extra 50% off + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Under-Armour-Womens-Sneakers-Deals-Up-to-30-off-extra-50-off-free-shipping-w-50/21840717.html?iref=rss-c280",
-    "date": "2026-06-15 14:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's Killshot 2 Leather Premium Shoes for $62 + shipping varies",
-    "price": "$62",
-    "link": "https://www.dealnews.com/Nike-Mens-Killshot-2-Leather-Premium-Shoes-for-62-shipping-varies/21840712.html?iref=rss-c280",
-    "date": "2026-06-15 14:14",
+    "title": "Nike Men's Alphafly 3 Glam Shoes for $171 + free shipping",
+    "price": "$171",
+    "link": "https://www.dealnews.com/Nike-Mens-Alphafly-3-Glam-Shoes-for-171-free-shipping/21840916.html?iref=rss-c280",
+    "date": "2026-06-16 09:30",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
   },
   {
-    "title": "Nike Men's Air Jordan MVP 92 Shoes for $83 + shipping varies",
-    "price": "$83",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Jordan-MVP-92-Shoes-for-83-shipping-varies/21840706.html?iref=rss-c280",
-    "date": "2026-06-15 13:52",
+    "title": "Skechers & Puma Deals at Woot: Up to 83% off + free shipping w/ Prime",
+    "price": "$19.99,",
+    "link": "https://www.dealnews.com/Skechers-Puma-Deals-at-Woot-Up-to-83-off-free-shipping-w-Prime/21840865.html?iref=rss-c280",
+    "date": "2026-06-16 06:36",
     "source": "DealNews",
     "currency": "USD",
-    "keyword": "nike"
+    "keyword": "puma"
   },
   {
-    "title": "Nike Men's Air Max Excee Shoes for $60 + shipping varies",
-    "price": "$60",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Excee-Shoes-for-60-shipping-varies/21840702.html?iref=rss-c280",
-    "date": "2026-06-15 13:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Samba XLG Shoes  for $44 + free shipping",
-    "price": "$44",
-    "link": "https://www.dealnews.com/adidas-Mens-Samba-XLG-Shoes-for-44-free-shipping/21840698.html?iref=rss-c280",
-    "date": "2026-06-15 13:38",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Anylander Hiking Shoes for  $36  +  free shipping",
-    "price": "$36",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Anylander-Hiking-Shoes-for-36-free-shipping/21840693.html?iref=rss-c280",
-    "date": "2026-06-15 13:31",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Daily 4.0 Shoes for  $31  + free shipping",
-    "price": "$31",
-    "link": "https://www.dealnews.com/adidas-Mens-Daily-4-0-Shoes-for-31-free-shipping/21840678.html?iref=rss-c280",
-    "date": "2026-06-15 13:09",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Air Max Bia Shoes for $58 + shipping varies",
+    "title": "Nike Women's / Men's Aura Edge Shoes for $58 + free shipping",
     "price": "$58",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Bia-Shoes-for-58-shipping-varies/21840676.html?iref=rss-c280",
-    "date": "2026-06-15 13:02",
+    "link": "https://www.dealnews.com/Nike-Womens-Mens-Aura-Edge-Shoes-for-58-free-shipping/21840859.html?iref=rss-c280",
+    "date": "2026-06-16 01:03",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
   },
   {
-    "title": "adidas Women's SL 72 OG Shoes for  $40  + free shipping",
-    "price": "$40",
-    "link": "https://www.dealnews.com/adidas-Womens-SL-72-OG-Shoes-for-40-free-shipping/21840674.html?iref=rss-c280",
-    "date": "2026-06-15 12:59",
-    "source": "DealNews",
+    "title": "adidas Adicolor Small Sling Bag (Black/White) $7.20 + Free Shipping",
+    "price": "$7.20",
+    "link": "https://slickdeals.net/f/19633893-adidas-adicolor-small-sling-bag-black-white-7-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-16 00:35",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "Nike Men's Alphafly 3 Road Racing Shoes for $166 + shipping varies",
-    "price": "$166",
-    "link": "https://www.dealnews.com/Nike-Mens-Alphafly-3-Road-Racing-Shoes-for-166-shipping-varies/21840673.html?iref=rss-c280",
-    "date": "2026-06-15 12:59",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's LeBron Witness 9 Shoes for $62 + free shipping",
+    "title": "Nike Men's / Women's Court Vision Mid Winterized Shoes for $62 + free shipping",
     "price": "$62",
-    "link": "https://www.dealnews.com/Nike-Mens-Le-Bron-Witness-9-Shoes-for-62-free-shipping/21840642.html?iref=rss-c280",
-    "date": "2026-06-15 11:09",
+    "link": "https://www.dealnews.com/Nike-Mens-Womens-Court-Vision-Mid-Winterized-Shoes-for-62-free-shipping/21840810.html?iref=rss-c280",
+    "date": "2026-06-15 19:47",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
   },
   {
-    "title": "S Sport By Skechers Men's Presley Sneakers for $24 + free shipping",
-    "price": "$24",
-    "link": "https://www.dealnews.com/S-Sport-By-Skechers-Mens-Presley-Sneakers-for-24-free-shipping/21840531.html?iref=rss-c280",
-    "date": "2026-06-14 23:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Women's Cloudfoam Flex Slounge Shoes for $31 + free shipping",
-    "price": "$31",
-    "link": "https://www.dealnews.com/adidas-Womens-Cloudfoam-Flex-Slounge-Shoes-for-31-free-shipping/21840528.html?iref=rss-c280",
-    "date": "2026-06-14 22:46",
-    "source": "DealNews",
+    "title": "adidas men's italia 70s shoes (2 colors) $35.4 + Free Shipping",
+    "price": "$35.4",
+    "link": "https://slickdeals.net/f/19621158-adidas-men-s-italia-70s-shoes-2-colors-35-4-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-12 09:09",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's / Women's Air Trainer Huarache Shoes for $95 + free shipping",
-    "price": "$95",
-    "link": "https://www.dealnews.com/Nike-Mens-Womens-Air-Trainer-Huarache-Shoes-for-95-free-shipping/21840525.html?iref=rss-c280",
-    "date": "2026-06-14 21:58",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's / Women's Jordan Flight Court Shoes for $62 + free shipping",
-    "price": "$62",
-    "link": "https://www.dealnews.com/Nike-Mens-Womens-Jordan-Flight-Court-Shoes-for-62-free-shipping/21840517.html?iref=rss-c280",
-    "date": "2026-06-14 19:15",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "lululemon Men's We Made Too Much Father's Day Shoe Specials for Slides from $49, sneakers from $99 + free shipping",
