@@ -1,5 +1,41 @@
 window.DEALS = [
   {
+    "title": "adidas Men's Terrex x Shmoofoil Skychaser GORE-TEX Hiking Shoes for $68 + free shipping",
+    "price": "$68",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-x-Shmoofoil-Skychaser-GORE-TEX-Hiking-Shoes-for-68-free-shipping/21841402.html?iref=rss-c280",
+    "date": "2026-06-17 15:47",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's D.O.N. Issue 7 Shoes for $62.40 + free shipping",
+    "price": "$62.40",
+    "link": "https://www.dealnews.com/adidas-Mens-D-O-N-Issue-7-Shoes-for-62-40-free-shipping/21841400.html?iref=rss-c280",
+    "date": "2026-06-17 15:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Originals Gazelle Deals: Up to 50% off + extra 20% off, ending today + Free shipping",
+    "price": "$56",
+    "link": "https://www.dealnews.com/adidas-Originals-Gazelle-Deals-Up-to-50-off-extra-20-off-ending-today-Free-shipping/21841359.html?iref=rss-c280",
+    "date": "2026-06-17 14:05",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Terrex Clothing & Shoe Deals: Up to 50% off + extra 20% off most ending today + Free shipping",
+    "price": "$38",
+    "link": "https://www.dealnews.com/adidas-Terrex-Clothing-Shoe-Deals-Up-to-50-off-extra-20-off-most-ending-today-Free-shipping/21841339.html?iref=rss-c280",
+    "date": "2026-06-17 13:18",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Under Armour Semi-Annual Men's Shoe Deals for From $13, sneakers from $31 + free shipping",
     "price": "$13,",
     "link": "https://www.dealnews.com/Under-Armour-Semi-Annual-Mens-Shoe-Deals-for-From-13-sneakers-from-31-free-shipping/21841299.html?iref=rss-c280",
@@ -81,49 +117,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Ligra 8 Indoor Shoes for $37 + free shipping",
-    "price": "$37",
-    "link": "https://www.dealnews.com/adidas-Mens-Ligra-8-Indoor-Shoes-for-37-free-shipping/21841134.html?iref=rss-c280",
-    "date": "2026-06-16 20:47",
-    "source": "DealNews",
+    "title": "adidas Men's Designed for Training Full-Zip Track Jacket (Black, S/S-2XL/S) $26.40 + Free Shipping",
+    "price": "$26.40",
+    "link": "https://slickdeals.net/f/19636314-adidas-men-s-designed-for-training-full-zip-track-jacket-black-s-s-2xl-s-26-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-16 15:53",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's / Women's Run Defy Road Running Shoes for $42 + free shipping w/ $50",
-    "price": "$42",
-    "link": "https://www.dealnews.com/Nike-Mens-Womens-Run-Defy-Road-Running-Shoes-for-42-free-shipping-w-50/21841125.html?iref=rss-c280",
-    "date": "2026-06-16 19:45",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Lite Racer 4.0 Shoes for $19.80 + free shipping",
-    "price": "$19.80",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-19-80-free-shipping/21841070.html?iref=rss-c280",
-    "date": "2026-06-16 15:38",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Air Force 1 '07 LV8 Shoes for $68 + free shipping",
-    "price": "$68",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-07-LV8-Shoes-for-68-free-shipping/21841057.html?iref=rss-c280",
-    "date": "2026-06-16 15:13",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Amazon Essentials Men's Low-Top Classic Sneakers for from $22 + free shipping w/ Prime",
-    "price": "$22",
-    "link": "https://www.dealnews.com/Amazon-Essentials-Mens-Low-Top-Classic-Sneakers-for-from-22-free-shipping-w-Prime/21841003.html?iref=rss-c280",
-    "date": "2026-06-16 13:28",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
   },
   {
     "title": "lululemon Men's We Made Too Much Father's Day Shoe Specials for Slides from $49, sneakers from $99 + free shipping",
