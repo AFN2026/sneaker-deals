@@ -1,30 +1,48 @@
 window.DEALS = [
   {
-    "title": "Skechers Ladies Bobs D'Vine Swift Fit Trainers Available in Black and White (Discount at Checkout)",
-    "price": "£22.98",
-    "link": "https://www.hotukdeals.com/deals/skechers-ladies-bobs-dvine-swift-fit-trainers-available-in-black-and-white-4916372",
-    "date": "2026-06-19 16:12",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
-  },
-  {
-    "title": "Nike Zoom Vomero 5 Trainer ‘Pewter Green’",
-    "price": "£65",
-    "link": "https://www.hotukdeals.com/deals/nike-zoom-vomero-5-trainer-pewter-green-4916342",
-    "date": "2026-06-19 15:19",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Nike Men's Air Tech Challenge 2 Shoes for $124 + free shipping",
+    "price": "$124",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Tech-Challenge-2-Shoes-for-124-free-shipping/21843374.html?iref=rss-c280",
+    "date": "2026-06-19 20:37",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
-    "title": "Nike Running Revolution 8 Trainers In Black And White - Sizes 5.5 To 13 - W/Code",
-    "price": "£37.49",
-    "link": "https://www.hotukdeals.com/deals/nike-running-revolution-8-trainers-in-black-and-white-sizes-55-to-13-wcode-4916341",
-    "date": "2026-06-19 15:19",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Nike Men's Alphafly 3 Glam Road Racing Shoes for $171 + shipping varies",
+    "price": "$171",
+    "link": "https://www.dealnews.com/Nike-Mens-Alphafly-3-Glam-Road-Racing-Shoes-for-171-shipping-varies/21843370.html?iref=rss-c280",
+    "date": "2026-06-19 20:22",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
+  },
+  {
+    "title": "Jordan Shoe Deals at Nike: Up to 40% off + Extra 20% off + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Jordan-Shoe-Deals-at-Nike-Up-to-40-off-Extra-20-off-free-shipping-w-50/21843369.html?iref=rss-c280",
+    "date": "2026-06-19 20:12",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Climacool Shoes for $84 + free shipping",
+    "price": "$84",
+    "link": "https://www.dealnews.com/adidas-Mens-Climacool-Shoes-for-84-free-shipping/21843360.html?iref=rss-c280",
+    "date": "2026-06-19 18:52",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Lite Racer 4.0 Shoes for $19.80 + free shipping",
+    "price": "$19.80",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-19-80-free-shipping/21843356.html?iref=rss-c280",
+    "date": "2026-06-19 18:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Terrex Rockadia Hiking Shoes for $60, 2 pairs for $110 + Free shipping",
@@ -72,28 +90,19 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's ADISTAR XLG 2.0 Shoes for $68 + free shipping",
-    "price": "$68",
-    "link": "https://www.dealnews.com/adidas-Mens-ADISTAR-XLG-2-0-Shoes-for-68-free-shipping/21843093.html?iref=rss-c280",
-    "date": "2026-06-19 07:19",
+    "title": "adidas Men's Shoe Deals for Up to 50% off + extra $30 off $100 + free shipping",
+    "price": "$30",
+    "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-for-Up-to-50-off-extra-30-off-100-free-shipping/21843130.html?iref=rss-c280",
+    "date": "2026-06-19 09:31",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "Reebok Men's Match Prime V2 Court Casual Sneakers  for $30 +  free shipping w/ $39",
-    "price": "$30",
-    "link": "https://www.dealnews.com/Reebok-Mens-Match-Prime-V2-Court-Casual-Sneakers-for-30-free-shipping-w-39/21842444.html?iref=rss-c280",
-    "date": "2026-06-18 21:38",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "reebok"
-  },
-  {
-    "title": "adidas Men's / Women's SL 72 RS Shoes for $51 + free shipping",
-    "price": "$51",
-    "link": "https://www.dealnews.com/adidas-Mens-Womens-SL-72-RS-Shoes-for-51-free-shipping/21842435.html?iref=rss-c280",
-    "date": "2026-06-18 20:46",
+    "title": "adidas Men's ADISTAR XLG 2.0 Shoes for $68 + free shipping",
+    "price": "$68",
+    "link": "https://www.dealnews.com/adidas-Mens-ADISTAR-XLG-2-0-Shoes-for-68-free-shipping/21843093.html?iref=rss-c280",
+    "date": "2026-06-19 07:19",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
