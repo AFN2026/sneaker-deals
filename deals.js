@@ -1,11 +1,38 @@
 window.DEALS = [
   {
-    "title": "Nike Running Journey Run Shoes - White/Silver - Sizes 6 to 13 w/code",
-    "price": "£56.24",
-    "link": "https://www.hotukdeals.com/deals/nike-running-journey-run-whitesilver-sizes-6-to-13-wcode-4916800",
-    "date": "2026-06-20 09:41",
+    "title": "Adidas 4ATHLTS Duffel Bag - Medium",
+    "price": "£20.90",
+    "link": "https://www.hotukdeals.com/deals/adidas-4athlts-duffel-bag-medium-4916984",
+    "date": "2026-06-20 16:43",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Salomon AERO GLIDE 4 Running Trainers",
+    "price": "£101.50",
+    "link": "https://www.hotukdeals.com/deals/salomon-aero-glide-4-4916982",
+    "date": "2026-06-20 16:32",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "trainers"
+  },
+  {
+    "title": "Nike Men's Air Force 1 '07 LV8 Shoes for $68 + free shipping",
+    "price": "$68",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-07-LV8-Shoes-for-68-free-shipping/21844661.html?iref=rss-c280",
+    "date": "2026-06-20 12:31",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air Max Bia Shoes for $58 + free shipping",
+    "price": "$58",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Bia-Shoes-for-58-free-shipping/21844656.html?iref=rss-c280",
+    "date": "2026-06-20 12:08",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
@@ -81,15 +108,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike Men's Air Max Bia Shoes (Midnight Navy/Obsidian/Parachute Beige/Sail) $58.38 + Free Shipping",
-    "price": "$58.38",
-    "link": "https://slickdeals.net/f/19647591-nike-men-s-air-max-bia-shoes-midnight-navy-obsidian-parachute-beige-sail-58-38-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-06-19 11:19",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "adidas Men's Terrex Rockadia Hiking Shoes for $60, 2 pairs for $110 + Free shipping",
     "price": "$60,",
     "link": "https://www.dealnews.com/adidas-Mens-Terrex-Rockadia-Hiking-Shoes-for-60-2-pairs-for-110-Free-shipping/21843177.html?iref=rss-c280",
@@ -117,24 +135,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Summer Deals for Up to 50% off + extra $30 off $100 or 15% off + free shipping",
-    "price": "$30",
-    "link": "https://www.dealnews.com/adidas-Mens-Summer-Deals-for-Up-to-50-off-extra-30-off-100-or-15-off-free-shipping/21843167.html?iref=rss-c280",
-    "date": "2026-06-19 10:56",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Runfalcon 6 Cloudfoam Running Shoes for $55, 2 pairs for $100 + free shipping",
-    "price": "$55,",
-    "link": "https://www.dealnews.com/adidas-Runfalcon-6-Cloudfoam-Running-Shoes-for-55-2-pairs-for-100-free-shipping/21843165.html?iref=rss-c280",
-    "date": "2026-06-19 10:52",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Shoe Deals for Up to 50% off + extra $30 off $100 + free shipping",
     "price": "$30",
     "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-for-Up-to-50-off-extra-30-off-100-free-shipping/21843130.html?iref=rss-c280",
@@ -144,12 +144,12 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike Men's or Women's Metcon 10 Workout Shoe (Green Strike/Light Liquid Lime/Black) $87.97 + Free Shipping",
-    "price": "$87.97",
-    "link": "https://slickdeals.net/f/19646052-nike-men-s-or-women-s-metcon-10-workout-shoe-green-strike-light-liquid-lime-black-87-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-06-18 23:18",
-    "source": "Slickdeals",
+    "title": "adidas Men's Summer Kickoff Shoe Deals for From $15, sneakers from $28 + free shipping",
+    "price": "$15,",
+    "link": "https://www.dealnews.com/adidas-Mens-Summer-Kickoff-Shoe-Deals-for-From-15-sneakers-from-28-free-shipping/21837967.html?iref=rss-c280",
+    "date": "2026-06-04 08:41",
+    "source": "DealNews",
     "currency": "USD",
-    "keyword": "nike"
+    "keyword": "adidas"
   }
 ];
