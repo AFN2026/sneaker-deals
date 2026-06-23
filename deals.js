@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "Target Circle Deals Days Shoes Deals: 40% off + free shipping w/ $35",
+    "price": "$35",
+    "link": "https://www.dealnews.com/Target-Circle-Deals-Days-Shoes-Deals-40-off-free-shipping-w-35/21850977.html?iref=rss-c280",
+    "date": "2026-06-23 09:19",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "reebok"
+  },
+  {
     "title": "Zappos Summer Savings Event:  Up to 60% off + extra 20% off  + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/Zappos-Summer-Savings-Event-Up-to-60-off-extra-20-off-free-shipping/21849502.html?iref=rss-c280",
@@ -117,47 +126,11 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Nike Air Max Summer Promo Code: Extra 20% off + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Air-Max-Summer-Promo-Code-Extra-20-off-free-shipping-w-50/21844599.html?iref=rss-c280",
-    "date": "2026-06-20 07:31",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Summer Deals for Up to 50% off + extra $30 off $100 or 15% off + free shipping",
-    "price": "$30",
-    "link": "https://www.dealnews.com/adidas-Mens-Summer-Deals-for-Up-to-50-off-extra-30-off-100-or-15-off-free-shipping/21844588.html?iref=rss-c280",
-    "date": "2026-06-20 06:46",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Shoe Deals for Up to 50% off + extra $30 off $100 + free shipping",
     "price": "$30",
     "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-for-Up-to-50-off-extra-30-off-100-free-shipping/21843130.html?iref=rss-c280",
     "date": "2026-06-19 09:31",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
-    "price": "$99",
-    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
-    "date": "2026-06-18 14:23",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men SOFT LUX TRACK TOP (5 Colors) from $29.4",
-    "price": "$29.4",
-    "link": "https://slickdeals.net/f/19637889-adidas-men-soft-lux-track-top-5-colors-from-29-4?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-06-17 00:49",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   }
