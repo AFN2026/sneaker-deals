@@ -1,11 +1,65 @@
 window.DEALS = [
   {
-    "title": "New Balance 204L in Brown Multi Trainers (free C&C)",
-    "price": "£65.99",
-    "link": "https://www.hotukdeals.com/deals/new-balance-204l-in-brown-multi-trainers-4922686",
-    "date": "2026-06-26 10:35",
+    "title": "adidas Men's Runfalcon 5 Running Shoes, Core Black/Cloud White/Core Black, 9.5 UK - Prime Deal",
+    "price": "£24",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-runfalcon-5-running-shoes-core-blackcloud-whitecore-black-95-uk-4923087",
+    "date": "2026-06-26 17:45",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Samoa Shoes for $30 + free shipping",
+    "price": "$30",
+    "link": "https://www.dealnews.com/adidas-Mens-Samoa-Shoes-for-30-free-shipping/21856138.html?iref=rss-c280",
+    "date": "2026-06-26 17:36",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Kate Spade New York Women's K as in Kate Runner Sneakers for $99 w/ Prime + free shipping",
+    "price": "$99",
+    "link": "https://www.dealnews.com/Kate-Spade-New-York-Womens-K-as-in-Kate-Runner-Sneakers-for-99-w-Prime-free-shipping/21856119.html?iref=rss-c280",
+    "date": "2026-06-26 16:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Yeezy Summer Shoe Deals: Extra 20% off",
+    "price": "$500",
+    "link": "https://www.dealnews.com/adidas-Yeezy-Summer-Shoe-Deals-Extra-20-off/21856045.html?iref=rss-c280",
+    "date": "2026-06-26 14:35",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "New Balance Men's 410 V8 Trail Running Shoes for $50 w/ Prime + free shipping",
+    "price": "$50",
+    "link": "https://www.dealnews.com/New-Balance-Mens-410-V8-Trail-Running-Shoes-for-50-w-Prime-free-shipping/21856007.html?iref=rss-c280",
+    "date": "2026-06-26 13:46",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "New Balance Prime Day Deals at Amazon: Up to 70% off + free shipping w/ Prime",
+    "price": "",
+    "link": "https://www.dealnews.com/New-Balance-Prime-Day-Deals-at-Amazon-Up-to-70-off-free-shipping-w-Prime/21855961.html?iref=rss-c280",
+    "date": "2026-06-26 12:27",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "New Balance Men's 237 V1 Shoes for $47 + free shipping",
+    "price": "$47",
+    "link": "https://www.dealnews.com/New-Balance-Mens-237-V1-Shoes-for-47-free-shipping/21855956.html?iref=rss-c280",
+    "date": "2026-06-26 12:21",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "new balance"
   },
   {
@@ -14,15 +68,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Samba-XLG-Shoes-for-2-pairs-for-80-free-shipping/21855821.html?iref=rss-c280",
     "date": "2026-06-26 07:41",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men VL Court 3.0 Shoes (Shadow Red / Cloud White / Shadow Red) $27",
-    "price": "$27",
-    "link": "https://slickdeals.net/f/19688022-adidas-men-vl-court-3-0-shoes-shadow-red-cloud-white-shadow-red-27?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-06-26 06:46",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -81,49 +126,22 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Under Armour Men's Charged Surge 4 Sneakers for $37 w/ Prime + free shipping",
-    "price": "$37",
-    "link": "https://www.dealnews.com/Under-Armour-Mens-Charged-Surge-4-Sneakers-for-37-w-Prime-free-shipping/21853301.html?iref=rss-c280",
-    "date": "2026-06-25 17:37",
+    "title": "adidas Terrex Collection for Extra 15% off or $30 off $100 + free shipping",
+    "price": "$30",
+    "link": "https://www.dealnews.com/adidas-Terrex-Collection-for-Extra-15-off-or-30-off-100-free-shipping/21851603.html?iref=rss-c280",
+    "date": "2026-06-24 08:07",
     "source": "DealNews",
     "currency": "USD",
-    "keyword": "sneakers"
+    "keyword": "adidas"
   },
   {
-    "title": "Foot Locker Summer Sale: Up to 55% off extended + free shipping",
-    "price": "$50,",
-    "link": "https://www.dealnews.com/Foot-Locker-Summer-Sale-Up-to-55-off-extended-free-shipping/21853179.html?iref=rss-c280",
-    "date": "2026-06-25 14:29",
+    "title": "adidas Men's Summer Deals for Up to 50% off + extra $30 off $100 or 15% off + free shipping",
+    "price": "$30",
+    "link": "https://www.dealnews.com/adidas-Mens-Summer-Deals-for-Up-to-50-off-extra-30-off-100-or-15-off-free-shipping/21844588.html?iref=rss-c280",
+    "date": "2026-06-20 06:46",
     "source": "DealNews",
     "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "PUMA Prime Day Deals at Amazon: Up to 72% off w/ Prime + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/PUMA-Prime-Day-Deals-at-Amazon-Up-to-72-off-w-Prime-free-shipping/21853097.html?iref=rss-c280",
-    "date": "2026-06-25 12:22",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "puma"
-  },
-  {
-    "title": "Nike Summer Running Shoes Deals: Up to 30% off + extra 20% off  + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Summer-Running-Shoes-Deals-Up-to-30-off-extra-20-off-free-shipping-w-50/21853096.html?iref=rss-c280",
-    "date": "2026-06-25 12:21",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's and Women's Air Max Command Shoes for $65 + free shipping",
-    "price": "$65",
-    "link": "https://www.dealnews.com/Nike-Mens-and-Womens-Air-Max-Command-Shoes-for-65-free-shipping/21853074.html?iref=rss-c280",
-    "date": "2026-06-25 11:28",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
+    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Shoe Deals for Up to 50% off + extra $30 off $100 + free shipping",
