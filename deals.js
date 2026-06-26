@@ -1,12 +1,75 @@
 window.DEALS = [
   {
-    "title": "Nike Jordan Court Connect Low Mens Shoes 7-11 Black / Mid Black or Grey £51.99 / Low Other Colours £48.99 (Free C&C)",
-    "price": "£51.99",
-    "link": "https://www.hotukdeals.com/deals/nike-jordan-court-connect-mens-low-mens-shoes-7-11-black-mid-black-or-grey-ps5199-low-other-colours-ps4899-free-cc-4922110",
-    "date": "2026-06-25 19:15",
+    "title": "New Balance 204L in Brown Multi Trainers (free C&C)",
+    "price": "£65.99",
+    "link": "https://www.hotukdeals.com/deals/new-balance-204l-in-brown-multi-trainers-4922686",
+    "date": "2026-06-26 10:35",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "nike"
+    "keyword": "new balance"
+  },
+  {
+    "title": "adidas Samba XLG Shoes for 2 pairs for $80 + free shipping",
+    "price": "$80",
+    "link": "https://www.dealnews.com/adidas-Samba-XLG-Shoes-for-2-pairs-for-80-free-shipping/21855821.html?iref=rss-c280",
+    "date": "2026-06-26 07:41",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men VL Court 3.0 Shoes (Shadow Red / Cloud White / Shadow Red) $27",
+    "price": "$27",
+    "link": "https://slickdeals.net/f/19688022-adidas-men-vl-court-3-0-shoes-shadow-red-cloud-white-shadow-red-27?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-26 06:46",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Yeezy Quantum Lace Up Men's Shoes for $50 + free shipping",
+    "price": "$50",
+    "link": "https://www.dealnews.com/adidas-Mens-Yeezy-Quantum-Lace-Up-Mens-Shoes-for-50-free-shipping/21853412.html?iref=rss-c280",
+    "date": "2026-06-25 23:02",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's VL Court 3.0 Shoes  for $27 + free shipping",
+    "price": "$27",
+    "link": "https://www.dealnews.com/adidas-Mens-VL-Court-3-0-Shoes-for-27-free-shipping/21853393.html?iref=rss-c280",
+    "date": "2026-06-25 21:49",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Lite Racer 4.0 Men's Shoes  for $21  + free shipping",
+    "price": "$21",
+    "link": "https://www.dealnews.com/adidas-Lite-Racer-4-0-Mens-Shoes-for-21-free-shipping/21853376.html?iref=rss-c280",
+    "date": "2026-06-25 21:05",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's X_PLR Path Shoes for $24 + free shipping",
+    "price": "$24",
+    "link": "https://www.dealnews.com/adidas-Mens-X-PLR-Path-Shoes-for-24-free-shipping/21853358.html?iref=rss-c280",
+    "date": "2026-06-25 19:59",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Barreda Shoes for $23 + free shipping",
+    "price": "$23",
+    "link": "https://www.dealnews.com/adidas-Mens-Barreda-Shoes-for-23-free-shipping/21853356.html?iref=rss-c280",
+    "date": "2026-06-25 19:55",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Galaxy 7 Running Shoes for $23 + free shipping",
@@ -15,15 +78,6 @@ window.DEALS = [
     "date": "2026-06-25 19:00",
     "source": "DealNews",
     "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Adidas Girls Badge of sport oversize t shirt Green / Pink Free C&C",
-    "price": "£7.20",
-    "link": "https://www.hotukdeals.com/deals/adidas-girls-badge-of-sports-oversized-t-shirt-4922095",
-    "date": "2026-06-25 18:58",
-    "source": "HotUKDeals",
-    "currency": "GBP",
     "keyword": "adidas"
   },
   {
@@ -70,60 +124,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Cole Haan Men's Grand Crosscourt Daily Court Sneakers for $60 + free shipping",
-    "price": "$60",
-    "link": "https://www.dealnews.com/Cole-Haan-Mens-Grand-Crosscourt-Daily-Court-Sneakers-for-60-free-shipping/21853014.html?iref=rss-c280",
-    "date": "2026-06-25 09:33",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Unisex Book 1 Basketball Shoes  for $55 + free shipping",
-    "price": "$55",
-    "link": "https://www.dealnews.com/Nike-Unisex-Book-1-Basketball-Shoes-for-55-free-shipping/21853002.html?iref=rss-c280",
-    "date": "2026-06-25 09:13",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Sneaker Deals for From $28, extra $30 off $100 + Free shipping",
-    "price": "$28,",
-    "link": "https://www.dealnews.com/adidas-Mens-Sneaker-Deals-for-From-28-extra-30-off-100-Free-shipping/21852961.html?iref=rss-c280",
-    "date": "2026-06-25 08:16",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Ultraboost 5X Shoes for $66 + free shipping",
-    "price": "$66",
-    "link": "https://www.dealnews.com/adidas-Mens-Ultraboost-5-X-Shoes-for-66-free-shipping/21852069.html?iref=rss-c280",
-    "date": "2026-06-24 19:23",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Collection for Extra 15% off or $30 off $100 + free shipping",
-    "price": "$30",
-    "link": "https://www.dealnews.com/adidas-Terrex-Collection-for-Extra-15-off-or-30-off-100-free-shipping/21851603.html?iref=rss-c280",
-    "date": "2026-06-24 08:07",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Summer Deals for Up to 50% off + extra $30 off $100 or 15% off + free shipping",
-    "price": "$30",
-    "link": "https://www.dealnews.com/adidas-Mens-Summer-Deals-for-Up-to-50-off-extra-30-off-100-or-15-off-free-shipping/21844588.html?iref=rss-c280",
-    "date": "2026-06-20 06:46",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Shoe Deals for Up to 50% off + extra $30 off $100 + free shipping",
