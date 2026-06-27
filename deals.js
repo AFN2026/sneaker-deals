@@ -1,5 +1,50 @@
 window.DEALS = [
   {
+    "title": "lululemon Summer Shoe Sale for From $49, sneakers from $99 + free shipping",
+    "price": "$49,",
+    "link": "https://www.dealnews.com/lululemon-Summer-Shoe-Sale-for-From-49-sneakers-from-99-free-shipping/21858089.html?iref=rss-c280",
+    "date": "2026-06-27 15:09",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas men Adicolor Small Sling Bag $8 + Free Shipping",
+    "price": "$8",
+    "link": "https://slickdeals.net/f/19693833-adidas-men-adicolor-small-sling-bag-8-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-27 13:48",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Deals at eBay: Extra 20% off + free shipping on many items",
+    "price": "$28",
+    "link": "https://www.dealnews.com/Nike-Deals-at-eBay-Extra-20-off-free-shipping-on-many-items/21858052.html?iref=rss-c280",
+    "date": "2026-06-27 10:27",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 15% off + free shipping",
+    "price": "$112,",
+    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-15-off-free-shipping/21858049.html?iref=rss-c280",
+    "date": "2026-06-27 09:54",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Summer Shoe Deals for From $15, sneakers from $28 + free shipping",
+    "price": "$15,",
+    "link": "https://www.dealnews.com/adidas-Mens-Summer-Shoe-Deals-for-From-15-sneakers-from-28-free-shipping/21858048.html?iref=rss-c280",
+    "date": "2026-06-27 09:47",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Skechers Men's Summits AT Slip-in Sneakers for $40 + free shipping",
     "price": "$40",
     "link": "https://www.dealnews.com/Skechers-Mens-Summits-AT-Slip-in-Sneakers-for-40-free-shipping/21858031.html?iref=rss-c280",
@@ -34,42 +79,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "new balance"
-  },
-  {
-    "title": "adidas Men's Yeezy Quantum Lace Up Men's Shoes for $50 + free shipping",
-    "price": "$50",
-    "link": "https://www.dealnews.com/adidas-Mens-Yeezy-Quantum-Lace-Up-Mens-Shoes-for-50-free-shipping/21853412.html?iref=rss-c280",
-    "date": "2026-06-25 23:02",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's VL Court 3.0 Shoes  for $27 + free shipping",
-    "price": "$27",
-    "link": "https://www.dealnews.com/adidas-Mens-VL-Court-3-0-Shoes-for-27-free-shipping/21853393.html?iref=rss-c280",
-    "date": "2026-06-25 21:49",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Lite Racer 4.0 Men's Shoes  for $21  + free shipping",
-    "price": "$21",
-    "link": "https://www.dealnews.com/adidas-Lite-Racer-4-0-Mens-Shoes-for-21-free-shipping/21853376.html?iref=rss-c280",
-    "date": "2026-06-25 21:05",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's X_PLR Path Shoes for $24 + free shipping",
-    "price": "$24",
-    "link": "https://www.dealnews.com/adidas-Mens-X-PLR-Path-Shoes-for-24-free-shipping/21853358.html?iref=rss-c280",
-    "date": "2026-06-25 19:59",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
