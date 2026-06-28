@@ -1,12 +1,21 @@
 window.DEALS = [
   {
-    "title": "Adidas Park ST 2.0 Trainers - Size 4 & 5.5",
-    "price": "£18.50",
-    "link": "https://www.hotukdeals.com/deals/adidas-park-st-20-trainers-size-4-55-4923801",
-    "date": "2026-06-27 21:11",
+    "title": "Puma Men's Velocity Nitro 4 Puma x Hyrox Mens Running Shoes",
+    "price": "£65.50",
+    "link": "https://www.hotukdeals.com/deals/puma-mens-velocity-nitro-4-puma-x-hyrox-mens-running-shoes-4924017",
+    "date": "2026-06-28 10:11",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "adidas"
+    "keyword": "puma"
+  },
+  {
+    "title": "Nike Air Max Moto 2K Trainers, 5.5-12 Grey-Red / 3-12 Silver-Off White £47.99 - w/Code",
+    "price": "£47.99",
+    "link": "https://www.hotukdeals.com/deals/nike-air-max-moto-2k-trainers-55-12-grey-red-3-12-silver-off-white-ps4799-4924000",
+    "date": "2026-06-28 09:41",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
   },
   {
     "title": "lululemon Summer Shoe Sale for From $49, sneakers from $99 + free shipping",
