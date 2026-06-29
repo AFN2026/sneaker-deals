@@ -1,5 +1,68 @@
 window.DEALS = [
   {
+    "title": "XT-6 NOCTURNE VISION Sneakers - Unisex",
+    "price": "£132",
+    "link": "https://www.hotukdeals.com/deals/xt-6-nocturne-vision-sneakers-unisex-4925157",
+    "date": "2026-06-29 22:07",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Adidas Essentials Organizer - Free Delivery for adiClub members - Free to sign up",
+    "price": "£8.25",
+    "link": "https://www.hotukdeals.com/deals/adidas-essentials-organizer-free-delivery-for-adiclub-members-free-to-sign-up-4925146",
+    "date": "2026-06-29 21:23",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Air Jordan Men's Access Low-Top Trainers Grey | Sizes 7-11",
+    "price": "£38",
+    "link": "https://www.hotukdeals.com/deals/nike-air-jordan-mens-access-low-top-trainers-grey-sizes-7-11-4925126",
+    "date": "2026-06-29 20:36",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Giannis Freak 7 \"Deception\" Basketball Shoes for $68 + free shipping",
+    "price": "$68",
+    "link": "https://www.dealnews.com/Nike-Giannis-Freak-7-Deception-Basketball-Shoes-for-68-free-shipping/21862807.html?iref=rss-c280",
+    "date": "2026-06-29 19:14",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Air Max Shoe Deals: Extra 20% off in cart + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Air-Max-Shoe-Deals-Extra-20-off-in-cart-free-shipping-w-50/21862795.html?iref=rss-c280",
+    "date": "2026-06-29 18:43",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's / Women's Giannis Immortality 4 'Shapeshift' Basketball Shoes for $54 + free shipping",
+    "price": "$54",
+    "link": "https://www.dealnews.com/Nike-Mens-Womens-Giannis-Immortality-4-Shapeshift-Basketball-Shoes-for-54-free-shipping/21862791.html?iref=rss-c280",
+    "date": "2026-06-29 18:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas women W 3S TR TS (3 colors) $28 + Free Shipping",
+    "price": "$28",
+    "link": "https://slickdeals.net/f/19700529-adidas-women-w-3s-tr-ts-3-colors-28-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-29 15:20",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's Summer Shoe Deals for From $15, sneakers from $28 + free shipping",
     "price": "$15,",
     "link": "https://www.dealnews.com/adidas-Mens-Summer-Shoe-Deals-for-From-15-sneakers-from-28-free-shipping/21862591.html?iref=rss-c280",
@@ -70,32 +133,5 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Men's Samoa Shoes for $30 + free shipping",
-    "price": "$30",
-    "link": "https://www.dealnews.com/adidas-Mens-Samoa-Shoes-for-30-free-shipping/21856138.html?iref=rss-c280",
-    "date": "2026-06-26 17:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Yeezy Summer Shoe Deals: Extra 20% off",
-    "price": "$500",
-    "link": "https://www.dealnews.com/adidas-Yeezy-Summer-Shoe-Deals-Extra-20-off/21856045.html?iref=rss-c280",
-    "date": "2026-06-26 14:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "New Balance Men's 410 V8 Trail Running Shoes for $50 w/ Prime + free shipping",
-    "price": "$50",
-    "link": "https://www.dealnews.com/New-Balance-Mens-410-V8-Trail-Running-Shoes-for-50-w-Prime-free-shipping/21856007.html?iref=rss-c280",
-    "date": "2026-06-26 13:46",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
   }
 ];
