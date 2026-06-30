@@ -1,8 +1,80 @@
 window.DEALS = [
   {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 15% off + free shipping",
-    "price": "$112,",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-15-off-free-shipping/21862639.html?iref=rss-c280",
+    "title": "Adidas Men's or Women's Duramo SL 2 Wide Running Shoes (Core Black / Cloud White / Grey Five) $29.4",
+    "price": "$29.4",
+    "link": "https://slickdeals.net/f/19705455-adidas-men-s-or-women-s-duramo-sl-2-wide-running-shoes-core-black-cloud-white-grey-five-29-4?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-30 17:43",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Unisex Essentials Linear Duffel Bag Duffel Bag, Dark Blue/White, M",
+    "price": "£18.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-unisex-essentials-linear-duffel-bag-duffel-bag-dark-bluewhite-m-4925726",
+    "date": "2026-06-30 17:38",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Adidas Men's Running Supernova Rise 3 Trainers in Pink or Blue",
+    "price": "£57.20",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-running-supernova-rise-3-trainers-in-pink-or-blue-4925721",
+    "date": "2026-06-30 17:24",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Extra 30% Off Clothes & Shoes at adidas",
+    "price": "",
+    "link": "https://slickdeals.net/f/19705233-extra-30-off-clothes-shoes-at-adidas?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-06-30 16:51",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Bruno Marc Men's Slip On Casual Sneakers for $22 + free shipping w/ Prime",
+    "price": "$22",
+    "link": "https://www.dealnews.com/Bruno-Marc-Mens-Slip-On-Casual-Sneakers-for-22-free-shipping-w-Prime/21864342.html?iref=rss-c280",
+    "date": "2026-06-30 14:54",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Men's Terrex Anylander Hiking Shoes for $45 + free shipping",
+    "price": "$45",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Anylander-Hiking-Shoes-for-45-free-shipping/21864340.html?iref=rss-c280",
+    "date": "2026-06-30 14:46",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Summer Savings Shoe Deals: Up to 40% off + extra 30% off + free shipping",
+    "price": "$42",
+    "link": "https://www.dealnews.com/adidas-Summer-Savings-Shoe-Deals-Up-to-40-off-extra-30-off-free-shipping/21864316.html?iref=rss-c280",
+    "date": "2026-06-30 13:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Summer Savings Shoe Deals for From $11, sneakers from $25 + Free shipping",
+    "price": "$11,",
+    "link": "https://www.dealnews.com/adidas-Mens-Summer-Savings-Shoe-Deals-for-From-11-sneakers-from-25-Free-shipping/21864312.html?iref=rss-c280",
+    "date": "2026-06-30 13:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
     "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
@@ -43,59 +115,5 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "lululemon Summer Shoe Sale for From $49, sneakers from $99 + free shipping",
-    "price": "$49,",
-    "link": "https://www.dealnews.com/lululemon-Summer-Shoe-Sale-for-From-49-sneakers-from-99-free-shipping/21862580.html?iref=rss-c280",
-    "date": "2026-06-29 08:13",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's Downshifter 14 Road Running Shoes for $50 + free shipping",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Mens-Downshifter-14-Road-Running-Shoes-for-50-free-shipping/21860697.html?iref=rss-c280",
-    "date": "2026-06-28 18:19",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "lululemon Summer Shoe Sale for From $49, sneakers from $99 + free shipping",
-    "price": "$49,",
-    "link": "https://www.dealnews.com/lululemon-Summer-Shoe-Sale-for-From-49-sneakers-from-99-free-shipping/21858089.html?iref=rss-c280",
-    "date": "2026-06-27 15:09",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Deals at eBay: Extra 20% off + free shipping on many items",
-    "price": "$28",
-    "link": "https://www.dealnews.com/Nike-Deals-at-eBay-Extra-20-off-free-shipping-on-many-items/21858052.html?iref=rss-c280",
-    "date": "2026-06-27 10:27",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 15% off + free shipping",
-    "price": "$112,",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-15-off-free-shipping/21858049.html?iref=rss-c280",
-    "date": "2026-06-27 09:54",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Summer Shoe Deals for From $15, sneakers from $28 + free shipping",
-    "price": "$15,",
-    "link": "https://www.dealnews.com/adidas-Mens-Summer-Shoe-Deals-for-From-15-sneakers-from-28-free-shipping/21858048.html?iref=rss-c280",
-    "date": "2026-06-27 09:47",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   }
 ];
