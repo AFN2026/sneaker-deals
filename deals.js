@@ -1,38 +1,74 @@
 window.DEALS = [
   {
-    "title": "The Wolf of Wall Street [18] 4K UHD",
-    "price": "£14.99",
-    "link": "https://www.hotukdeals.com/deals/the-wolf-of-wall-street-18-4k-uhd-4926537",
-    "date": "2026-07-01 18:29",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "jordan"
-  },
-  {
-    "title": "Adidas Men's Running Galaxy 7 Trainers (Sizes 6-9)",
-    "price": "£23.40",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-running-galaxy-7-trainers-sizes-6-9-4926536",
-    "date": "2026-07-01 18:28",
+    "title": "adidas Originals Handball Spezial Mens Trainers in Brown w/code (DFC / HSD) - Free Delivery (FLX Members - Free Sign Up)",
+    "price": "£31.50",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-handball-spezial-mens-trainers-in-brown-wcode-dfc-hsd-free-delivery-flx-members-free-sign-up-4926966",
+    "date": "2026-07-02 09:58",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
   },
   {
-    "title": "NIKE AIR FORCE 1 07 TRAINERS - Silver Lilac Taupe Qs",
-    "price": "£55",
-    "link": "https://www.hotukdeals.com/deals/nike-air-force-1-07-trainers-silver-lilac-taupe-qs-4926534",
-    "date": "2026-07-01 18:24",
+    "title": "adidas Originals SL 72 RS Mens Trainers in Royal Blue or Black - w/code (DFC / HSD) - Free Delivery (FLX Members - Free Sign Up)",
+    "price": "£36",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-sl-72-rs-mens-trainers-in-royal-blue-off-white-wcode-dfc-hsd-free-delivery-flx-members-free-sign-up-4926957",
+    "date": "2026-07-02 09:48",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "nike"
+    "keyword": "adidas"
   },
   {
-    "title": "End of Season Sale - Up to 60% Off + Extra 15% with Code - Includes Adidas, Patagonia, Arc'teryx, HOKA, Asics - Examples in Description",
-    "price": "£90",
-    "link": "https://www.hotukdeals.com/deals/end-of-season-sale-up-to-60-off-extra-15-with-code-includes-adidas-patagonia-arcteryx-hoka-asics-examples-in-description-4926513",
-    "date": "2026-07-01 17:44",
+    "title": "174 New Balance 740 trainers in timberwolf",
+    "price": "£60",
+    "link": "https://www.hotukdeals.com/deals/174-new-balance-740-trainers-in-timberwolf-4926946",
+    "date": "2026-07-02 09:34",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "new balance"
+  },
+  {
+    "title": "Adidas Superstar II Mens Trainers in Brown w/code (DFC / HSD) - Free Delivery (FLX Members - Free Sign Up)",
+    "price": "£36",
+    "link": "https://www.hotukdeals.com/deals/adidas-superstar-ii-mens-trainers-in-brown-free-delivery-flx-members-free-sign-up-wcode-dfc-hsd-4926942",
+    "date": "2026-07-02 09:31",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Duramo 10 Shoes for $29 + free shipping",
+    "price": "$29",
+    "link": "https://www.dealnews.com/adidas-Mens-Duramo-10-Shoes-for-29-free-shipping/21867013.html?iref=rss-c280",
+    "date": "2026-07-02 09:26",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Runfalcon 5 Running Shoes for $30 + free shipping",
+    "price": "$30",
+    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-5-Running-Shoes-for-30-free-shipping/21867012.html?iref=rss-c280",
+    "date": "2026-07-02 09:23",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "HENCKELS Specialties 8.5-qt Pasta Pot with Lid and Strainers, Stainless Steel $49.98",
+    "price": "$49.98",
+    "link": "https://slickdeals.net/f/19711386-henckels-specialties-8-5-qt-pasta-pot-with-lid-and-strainers-stainless-steel-49-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-02 04:20",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "trainers"
+  },
+  {
+    "title": "DSW Men's Clearance: Up to 50% off + free shipping",
+    "price": "$53.98",
+    "link": "https://www.dealnews.com/DSW-Mens-Clearance-Up-to-50-off-free-shipping/21866930.html?iref=rss-c280",
+    "date": "2026-07-02 00:26",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
@@ -70,105 +106,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas Unisex Adult Adissage 360rec Sandal (Various, Sizes 5/4, 7/6, 15/14-19/18) from $14.40 + Free Shipping w/ Prime or on $35+",
-    "price": "$14.40",
-    "link": "https://slickdeals.net/f/19708794-adidas-unisex-adult-adissage-360rec-sandal-various-sizes-5-4-7-6-15-14-19-18-from-14-40-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-01 13:54",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Kids' Summer Shoe Deals for From $11, sneakers from $16 + free shipping",
-    "price": "$11,",
-    "link": "https://www.dealnews.com/adidas-Kids-Summer-Shoe-Deals-for-From-11-sneakers-from-16-free-shipping/21866685.html?iref=rss-c280",
-    "date": "2026-07-01 09:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Runfalcon 3 Cloudfoam Shoes for $36 + free shipping",
-    "price": "$36",
-    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-3-Cloudfoam-Shoes-for-36-free-shipping/21866673.html?iref=rss-c280",
-    "date": "2026-07-01 09:03",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Ultraboost 5X Shoes for $66 + free shipping",
-    "price": "$66",
-    "link": "https://www.dealnews.com/adidas-Mens-Ultraboost-5-X-Shoes-for-66-free-shipping/21866672.html?iref=rss-c280",
-    "date": "2026-07-01 08:59",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Daily 4.0 Shoes for $27 + free shipping",
-    "price": "$27",
-    "link": "https://www.dealnews.com/adidas-Mens-Daily-4-0-Shoes-for-27-free-shipping/21866669.html?iref=rss-c280",
-    "date": "2026-07-01 08:54",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Duramo SL Shoes for $25 + free shipping",
-    "price": "$25",
-    "link": "https://www.dealnews.com/adidas-Mens-Duramo-SL-Shoes-for-25-free-shipping/21866666.html?iref=rss-c280",
-    "date": "2026-07-01 08:49",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Dame X Shoes for $39 + free shipping",
-    "price": "$39",
-    "link": "https://www.dealnews.com/adidas-Mens-Dame-X-Shoes-for-39-free-shipping/21866657.html?iref=rss-c280",
-    "date": "2026-07-01 08:19",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's / Women's G.T. Cut Academy 2 Basketball Shoes for $67 + free shipping",
-    "price": "$67",
-    "link": "https://www.dealnews.com/Nike-Mens-Womens-G-T-Cut-Academy-2-Basketball-Shoes-for-67-free-shipping/21864467.html?iref=rss-c280",
-    "date": "2026-06-30 22:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's / Women's Hyperquick Volleyball Shoes for $64 + free shipping",
-    "price": "$64",
-    "link": "https://www.dealnews.com/Nike-Mens-Womens-Hyperquick-Volleyball-Shoes-for-64-free-shipping/21864464.html?iref=rss-c280",
-    "date": "2026-06-30 22:45",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Joe's New Balance Outlet Sale  for 2 Pairs for $100, more + free shipping",
-    "price": "$100,",
-    "link": "https://www.dealnews.com/Joes-New-Balance-Outlet-Sale-for-2-Pairs-for-100-more-free-shipping/21864429.html?iref=rss-c280",
-    "date": "2026-06-30 20:12",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
-  },
-  {
-    "title": "New Balance Men's/Women's RC42 Sneakers for  From $24  + free shipping w/ $89",
-    "price": "$24",
-    "link": "https://www.dealnews.com/New-Balance-Mens-Womens-RC42-Sneakers-for-From-24-free-shipping-w-89/21864406.html?iref=rss-c280",
-    "date": "2026-06-30 19:11",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
   },
   {
     "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
