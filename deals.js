@@ -1,39 +1,57 @@
 window.DEALS = [
   {
-    "title": "Skechers womens Uno trainers",
-    "price": "£28.40",
-    "link": "https://www.hotukdeals.com/deals/skechers-womens-uno-trainers-4927706",
-    "date": "2026-07-03 10:03",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
-  },
-  {
-    "title": "Up to 50% Off Kids Summer Sale + Extra 20% Off With Code (Over 1,950 Lines including Nike, Adidas, ON, New Balance, Asics) + Free C&C",
-    "price": "£70",
-    "link": "https://www.hotukdeals.com/deals/up-to-50-off-kids-summer-sale-extra-20-off-with-code-over-1950-lines-including-nike-adidas-on-new-balance-asics-free-cc-4927704",
-    "date": "2026-07-03 10:01",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "Skechers Jade Strange Classics Mens Leather Memory Foam Trainers",
-    "price": "£29.99",
-    "link": "https://www.hotukdeals.com/deals/skechers-jade-strange-classics-mens-leather-memory-foam-trainers-4927175",
-    "date": "2026-07-03 10:00",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
-  },
-  {
-    "title": "Adidas Originals Adios OG trainers in black pony hair (Size: UK 3.5 - 10.5, 12.5) - £28.04 w/Code & free delivery",
-    "price": "£28.04",
-    "link": "https://www.hotukdeals.com/deals/adidas-originals-adios-og-trainers-in-black-pony-hairsize-uk-35-105-125-wcode-4927688",
-    "date": "2026-07-03 09:48",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "adidas kids Adilette Shower Slides $8.4 + Free Shipping",
+    "price": "$8.4",
+    "link": "https://slickdeals.net/f/19717812-adidas-kids-adilette-shower-slides-8-4-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-03 15:19",
+    "source": "Slickdeals",
+    "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "adidas x Marvel Men's Spider-Man Lightblaze Shoes for $77 + free shipping",
+    "price": "$77",
+    "link": "https://www.dealnews.com/adidas-x-Marvel-Mens-Spider-Man-Lightblaze-Shoes-for-77-free-shipping/21871398.html?iref=rss-c280",
+    "date": "2026-07-03 13:47",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Grand Court 2.0 Shoes for $20 + free shipping",
+    "price": "$20",
+    "link": "https://www.dealnews.com/adidas-Mens-Grand-Court-2-0-Shoes-for-20-free-shipping/21871352.html?iref=rss-c280",
+    "date": "2026-07-03 11:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Lite Racer 4.0 Shoes (11.5 & 13 only) for $20 + free shipping",
+    "price": "$20",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-11-5-13-only-for-20-free-shipping/21871351.html?iref=rss-c280",
+    "date": "2026-07-03 11:40",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Ruze Shoes Outlet Deals at eBay: Up to 83% off + extra $10 off 2 items + free shipping",
+    "price": "$10",
+    "link": "https://www.dealnews.com/Ruze-Shoes-Outlet-Deals-at-eBay-Up-to-83-off-extra-10-off-2-items-free-shipping/21871348.html?iref=rss-c280",
+    "date": "2026-07-03 11:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "vans"
+  },
+  {
+    "title": "Nike, adidas & Puma Sneakers on eBay Live for Deals from $1, from 11am",
+    "price": "$1,",
+    "link": "https://www.dealnews.com/Nike-adidas-Puma-Sneakers-on-eBay-Live-for-Deals-from-1-from-11-am/21871344.html?iref=rss-c280",
+    "date": "2026-07-03 11:17",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Men's Astrastar Shoes for $32 + free shipping",
@@ -81,6 +99,15 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
+    "title": "adidas Women's Adizero EVO SL Shoes (9.5-12, Silver Metallic / Lucid Red / Iron Metal) $53.40 + Free Shipping",
+    "price": "$53.40",
+    "link": "https://slickdeals.net/f/19714650-adidas-women-s-adizero-evo-sl-shoes-9-5-12-silver-metallic-lucid-red-iron-metal-53-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-02 18:50",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's Samoa Shoes for $24 + free shipping",
     "price": "$24",
     "link": "https://www.dealnews.com/adidas-Mens-Samoa-Shoes-for-24-free-shipping/21867138.html?iref=rss-c280",
@@ -117,39 +144,12 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Shoebacca 4th of July Sale on Sale: Up to 70% off + extra 10% off + free shipping",
-    "price": "$45,",
-    "link": "https://www.dealnews.com/Shoebacca-4-th-of-July-Sale-on-Sale-Up-to-70-off-extra-10-off-free-shipping/21867092.html?iref=rss-c280",
-    "date": "2026-07-02 15:06",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "New Balance 4th of July Deals: Up to 30% off + free shipping",
+    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
     "price": "",
-    "link": "https://www.dealnews.com/New-Balance-4-th-of-July-Deals-Up-to-30-off-free-shipping/21867054.html?iref=rss-c280",
-    "date": "2026-07-02 11:39",
+    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
+    "date": "2026-06-30 04:01",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
-  },
-  {
-    "title": "adidas Women's Advantage Base 2.0 Shoes (2 Colors) $27.30 + Free Shipping",
-    "price": "$27.30",
-    "link": "https://slickdeals.net/f/19708809-adidas-women-s-advantage-base-2-0-shoes-2-colors-27-30-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-01 13:56",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "lululemon Summer Shoe Sale for From $49, sneakers from $99 + free shipping",
-    "price": "$49,",
-    "link": "https://www.dealnews.com/lululemon-Summer-Shoe-Sale-for-From-49-sneakers-from-99-free-shipping/21862580.html?iref=rss-c280",
-    "date": "2026-06-29 08:13",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
   }
 ];
