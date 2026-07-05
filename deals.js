@@ -1,21 +1,39 @@
 window.DEALS = [
   {
-    "title": "Nike 5 inch Volley swim shorts in green - XS to 2XL w/code",
-    "price": "£10.40",
-    "link": "https://www.hotukdeals.com/deals/nike-5-inch-volley-swim-shorts-in-green-xs-to-2xl-wcode-4929227",
-    "date": "2026-07-05 15:08",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Nike Men's / Women's Jordan Heir Series 2 \"Bloodline\" Basketball Shoes for $92 + free shipping",
+    "price": "$92",
+    "link": "https://www.dealnews.com/Nike-Mens-Womens-Jordan-Heir-Series-2-Bloodline-Basketball-Shoes-for-92-free-shipping/21879124.html?iref=rss-c280",
+    "date": "2026-07-05 21:37",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
-    "title": "Nike Air Max TL 2.5 trainers in black - Sizes 3 to 6.5 w/code",
-    "price": "£56.24",
-    "link": "https://www.hotukdeals.com/deals/nike-air-max-tl-25-trainers-in-black-sizes-3-to-65-wcode-4929225",
-    "date": "2026-07-05 15:02",
+    "title": "adidas Men's Runfalcon 6 Cloudfoam Running Shoes for $36 + free shipping",
+    "price": "$36",
+    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Cloudfoam-Running-Shoes-for-36-free-shipping/21879123.html?iref=rss-c280",
+    "date": "2026-07-05 21:30",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Unisex Kids FIFA World Cup 26 Trionda League Junior 350 Ball",
+    "price": "£18",
+    "link": "https://www.hotukdeals.com/deals/adidas-unisex-kids-fifa-world-cup-26-trionda-league-junior-350-ball-4929425",
+    "date": "2026-07-05 21:20",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "nike"
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Women's Tokyo Leather Shoes for $30 + free shipping",
+    "price": "$30",
+    "link": "https://www.dealnews.com/adidas-Womens-Tokyo-Leather-Shoes-for-30-free-shipping/21879122.html?iref=rss-c280",
+    "date": "2026-07-05 21:20",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "No Boundaries Men's Clinton Slip On Casual Sneakers for $6 + free shipping w/ $35",
@@ -112,24 +130,6 @@ window.DEALS = [
     "price": "$32",
     "link": "https://www.dealnews.com/adidas-Mens-Astrastar-Shoes-for-32-free-shipping/21871321.html?iref=rss-c280",
     "date": "2026-07-03 09:20",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Women's Summer Sneaker Sale for Extra 30% off, deals from $27 + Free shipping",
-    "price": "$27",
-    "link": "https://www.dealnews.com/adidas-Womens-Summer-Sneaker-Sale-for-Extra-30-off-deals-from-27-Free-shipping/21871320.html?iref=rss-c280",
-    "date": "2026-07-03 09:16",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Summer Savings Shoe Deals for From $16, sneakers from $25 + Free shipping",
-    "price": "$16,",
-    "link": "https://www.dealnews.com/adidas-Mens-Summer-Savings-Shoe-Deals-for-From-16-sneakers-from-25-Free-shipping/21871285.html?iref=rss-c280",
-    "date": "2026-07-03 07:27",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
