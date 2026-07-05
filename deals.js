@@ -1,12 +1,21 @@
 window.DEALS = [
   {
-    "title": "adidas Performance Climacool Cushioned Crew Socks 3 Pairs - Size 6.5-8",
-    "price": "£7.50",
-    "link": "https://www.hotukdeals.com/deals/adidas-performance-climacool-cushioned-crew-socks-3-pairs-size-65-8-4929050",
-    "date": "2026-07-05 09:29",
+    "title": "Nike 5 inch Volley swim shorts in green - XS to 2XL w/code",
+    "price": "£10.40",
+    "link": "https://www.hotukdeals.com/deals/nike-5-inch-volley-swim-shorts-in-green-xs-to-2xl-wcode-4929227",
+    "date": "2026-07-05 15:08",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "adidas"
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Air Max TL 2.5 trainers in black - Sizes 3 to 6.5 w/code",
+    "price": "£56.24",
+    "link": "https://www.hotukdeals.com/deals/nike-air-max-tl-25-trainers-in-black-sizes-3-to-65-wcode-4929225",
+    "date": "2026-07-05 15:02",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
   },
   {
     "title": "No Boundaries Men's Clinton Slip On Casual Sneakers for $6 + free shipping w/ $35",
@@ -121,15 +130,6 @@ window.DEALS = [
     "price": "$16,",
     "link": "https://www.dealnews.com/adidas-Mens-Summer-Savings-Shoe-Deals-for-From-16-sneakers-from-25-Free-shipping/21871285.html?iref=rss-c280",
     "date": "2026-07-03 07:27",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
-    "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
