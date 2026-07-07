@@ -1,30 +1,30 @@
 window.DEALS = [
   {
-    "title": "Saucony Endorphin Azura Men's Running Trainers - 2 Colours - Sizes 7 - 11 w/Code",
-    "price": "£68",
-    "link": "https://www.hotukdeals.com/deals/saucony-endorphin-azura-mens-running-trainers-2-colours-sizes-7-11-wcode-4930359",
-    "date": "2026-07-06 21:58",
+    "title": "adidas Originals 70% Off Selected Styles - Handball Spezial | Gazelle £29 | Samba £29 | Tobacco £29 - Small Sizes - Free Returns",
+    "price": "£29",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-70-off-selected-styles-handball-spezial-gazelle-ps29-samba-ps29-tobacco-ps29-small-sizes-free-returns-4930639",
+    "date": "2026-07-07 10:33",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "trainers"
+    "keyword": "adidas"
   },
   {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off, ending today + Free shipping",
-    "price": "$45",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-ending-today-Free-shipping/21883558.html?iref=rss-c280",
-    "date": "2026-07-06 19:51",
-    "source": "DealNews",
+    "title": "adidas Tiro Size 4 Soccer Ball (White/Black) $13.01 + Free Shipping w/ Prime or on $35+",
+    "price": "$13.01",
+    "link": "https://slickdeals.net/f/19731048-adidas-tiro-size-4-soccer-ball-white-black-13-01-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-07 07:12",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Summer Savings Shoe Deals for From $11, sneakers from $25, ending today + Free shipping",
-    "price": "$11,",
-    "link": "https://www.dealnews.com/adidas-Mens-Summer-Savings-Shoe-Deals-for-From-11-sneakers-from-25-ending-today-Free-shipping/21883555.html?iref=rss-c280",
-    "date": "2026-07-06 19:42",
+    "title": "New Balance Men's / Women's 574 Shoes for $42 + free shipping w/ $99",
+    "price": "$42",
+    "link": "https://www.dealnews.com/New-Balance-Mens-Womens-574-Shoes-for-42-free-shipping-w-99/21883594.html?iref=rss-c280",
+    "date": "2026-07-07 00:52",
     "source": "DealNews",
     "currency": "USD",
-    "keyword": "adidas"
+    "keyword": "new balance"
   },
   {
     "title": "Dockers Men's Go-Time Active Rebound Slip-On Sneakers  for $29.99  +  free shipping w/ $49",
@@ -45,78 +45,6 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
-    "title": "adidas Men's Nora Shoes for $33 + free shipping",
-    "price": "$33",
-    "link": "https://www.dealnews.com/adidas-Mens-Nora-Shoes-for-33-free-shipping/21883411.html?iref=rss-c280",
-    "date": "2026-07-06 12:20",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Patrick Superstar Shoes for $61 + free shipping",
-    "price": "$61",
-    "link": "https://www.dealnews.com/adidas-Mens-Patrick-Superstar-Shoes-for-61-free-shipping/21883407.html?iref=rss-c280",
-    "date": "2026-07-06 12:13",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Adilette Lite Slides for $11 + free shipping",
-    "price": "$11",
-    "link": "https://www.dealnews.com/adidas-Mens-Adilette-Lite-Slides-for-11-free-shipping/21883406.html?iref=rss-c280",
-    "date": "2026-07-06 12:11",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Run 70s 2.0 Shoes for $26 + free shipping",
-    "price": "$26",
-    "link": "https://www.dealnews.com/adidas-Mens-Run-70-s-2-0-Shoes-for-26-free-shipping/21883403.html?iref=rss-c280",
-    "date": "2026-07-06 11:58",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Adizero Boston 13 Shoes for $64 + free shipping",
-    "price": "$64",
-    "link": "https://www.dealnews.com/adidas-Mens-Adizero-Boston-13-Shoes-for-64-free-shipping/21883402.html?iref=rss-c280",
-    "date": "2026-07-06 11:55",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's CLIMACOOL Laced Shoes for $66 + free shipping",
-    "price": "$66",
-    "link": "https://www.dealnews.com/adidas-Mens-CLIMACOOL-Laced-Shoes-for-66-free-shipping/21883399.html?iref=rss-c280",
-    "date": "2026-07-06 11:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Superstar II Shoes for $40 + free shipping",
-    "price": "$40",
-    "link": "https://www.dealnews.com/adidas-Mens-Superstar-II-Shoes-for-40-free-shipping/21883390.html?iref=rss-c280",
-    "date": "2026-07-06 11:11",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Runfalcon 5 Shoes for $21 + free shipping",
-    "price": "$21",
-    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-5-Shoes-for-21-free-shipping/21883387.html?iref=rss-c280",
-    "date": "2026-07-06 11:04",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Dockers Men's Frederick Sneakers for $18 + free shipping w/ $35",
     "price": "$18",
     "link": "https://www.dealnews.com/Dockers-Mens-Frederick-Sneakers-for-18-free-shipping-w-35/21879128.html?iref=rss-c280",
@@ -126,10 +54,46 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
-    "title": "adidas Men's Summer Savings Shoe Deals for From $16, sneakers from $25 + Free shipping",
-    "price": "$16,",
-    "link": "https://www.dealnews.com/adidas-Mens-Summer-Savings-Shoe-Deals-for-From-16-sneakers-from-25-Free-shipping/21871285.html?iref=rss-c280",
-    "date": "2026-07-03 07:27",
+    "title": "Nike Men's / Women's Jordan Heir Series 2 \"Bloodline\" Basketball Shoes for $92 + free shipping",
+    "price": "$92",
+    "link": "https://www.dealnews.com/Nike-Mens-Womens-Jordan-Heir-Series-2-Bloodline-Basketball-Shoes-for-92-free-shipping/21879124.html?iref=rss-c280",
+    "date": "2026-07-05 21:37",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "No Boundaries Men's Clinton Slip On Casual Sneakers for $6 + free shipping w/ $35",
+    "price": "$6",
+    "link": "https://www.dealnews.com/No-Boundaries-Mens-Clinton-Slip-On-Casual-Sneakers-for-6-free-shipping-w-35/21875069.html?iref=rss-c280",
+    "date": "2026-07-04 08:26",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Men's Yeezy Quantum Lace Up Men's Shoes for $50 + free shipping",
+    "price": "$50",
+    "link": "https://www.dealnews.com/adidas-Mens-Yeezy-Quantum-Lace-Up-Mens-Shoes-for-50-free-shipping/21875052.html?iref=rss-c280",
+    "date": "2026-07-04 07:19",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Ruze Shoes Outlet Deals at eBay: Up to 83% off + extra $10 off 2 items + free shipping",
+    "price": "$10",
+    "link": "https://www.dealnews.com/Ruze-Shoes-Outlet-Deals-at-eBay-Up-to-83-off-extra-10-off-2-items-free-shipping/21871348.html?iref=rss-c280",
+    "date": "2026-07-03 11:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "vans"
+  },
+  {
+    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
+    "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
