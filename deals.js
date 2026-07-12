@@ -1,23 +1,5 @@
 window.DEALS = [
   {
-    "title": "Adidas Barreda Trainers - Bliss Pink - Sizes 3.5 / 8 / 9.5",
-    "price": "£24",
-    "link": "https://www.hotukdeals.com/deals/adidas-barreda-trainers-sizes-35-8-95-4933920",
-    "date": "2026-07-11 19:46",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Jordan Max Aura 7 Shoes for $53 in cart + free shipping",
-    "price": "$53",
-    "link": "https://www.dealnews.com/Nike-Mens-Jordan-Max-Aura-7-Shoes-for-53-in-cart-free-shipping/21893571.html?iref=rss-c280",
-    "date": "2026-07-11 16:27",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "adidas Men's RUN 70s 2.0 Shoes for $27 + free shipping",
     "price": "$27",
     "link": "https://www.dealnews.com/adidas-Mens-RUN-70-s-2-0-Shoes-for-27-free-shipping/21893560.html?iref=rss-c280",
@@ -32,15 +14,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-for-From-14-sneakers-from-25-free-shipping/21893531.html?iref=rss-c280",
     "date": "2026-07-11 12:44",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men Adilette Lite Slides $12 + Free Shipping",
-    "price": "$12",
-    "link": "https://slickdeals.net/f/19748046-adidas-men-adilette-lite-slides-12-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-11 12:14",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -76,15 +49,6 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/Hibbett-Clearance-Deals-Up-to-46-off-extra-40-off-free-shipping/21893521.html?iref=rss-c280",
     "date": "2026-07-11 11:37",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Jordan 1 Mid SE Shoes for $53 in cart + free shipping",
-    "price": "$53",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Jordan-1-Mid-SE-Shoes-for-53-in-cart-free-shipping/21893520.html?iref=rss-c280",
-    "date": "2026-07-11 11:30",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
@@ -144,6 +108,24 @@ window.DEALS = [
     "keyword": "new balance"
   },
   {
+    "title": "adidas Men's Daily 4.0 Shoes for $24 + free shipping",
+    "price": "$24",
+    "link": "https://www.dealnews.com/adidas-Mens-Daily-4-0-Shoes-for-24-free-shipping/21891800.html?iref=rss-c280",
+    "date": "2026-07-10 14:53",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "New Balance Men's NB Numeric Brandon Westgate 508 Skate Shoes for $52 + free shipping",
+    "price": "$52",
+    "link": "https://www.dealnews.com/New-Balance-Mens-NB-Numeric-Brandon-Westgate-508-Skate-Shoes-for-52-free-shipping/21891753.html?iref=rss-c280",
+    "date": "2026-07-10 13:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
     "title": "adidas Ultraboost Shoe Sale: Up to 50% off + Extra 25% off + free shipping",
     "price": "$114.75",
     "link": "https://www.dealnews.com/adidas-Ultraboost-Shoe-Sale-Up-to-50-off-Extra-25-off-free-shipping/21889808.html?iref=rss-c280",
@@ -157,15 +139,6 @@ window.DEALS = [
     "price": "$14,",
     "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-for-From-14-sneakers-from-25-free-shipping/21887974.html?iref=rss-c280",
     "date": "2026-07-08 07:23",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
-    "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
