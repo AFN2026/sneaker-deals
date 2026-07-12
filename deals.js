@@ -1,11 +1,29 @@
 window.DEALS = [
   {
-    "title": "Adidas Men's Train Essentials Training Tee - Black S,M,L and XL Sizes",
-    "price": "£9.20",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-train-essentials-training-tee-in-black-sml-and-xl-sizes-available-4934295",
-    "date": "2026-07-12 14:49",
+    "title": "Puma Women’s Vikky V3 Suede Trainers (UK 3–6)",
+    "price": "£16.99",
+    "link": "https://www.hotukdeals.com/deals/puma-womens-vikky-v3-suede-trainers-uk-3-6-at-mandm-4934382",
+    "date": "2026-07-12 18:19",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "Adidas Mens Tiro 25 Competition Short Sleeve Goalkeeper Jersey Grey/Yellow - Various Sizes Available",
+    "price": "£11.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-tiro-25-competition-short-sleeve-goalkeeper-jersey-greyyellow-various-sizes-available-4934372",
+    "date": "2026-07-12 17:45",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men Essentials French Terry 3-Stripes Shorts $13 + Free Shipping",
+    "price": "$13",
+    "link": "https://slickdeals.net/f/19749525-adidas-men-essentials-french-terry-3-stripes-shorts-13-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-12 01:00",
+    "source": "Slickdeals",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
@@ -135,15 +153,6 @@ window.DEALS = [
     "keyword": "new balance"
   },
   {
-    "title": "adidas Ultraboost Shoe Sale: Up to 50% off + Extra 25% off + free shipping",
-    "price": "$114.75",
-    "link": "https://www.dealnews.com/adidas-Ultraboost-Shoe-Sale-Up-to-50-off-Extra-25-off-free-shipping/21889808.html?iref=rss-c280",
-    "date": "2026-07-09 08:31",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Shoe Deals for From $14, sneakers from $25 + free shipping",
     "price": "$14,",
     "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-for-From-14-sneakers-from-25-free-shipping/21887974.html?iref=rss-c280",
@@ -157,6 +166,15 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
     "date": "2026-06-30 04:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
+    "price": "$99",
+    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
+    "date": "2026-06-18 14:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
