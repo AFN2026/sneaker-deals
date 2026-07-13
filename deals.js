@@ -1,11 +1,56 @@
 window.DEALS = [
   {
-    "title": "Adidas OG Sale + Extra 15% e.g Women's Gazelle / Samba | Men's Gazelle £36.55 (6-10.5) / Montreal (4-11) £37.40 (Links in Description)",
-    "price": "£36.55",
-    "link": "https://www.hotukdeals.com/deals/adidas-og-sale-extra-15-eg-womens-gazelle-samba-mens-gazelle-ps3655-6-105-montreal-4-11-ps3740-links-in-description-4934695",
-    "date": "2026-07-13 08:51",
+    "title": "Adidas Performance Climacool Cushioned Crew Socks 3 Pairs - Size 4.5-6 (S&S £6.36)",
+    "price": "£6.36",
+    "link": "https://www.hotukdeals.com/deals/adidas-performance-climacool-cushioned-crew-socks-3-pairs-size-45-6-ss-ps636-4934923",
+    "date": "2026-07-13 13:58",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Samba XLG Shoes for $41 + free shipping",
+    "price": "$41",
+    "link": "https://www.dealnews.com/adidas-Mens-Samba-XLG-Shoes-for-41-free-shipping/21900257.html?iref=rss-c280",
+    "date": "2026-07-13 13:37",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Women's Shoes Sale: Up to 50% off + extra 25% off + free shipping",
+    "price": "$57.75",
+    "link": "https://www.dealnews.com/adidas-Womens-Shoes-Sale-Up-to-50-off-extra-25-off-free-shipping/21900253.html?iref=rss-c280",
+    "date": "2026-07-13 13:25",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Duramo SL Shoes for $27 + free shipping",
+    "price": "$27",
+    "link": "https://www.dealnews.com/adidas-Mens-Duramo-SL-Shoes-for-27-free-shipping/21900236.html?iref=rss-c280",
+    "date": "2026-07-13 12:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Gazelle Shoes Sale: Up to 50% off + extra 25% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Mens-Gazelle-Shoes-Sale-Up-to-50-off-extra-25-off-free-shipping/21900230.html?iref=rss-c280",
+    "date": "2026-07-13 12:19",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Samba Shoes Sale: Up to 50% off + extra 25% off + free shipping",
+    "price": "$41.25",
+    "link": "https://www.dealnews.com/adidas-Mens-Samba-Shoes-Sale-Up-to-50-off-extra-25-off-free-shipping/21900158.html?iref=rss-c280",
+    "date": "2026-07-13 08:40",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
@@ -106,33 +151,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "reebok"
-  },
-  {
-    "title": "adidas Men's Daily 4.0 Shoes for $24 + free shipping",
-    "price": "$24",
-    "link": "https://www.dealnews.com/adidas-Mens-Daily-4-0-Shoes-for-24-free-shipping/21891800.html?iref=rss-c280",
-    "date": "2026-07-10 14:53",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "New Balance Men's NB Numeric Brandon Westgate 508 Skate Shoes for $52 + free shipping",
-    "price": "$52",
-    "link": "https://www.dealnews.com/New-Balance-Mens-NB-Numeric-Brandon-Westgate-508-Skate-Shoes-for-52-free-shipping/21891753.html?iref=rss-c280",
-    "date": "2026-07-10 13:08",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
-  },
-  {
-    "title": "New Balance Men's Fresh Foam Arishi v4 Tiralux Running Shoes for $51 + free shipping",
-    "price": "$51",
-    "link": "https://www.dealnews.com/New-Balance-Mens-Fresh-Foam-Arishi-v4-Tiralux-Running-Shoes-for-51-free-shipping/21891751.html?iref=rss-c280",
-    "date": "2026-07-10 13:02",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
   },
   {
     "title": "adidas Ultraboost Shoe Sale: Up to 50% off + Extra 25% off + free shipping",
