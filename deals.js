@@ -1,46 +1,19 @@
 window.DEALS = [
   {
-    "title": "Footwear Sale | E.g Adidas Galaxy 7 Trainers (7-11) / VS Pace Trainers - £18 / Crocs Classic Clogs - £20 / adidas Barreda Trainers - £22",
-    "price": "£18",
-    "link": "https://www.hotukdeals.com/deals/footwear-sale-eg-adidas-galaxy-7-trainers-7-11-vs-pace-trainers-ps18-crocs-classic-clogs-ps20-adidas-barreda-trainers-ps22-4935348",
-    "date": "2026-07-14 07:48",
+    "title": "adidas Unisex Kids Thin and Light Sportswear Low-Cut Socks 3 Pairs - 7-8 Years",
+    "price": "£2.70",
+    "link": "https://www.hotukdeals.com/deals/adidas-unisex-kids-thin-and-light-sportswear-low-cut-socks-3-pairs-7-8-years-4935573",
+    "date": "2026-07-14 13:08",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
   },
   {
-    "title": "Adidas Men’s Barreda Trainers (Sizes 7-12)",
-    "price": "£22",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-barreda-trainers-sizes-7-12-4935333",
-    "date": "2026-07-14 07:28",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men’s Galaxy 7 Trainers (Sizes 7-11)",
-    "price": "£18",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-galaxy-7-trainers-sizes-7-11-4935329",
-    "date": "2026-07-14 07:23",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men’s Runfalcon 5 Trainers (3 Colours / Sizes 7-12)",
-    "price": "£20",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-runfalcon-5-trainers-3-colours-sizes-7-12-4935320",
-    "date": "2026-07-14 07:18",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Run 70s 2.0 Shoes (4 Colors) $27",
-    "price": "$27",
-    "link": "https://slickdeals.net/f/19756500-adidas-men-s-run-70s-2-0-shoes-4-colors-27?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-13 19:00",
-    "source": "Slickdeals",
+    "title": "adidas Men's Shoes Sale: Up to 50% off + extra 15% off + Free shipping",
+    "price": "$33.15",
+    "link": "https://www.dealnews.com/adidas-Mens-Shoes-Sale-Up-to-50-off-extra-15-off-Free-shipping/21901950.html?iref=rss-c280",
+    "date": "2026-07-14 12:35",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -160,24 +133,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Reebok Men's Club C 85 Vintage Tennis Sneakers for $60 + free shipping",
-    "price": "$60",
-    "link": "https://www.dealnews.com/Reebok-Mens-Club-C-85-Vintage-Tennis-Sneakers-for-60-free-shipping/21891918.html?iref=rss-c280",
-    "date": "2026-07-10 20:48",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "reebok"
-  },
-  {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
-    "date": "2026-06-30 04:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
