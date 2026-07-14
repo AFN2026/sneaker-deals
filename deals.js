@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "adidas Men's Galaxy 7 Running Shoes (3 Colors) $23",
+    "price": "$23",
+    "link": "https://slickdeals.net/f/19756341-adidas-men-s-galaxy-7-running-shoes-3-colors-23?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-13 18:28",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's Samba XLG Shoes for $41 + free shipping",
     "price": "$41",
     "link": "https://www.dealnews.com/adidas-Mens-Samba-XLG-Shoes-for-41-free-shipping/21900257.html?iref=rss-c280",
