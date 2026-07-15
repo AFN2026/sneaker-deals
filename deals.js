@@ -1,5 +1,32 @@
 window.DEALS = [
   {
+    "title": "Nike Men's Killshot 2 Shoes for $61 + free shipping",
+    "price": "$61",
+    "link": "https://www.dealnews.com/Nike-Mens-Killshot-2-Shoes-for-61-free-shipping/21902130.html?iref=rss-c280",
+    "date": "2026-07-14 22:04",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Court Legacy Shoes for $48 + free shipping w/ $50",
+    "price": "$48",
+    "link": "https://www.dealnews.com/Nike-Mens-Court-Legacy-Shoes-for-48-free-shipping-w-50/21902128.html?iref=rss-c280",
+    "date": "2026-07-14 21:53",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's or Women's D.O.N. Issue #7 Basketball Shoes for $40 + free shipping w/ $49",
+    "price": "$40",
+    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-D-O-N-Issue-7-Basketball-Shoes-for-40-free-shipping-w-49/21902114.html?iref=rss-c280",
+    "date": "2026-07-14 20:50",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "New Balance Unisex 740 Running Shoes for $50 + free shipping w/ $89",
     "price": "$50",
     "link": "https://www.dealnews.com/New-Balance-Unisex-740-Running-Shoes-for-50-free-shipping-w-89/21902070.html?iref=rss-c280",
@@ -7,24 +34,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "new balance"
-  },
-  {
-    "title": "Reebok Men's Soft Woven Quilted Hooded Jacket (2 Colors) $19.99 + Free Shipping on $50+",
-    "price": "$19.99",
-    "link": "https://slickdeals.net/f/19760577-reebok-men-s-soft-woven-quilted-hooded-jacket-2-colors-19-99-free-shipping-on-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-14 16:13",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "reebok"
-  },
-  {
-    "title": "adidas Women's VL Court 3.0 Shoes (Various). $24 + Free Shipping",
-    "price": "$24",
-    "link": "https://slickdeals.net/f/19760439-adidas-women-s-vl-court-3-0-shoes-various-24-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-14 15:47",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "Reebok Shoes & Clothing Back to School Savings Event: Up to 50% off + free shipping w/ $75",
@@ -50,15 +59,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Shoes-Sale-Up-to-50-off-extra-15-off-Free-shipping/21901950.html?iref=rss-c280",
     "date": "2026-07-14 12:35",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Lite Racer Adapt 7.0 Shoes (Cloud white / core black / cloud white) $26",
-    "price": "$26",
-    "link": "https://slickdeals.net/f/19756431-adidas-men-s-lite-racer-adapt-7-0-shoes-cloud-white-core-black-cloud-white-26?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-13 18:48",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -99,37 +99,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's RUN 70s 2.0 Shoes for $27 + free shipping",
-    "price": "$27",
-    "link": "https://www.dealnews.com/adidas-Mens-RUN-70-s-2-0-Shoes-for-27-free-shipping/21893560.html?iref=rss-c280",
-    "date": "2026-07-11 15:52",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Outlet Deals at eBay: Up to 75% off + shipping varies",
-    "price": "$23.",
-    "link": "https://www.dealnews.com/adidas-Outlet-Deals-at-eBay-Up-to-75-off-shipping-varies/21893527.html?iref=rss-c280",
-    "date": "2026-07-11 12:02",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's X_PLR Path Shoes (11.5 to 12.5 only) for $24 + free shipping",
-    "price": "$24",
-    "link": "https://www.dealnews.com/adidas-Mens-X-PLR-Path-Shoes-11-5-to-12-5-only-for-24-free-shipping/21893526.html?iref=rss-c280",
-    "date": "2026-07-11 11:58",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
-    "date": "2026-06-30 04:01",
+    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
+    "price": "$99",
+    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
+    "date": "2026-06-18 14:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
