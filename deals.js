@@ -1,20 +1,11 @@
 window.DEALS = [
   {
-    "title": "Adidas Men’s VL Court 3.0 Trainers (Sizes 7-12)",
-    "price": "£24",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-vl-court-30-trainers-sizes-7-12-4936094",
-    "date": "2026-07-15 07:12",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Adidas Men’s Run 60s 4.0 Trainers (Sizes 7-12)",
-    "price": "£20",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-run-60s-40-trainers-sizes-7-12-4936090",
-    "date": "2026-07-15 07:08",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "adidas Men's Victory Bucket Hat (Dusky Bronze Brown/Aurora Coffee Brown) $18.60 + Free Shipping w/ Prime or on $35+",
+    "price": "$18.60",
+    "link": "https://slickdeals.net/f/19763781-adidas-men-s-victory-bucket-hat-dusky-bronze-brown-aurora-coffee-brown-18-60-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-15 10:27",
+    "source": "Slickdeals",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
@@ -76,33 +67,6 @@ window.DEALS = [
     "price": "$33.15",
     "link": "https://www.dealnews.com/adidas-Mens-Shoes-Sale-Up-to-50-off-extra-15-off-Free-shipping/21901950.html?iref=rss-c280",
     "date": "2026-07-14 12:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Samba XLG Shoes for $41 + free shipping",
-    "price": "$41",
-    "link": "https://www.dealnews.com/adidas-Mens-Samba-XLG-Shoes-for-41-free-shipping/21900257.html?iref=rss-c280",
-    "date": "2026-07-13 13:37",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Women's Shoes Sale: Up to 50% off + extra 25% off + free shipping",
-    "price": "$57.75",
-    "link": "https://www.dealnews.com/adidas-Womens-Shoes-Sale-Up-to-50-off-extra-25-off-free-shipping/21900253.html?iref=rss-c280",
-    "date": "2026-07-13 13:25",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Duramo SL Shoes for $27 + free shipping",
-    "price": "$27",
-    "link": "https://www.dealnews.com/adidas-Mens-Duramo-SL-Shoes-for-27-free-shipping/21900236.html?iref=rss-c280",
-    "date": "2026-07-13 12:34",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
