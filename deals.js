@@ -18,6 +18,15 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
+    "title": "adidas women's adizero adios pro 4 shoes  (2 colors) - from $89.40",
+    "price": "$89.40",
+    "link": "https://slickdeals.net/f/19762980-adidas-women-s-adizero-adios-pro-4-shoes-2-colors-from-89-40?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-15 05:20",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Men's Killshot 2 Shoes for $61 + free shipping",
     "price": "$61",
     "link": "https://www.dealnews.com/Nike-Mens-Killshot-2-Shoes-for-61-free-shipping/21902130.html?iref=rss-c280",
@@ -54,6 +63,15 @@ window.DEALS = [
     "keyword": "new balance"
   },
   {
+    "title": "Reebok Shoes & Clothing Back to School Savings Event: Up to 50% off + free shipping w/ $75",
+    "price": "$75",
+    "link": "https://www.dealnews.com/Reebok-Shoes-Clothing-Back-to-School-Savings-Event-Up-to-50-off-free-shipping-w-75/21902017.html?iref=rss-c280",
+    "date": "2026-07-14 15:37",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "reebok"
+  },
+  {
     "title": "adidas Men's Samba Shoes Sale: Up to 50% off + extra 25% off + free shipping",
     "price": "$41.25",
     "link": "https://www.dealnews.com/adidas-Mens-Samba-Shoes-Sale-Up-to-50-off-extra-25-off-free-shipping/21900158.html?iref=rss-c280",
@@ -67,15 +85,6 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
     "date": "2026-06-30 04:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
-    "price": "$99",
-    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
-    "date": "2026-06-18 14:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
