@@ -1,28 +1,19 @@
 window.DEALS = [
   {
-    "title": "Nike Women's Air Winflo 12 Shoes (Orange) $77 + Free Shipping",
-    "price": "$77",
-    "link": "https://slickdeals.net/f/19764999-nike-women-s-air-winflo-12-shoes-orange-77-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-15 15:45",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "$22.50 | Adidas Womens Ultimate365 Solid Skort at Amazon",
-    "price": "$22.50",
-    "link": "https://slickdeals.net/f/19763649-22-50-adidas-womens-ultimate365-solid-skort-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-15 09:32",
-    "source": "Slickdeals",
+    "title": "adidas Men's Terrex Boat Slip-On Climacool Shoes for $54 + Free shipping",
+    "price": "$54",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Boat-Slip-On-Climacool-Shoes-for-54-Free-shipping/21903737.html?iref=rss-c280",
+    "date": "2026-07-15 19:29",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "Adidas via Shopsimon - Extra 40% Off + Free Shipping",
-    "price": "",
-    "link": "https://slickdeals.net/f/19762845-adidas-via-shopsimon-extra-40-off-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-15 04:53",
-    "source": "Slickdeals",
+    "title": "adidas Men's Shoes Deals for From $15, sneakers from $33 + free shipping",
+    "price": "$15,",
+    "link": "https://www.dealnews.com/adidas-Mens-Shoes-Deals-for-From-15-sneakers-from-33-free-shipping/21903734.html?iref=rss-c280",
+    "date": "2026-07-15 19:24",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -63,42 +54,6 @@ window.DEALS = [
     "keyword": "new balance"
   },
   {
-    "title": "adidas Women's Breaknet Sleek Shoes (Puttu Mauve/Core White/Gum) $20 + Free Shipping",
-    "price": "$20",
-    "link": "https://slickdeals.net/f/19760373-adidas-women-s-breaknet-sleek-shoes-puttu-mauve-core-white-gum-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-14 15:42",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Reebok Shoes & Clothing Back to School Savings Event: Up to 50% off + free shipping w/ $75",
-    "price": "$75",
-    "link": "https://www.dealnews.com/Reebok-Shoes-Clothing-Back-to-School-Savings-Event-Up-to-50-off-free-shipping-w-75/21902017.html?iref=rss-c280",
-    "date": "2026-07-14 15:37",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "reebok"
-  },
-  {
-    "title": "adidas Men's Lite Racer 4.0 Shoes for $33...or less + free shipping",
-    "price": "$33...",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-33-or-less-free-shipping/21901968.html?iref=rss-c280",
-    "date": "2026-07-14 13:28",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Shoes Sale: Up to 50% off + extra 15% off + Free shipping",
-    "price": "$33.15",
-    "link": "https://www.dealnews.com/adidas-Mens-Shoes-Sale-Up-to-50-off-extra-15-off-Free-shipping/21901950.html?iref=rss-c280",
-    "date": "2026-07-14 12:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Samba Shoes Sale: Up to 50% off + extra 25% off + free shipping",
     "price": "$41.25",
     "link": "https://www.dealnews.com/adidas-Mens-Samba-Shoes-Sale-Up-to-50-off-extra-25-off-free-shipping/21900158.html?iref=rss-c280",
@@ -112,6 +67,15 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
     "date": "2026-06-30 04:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
+    "price": "$99",
+    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
+    "date": "2026-06-18 14:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
