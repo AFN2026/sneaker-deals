@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "adidas Men's Lightblaze Shoes for $30 + free shipping w/ $49",
+    "price": "$30",
+    "link": "https://www.dealnews.com/adidas-Mens-Lightblaze-Shoes-for-30-free-shipping-w-49/21905617.html?iref=rss-c280",
+    "date": "2026-07-16 20:49",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Reebok Men's Match Prime V2 Court Casual Shoes for  $30 +  free shipping w/ $39",
     "price": "$30",
     "link": "https://www.dealnews.com/Reebok-Mens-Match-Prime-V2-Court-Casual-Shoes-for-30-free-shipping-w-39/21905534.html?iref=rss-c280",
@@ -67,15 +76,6 @@ window.DEALS = [
     "price": "$41.25",
     "link": "https://www.dealnews.com/adidas-Mens-Samba-Shoes-Sale-Up-to-50-off-extra-25-off-free-shipping/21900158.html?iref=rss-c280",
     "date": "2026-07-13 08:40",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
-    "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
