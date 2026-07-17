@@ -1,5 +1,32 @@
 window.DEALS = [
   {
+    "title": "Nike Men's Court Vision Low Next Nature Shoes for $49 + free shipping w/ $50",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Nike-Mens-Court-Vision-Low-Next-Nature-Shoes-for-49-free-shipping-w-50/21907285.html?iref=rss-c280",
+    "date": "2026-07-17 18:09",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "New Balance Shoe Deals at Nordstrom Rack: Up to 76% off + free shipping w/ $89",
+    "price": "$89",
+    "link": "https://www.dealnews.com/New-Balance-Shoe-Deals-at-Nordstrom-Rack-Up-to-76-off-free-shipping-w-89/21907211.html?iref=rss-c280",
+    "date": "2026-07-17 14:37",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "adidas Men's Galaxy 7 Shoes for $23 + free shipping",
+    "price": "$23",
+    "link": "https://www.dealnews.com/adidas-Mens-Galaxy-7-Shoes-for-23-free-shipping/21907189.html?iref=rss-c280",
+    "date": "2026-07-17 13:55",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's Summer Deals: Up to 50% off + extra 15% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/adidas-Mens-Summer-Deals-Up-to-50-off-extra-15-off-free-shipping/21907096.html?iref=rss-c280",
@@ -27,33 +54,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike & Jordan Promo Code at Champs Sports for Up to 60% off + extra 20% off $99 + free shipping",
-    "price": "$99",
-    "link": "https://www.dealnews.com/Nike-Jordan-Promo-Code-at-Champs-Sports-for-Up-to-60-off-extra-20-off-99-free-shipping/21905427.html?iref=rss-c280",
-    "date": "2026-07-16 12:16",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Back to School Deals: Up to 40% off + extra 15% or 25% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Back-to-School-Deals-Up-to-40-off-extra-15-or-25-off-free-shipping/21905385.html?iref=rss-c280",
-    "date": "2026-07-16 09:51",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Anylander Leather Mid Climaproof Hiking Shoes for $72 + free shipping",
-    "price": "$72",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Anylander-Leather-Mid-Climaproof-Hiking-Shoes-for-72-free-shipping/21905380.html?iref=rss-c280",
-    "date": "2026-07-16 09:24",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas App Exclusive Sale: Extra 25% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/adidas-App-Exclusive-Sale-Extra-25-off-free-shipping/21905363.html?iref=rss-c280",
@@ -63,13 +63,22 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Terrex Boat Slip-On Climacool Shoes for $54 + Free shipping",
-    "price": "$54",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Boat-Slip-On-Climacool-Shoes-for-54-Free-shipping/21903737.html?iref=rss-c280",
-    "date": "2026-07-15 19:29",
-    "source": "DealNews",
+    "title": "New Balance Women's 480 Leather Sneakers (White/Black, Sizes 5.5-8.5) $35.67 + Free Shipping on $49+ for ScoreCard Members",
+    "price": "$35.67",
+    "link": "https://slickdeals.net/f/19753389-new-balance-women-s-480-leather-sneakers-white-black-sizes-5-5-8-5-35-67-free-shipping-on-49-for-scorecard-members?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-13 06:14",
+    "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "adidas"
+    "keyword": "new balance"
+  },
+  {
+    "title": "Jordan Men's Flight Cotton Core Boxer Briefs – 3 Pack $13.48@dicks sporting goods",
+    "price": "$13.48",
+    "link": "https://slickdeals.net/f/19752972-jordan-men-s-flight-cotton-core-boxer-briefs-3-pack-13-48-dicks-sporting-goods?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-13 04:15",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "jordan"
   },
   {
     "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
