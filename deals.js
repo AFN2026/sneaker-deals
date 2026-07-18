@@ -1,5 +1,59 @@
 window.DEALS = [
   {
+    "title": "Adidas Terrex Trailmaker 2 Gore-TEX Hiking Shoes, Cardboard Grey - Most Sizes 5.5 - 12",
+    "price": "£55",
+    "link": "https://www.hotukdeals.com/deals/adidas-terrex-trailmaker-2-gore-tex-hiking-shoes-most-sizes-55-12-4938619",
+    "date": "2026-07-18 12:50",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Merrell Men's Morphlite Trail Sneakers for $35 + free shipping w/ Prime",
+    "price": "$35",
+    "link": "https://www.dealnews.com/Merrell-Mens-Morphlite-Trail-Sneakers-for-35-free-shipping-w-Prime/21908816.html?iref=rss-c280",
+    "date": "2026-07-18 11:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Nike Men's Vomero 18 Running Shoes for $90 + free shipping",
+    "price": "$90",
+    "link": "https://www.dealnews.com/Nike-Mens-Vomero-18-Running-Shoes-for-90-free-shipping/21908812.html?iref=rss-c280",
+    "date": "2026-07-18 11:07",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air Force 1 '07 Sneakers for $70 + free shipping",
+    "price": "$70",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-07-Sneakers-for-70-free-shipping/21908809.html?iref=rss-c280",
+    "date": "2026-07-18 10:51",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nordstrom Anniversary Shoe Sale: Up to 60% off + free shipping",
+    "price": "$25.",
+    "link": "https://www.dealnews.com/Nordstrom-Anniversary-Shoe-Sale-Up-to-60-off-free-shipping/21908807.html?iref=rss-c280",
+    "date": "2026-07-18 10:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Merrell Men's Morphlite Trail Sneakers $34.99",
+    "price": "$34.99",
+    "link": "https://slickdeals.net/f/19775256-merrell-men-s-morphlite-trail-sneakers-34-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-17 22:35",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
     "title": "Nike Men's Court Vision Low Next Nature Shoes for $49 + free shipping w/ $50",
     "price": "$49",
     "link": "https://www.dealnews.com/Nike-Mens-Court-Vision-Low-Next-Nature-Shoes-for-49-free-shipping-w-50/21907285.html?iref=rss-c280",
@@ -43,15 +97,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "puma"
-  },
-  {
-    "title": "adidas Men's Lightblaze Shoes for $30 + free shipping w/ $49",
-    "price": "$30",
-    "link": "https://www.dealnews.com/adidas-Mens-Lightblaze-Shoes-for-30-free-shipping-w-49/21905617.html?iref=rss-c280",
-    "date": "2026-07-16 20:49",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas App Exclusive Sale: Extra 25% off + free shipping",
