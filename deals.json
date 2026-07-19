@@ -1,5 +1,23 @@
 [
   {
+    "title": "Nike & Jordan Sale at Foot Locker: Up to 30% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/Nike-Jordan-Sale-at-Foot-Locker-Up-to-30-off-free-shipping/21912614.html?iref=rss-c280",
+    "date": "2026-07-19 18:29",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Slides for Deals from $18 + free shipping",
+    "price": "$18",
+    "link": "https://www.dealnews.com/adidas-Mens-Slides-for-Deals-from-18-free-shipping/21912597.html?iref=rss-c280",
+    "date": "2026-07-19 14:59",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's Lite Racer 4.0 Shoes for $21 + free shipping",
     "price": "$21",
     "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-21-free-shipping/21912582.html?iref=rss-c280",
@@ -25,24 +43,6 @@
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "adidas VL Court 3.0 Shoes 3UK",
-    "price": "£19.58",
-    "link": "https://www.hotukdeals.com/deals/adidas-vl-court-30-shoes-3uk-4939125",
-    "date": "2026-07-19 11:52",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Skechers Women's Stamina Sport Slip-in Trainers 3.5UK",
-    "price": "£23.51",
-    "link": "https://www.hotukdeals.com/deals/skechers-womens-stamina-sport-slip-in-trainers-35uk-4939123",
-    "date": "2026-07-19 11:50",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
   },
   {
     "title": "adidas Men Run 70s 2.0 Shoes for $27 + free shipping",
@@ -108,47 +108,11 @@
     "keyword": "adidas"
   },
   {
-    "title": "Merrell Men's Morphlite Trail Sneakers for $35 + free shipping w/ Prime",
-    "price": "$35",
-    "link": "https://www.dealnews.com/Merrell-Mens-Morphlite-Trail-Sneakers-for-35-free-shipping-w-Prime/21908816.html?iref=rss-c280",
-    "date": "2026-07-18 11:32",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's Vomero 18 Running Shoes for $90 + free shipping",
-    "price": "$90",
-    "link": "https://www.dealnews.com/Nike-Mens-Vomero-18-Running-Shoes-for-90-free-shipping/21908812.html?iref=rss-c280",
-    "date": "2026-07-18 11:07",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "adidas App Exclusive Sale: Extra 25% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/adidas-App-Exclusive-Sale-Extra-25-off-free-shipping/21905363.html?iref=rss-c280",
     "date": "2026-07-16 08:34",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "$17.50 Choice of Colors Avia Men's Comfort Knit Running Sneakers Size 8-13  FS Walmart+ or Pick up where available",
-    "price": "$17.50",
-    "link": "https://slickdeals.net/f/19766877-17-50-choice-of-colors-avia-men-s-comfort-knit-running-sneakers-size-8-13-fs-walmart-or-pick-up-where-available?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-16 00:28",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Adidas men's galaxy 7 running shoes  (4 colors) - $22.80",
-    "price": "$22.80",
-    "link": "https://slickdeals.net/f/19762857-adidas-men-s-galaxy-7-running-shoes-4-colors-22-80?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-15 04:55",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
