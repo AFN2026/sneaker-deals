@@ -1,14 +1,5 @@
 window.DEALS = [
   {
-    "title": "Adidas Women's VL Court Bold Trainers - White Size 5",
-    "price": "£26.23",
-    "link": "https://www.hotukdeals.com/deals/adidas-womens-vl-court-bold-trainers-white-size-5-4938740",
-    "date": "2026-07-18 17:20",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Summer Deals: Up to 50% off + extra 15% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/adidas-Mens-Summer-Deals-Up-to-50-off-extra-15-off-free-shipping/21908852.html?iref=rss-c280",
@@ -90,10 +81,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas App Exclusive Sale: Extra 25% off + free shipping",
+    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
     "price": "",
-    "link": "https://www.dealnews.com/adidas-App-Exclusive-Sale-Extra-25-off-free-shipping/21905363.html?iref=rss-c280",
-    "date": "2026-07-16 08:34",
+    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
+    "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
