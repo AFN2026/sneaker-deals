@@ -1,5 +1,41 @@
 window.DEALS = [
   {
+    "title": "adidas Unisex Kids TIBERIO WINDBREAKER size 4-5 years",
+    "price": "£10.89",
+    "link": "https://www.hotukdeals.com/deals/adidas-unisex-kids-tiberio-windbreaker-size-4-5-years-4939400",
+    "date": "2026-07-20 00:49",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Unisex Kids Essentials Climacool Shorts, Black/White, 9-10 Years",
+    "price": "£7",
+    "link": "https://www.hotukdeals.com/deals/adidas-unisex-kids-essentials-climacool-shorts-blackwhite-9-10-years-4939396",
+    "date": "2026-07-20 00:45",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Pegasus Premium Road Running Shoes (various) $132.73 + Free Shipping",
+    "price": "$132.73",
+    "link": "https://slickdeals.net/f/19782972-nike-men-s-pegasus-premium-road-running-shoes-various-132-73-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-19 21:30",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air Force 1 '07 LV8 Shoes (Navy/Worn Blue) $65.23 + Free Shipping",
+    "price": "$65.23",
+    "link": "https://slickdeals.net/f/19782882-nike-men-s-air-force-1-07-lv8-shoes-navy-worn-blue-65-23-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-19 21:03",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "Nike & Jordan Sale at Foot Locker: Up to 30% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/Nike-Jordan-Sale-at-Foot-Locker-Up-to-30-off-free-shipping/21912614.html?iref=rss-c280",
