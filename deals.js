@@ -1,5 +1,50 @@
 window.DEALS = [
   {
+    "title": "Nike Air Jordan Men's Access Low Trainers, Sizes 7-11 (Mid Trainers £52.20) W/Code",
+    "price": "£52.20",
+    "link": "https://www.hotukdeals.com/deals/nike-air-jordan-mens-access-low-trainers-sizes-7-11-mid-trainers-ps5220-wcode-4940592",
+    "date": "2026-07-21 18:53",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air Max Bia Shoes for $58 + free shipping",
+    "price": "$58",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Bia-Shoes-for-58-free-shipping/21917929.html?iref=rss-c280",
+    "date": "2026-07-21 16:05",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air Jordan Skyline Shoes for $57 + free shipping",
+    "price": "$57",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Jordan-Skyline-Shoes-for-57-free-shipping/21917924.html?iref=rss-c280",
+    "date": "2026-07-21 15:57",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Uplift SC Shoes for $45 + free shipping w/ $50",
+    "price": "$45",
+    "link": "https://www.dealnews.com/Nike-Mens-Uplift-SC-Shoes-for-45-free-shipping-w-50/21917913.html?iref=rss-c280",
+    "date": "2026-07-21 15:29",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Deal Days at Dick's Sporting Goods : Up to 87% off +  free shipping w/ $49",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Nike-Deal-Days-at-Dicks-Sporting-Goods-Up-to-87-off-free-shipping-w-49/21917897.html?iref=rss-c280",
+    "date": "2026-07-21 14:53",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "adidas Men's Adizero Adios OG Shoes for $40 + free shipping",
     "price": "$40",
     "link": "https://www.dealnews.com/adidas-Mens-Adizero-Adios-OG-Shoes-for-40-free-shipping/21917842.html?iref=rss-c280",
@@ -18,74 +63,11 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "COMFEE' Table Top Dishwasher 7+3 Programs Mini Tabletop Dishwasher No Plumbing - 6L",
-    "price": "£209.98",
-    "link": "https://www.hotukdeals.com/deals/comfee-table-top-dishwasher-73-programs-mini-tabletop-dishwasher-no-plumbing-6l-4940363",
-    "date": "2026-07-21 12:22",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
-  },
-  {
-    "title": "Up Tp 50% Off + Extra 10% Off & Free Delivery for Members - Leather Trainers £38.25 / Boots £54 / Barrel Bag £40.50 & More",
-    "price": "£38.25",
-    "link": "https://www.hotukdeals.com/deals/fred-perry-up-tp-50-off-extra-10-off-free-delivery-for-members-leather-trainers-ps3825-boots-ps54-barrel-bag-ps4050-more-4940360",
-    "date": "2026-07-21 12:16",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
-  },
-  {
-    "title": "Nike Men's Fleece Hoodie (Orange or Tattoo) $26.25 + Free Shipping on $49+",
-    "price": "$26.25",
-    "link": "https://slickdeals.net/f/19790415-nike-men-s-fleece-hoodie-orange-or-tattoo-26-25-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-21 11:15",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "Nike Men's Air Force 1 '07 LV8 Shoes for $65 + shipping varies",
     "price": "$65",
     "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-07-LV8-Shoes-for-65-shipping-varies/21917786.html?iref=rss-c280",
     "date": "2026-07-21 10:29",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Axis Knit Training Shorts (3 Colors) $10.8",
-    "price": "$10.8",
-    "link": "https://slickdeals.net/f/19789236-adidas-men-s-axis-knit-training-shorts-3-colors-10-8?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-21 04:24",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Extra 40% Off adidas Back to School Sale at eBay",
-    "price": "",
-    "link": "https://slickdeals.net/f/19789047-extra-40-off-adidas-back-to-school-sale-at-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-21 03:17",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men Galaxy 7 Running Shoes (various colors) $22.8 + Free Shipping",
-    "price": "$22.8",
-    "link": "https://slickdeals.net/f/19788513-adidas-men-galaxy-7-running-shoes-various-colors-22-8-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-21 00:02",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Big Kids' Dunk Low Shoes (Various) from $55.48 + Free Shipping",
-    "price": "$55.48",
-    "link": "https://slickdeals.net/f/19787604-nike-big-kids-dunk-low-shoes-various-from-55-48-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-20 19:32",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "nike"
   },
@@ -139,123 +121,6 @@ window.DEALS = [
     "price": "$22.80",
     "link": "https://www.dealnews.com/adidas-Mens-Barreda-Shoes-for-22-80-free-shipping/21915446.html?iref=rss-c280",
     "date": "2026-07-20 17:54",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Women's Galaxy 7 Running Shoes for $22.80 + free shipping",
-    "price": "$22.80",
-    "link": "https://www.dealnews.com/adidas-Womens-Galaxy-7-Running-Shoes-for-22-80-free-shipping/21915445.html?iref=rss-c280",
-    "date": "2026-07-20 17:53",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Kids Terrex Tracefinder Trail Running Shoes for $21.60 + free shipping",
-    "price": "$21.60",
-    "link": "https://www.dealnews.com/adidas-Kids-Terrex-Tracefinder-Trail-Running-Shoes-for-21-60-free-shipping/21915444.html?iref=rss-c280",
-    "date": "2026-07-20 17:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Lite Racer 4.0 Men's Shoes for $21 + free shipping",
-    "price": "$21",
-    "link": "https://www.dealnews.com/adidas-Lite-Racer-4-0-Mens-Shoes-for-21-free-shipping/21915443.html?iref=rss-c280",
-    "date": "2026-07-20 17:48",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Kids' Lite Racer Adapt 7.0 Shoes for $18.60 + free shipping",
-    "price": "$18.60",
-    "link": "https://www.dealnews.com/adidas-Kids-Lite-Racer-Adapt-7-0-Shoes-for-18-60-free-shipping/21915437.html?iref=rss-c280",
-    "date": "2026-07-20 17:27",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Back to School Air Force 1 Deals: Up to 30% off + extra 25% off + free shipping",
-    "price": "$77",
-    "link": "https://www.dealnews.com/Nike-Back-to-School-Air-Force-1-Deals-Up-to-30-off-extra-25-off-free-shipping/21915426.html?iref=rss-c280",
-    "date": "2026-07-20 17:07",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Swift Run 1.0 Shoes for $42 + free shipping",
-    "price": "$42",
-    "link": "https://www.dealnews.com/adidas-Mens-Swift-Run-1-0-Shoes-for-42-free-shipping/21915411.html?iref=rss-c280",
-    "date": "2026-07-20 15:59",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Lite Racer Adapt 7.0 Wide Shoes for $32 + free shipping",
-    "price": "$32",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-Adapt-7-0-Wide-Shoes-for-32-free-shipping/21915408.html?iref=rss-c280",
-    "date": "2026-07-20 15:55",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's SL 72 RS Shoes for $32 + free shipping",
-    "price": "$32",
-    "link": "https://www.dealnews.com/adidas-Mens-SL-72-RS-Shoes-for-32-free-shipping/21915403.html?iref=rss-c280",
-    "date": "2026-07-20 15:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Campus 00s Shoes for $41 + free shipping",
-    "price": "$41",
-    "link": "https://www.dealnews.com/adidas-Mens-Campus-00-s-Shoes-for-41-free-shipping/21915397.html?iref=rss-c280",
-    "date": "2026-07-20 15:43",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Superstar II Shoes for $38 + free shipping",
-    "price": "$38",
-    "link": "https://www.dealnews.com/adidas-Mens-Superstar-II-Shoes-for-38-free-shipping/21915392.html?iref=rss-c280",
-    "date": "2026-07-20 15:33",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Ultraboost 1.0 Shoes for $74 + free shipping",
-    "price": "$74",
-    "link": "https://www.dealnews.com/adidas-Mens-Ultraboost-1-0-Shoes-for-74-free-shipping/21915389.html?iref=rss-c280",
-    "date": "2026-07-20 15:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Galaxy 7 Shoes for $23 + free shipping",
-    "price": "$23",
-    "link": "https://www.dealnews.com/adidas-Mens-Galaxy-7-Shoes-for-23-free-shipping/21915385.html?iref=rss-c280",
-    "date": "2026-07-20 15:19",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Deals at eBay: Up to 60% off + extra 40% off + free shipping",
-    "price": "$40.20",
-    "link": "https://www.dealnews.com/adidas-Mens-Deals-at-eBay-Up-to-60-off-extra-40-off-free-shipping/21915383.html?iref=rss-c280",
-    "date": "2026-07-20 15:17",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
