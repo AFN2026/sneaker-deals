@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "adidas Men's Solid Bucket Hat (Collegiate Navy) $8.40 + Free Shipping",
+    "price": "$8.40",
+    "link": "https://slickdeals.net/f/19788177-adidas-men-s-solid-bucket-hat-collegiate-navy-8-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-20 21:30",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Men's ReactX Rejuven8 Shoes for $47 + free shipping w/ $50",
     "price": "$47",
     "link": "https://www.dealnews.com/Nike-Mens-React-X-Rejuven8-Shoes-for-47-free-shipping-w-50/21915465.html?iref=rss-c280",
@@ -7,24 +16,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Nike Dri-FIT Park Adult Kit Set",
-    "price": "£19.54",
-    "link": "https://www.hotukdeals.com/deals/nike-dri-fit-adult-shortt-shirt-sets-4939934",
-    "date": "2026-07-20 18:57",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Squadra 25 Men's Training Track Top XXL",
-    "price": "£8.02",
-    "link": "https://www.hotukdeals.com/deals/adidas-squadra-25-training-track-top-xxl-4939933",
-    "date": "2026-07-20 18:54",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
   },
   {
     "title": "Nike Men's Air Max Dn8 Shoes for $103 + free shipping",
@@ -126,10 +117,10 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Nike Women's Pro 3\" Biker Shorts (Midnight Navy) $11.98 + Free Shipping on $49",
-    "price": "$11.98",
-    "link": "https://slickdeals.net/f/19786971-nike-women-s-pro-3-biker-shorts-midnight-navy-11-98-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-20 16:59",
+    "title": "Men's Nike Club Shorts (Various Styles/Colors) $20.62 + Free Shipping on $49+",
+    "price": "$20.62",
+    "link": "https://slickdeals.net/f/19786860-men-s-nike-club-shorts-various-styles-colors-20-62-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-20 16:43",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "nike"
