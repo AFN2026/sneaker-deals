@@ -1,20 +1,29 @@
 window.DEALS = [
   {
-    "title": "Tullibardine 225 Sauternes Cask Finish | Highland Single Malt Scotch Whisky | 70cl | 43% ABV - Sold by Gertie's Trading Co. / FBA",
-    "price": "£27.99",
-    "link": "https://www.hotukdeals.com/deals/tullibardine-225-sauternes-cask-finish-highland-single-malt-scotch-whisky-70cl-43-abv-4940875",
-    "date": "2026-07-22 07:53",
+    "title": "Adidas Messi F50 Club Training Football - Silver Metallic/Lucid Blue/Solar Yellow - Size 5",
+    "price": "£6.99",
+    "link": "https://www.hotukdeals.com/deals/messi-f50-adidas-training-football-4941190",
+    "date": "2026-07-22 13:10",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "vans"
+    "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Basic 3-Stripes Tricot Track Suit, Black - Size XL",
-    "price": "£22.84",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-basic-3-stripes-tricot-track-suit-xl-4940866",
-    "date": "2026-07-22 07:44",
+    "title": "Comme des Garcons PLAY Single Heart Converse Chuck 70 High Top Trainers - Black - sizes 8.5/9/10/11/12",
+    "price": "£42",
+    "link": "https://www.hotukdeals.com/deals/comme-des-garcons-play-single-heart-converse-chuck-70-high-top-trainers-black-sizes-859101112-4941181",
+    "date": "2026-07-22 13:00",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "converse"
+  },
+  {
+    "title": "adidas Men's Summer Shoe Deals for From $15, running shoes from $33 + free shipping",
+    "price": "$15,",
+    "link": "https://www.dealnews.com/adidas-Mens-Summer-Shoe-Deals-for-From-15-running-shoes-from-33-free-shipping/21920505.html?iref=rss-c280",
+    "date": "2026-07-22 09:53",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
@@ -36,29 +45,11 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
-    "title": "Nike Men's Air Max Bia Shoes (Black / Iron Grey / Orange Frost / Turf Orange) $57.73",
-    "price": "$57.73",
-    "link": "https://slickdeals.net/f/19792629-nike-men-s-air-max-bia-shoes-black-iron-grey-orange-frost-turf-orange-57-73?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-21 19:46",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "Nike Men's Air Max Bia Shoes for $58 + free shipping",
     "price": "$58",
     "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Bia-Shoes-for-58-free-shipping/21917929.html?iref=rss-c280",
     "date": "2026-07-21 16:05",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike ReactX Rejuven8 Men's Shoes (3 Colors)  $47.23",
-    "price": "$47.23",
-    "link": "https://slickdeals.net/f/19791612-nike-reactx-rejuven8-men-s-shoes-3-colors-47-23?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-21 16:02",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "nike"
   },
@@ -94,60 +85,6 @@ window.DEALS = [
     "price": "$40",
     "link": "https://www.dealnews.com/adidas-Mens-Adizero-Adios-OG-Shoes-for-40-free-shipping/21917842.html?iref=rss-c280",
     "date": "2026-07-21 13:17",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Miami Hurricanes Adizero EVO SL Shoes for $136 + free shipping",
-    "price": "$136",
-    "link": "https://www.dealnews.com/adidas-Mens-Miami-Hurricanes-Adizero-EVO-SL-Shoes-for-136-free-shipping/21917835.html?iref=rss-c280",
-    "date": "2026-07-21 13:03",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Air Force 1 '07 LV8 Shoes for $65 + shipping varies",
-    "price": "$65",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-07-LV8-Shoes-for-65-shipping-varies/21917786.html?iref=rss-c280",
-    "date": "2026-07-21 10:29",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Max Dn8 Shoes for $103 + free shipping",
-    "price": "$103",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Dn8-Shoes-for-103-free-shipping/21915459.html?iref=rss-c280",
-    "date": "2026-07-20 18:53",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Back to School Dunk Shoe Deals: Up to 29% off + extra 25% off + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Back-to-School-Dunk-Shoe-Deals-Up-to-29-off-extra-25-off-free-shipping-w-50/21915456.html?iref=rss-c280",
-    "date": "2026-07-20 18:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Flex Train Workout Shoes for $45 + free shipping w/ $50",
-    "price": "$45",
-    "link": "https://www.dealnews.com/Nike-Mens-Flex-Train-Workout-Shoes-for-45-free-shipping-w-50/21915451.html?iref=rss-c280",
-    "date": "2026-07-20 18:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Kids Ultrarun 5 Shoes for $24 + free shipping",
-    "price": "$24",
-    "link": "https://www.dealnews.com/adidas-Kids-Ultrarun-5-Shoes-for-24-free-shipping/21915447.html?iref=rss-c280",
-    "date": "2026-07-20 17:58",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
