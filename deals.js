@@ -1,21 +1,21 @@
 window.DEALS = [
   {
-    "title": "Adidas Messi F50 Club Training Football - Silver Metallic/Lucid Blue/Solar Yellow - Size 5",
-    "price": "£6.99",
-    "link": "https://www.hotukdeals.com/deals/messi-f50-adidas-training-football-4941190",
-    "date": "2026-07-22 13:10",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
+    "title": "6-Pack Nike Men's or Women's Everyday Plus Cushion Crew Training Socks (Multi or Black, Size 6-8) $10.50 + Free Shipping on $49+ or Free Store PU at Kohl's",
+    "price": "$10.50",
+    "link": "https://slickdeals.net/f/19796232-6-pack-nike-men-s-or-women-s-everyday-plus-cushion-crew-training-socks-multi-or-black-size-6-8-10-50-free-shipping-on-49-or-free-store-pu-at-kohl-s?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-22 16:48",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
-    "title": "Comme des Garcons PLAY Single Heart Converse Chuck 70 High Top Trainers - Black - sizes 8.5/9/10/11/12",
-    "price": "£42",
-    "link": "https://www.hotukdeals.com/deals/comme-des-garcons-play-single-heart-converse-chuck-70-high-top-trainers-black-sizes-859101112-4941181",
-    "date": "2026-07-22 13:00",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "converse"
+    "title": "New Balance Select Styles Sale: 25% to 30% off  + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/New-Balance-Select-Styles-Sale-25-to-30-off-free-shipping/21920624.html?iref=rss-c280",
+    "date": "2026-07-22 16:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
   },
   {
     "title": "adidas Men's Summer Shoe Deals for From $15, running shoes from $33 + free shipping",
@@ -43,51 +43,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's Air Max Bia Shoes for $58 + free shipping",
-    "price": "$58",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Bia-Shoes-for-58-free-shipping/21917929.html?iref=rss-c280",
-    "date": "2026-07-21 16:05",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Jordan Skyline Shoes for $57 + free shipping",
-    "price": "$57",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Jordan-Skyline-Shoes-for-57-free-shipping/21917924.html?iref=rss-c280",
-    "date": "2026-07-21 15:57",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Uplift SC Shoes for $45 + free shipping w/ $50",
-    "price": "$45",
-    "link": "https://www.dealnews.com/Nike-Mens-Uplift-SC-Shoes-for-45-free-shipping-w-50/21917913.html?iref=rss-c280",
-    "date": "2026-07-21 15:29",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Deal Days at Dick's Sporting Goods : Up to 87% off +  free shipping w/ $49",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Nike-Deal-Days-at-Dicks-Sporting-Goods-Up-to-87-off-free-shipping-w-49/21917897.html?iref=rss-c280",
-    "date": "2026-07-21 14:53",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Adizero Adios OG Shoes for $40 + free shipping",
-    "price": "$40",
-    "link": "https://www.dealnews.com/adidas-Mens-Adizero-Adios-OG-Shoes-for-40-free-shipping/21917842.html?iref=rss-c280",
-    "date": "2026-07-21 13:17",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
