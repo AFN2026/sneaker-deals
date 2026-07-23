@@ -1,5 +1,50 @@
 window.DEALS = [
   {
+    "title": "Nike Flash Sale Deals at DICK'S Sporting Goods: Up to 86% off, ending today + shipping varies",
+    "price": "$34",
+    "link": "https://www.dealnews.com/Nike-Flash-Sale-Deals-at-DICKS-Sporting-Goods-Up-to-86-off-ending-today-shipping-varies/21923252.html?iref=rss-c280",
+    "date": "2026-07-23 17:58",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Dunk Low x LEGO® Collection for kids | multiple colors $79.23",
+    "price": "$79.23",
+    "link": "https://slickdeals.net/f/19800042-nike-dunk-low-x-lego-collection-for-kids-multiple-colors-79-23?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-23 17:02",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Macy's Black Friday in July Men's Shoe Deals: 30% to 83% off + free shipping w/ $39",
+    "price": "$39",
+    "link": "https://www.dealnews.com/Macys-Black-Friday-in-July-Mens-Shoe-Deals-30-to-83-off-free-shipping-w-39/21923219.html?iref=rss-c280",
+    "date": "2026-07-23 15:45",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21923209.html?iref=rss-c280",
+    "date": "2026-07-23 15:28",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Back to School Kids' Sneaker Deals for From $17 + free shipping",
+    "price": "$17",
+    "link": "https://www.dealnews.com/adidas-Back-to-School-Kids-Sneaker-Deals-for-From-17-free-shipping/21923177.html?iref=rss-c280",
+    "date": "2026-07-23 14:00",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Back to School ACG Shoe Deals: Up to 29% off + Extra 25% off + free shipping w/ $50",
     "price": "$50",
     "link": "https://www.dealnews.com/Nike-Back-to-School-ACG-Shoe-Deals-Up-to-29-off-Extra-25-off-free-shipping-w-50/21923143.html?iref=rss-c280",
@@ -81,13 +126,13 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "New Balance Select Styles Sale: 25% to 30% off  + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/New-Balance-Select-Styles-Sale-25-to-30-off-free-shipping/21920624.html?iref=rss-c280",
-    "date": "2026-07-22 16:08",
-    "source": "DealNews",
+    "title": "adidas Women's VL Court 3.0 Shoes (Ice Gold Metallic/Core Black/Off White) $25.80 + Free Shipping",
+    "price": "$25.80",
+    "link": "https://slickdeals.net/f/19786632-adidas-women-s-vl-court-3-0-shoes-ice-gold-metallic-core-black-off-white-25-80-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-20 16:00",
+    "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "new balance"
+    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
