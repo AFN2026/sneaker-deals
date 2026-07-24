@@ -1,5 +1,32 @@
 window.DEALS = [
   {
+    "title": "PUMA Kids 5 Match Volume Up Firm Ground Football Boots size 11",
+    "price": "£9.70",
+    "link": "https://www.hotukdeals.com/deals/puma-kids-5-match-volume-up-firm-ground-football-boots-size-11-4942583",
+    "date": "2026-07-24 08:10",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "Puma Unisex Cloudspun Relaxed T-Shirt in Black, XXL",
+    "price": "£2.61",
+    "link": "https://www.hotukdeals.com/deals/puma-unisex-cloudspun-relaxed-tshirt-xxl-4942580",
+    "date": "2026-07-24 08:08",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "Nike Air Max 90 Black - Size 7-12 - Free C&C",
+    "price": "£95",
+    "link": "https://www.hotukdeals.com/deals/nike-air-max-90-4942577",
+    "date": "2026-07-24 08:05",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
     "title": "adidas Men's Gamecourt 2 Tennis Shoes for $42 + free shipping",
     "price": "$42",
     "link": "https://www.dealnews.com/adidas-Mens-Gamecourt-2-Tennis-Shoes-for-42-free-shipping/21923359.html?iref=rss-c280",
@@ -7,24 +34,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "New Balance 442 V2 ACADEMY FG Football Boots, Black / or white / or Navy - with code + free delivery with free sign up",
-    "price": "£25.50",
-    "link": "https://www.hotukdeals.com/deals/new-balance-442-v2-academy-fg-football-boots-black-with-code-free-delivery-with-free-sign-up-4942445",
-    "date": "2026-07-23 23:29",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "new balance"
-  },
-  {
-    "title": "Nike Flash Sale Deals at DICK'S Sporting Goods: Up to 86% off, ending today + shipping varies",
-    "price": "$34",
-    "link": "https://www.dealnews.com/Nike-Flash-Sale-Deals-at-DICKS-Sporting-Goods-Up-to-86-off-ending-today-shipping-varies/21923252.html?iref=rss-c280",
-    "date": "2026-07-23 17:58",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "Macy's Black Friday in July Men's Shoe Deals: 30% to 83% off + free shipping w/ $39",
@@ -90,13 +99,40 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas men Adicolor 3-Stripes Oversized Crewneck (Stone Khaki) $19.8",
-    "price": "$19.8",
-    "link": "https://slickdeals.net/f/19794645-adidas-men-adicolor-3-stripes-oversized-crewneck-stone-khaki-19-8?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-22 09:14",
+    "title": "Nike Back to School Sale Men's Shoe Deals: Up to 50% off + extra 25% off + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Back-to-School-Sale-Mens-Shoe-Deals-Up-to-50-off-extra-25-off-free-shipping-w-50/21912542.html?iref=rss-c280",
+    "date": "2026-07-23 10:19",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nordstrom Rack Men's Shoes Clearance: Up to 85% off + free shipping w/ $89",
+    "price": "$89",
+    "link": "https://www.dealnews.com/Nordstrom-Rack-Mens-Shoes-Clearance-Up-to-85-off-free-shipping-w-89/21923079.html?iref=rss-c280",
+    "date": "2026-07-23 09:29",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air Jordan MVP 92 Shoes for $61 + free shipping w/ $49",
+    "price": "$61",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Jordan-MVP-92-Shoes-for-61-free-shipping-w-49/21923040.html?iref=rss-c280",
+    "date": "2026-07-23 07:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Mercurial Vapor 16 Academy Turf Low-Top Soccer Shoes (Sunset Pulse/Old Royal) $53.23 + Free Shipping",
+    "price": "$53.23",
+    "link": "https://slickdeals.net/f/19793718-nike-men-s-mercurial-vapor-16-academy-turf-low-top-soccer-shoes-sunset-pulse-old-royal-53-23-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-22 02:56",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "adidas"
+    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
