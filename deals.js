@@ -1,21 +1,75 @@
 window.DEALS = [
   {
-    "title": "Skechers Womens Groove Lifestyle Memory Foam Trainers + Free Delivery with Code",
-    "price": "£29.49",
-    "link": "https://www.hotukdeals.com/deals/skechers-womens-groove-lifestyle-memory-foam-trainers-free-delivery-with-code-4942809",
-    "date": "2026-07-24 13:04",
+    "title": "Nike Mens Vaporfly 4 Running Shoes (Multi) - Sizes 7 to 12 w/code",
+    "price": "£98.99",
+    "link": "https://www.hotukdeals.com/deals/nike-mens-vaporfly-4-running-shoes-multi-sizes-7-to-12-wcode-4943057",
+    "date": "2026-07-24 19:08",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "trainers"
+    "keyword": "nike"
   },
   {
-    "title": "Adidas Originals Ozweego Trainers, White Using Code",
-    "price": "£35.91",
-    "link": "https://www.hotukdeals.com/deals/adidas-originals-ozweego-trainers-white-using-code-4942793",
-    "date": "2026-07-24 12:31",
+    "title": "Nike ACG Pegasus Trail - Instore O2 Outlet",
+    "price": "£65.09",
+    "link": "https://www.hotukdeals.com/deals/nike-acg-pegasus-trail-at-the-o2-outlet-4943054",
+    "date": "2026-07-24 18:54",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "adidas"
+    "keyword": "nike"
+  },
+  {
+    "title": "Reebok Court Clean Men's Trainers (Sizes 7 - 12) - Free Click and Collect",
+    "price": "£25",
+    "link": "https://www.hotukdeals.com/deals/reebok-court-clean-mens-trainers-sizes-7-12-free-click-and-collect-4943046",
+    "date": "2026-07-24 18:27",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "reebok"
+  },
+  {
+    "title": "Little Trees Air Freshener Tree MTR0034 Relax Fragrance for vehicles - Single Pack",
+    "price": "£1.22",
+    "link": "https://www.hotukdeals.com/deals/little-trees-air-freshener-tree-mtr0034-relax-fragrance-for-car-home-boat-caravan-single-pack-4943035",
+    "date": "2026-07-24 17:48",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "vans"
+  },
+  {
+    "title": "Nike Men's Pegasus 42 Shoes for $88 + free shipping",
+    "price": "$88",
+    "link": "https://www.dealnews.com/Nike-Mens-Pegasus-42-Shoes-for-88-free-shipping/21926121.html?iref=rss-c280",
+    "date": "2026-07-24 16:03",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air VaporMax Plus Shoes for $121 + free shipping",
+    "price": "$121",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Vapor-Max-Plus-Shoes-for-121-free-shipping/21926119.html?iref=rss-c280",
+    "date": "2026-07-24 15:56",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "PUMA Stock Up & Save Sale: Extra 20% to 40% off 2+ items + free shipping w/ $60",
+    "price": "$60",
+    "link": "https://www.dealnews.com/PUMA-Stock-Up-Save-Sale-Extra-20-to-40-off-2-items-free-shipping-w-60/21926084.html?iref=rss-c280",
+    "date": "2026-07-24 14:58",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "puma"
+  },
+  {
+    "title": "New Balance Reconsidered Sale: Up to 63% off + shipping varies",
+    "price": "$35.",
+    "link": "https://www.dealnews.com/New-Balance-Reconsidered-Sale-Up-to-63-off-shipping-varies/21926079.html?iref=rss-c280",
+    "date": "2026-07-24 14:50",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
   },
   {
     "title": "Nike Men's Jordan Jumpman Pro Shoes for $85 + free shipping w/ $50",
@@ -23,15 +77,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/Nike-Mens-Jordan-Jumpman-Pro-Shoes-for-85-free-shipping-w-50/21926029.html?iref=rss-c280",
     "date": "2026-07-24 11:44",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Pegasus 42 Men's Running Shoes (4 Colors) $87.73 + Free Shipping",
-    "price": "$87.73",
-    "link": "https://slickdeals.net/f/19803603-nike-pegasus-42-men-s-running-shoes-4-colors-87-73-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-24 11:37",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "nike"
   },
@@ -108,31 +153,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Macy's Black Friday in July Men's Shoe Deals: 30% to 83% off + free shipping w/ $39",
-    "price": "$39",
-    "link": "https://www.dealnews.com/Macys-Black-Friday-in-July-Mens-Shoe-Deals-30-to-83-off-free-shipping-w-39/21923219.html?iref=rss-c280",
-    "date": "2026-07-23 15:45",
+    "title": "FitVille Men's Court Tennis Amadeus V1 Lightweight Wide/Extra Wide Comfort Sneakers for $32 + free shipping",
+    "price": "$32",
+    "link": "https://www.dealnews.com/Fit-Ville-Mens-Court-Tennis-Amadeus-V1-Lightweight-Wide-Extra-Wide-Comfort-Sneakers-for-32-free-shipping/21917720.html?iref=rss-c280",
+    "date": "2026-07-24 00:00",
     "source": "DealNews",
     "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21923209.html?iref=rss-c280",
-    "date": "2026-07-23 15:28",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Back to School Kids' Sneaker Deals for From $17 + free shipping",
-    "price": "$17",
-    "link": "https://www.dealnews.com/adidas-Back-to-School-Kids-Sneaker-Deals-for-From-17-free-shipping/21923177.html?iref=rss-c280",
-    "date": "2026-07-23 14:00",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
+    "keyword": "sneakers"
   },
   {
     "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
