@@ -1,29 +1,101 @@
 window.DEALS = [
   {
-    "title": "PUMA Kids 5 Match Volume Up Firm Ground Football Boots size 11",
-    "price": "£9.70",
-    "link": "https://www.hotukdeals.com/deals/puma-kids-5-match-volume-up-firm-ground-football-boots-size-11-4942583",
-    "date": "2026-07-24 08:10",
+    "title": "Skechers Womens Groove Lifestyle Memory Foam Trainers + Free Delivery with Code",
+    "price": "£29.49",
+    "link": "https://www.hotukdeals.com/deals/skechers-womens-groove-lifestyle-memory-foam-trainers-free-delivery-with-code-4942809",
+    "date": "2026-07-24 13:04",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "puma"
+    "keyword": "trainers"
   },
   {
-    "title": "Puma Unisex Cloudspun Relaxed T-Shirt in Black, XXL",
-    "price": "£2.61",
-    "link": "https://www.hotukdeals.com/deals/puma-unisex-cloudspun-relaxed-tshirt-xxl-4942580",
-    "date": "2026-07-24 08:08",
+    "title": "Adidas Originals Ozweego Trainers, White Using Code",
+    "price": "£35.91",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-ozweego-trainers-white-using-code-4942793",
+    "date": "2026-07-24 12:31",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "puma"
+    "keyword": "adidas"
   },
   {
-    "title": "Nike Air Max 90 Black - Size 7-12 - Free C&C",
-    "price": "£95",
-    "link": "https://www.hotukdeals.com/deals/nike-air-max-90-4942577",
-    "date": "2026-07-24 08:05",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Nike Men's Jordan Jumpman Pro Shoes for $85 + free shipping w/ $50",
+    "price": "$85",
+    "link": "https://www.dealnews.com/Nike-Mens-Jordan-Jumpman-Pro-Shoes-for-85-free-shipping-w-50/21926029.html?iref=rss-c280",
+    "date": "2026-07-24 11:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Pegasus 42 Men's Running Shoes (4 Colors) $87.73 + Free Shipping",
+    "price": "$87.73",
+    "link": "https://slickdeals.net/f/19803603-nike-pegasus-42-men-s-running-shoes-4-colors-87-73-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-24 11:37",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Gazelle Summer Shoe Sale: Up to 50% off + extra 15% off + free shipping",
+    "price": "$34.",
+    "link": "https://www.dealnews.com/adidas-Gazelle-Summer-Shoe-Sale-Up-to-50-off-extra-15-off-free-shipping/21925998.html?iref=rss-c280",
+    "date": "2026-07-24 10:30",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Air Max Excee Shoes for $60 + free shipping",
+    "price": "$60",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Excee-Shoes-for-60-free-shipping/21925984.html?iref=rss-c280",
+    "date": "2026-07-24 09:54",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Tatum 4 Basketball Shoes for $73 + free shipping",
+    "price": "$73",
+    "link": "https://www.dealnews.com/Nike-Mens-Tatum-4-Basketball-Shoes-for-73-free-shipping/21925981.html?iref=rss-c280",
+    "date": "2026-07-24 09:46",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Jordan Men's Trunner Flow Shoes for $55 + free shipping",
+    "price": "$55",
+    "link": "https://www.dealnews.com/Jordan-Mens-Trunner-Flow-Shoes-for-55-free-shipping/21925976.html?iref=rss-c280",
+    "date": "2026-07-24 09:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Brooks, Altra, adidas, & Saucony Sale at Woot: Up to 74% off + extra 22% off + free shipping w/ Prime",
+    "price": "$33.",
+    "link": "https://www.dealnews.com/Brooks-Altra-adidas-Saucony-Sale-at-Woot-Up-to-74-off-extra-22-off-free-shipping-w-Prime/21925973.html?iref=rss-c280",
+    "date": "2026-07-24 09:35",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Dunk Low Retro Shoes for $49 + free shipping w/$50",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Nike-Mens-Dunk-Low-Retro-Shoes-for-49-free-shipping-w-50/21925960.html?iref=rss-c280",
+    "date": "2026-07-24 09:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Promina Walking Shoes for $32 + free shipping w/ $50",
+    "price": "$32",
+    "link": "https://www.dealnews.com/Nike-Mens-Promina-Walking-Shoes-for-32-free-shipping-w-50/21925956.html?iref=rss-c280",
+    "date": "2026-07-24 08:55",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
@@ -61,78 +133,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Nike Back to School ACG Shoe Deals: Up to 29% off + Extra 25% off + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Back-to-School-ACG-Shoe-Deals-Up-to-29-off-Extra-25-off-free-shipping-w-50/21923143.html?iref=rss-c280",
-    "date": "2026-07-23 11:59",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Back to School Pegasus Deals: Up to 33% off + Extra 25% off + free shipping w/$50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Back-to-School-Pegasus-Deals-Up-to-33-off-Extra-25-off-free-shipping-w-50/21923130.html?iref=rss-c280",
-    "date": "2026-07-23 11:34",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Back to School Air Force 1 Deals: Up to 30% off + Extra 25% off + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Back-to-School-Air-Force-1-Deals-Up-to-30-off-Extra-25-off-free-shipping-w-50/21923119.html?iref=rss-c280",
-    "date": "2026-07-23 11:09",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Back to School  Air Max Deals: Up to 50% off + extra 25% off + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Back-to-School-Air-Max-Deals-Up-to-50-off-extra-25-off-free-shipping-w-50/21923115.html?iref=rss-c280",
-    "date": "2026-07-23 10:53",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Back to School Sale Men's Shoe Deals: Up to 50% off + extra 25% off + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Back-to-School-Sale-Mens-Shoe-Deals-Up-to-50-off-extra-25-off-free-shipping-w-50/21912542.html?iref=rss-c280",
-    "date": "2026-07-23 10:19",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nordstrom Rack Men's Shoes Clearance: Up to 85% off + free shipping w/ $89",
-    "price": "$89",
-    "link": "https://www.dealnews.com/Nordstrom-Rack-Mens-Shoes-Clearance-Up-to-85-off-free-shipping-w-89/21923079.html?iref=rss-c280",
-    "date": "2026-07-23 09:29",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Jordan MVP 92 Shoes for $61 + free shipping w/ $49",
-    "price": "$61",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Jordan-MVP-92-Shoes-for-61-free-shipping-w-49/21923040.html?iref=rss-c280",
-    "date": "2026-07-23 07:34",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Mercurial Vapor 16 Academy Turf Low-Top Soccer Shoes (Sunset Pulse/Old Royal) $53.23 + Free Shipping",
-    "price": "$53.23",
-    "link": "https://slickdeals.net/f/19793718-nike-men-s-mercurial-vapor-16-academy-turf-low-top-soccer-shoes-sunset-pulse-old-royal-53-23-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-22 02:56",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
