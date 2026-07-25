@@ -1,5 +1,32 @@
 window.DEALS = [
   {
+    "title": "Nike Men's Pegasus Premium Shoes for $133 + free shipping",
+    "price": "$133",
+    "link": "https://www.dealnews.com/Nike-Mens-Pegasus-Premium-Shoes-for-133-free-shipping/21915259.html?iref=rss-c280",
+    "date": "2026-07-25 12:59",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air Max Alpha Trainer 6 Shoes for $52 + free shipping",
+    "price": "$52",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Alpha-Trainer-6-Shoes-for-52-free-shipping/21915289.html?iref=rss-c280",
+    "date": "2026-07-25 12:58",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Terrex Hiking Shoe Deals for Kids' from $26, adults' from $51 + Free shipping",
+    "price": "$26,",
+    "link": "https://www.dealnews.com/adidas-Terrex-Hiking-Shoe-Deals-for-Kids-from-26-adults-from-51-Free-shipping/21929282.html?iref=rss-c280",
+    "date": "2026-07-25 11:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Men's Pegasus 42 Shoes for $88 + free shipping",
     "price": "$88",
     "link": "https://www.dealnews.com/Nike-Mens-Pegasus-42-Shoes-for-88-free-shipping/21926121.html?iref=rss-c280",
@@ -34,15 +61,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "new balance"
-  },
-  {
-    "title": "adidas men TECHFIT Compression Training Short Tights $10.8 + Free Shipping",
-    "price": "$10.8",
-    "link": "https://slickdeals.net/f/19803903-adidas-men-techfit-compression-training-short-tights-10-8-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-24 13:11",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "Nike Men's Jordan Jumpman Pro Shoes for $85 + free shipping w/ $50",
@@ -90,33 +108,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Nike Men's Dunk Low Retro Shoes for $49 + free shipping w/$50",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Nike-Mens-Dunk-Low-Retro-Shoes-for-49-free-shipping-w-50/21925960.html?iref=rss-c280",
-    "date": "2026-07-24 09:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Promina Walking Shoes for $32 + free shipping w/ $50",
-    "price": "$32",
-    "link": "https://www.dealnews.com/Nike-Mens-Promina-Walking-Shoes-for-32-free-shipping-w-50/21925956.html?iref=rss-c280",
-    "date": "2026-07-24 08:55",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Gamecourt 2 Tennis Shoes for $42 + free shipping",
-    "price": "$42",
-    "link": "https://www.dealnews.com/adidas-Mens-Gamecourt-2-Tennis-Shoes-for-42-free-shipping/21923359.html?iref=rss-c280",
-    "date": "2026-07-24 00:54",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "FitVille Men's Court Tennis Amadeus V1 Lightweight Wide/Extra Wide Comfort Sneakers for $32 + free shipping",
     "price": "$32",
     "link": "https://www.dealnews.com/Fit-Ville-Mens-Court-Tennis-Amadeus-V1-Lightweight-Wide-Extra-Wide-Comfort-Sneakers-for-32-free-shipping/21917720.html?iref=rss-c280",
@@ -124,6 +115,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
+  },
+  {
+    "title": "Nike Men's Air Force 1 '07 Shoes (White/White/Orange Frost) $67.48 + Free Shipping",
+    "price": "$67.48",
+    "link": "https://slickdeals.net/f/19795278-nike-men-s-air-force-1-07-shoes-white-white-orange-frost-67-48-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-22 13:11",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
