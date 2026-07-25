@@ -1,39 +1,21 @@
 window.DEALS = [
   {
-    "title": "Nike Mens Vaporfly 4 Running Shoes (Multi) - Sizes 7 to 12 w/code",
-    "price": "£98.99",
-    "link": "https://www.hotukdeals.com/deals/nike-mens-vaporfly-4-running-shoes-multi-sizes-7-to-12-wcode-4943057",
-    "date": "2026-07-24 19:08",
+    "title": "Nike FC Barcelona Strike Track Pants",
+    "price": "£10",
+    "link": "https://www.hotukdeals.com/deals/nike-fc-barcelona-strike-track-pants-4943167",
+    "date": "2026-07-24 23:23",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "nike"
   },
   {
-    "title": "Nike ACG Pegasus Trail - Instore O2 Outlet",
-    "price": "£65.09",
-    "link": "https://www.hotukdeals.com/deals/nike-acg-pegasus-trail-at-the-o2-outlet-4943054",
-    "date": "2026-07-24 18:54",
+    "title": "£15 Bonus on £75+ Spend at Adidas",
+    "price": "£15",
+    "link": "https://www.hotukdeals.com/deals/ps15-bonus-on-ps75-spend-at-adidas-4943153",
+    "date": "2026-07-24 23:00",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "Reebok Court Clean Men's Trainers (Sizes 7 - 12) - Free Click and Collect",
-    "price": "£25",
-    "link": "https://www.hotukdeals.com/deals/reebok-court-clean-mens-trainers-sizes-7-12-free-click-and-collect-4943046",
-    "date": "2026-07-24 18:27",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "reebok"
-  },
-  {
-    "title": "Little Trees Air Freshener Tree MTR0034 Relax Fragrance for vehicles - Single Pack",
-    "price": "£1.22",
-    "link": "https://www.hotukdeals.com/deals/little-trees-air-freshener-tree-mtr0034-relax-fragrance-for-car-home-boat-caravan-single-pack-4943035",
-    "date": "2026-07-24 17:48",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
+    "keyword": "adidas"
   },
   {
     "title": "Nike Men's Pegasus 42 Shoes for $88 + free shipping",
