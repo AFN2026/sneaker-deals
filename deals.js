@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "Adidas EPP Club FootBall size 5 / 3 colours Free delivery for members",
+    "price": "£7.50",
+    "link": "https://www.hotukdeals.com/deals/adidas-epp-club-football-size-5-3-colours-free-delivery-for-members-4944059",
+    "date": "2026-07-26 18:58",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Puma Mostro Tech Sneakers Unisex",
+    "price": "£30",
+    "link": "https://www.hotukdeals.com/deals/puma-mostro-tech-sneakers-unisex-4944046",
+    "date": "2026-07-26 18:26",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
     "title": "Nike Men's Kobe Air Force 1 Low Shoes for $71 + free shipping",
     "price": "$71",
     "link": "https://www.dealnews.com/Nike-Mens-Kobe-Air-Force-1-Low-Shoes-for-71-free-shipping/21933237.html?iref=rss-c280",
@@ -124,15 +142,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Brasilia JDI Kids' Mini 11L Backpack (Grey) $16.48 + Free Shipping on $50",
-    "price": "$16.48",
-    "link": "https://slickdeals.net/f/19792959-nike-brasilia-jdi-kids-mini-11l-backpack-grey-16-48-free-shipping-on-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-21 21:49",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
