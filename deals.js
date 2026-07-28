@@ -1,12 +1,12 @@
 window.DEALS = [
   {
-    "title": "Salomon Men's XC Roam GTX Trainers",
-    "price": "£65",
-    "link": "https://www.hotukdeals.com/deals/salomon-xc-roam-gtx-mens-4944849",
-    "date": "2026-07-27 18:41",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
+    "title": "Nike Men's Air Max SC Shoes for $58 + free shipping",
+    "price": "$58",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-SC-Shoes-for-58-free-shipping/21934619.html?iref=rss-c280",
+    "date": "2026-07-27 21:09",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "Nike Men's or Women's G.T. Cut 4 Basketball Shoes for $86 + free shipping",
@@ -25,6 +25,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
+  },
+  {
+    "title": "Nike Men's Air Max SC Prem Shoes (White / Navy, White, Sizes: 7-13) $59.99 + Free Shipping",
+    "price": "$59.99",
+    "link": "https://slickdeals.net/f/19813377-nike-men-s-air-max-sc-prem-shoes-white-navy-white-sizes-7-13-59-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-27 13:58",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "Nike Men's Slides for from $22 + free shipping w/ $50",
@@ -90,20 +99,11 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Nike Men's Kobe Air Force 1 Low Shoes for $71 + free shipping",
-    "price": "$71",
-    "link": "https://www.dealnews.com/Nike-Mens-Kobe-Air-Force-1-Low-Shoes-for-71-free-shipping/21933237.html?iref=rss-c280",
-    "date": "2026-07-26 12:49",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Winflo 12 Road Running Shoes for $67 + shipping varies",
-    "price": "$67",
-    "link": "https://www.dealnews.com/Nike-Mens-Winflo-12-Road-Running-Shoes-for-67-shipping-varies/21933214.html?iref=rss-c280",
-    "date": "2026-07-26 09:40",
-    "source": "DealNews",
+    "title": "Nike Men's Air VaporMax Plus (Chicago) Shoes  CW6974-100 $120.72",
+    "price": "$120.72",
+    "link": "https://slickdeals.net/f/19805136-nike-men-s-air-vapormax-plus-chicago-shoes-cw6974-100-120-72?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-24 17:55",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "nike"
   },
@@ -115,15 +115,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Baby & Toddlers' Swoosh 1 Essential Shoe (Medium Blue/Hydrogen Blue/Summit White/Pink Glow) $22.48 + Free Shipping on $50",
-    "price": "$22.48",
-    "link": "https://slickdeals.net/f/19793688-nike-baby-toddlers-swoosh-1-essential-shoe-medium-blue-hydrogen-blue-summit-white-pink-glow-22-48-free-shipping-on-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-22 02:43",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
