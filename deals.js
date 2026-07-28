@@ -1,21 +1,75 @@
 window.DEALS = [
   {
-    "title": "Manchester City PUMA Away Shirt 2024-25 - Womens - Size XS-L",
-    "price": "£8.96",
-    "link": "https://www.hotukdeals.com/deals/manchester-city-puma-away-shirt-2024-25-womens-4945096",
-    "date": "2026-07-28 07:57",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
+    "title": "New Balance Men's 530 Shoes for $55 + free shipping",
+    "price": "$55",
+    "link": "https://www.dealnews.com/New-Balance-Mens-530-Shoes-for-55-free-shipping/21938496.html?iref=rss-c280",
+    "date": "2026-07-28 12:45",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
   },
   {
-    "title": "New Balance 725 V1 Men’s Trainers (Beige/Tan) - Sizes UK 7.5-9.5",
-    "price": "£39.99",
-    "link": "https://www.hotukdeals.com/deals/new-balance-725-v1-mens-trainers-beigetan-sizes-uk-75-95-4945093",
-    "date": "2026-07-28 07:53",
+    "title": "Reebok Mens Boxers - Pack of 3 Black/White/Grey",
+    "price": "£9.99",
+    "link": "https://www.hotukdeals.com/deals/reebok-mens-boxers-pack-of-3-blackwhitegrey-4945330",
+    "date": "2026-07-28 12:40",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "reebok"
+  },
+  {
+    "title": "Nike Men's Run Defy Shoes for $49 + free shipping w/ $50",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Nike-Mens-Run-Defy-Shoes-for-49-free-shipping-w-50/21938477.html?iref=rss-c280",
+    "date": "2026-07-28 11:45",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Revolution 8 Shoes for $46 + free shipping w/ $50",
+    "price": "$46",
+    "link": "https://www.dealnews.com/Nike-Mens-Revolution-8-Shoes-for-46-free-shipping-w-50/21938470.html?iref=rss-c280",
+    "date": "2026-07-28 11:09",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Downshifter 14 Shoes for $49 + shipping varies",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Nike-Mens-Downshifter-14-Shoes-for-49-shipping-varies/21938467.html?iref=rss-c280",
+    "date": "2026-07-28 10:48",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's ACG Pegasus Trail Shoes for $82 + shipping varies",
+    "price": "$82",
+    "link": "https://www.dealnews.com/Nike-Mens-ACG-Pegasus-Trail-Shoes-for-82-shipping-varies/21938460.html?iref=rss-c280",
+    "date": "2026-07-28 10:21",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Women's Shoes Flash Sale at Macy's: Up to 70% off + free shipping w/ $39",
+    "price": "$39",
+    "link": "https://www.dealnews.com/Womens-Shoes-Flash-Sale-at-Macys-Up-to-70-off-free-shipping-w-39/21938457.html?iref=rss-c280",
+    "date": "2026-07-28 10:13",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "new balance"
+  },
+  {
+    "title": "Men's Shoes Flash Sale at Macy's: Up to 70% off + free shipping w/ $39",
+    "price": "$39",
+    "link": "https://www.dealnews.com/Mens-Shoes-Flash-Sale-at-Macys-Up-to-70-off-free-shipping-w-39/21938456.html?iref=rss-c280",
+    "date": "2026-07-28 10:10",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "reebok"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
@@ -63,60 +117,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Coostar Men's Casual Dress Sneakers for $22 + free shipping w/ Prime",
-    "price": "$22",
-    "link": "https://www.dealnews.com/Coostar-Mens-Casual-Dress-Sneakers-for-22-free-shipping-w-Prime/21934436.html?iref=rss-c280",
-    "date": "2026-07-27 12:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Brooks, Altra, adidas, & Saucony Sale at Woot: Up to 74% off + free shipping w/ Prime",
-    "price": "$33",
-    "link": "https://www.dealnews.com/Brooks-Altra-adidas-Saucony-Sale-at-Woot-Up-to-74-off-free-shipping-w-Prime/21934412.html?iref=rss-c280",
-    "date": "2026-07-27 11:19",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's C1TY Shoes for $62 + free shipping",
-    "price": "$62",
-    "link": "https://www.dealnews.com/Nike-Mens-C1-TY-Shoes-for-62-free-shipping/21934382.html?iref=rss-c280",
-    "date": "2026-07-27 09:42",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Jordan Flight Court Shoes for $59 + free shipping w/ $50",
-    "price": "$59",
-    "link": "https://www.dealnews.com/Nike-Mens-Jordan-Flight-Court-Shoes-for-59-free-shipping-w-50/21934378.html?iref=rss-c280",
-    "date": "2026-07-27 09:29",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Vaporfly 4 Shoes for $142 + shipping varies",
-    "price": "$142",
-    "link": "https://www.dealnews.com/Nike-Mens-Vaporfly-4-Shoes-for-142-shipping-varies/21934377.html?iref=rss-c280",
-    "date": "2026-07-27 09:25",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Max 90 Shoes for $73 + free shipping",
-    "price": "$73",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-90-Shoes-for-73-free-shipping/21933273.html?iref=rss-c280",
-    "date": "2026-07-26 22:59",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "FitVille Men's Court Tennis Amadeus V1 Lightweight Wide/Extra Wide Comfort Sneakers for $32 + free shipping",
     "price": "$32",
     "link": "https://www.dealnews.com/Fit-Ville-Mens-Court-Tennis-Amadeus-V1-Lightweight-Wide-Extra-Wide-Comfort-Sneakers-for-32-free-shipping/21917720.html?iref=rss-c280",
@@ -126,10 +126,10 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
-    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
-    "price": "$99",
-    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
-    "date": "2026-06-18 14:23",
+    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
+    "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
