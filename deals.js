@@ -1,5 +1,32 @@
 window.DEALS = [
   {
+    "title": "Manchester City PUMA Away Shirt 2024-25 - Womens - Size XS-L",
+    "price": "£8.96",
+    "link": "https://www.hotukdeals.com/deals/manchester-city-puma-away-shirt-2024-25-womens-4945096",
+    "date": "2026-07-28 07:57",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "New Balance 725 V1 Men’s Trainers (Beige/Tan) - Sizes UK 7.5-9.5",
+    "price": "£39.99",
+    "link": "https://www.hotukdeals.com/deals/new-balance-725-v1-mens-trainers-beigetan-sizes-uk-75-95-4945093",
+    "date": "2026-07-28 07:53",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "new balance"
+  },
+  {
+    "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
+    "date": "2026-07-28 04:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Men's Air Max SC Shoes for $58 + free shipping",
     "price": "$58",
     "link": "https://www.dealnews.com/Nike-Mens-Air-Max-SC-Shoes-for-58-free-shipping/21934619.html?iref=rss-c280",
@@ -25,15 +52,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's Air Max SC Prem Shoes (White / Navy, White, Sizes: 7-13) $59.99 + Free Shipping",
-    "price": "$59.99",
-    "link": "https://slickdeals.net/f/19813377-nike-men-s-air-max-sc-prem-shoes-white-navy-white-sizes-7-13-59-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-27 13:58",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "Nike Men's Slides for from $22 + free shipping w/ $50",
@@ -99,15 +117,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Nike Men's Air VaporMax Plus (Chicago) Shoes  CW6974-100 $120.72",
-    "price": "$120.72",
-    "link": "https://slickdeals.net/f/19805136-nike-men-s-air-vapormax-plus-chicago-shoes-cw6974-100-120-72?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-24 17:55",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "FitVille Men's Court Tennis Amadeus V1 Lightweight Wide/Extra Wide Comfort Sneakers for $32 + free shipping",
     "price": "$32",
     "link": "https://www.dealnews.com/Fit-Ville-Mens-Court-Tennis-Amadeus-V1-Lightweight-Wide-Extra-Wide-Comfort-Sneakers-for-32-free-shipping/21917720.html?iref=rss-c280",
@@ -115,15 +124,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
-    "date": "2026-06-30 04:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
