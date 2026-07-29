@@ -1,5 +1,68 @@
 window.DEALS = [
   {
+    "title": "adidas Men's SQUADRA25 Sweat Crew, Size XS",
+    "price": "£15.10",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-squadra25-sweat-crew-4945838",
+    "date": "2026-07-29 08:08",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Air Max Bia Shoes Mens - Size 7.5-10.5",
+    "price": "£60",
+    "link": "https://www.hotukdeals.com/deals/nike-air-max-bia-shoes-mens-4945815",
+    "date": "2026-07-29 07:29",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Adidas Herren Terrex Anylander Mid Hiking Shoes - Size 7",
+    "price": "£41.50",
+    "link": "https://www.hotukdeals.com/deals/adidas-herren-terrex-anylander-mid-hiking-shoes-wanderschuhe-size-7-4945812",
+    "date": "2026-07-29 07:28",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "NIKE Men's Park 20 Pants, Charcoal Heathr - S ,L, XXL",
+    "price": "£19.08",
+    "link": "https://www.hotukdeals.com/deals/nike-mens-m-nk-flc-park20-pant-kp-pants-s-l-xxl-4945811",
+    "date": "2026-07-29 07:27",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Essentials Three Stripes Single Jersey Tee T-Shirt Grey - XXS, M, XL, 4XL",
+    "price": "£11.50",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-essentials-three-stripes-single-jersey-tee-t-shirt-grey-xxs-m-xl-4xl-4945805",
+    "date": "2026-07-29 07:14",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Adilette Lite Slides for $8.80 + free shipping",
+    "price": "$8.80",
+    "link": "https://www.dealnews.com/adidas-Mens-Adilette-Lite-Slides-for-8-80-free-shipping/21945274.html?iref=rss-c280",
+    "date": "2026-07-29 06:54",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Workout Essentials Base Zipper Pockets Woven Shorts (Ray Blue) $8.80 + Free Shipping",
+    "price": "$8.80",
+    "link": "https://slickdeals.net/f/19819998-adidas-men-s-workout-essentials-base-zipper-pockets-woven-shorts-ray-blue-8-80-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-29 03:09",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Women's Winflo 12 Road Running Shoes for $67 + free shipping",
     "price": "$67",
     "link": "https://www.dealnews.com/Nike-Womens-Winflo-12-Road-Running-Shoes-for-67-free-shipping/21938707.html?iref=rss-c280",
@@ -63,15 +126,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "New Balance Men's 530 Shoes for $55 + free shipping",
-    "price": "$55",
-    "link": "https://www.dealnews.com/New-Balance-Mens-530-Shoes-for-55-free-shipping/21938496.html?iref=rss-c280",
-    "date": "2026-07-28 12:45",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
-  },
-  {
     "title": "Nike Men's Run Defy Shoes for $49 + free shipping w/ $50",
     "price": "$49",
     "link": "https://www.dealnews.com/Nike-Mens-Run-Defy-Shoes-for-49-free-shipping-w-50/21938477.html?iref=rss-c280",
@@ -108,24 +162,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Women's Shoes Flash Sale at Macy's: Up to 70% off + free shipping w/ $39",
-    "price": "$39",
-    "link": "https://www.dealnews.com/Womens-Shoes-Flash-Sale-at-Macys-Up-to-70-off-free-shipping-w-39/21938457.html?iref=rss-c280",
-    "date": "2026-07-28 10:13",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
-  },
-  {
-    "title": "Men's Shoes Flash Sale at Macy's: Up to 70% off + free shipping w/ $39",
-    "price": "$39",
-    "link": "https://www.dealnews.com/Mens-Shoes-Flash-Sale-at-Macys-Up-to-70-off-free-shipping-w-39/21938456.html?iref=rss-c280",
-    "date": "2026-07-28 10:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "reebok"
-  },
-  {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
@@ -133,6 +169,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "$56.97* | Nike Men's Court Vision Mid Next Nature Shoes (White/Black/White) at Amazon",
+    "price": "$56.97",
+    "link": "https://slickdeals.net/f/19811307-56-97-nike-men-s-court-vision-mid-next-nature-shoes-white-black-white-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-26 20:59",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "FitVille Men's Court Tennis Amadeus V1 Lightweight Wide/Extra Wide Comfort Sneakers for $32 + free shipping",
@@ -148,15 +193,6 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
     "date": "2026-06-30 04:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
-    "price": "$99",
-    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
-    "date": "2026-06-18 14:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
