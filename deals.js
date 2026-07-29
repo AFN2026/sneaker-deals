@@ -1,48 +1,57 @@
 window.DEALS = [
   {
-    "title": "adidas Men's SQUADRA25 Sweat Crew, Size XS",
-    "price": "£15.10",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-squadra25-sweat-crew-4945838",
-    "date": "2026-07-29 08:08",
+    "title": "adidas Men's Basic 3-Stripes Tricot Track Suit - large",
+    "price": "£16.97",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-basic-3-stripes-tricot-track-suit-large-4946116",
+    "date": "2026-07-29 13:36",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
   },
   {
-    "title": "Nike Air Max Bia Shoes Mens - Size 7.5-10.5",
-    "price": "£60",
-    "link": "https://www.hotukdeals.com/deals/nike-air-max-bia-shoes-mens-4945815",
-    "date": "2026-07-29 07:29",
+    "title": "ADIDAS Kids' Football Training Bottoms Sereno - Black - Size 8-14 Years",
+    "price": "£4.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-kids-sports-trousers-4946092",
+    "date": "2026-07-29 12:56",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas women Ultraboost 1.0 Shoes $57.6 + Free Shipping",
+    "price": "$57.6",
+    "link": "https://slickdeals.net/f/19821156-adidas-women-ultraboost-1-0-shoes-57-6-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-29 12:20",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Macy's Summer Weekend Sale Men's Shoes Deals: Up to 60% off + free shipping w/ $39",
+    "price": "$39",
+    "link": "https://www.dealnews.com/Macys-Summer-Weekend-Sale-Mens-Shoes-Deals-Up-to-60-off-free-shipping-w-39/21945814.html?iref=rss-c280",
+    "date": "2026-07-29 10:50",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
-    "title": "Adidas Herren Terrex Anylander Mid Hiking Shoes - Size 7",
-    "price": "£41.50",
-    "link": "https://www.hotukdeals.com/deals/adidas-herren-terrex-anylander-mid-hiking-shoes-wanderschuhe-size-7-4945812",
-    "date": "2026-07-29 07:28",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "NIKE Men's Park 20 Pants, Charcoal Heathr - S ,L, XXL",
-    "price": "£19.08",
-    "link": "https://www.hotukdeals.com/deals/nike-mens-m-nk-flc-park20-pant-kp-pants-s-l-xxl-4945811",
-    "date": "2026-07-29 07:27",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Nike Men's Lunar Force 1 Boots for $95 + free shipping",
+    "price": "$95",
+    "link": "https://www.dealnews.com/Nike-Mens-Lunar-Force-1-Boots-for-95-free-shipping/21945803.html?iref=rss-c280",
+    "date": "2026-07-29 10:26",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
-    "title": "adidas Men's Essentials Three Stripes Single Jersey Tee T-Shirt Grey - XXS, M, XL, 4XL",
-    "price": "£11.50",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-essentials-three-stripes-single-jersey-tee-t-shirt-grey-xxs-m-xl-4xl-4945805",
-    "date": "2026-07-29 07:14",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
+    "title": "Nike Men's Air Force 1 Low Retro Premium Shoes for $105 + free shipping",
+    "price": "$105",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-Low-Retro-Premium-Shoes-for-105-free-shipping/21945801.html?iref=rss-c280",
+    "date": "2026-07-29 10:24",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Men's Adilette Lite Slides for $8.80 + free shipping",
@@ -54,10 +63,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Workout Essentials Base Zipper Pockets Woven Shorts (Ray Blue) $8.80 + Free Shipping",
-    "price": "$8.80",
-    "link": "https://slickdeals.net/f/19819998-adidas-men-s-workout-essentials-base-zipper-pockets-woven-shorts-ray-blue-8-80-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-29 03:09",
+    "title": "adidas Men's Trefoil Essentials Crew Sweatshirt (Wonder White/White) $15.20 + Free Shipping",
+    "price": "$15.20",
+    "link": "https://slickdeals.net/f/19820013-adidas-men-s-trefoil-essentials-crew-sweatshirt-wonder-white-white-15-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-29 03:17",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
@@ -126,60 +135,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike Men's Run Defy Shoes for $49 + free shipping w/ $50",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Nike-Mens-Run-Defy-Shoes-for-49-free-shipping-w-50/21938477.html?iref=rss-c280",
-    "date": "2026-07-28 11:45",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Revolution 8 Shoes for $46 + free shipping w/ $50",
-    "price": "$46",
-    "link": "https://www.dealnews.com/Nike-Mens-Revolution-8-Shoes-for-46-free-shipping-w-50/21938470.html?iref=rss-c280",
-    "date": "2026-07-28 11:09",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Downshifter 14 Shoes for $49 + shipping varies",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Nike-Mens-Downshifter-14-Shoes-for-49-shipping-varies/21938467.html?iref=rss-c280",
-    "date": "2026-07-28 10:48",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's ACG Pegasus Trail Shoes for $82 + shipping varies",
-    "price": "$82",
-    "link": "https://www.dealnews.com/Nike-Mens-ACG-Pegasus-Trail-Shoes-for-82-shipping-varies/21938460.html?iref=rss-c280",
-    "date": "2026-07-28 10:21",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
-    "date": "2026-07-28 04:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "$56.97* | Nike Men's Court Vision Mid Next Nature Shoes (White/Black/White) at Amazon",
-    "price": "$56.97",
-    "link": "https://slickdeals.net/f/19811307-56-97-nike-men-s-court-vision-mid-next-nature-shoes-white-black-white-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-26 20:59",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "FitVille Men's Court Tennis Amadeus V1 Lightweight Wide/Extra Wide Comfort Sneakers for $32 + free shipping",
     "price": "$32",
     "link": "https://www.dealnews.com/Fit-Ville-Mens-Court-Tennis-Amadeus-V1-Lightweight-Wide-Extra-Wide-Comfort-Sneakers-for-32-free-shipping/21917720.html?iref=rss-c280",
@@ -193,6 +148,15 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
     "date": "2026-06-30 04:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
+    "price": "$99",
+    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
+    "date": "2026-06-18 14:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
