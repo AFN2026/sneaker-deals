@@ -1,12 +1,57 @@
 window.DEALS = [
   {
-    "title": "HUAWEI Pura 90s Pro Max (Global Version) Dual SIM - 12GB+512GB - All colours",
-    "price": "£876.22",
-    "link": "https://www.hotukdeals.com/deals/huawei-pura-90s-pro-max-global-version-dual-sim-12gb512gb-all-colours-4946296",
-    "date": "2026-07-29 18:52",
+    "title": "Adidas athletic Unisex Thin & light Essentials Low Cut Socks 3 Pair Pack Socks, size 2.5 - 4 £3.79 / size 6.5 - 8 £4.12 / 4.5 - 6 £4.19",
+    "price": "£3.79",
+    "link": "https://www.hotukdeals.com/deals/adidas-athletic-unisex-thin-light-essentials-low-cut-socks-3-pair-pack-socks-size-25-4-ps379-size-65-8-ps412-45-6-ps419-4946450",
+    "date": "2026-07-29 23:31",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "puma"
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nordstrom Anniversary Sale Shoes for All under $100 + free shipping",
+    "price": "$100",
+    "link": "https://www.dealnews.com/Nordstrom-Anniversary-Sale-Shoes-for-All-under-100-free-shipping/21946021.html?iref=rss-c280",
+    "date": "2026-07-29 21:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's or Women's Book 1 Basketball Shoes for $49 + free shipping",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Book-1-Basketball-Shoes-for-49-free-shipping/21946015.html?iref=rss-c280",
+    "date": "2026-07-29 20:51",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Women's In-Season TR 13 Workout Shoes for $38 + free shipping w/ $50",
+    "price": "$38",
+    "link": "https://www.dealnews.com/Nike-Womens-In-Season-TR-13-Workout-Shoes-for-38-free-shipping-w-50/21946013.html?iref=rss-c280",
+    "date": "2026-07-29 20:41",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's or Women's Air Trainer Huarache Shoes for $95 + free shipping",
+    "price": "$95",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Air-Trainer-Huarache-Shoes-for-95-free-shipping/21946011.html?iref=rss-c280",
+    "date": "2026-07-29 20:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Cortez Leather Shoes for $71 + free shipping w/ $50",
+    "price": "$71",
+    "link": "https://www.dealnews.com/Nike-Mens-Cortez-Leather-Shoes-for-71-free-shipping-w-50/21945997.html?iref=rss-c280",
+    "date": "2026-07-29 20:10",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "Vans Men's Brooklyn LS Shoes for from $42 + free shipping",
@@ -25,15 +70,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas Women's Pacer 3-Stripes Woven Shorts (Grey, Size XS-XL) $8 + Free Shipping",
-    "price": "$8",
-    "link": "https://slickdeals.net/f/19821327-adidas-women-s-pacer-3-stripes-woven-shorts-grey-size-xs-xl-8-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-29 13:08",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "Macy's Summer Weekend Sale Men's Shoes Deals: Up to 60% off + free shipping w/ $39",
@@ -72,6 +108,24 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
+    "title": "adidas Men's Workout Essentials Feelready T-Shirt (Halo Silver, S or 2XL) $6.40 + Free Shipping",
+    "price": "$6.40",
+    "link": "https://slickdeals.net/f/19819983-adidas-men-s-workout-essentials-feelready-t-shirt-halo-silver-s-or-2xl-6-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-29 03:03",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Adidas Ultraboost 22 Women's Shoes $66.99",
+    "price": "$66.99",
+    "link": "https://slickdeals.net/f/19819749-adidas-ultraboost-22-women-s-shoes-66-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-29 01:27",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Women's Winflo 12 Road Running Shoes for $67 + free shipping",
     "price": "$67",
     "link": "https://www.dealnews.com/Nike-Womens-Winflo-12-Road-Running-Shoes-for-67-free-shipping/21938707.html?iref=rss-c280",
@@ -81,49 +135,13 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Nike Men's or Women's Revolution 7 Road Running Shoes for $32 + free shipping w/ $50",
-    "price": "$32",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Revolution-7-Road-Running-Shoes-for-32-free-shipping-w-50/21938659.html?iref=rss-c280",
-    "date": "2026-07-28 19:47",
-    "source": "DealNews",
+    "title": "adidas men Samoa Shoes (3 Colors) from $28.8",
+    "price": "$28.8",
+    "link": "https://slickdeals.net/f/19817346-adidas-men-samoa-shoes-3-colors-from-28-8?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-28 13:28",
+    "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Avia Little & Big Kids Bungee Athletic Sneakers (Limited Sizes) for $10 + free shipping w/ $35",
-    "price": "$10",
-    "link": "https://www.dealnews.com/Avia-Little-Big-Kids-Bungee-Athletic-Sneakers-Limited-Sizes-for-10-free-shipping-w-35/21938644.html?iref=rss-c280",
-    "date": "2026-07-28 19:02",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Avia Women's 5000 Performance Sneakers for $11 + free shipping w/ $35",
-    "price": "$11",
-    "link": "https://www.dealnews.com/Avia-Womens-5000-Performance-Sneakers-for-11-free-shipping-w-35/21938598.html?iref=rss-c280",
-    "date": "2026-07-28 17:08",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's Mercurial Vapor 16 Academy Shoes for from $49 + free shipping w/ $50",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Nike-Mens-Mercurial-Vapor-16-Academy-Shoes-for-from-49-free-shipping-w-50/21938578.html?iref=rss-c280",
-    "date": "2026-07-28 15:54",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Force 1 '07 Shoes for $67 + free shipping",
-    "price": "$67",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-07-Shoes-for-67-free-shipping/21938576.html?iref=rss-c280",
-    "date": "2026-07-28 15:47",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
+    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
