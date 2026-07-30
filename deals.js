@@ -1,5 +1,68 @@
 window.DEALS = [
   {
+    "title": "Nike Men's or Women's Mercurial Vapor 17 Club FG Soccer Cleats for $52 in cart + free shipping",
+    "price": "$52",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Mercurial-Vapor-17-Club-FG-Soccer-Cleats-for-52-in-cart-free-shipping/21949535.html?iref=rss-c280",
+    "date": "2026-07-30 16:54",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Amazon Outlet Men's Shoes Deals: Up to 70% off + free shipping w/ Prime",
+    "price": "",
+    "link": "https://www.dealnews.com/Amazon-Outlet-Mens-Shoes-Deals-Up-to-70-off-free-shipping-w-Prime/21949527.html?iref=rss-c280",
+    "date": "2026-07-30 15:58",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for from $28 + free shipping",
+    "price": "$28",
+    "link": "https://www.dealnews.com/adidas-Mens-Cloudfoam-Cuxxion-Sock-Shoes-for-from-28-free-shipping/21949525.html?iref=rss-c280",
+    "date": "2026-07-30 15:54",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Terrex Anylander Rain.Rdy Hiking Shoes for $51 + free shipping",
+    "price": "$51",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Anylander-Rain-Rdy-Hiking-Shoes-for-51-free-shipping/21949518.html?iref=rss-c280",
+    "date": "2026-07-30 15:33",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Terrex Back to School Deals: Up to 50% off + extra 15% off + free shipping",
+    "price": "$25",
+    "link": "https://www.dealnews.com/adidas-Terrex-Back-to-School-Deals-Up-to-50-off-extra-15-off-free-shipping/21949513.html?iref=rss-c280",
+    "date": "2026-07-30 15:27",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Women's Ultraboost 5x Shoes for $77 + free shipping",
+    "price": "$77",
+    "link": "https://www.dealnews.com/adidas-Womens-Ultraboost-5-x-Shoes-for-77-free-shipping/21949506.html?iref=rss-c280",
+    "date": "2026-07-30 15:17",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
+    "price": "$77,",
+    "link": "https://www.dealnews.com/adidas-Ultraboost-Back-to-School-Deals-Up-to-50-off-extra-15-off-free-shipping/21949504.html?iref=rss-c280",
+    "date": "2026-07-30 15:11",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's Response Runner Shoes for $30 + free shipping",
     "price": "$30",
     "link": "https://www.dealnews.com/adidas-Mens-Response-Runner-Shoes-for-30-free-shipping/21949438.html?iref=rss-c280",
@@ -18,6 +81,15 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
+    "title": "Nike Legend Essential 3 Next Nature Women's Shoes (Black/White) $31.48 + Free Shipping on $50",
+    "price": "$31.48",
+    "link": "https://slickdeals.net/f/19824939-nike-legend-essential-3-next-nature-women-s-shoes-black-white-31-48-free-shipping-on-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-30 12:35",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "adidas Men's Ultimashow Running Shoes for $24 + free shipping",
     "price": "$24",
     "link": "https://www.dealnews.com/adidas-Mens-Ultimashow-Running-Shoes-for-24-free-shipping/21949429.html?iref=rss-c280",
@@ -25,15 +97,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Air Jordan 1 Mid Women's Shoes (Hibiscus, Size 6-8.5) $56.98 & More + Free Shipping",
-    "price": "$56.98",
-    "link": "https://slickdeals.net/f/19824936-air-jordan-1-mid-women-s-shoes-hibiscus-size-6-8-5-56-98-more-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-30 12:32",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "jordan"
   },
   {
     "title": "Jordan Shoes Sale at Dick's Sporting Goods: 25% off",
@@ -94,51 +157,6 @@ window.DEALS = [
     "price": "$71",
     "link": "https://www.dealnews.com/Nike-Mens-Cortez-Leather-Shoes-for-71-free-shipping-w-50/21945997.html?iref=rss-c280",
     "date": "2026-07-29 20:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Vans Men's Brooklyn LS Shoes for from $42 + free shipping",
-    "price": "$42",
-    "link": "https://www.dealnews.com/Vans-Mens-Brooklyn-LS-Shoes-for-from-42-free-shipping/21945894.html?iref=rss-c280",
-    "date": "2026-07-29 15:14",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "vans"
-  },
-  {
-    "title": "Nike Men's Zoom Rival Distance Track Shoes for $40 + free shipping w/ $50",
-    "price": "$40",
-    "link": "https://www.dealnews.com/Nike-Mens-Zoom-Rival-Distance-Track-Shoes-for-40-free-shipping-w-50/21945887.html?iref=rss-c280",
-    "date": "2026-07-29 14:56",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Macy's Summer Weekend Sale Men's Shoes Deals: Up to 60% off + free shipping w/ $39",
-    "price": "$39",
-    "link": "https://www.dealnews.com/Macys-Summer-Weekend-Sale-Mens-Shoes-Deals-Up-to-60-off-free-shipping-w-39/21945814.html?iref=rss-c280",
-    "date": "2026-07-29 10:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Lunar Force 1 Boots for $95 + free shipping",
-    "price": "$95",
-    "link": "https://www.dealnews.com/Nike-Mens-Lunar-Force-1-Boots-for-95-free-shipping/21945803.html?iref=rss-c280",
-    "date": "2026-07-29 10:26",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Force 1 Low Retro Premium Shoes for $105 + free shipping",
-    "price": "$105",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-Low-Retro-Premium-Shoes-for-105-free-shipping/21945801.html?iref=rss-c280",
-    "date": "2026-07-29 10:24",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
