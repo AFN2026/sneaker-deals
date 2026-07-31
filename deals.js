@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "Nike Women's Legend Essential 3 Next Nature Workout Shoes for $31 + free shipping w/ $50",
+    "price": "$31",
+    "link": "https://www.dealnews.com/Nike-Womens-Legend-Essential-3-Next-Nature-Workout-Shoes-for-31-free-shipping-w-50/21949571.html?iref=rss-c280",
+    "date": "2026-07-30 20:00",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Women's Air Max Nuaxis Shoes for $55 + free shipping",
+    "price": "$55",
+    "link": "https://www.dealnews.com/Nike-Womens-Air-Max-Nuaxis-Shoes-for-55-free-shipping/21949570.html?iref=rss-c280",
+    "date": "2026-07-30 19:49",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "Nike Men's or Women's Mercurial Vapor 17 Club FG Soccer Cleats for $52 in cart + free shipping",
     "price": "$52",
     "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Mercurial-Vapor-17-Club-FG-Soccer-Cleats-for-52-in-cart-free-shipping/21949535.html?iref=rss-c280",
@@ -63,6 +81,15 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
+    "title": "Adidas Men's Duramo SL Running Shoes (Core Black / Solar Red / Grey Six) $26.40 + Free Shipping",
+    "price": "$26.40",
+    "link": "https://slickdeals.net/f/19825329-adidas-men-s-duramo-sl-running-shoes-core-black-solar-red-grey-six-26-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-30 14:20",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's Response Runner Shoes for $30 + free shipping",
     "price": "$30",
     "link": "https://www.dealnews.com/adidas-Mens-Response-Runner-Shoes-for-30-free-shipping/21949438.html?iref=rss-c280",
@@ -79,15 +106,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Nike Legend Essential 3 Next Nature Women's Shoes (Black/White) $31.48 + Free Shipping on $50",
-    "price": "$31.48",
-    "link": "https://slickdeals.net/f/19824939-nike-legend-essential-3-next-nature-women-s-shoes-black-white-31-48-free-shipping-on-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-30 12:35",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Men's Ultimashow Running Shoes for $24 + free shipping",
@@ -117,51 +135,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Nordstrom Anniversary Sale Shoes for All under $100 + free shipping",
-    "price": "$100",
-    "link": "https://www.dealnews.com/Nordstrom-Anniversary-Sale-Shoes-for-All-under-100-free-shipping/21946021.html?iref=rss-c280",
-    "date": "2026-07-29 21:34",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's or Women's Book 1 Basketball Shoes for $49 + free shipping",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Book-1-Basketball-Shoes-for-49-free-shipping/21946015.html?iref=rss-c280",
-    "date": "2026-07-29 20:51",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Women's In-Season TR 13 Workout Shoes for $38 + free shipping w/ $50",
-    "price": "$38",
-    "link": "https://www.dealnews.com/Nike-Womens-In-Season-TR-13-Workout-Shoes-for-38-free-shipping-w-50/21946013.html?iref=rss-c280",
-    "date": "2026-07-29 20:41",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's or Women's Air Trainer Huarache Shoes for $95 + free shipping",
-    "price": "$95",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Air-Trainer-Huarache-Shoes-for-95-free-shipping/21946011.html?iref=rss-c280",
-    "date": "2026-07-29 20:34",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Cortez Leather Shoes for $71 + free shipping w/ $50",
-    "price": "$71",
-    "link": "https://www.dealnews.com/Nike-Mens-Cortez-Leather-Shoes-for-71-free-shipping-w-50/21945997.html?iref=rss-c280",
-    "date": "2026-07-29 20:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
@@ -169,6 +142,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "Women's Nike Sportswear Phoenix Fleece High-Waisted Oversized Sweatpants $26.25",
+    "price": "$26.25",
+    "link": "https://slickdeals.net/f/19814550-women-s-nike-sportswear-phoenix-fleece-high-waisted-oversized-sweatpants-26-25?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-27 18:27",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "FitVille Men's Court Tennis Amadeus V1 Lightweight Wide/Extra Wide Comfort Sneakers for $32 + free shipping",
