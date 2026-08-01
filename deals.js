@@ -1,5 +1,68 @@
 window.DEALS = [
   {
+    "title": "Nike air force 1 size 10",
+    "price": "£35",
+    "link": "https://www.hotukdeals.com/deals/nike-air-force-1-size-10-4948552",
+    "date": "2026-08-01 18:56",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Vomero Plus Shoes for $109 + free shipping",
+    "price": "$109",
+    "link": "https://www.dealnews.com/Nike-Mens-Vomero-Plus-Shoes-for-109-free-shipping/21933203.html?iref=rss-c280",
+    "date": "2026-08-01 18:54",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "New Balance Back to School Deals for Up to 30% off + extra 25% off $125 + free shipping",
+    "price": "$125",
+    "link": "https://www.dealnews.com/New-Balance-Back-to-School-Deals-for-Up-to-30-off-extra-25-off-125-free-shipping/21956104.html?iref=rss-c280",
+    "date": "2026-08-01 17:37",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "adidas Men's Back to School Shoe Deals for From $15, running shoes from $24 + free shipping",
+    "price": "$15,",
+    "link": "https://www.dealnews.com/adidas-Mens-Back-to-School-Shoe-Deals-for-From-15-running-shoes-from-24-free-shipping/21949433.html?iref=rss-c280",
+    "date": "2026-08-01 16:53",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "lululemon We Made Too Much Shoes Savings for From $49, sneakers from $89 + free shipping",
+    "price": "$49,",
+    "link": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Shoes-Savings-for-From-49-sneakers-from-89-free-shipping/21956078.html?iref=rss-c280",
+    "date": "2026-08-01 15:36",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Men's Ultraboost 5X Shoes for $64 + free shipping",
+    "price": "$64",
+    "link": "https://www.dealnews.com/adidas-Mens-Ultraboost-5-X-Shoes-for-64-free-shipping/21956065.html?iref=rss-c280",
+    "date": "2026-08-01 14:15",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's X_PLR Path Shoes for $23 + free shipping",
+    "price": "$23",
+    "link": "https://www.dealnews.com/adidas-Mens-X-PLR-Path-Shoes-for-23-free-shipping/21956064.html?iref=rss-c280",
+    "date": "2026-08-01 14:11",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's Run 70s 2.0 Shoes for $26 + free shipping",
     "price": "$26",
     "link": "https://www.dealnews.com/adidas-Mens-Run-70-s-2-0-Shoes-for-26-free-shipping/21956050.html?iref=rss-c280",
@@ -36,10 +99,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas men Tabela 23 Jersey $7.2 + Free Shipping",
-    "price": "$7.2",
-    "link": "https://slickdeals.net/f/19831785-adidas-men-tabela-23-jersey-7-2-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-01 11:42",
+    "title": "adidas men Adilette Aqua Slides $13.6 + Free Shipping",
+    "price": "$13.6",
+    "link": "https://slickdeals.net/f/19831779-adidas-men-adilette-aqua-slides-13-6-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-01 11:36",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
@@ -99,51 +162,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Swift Run 1 Shoes for $34 + free shipping",
-    "price": "$34",
-    "link": "https://www.dealnews.com/adidas-Mens-Swift-Run-1-Shoes-for-34-free-shipping/21952882.html?iref=rss-c280",
-    "date": "2026-07-31 12:22",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Rockadia Hiking Shoes for $48 + free shipping",
-    "price": "$48",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Rockadia-Hiking-Shoes-for-48-free-shipping/21952870.html?iref=rss-c280",
-    "date": "2026-07-31 11:42",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Ultraboost 5X Shoes for $77 + Free shipping",
-    "price": "$77",
-    "link": "https://www.dealnews.com/adidas-Mens-Ultraboost-5-X-Shoes-for-77-Free-shipping/21952869.html?iref=rss-c280",
-    "date": "2026-07-31 11:33",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Structure Plus Men's Road Running Shoes for $95 + free shipping",
-    "price": "$95",
-    "link": "https://www.dealnews.com/Nike-Structure-Plus-Mens-Road-Running-Shoes-for-95-free-shipping/21952821.html?iref=rss-c280",
-    "date": "2026-07-31 08:32",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Winflo 12 Road Running Shoes for $67 + shipping varies",
-    "price": "$67",
-    "link": "https://www.dealnews.com/Nike-Mens-Winflo-12-Road-Running-Shoes-for-67-shipping-varies/21933214.html?iref=rss-c280",
-    "date": "2026-07-31 08:27",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
     "price": "$77.",
     "link": "https://www.dealnews.com/adidas-Ultraboost-Back-to-School-Deals-Up-to-50-off-extra-15-off-free-shipping/21952805.html?iref=rss-c280",
@@ -160,15 +178,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "$21.99* | Bruno Marc Men's Slip-On Mesh Casual Sneakers (4 colors) at Amazon",
-    "price": "$21.99",
-    "link": "https://slickdeals.net/f/19809279-21-99-bruno-marc-men-s-slip-on-mesh-casual-sneakers-4-colors-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-26 04:53",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "sneakers"
   },
   {
     "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
