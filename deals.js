@@ -1,5 +1,41 @@
 window.DEALS = [
   {
+    "title": "PUMA Womens VELOCITY Woven Running Jacket, Size L",
+    "price": "£16.92",
+    "link": "https://www.hotukdeals.com/deals/puma-womens-velocity-woven-running-jacket-size-l-4949137",
+    "date": "2026-08-02 18:34",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "Puma Men's Football Shorts - Yellow Size L",
+    "price": "£5.76",
+    "link": "https://www.hotukdeals.com/deals/puma-mens-football-shorts-yellow-size-l-4949131",
+    "date": "2026-08-02 18:27",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "Adidas Samba Super Mens Trainers White - Limited sizes",
+    "price": "£30",
+    "link": "https://www.hotukdeals.com/deals/adidas-samba-super-mens-trainers-white-4949128",
+    "date": "2026-08-02 18:21",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Adidas Originals Montreal 76 Trainer Noble Maroon & Off White (Sizes 4 - 9.5) - Extra 10% Applied at Checkout",
+    "price": "£39.60",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-montreal-76-trainer-noble-maroon-off-white-sizes-4-95-extra-10-applied-at-checkout-4949125",
+    "date": "2026-08-02 18:19",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas D.O.N. Issue 7 Men's Basketball Shoes for $58 + free shipping",
     "price": "$58",
     "link": "https://www.dealnews.com/adidas-D-O-N-Issue-7-Mens-Basketball-Shoes-for-58-free-shipping/21959303.html?iref=rss-c280",
@@ -158,15 +194,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
     "date": "2026-07-28 04:01",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Kids' Lite Racer Adapt 7.0 Shoes (Core Black / Core Black / Grey Six) $24",
-    "price": "$24",
-    "link": "https://slickdeals.net/f/19815699-adidas-kids-lite-racer-adapt-7-0-shoes-core-black-core-black-grey-six-24?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-28 00:58",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
