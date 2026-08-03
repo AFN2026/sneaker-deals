@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "Nike Men's Air Max Excee Shoes for $60 + free shipping w/ $50",
+    "price": "$60",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Excee-Shoes-for-60-free-shipping-w-50/21964000.html?iref=rss-c280",
+    "date": "2026-08-03 08:20",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Pegasus Premium Men's Road Running Shoes for $133 w/ code + shipping varies",
+    "price": "$133",
+    "link": "https://www.dealnews.com/Nike-Pegasus-Premium-Mens-Road-Running-Shoes-for-133-w-code-shipping-varies/21963996.html?iref=rss-c280",
+    "date": "2026-08-03 07:59",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "adidas Men's Samoa Leather Shoes for $29 + free shipping",
     "price": "$29",
     "link": "https://www.dealnews.com/adidas-Mens-Samoa-Leather-Shoes-for-29-free-shipping/21959347.html?iref=rss-c280",
@@ -43,6 +61,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's ACG Pegasus Trail Running Shoes (Baltic Blue/Light Orewood) $81.75 + Free S&H",
+    "price": "$81.75",
+    "link": "https://slickdeals.net/f/19835394-nike-men-s-acg-pegasus-trail-running-shoes-baltic-blue-light-orewood-81-75-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-02 19:28",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas D.O.N. Issue 7 Men's Basketball Shoes for $58 + free shipping",
@@ -108,24 +135,6 @@ window.DEALS = [
     "keyword": "new balance"
   },
   {
-    "title": "adidas Men's Back to School Shoe Deals for From $15, running shoes from $24 + free shipping",
-    "price": "$15,",
-    "link": "https://www.dealnews.com/adidas-Mens-Back-to-School-Shoe-Deals-for-From-15-running-shoes-from-24-free-shipping/21949433.html?iref=rss-c280",
-    "date": "2026-08-01 16:53",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "lululemon We Made Too Much Shoes Savings for From $49, sneakers from $89 + free shipping",
-    "price": "$49,",
-    "link": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Shoes-Savings-for-From-49-sneakers-from-89-free-shipping/21956078.html?iref=rss-c280",
-    "date": "2026-08-01 15:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
     "price": "$77.",
     "link": "https://www.dealnews.com/adidas-Ultraboost-Back-to-School-Deals-Up-to-50-off-extra-15-off-free-shipping/21952805.html?iref=rss-c280",
@@ -133,24 +142,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "24L Nike Brasilia Training Backpack (Sesame) $25.17 + Free Shipping on $49+",
-    "price": "$25.17",
-    "link": "https://slickdeals.net/f/19826337-24l-nike-brasilia-training-backpack-sesame-25-17-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-30 18:05",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Women's Air Max Nuaxis Shoes in Black | HF1233-001 $54.73",
-    "price": "$54.73",
-    "link": "https://slickdeals.net/f/19826184-nike-women-s-air-max-nuaxis-shoes-in-black-hf1233-001-54-73?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-30 17:18",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
