@@ -1,5 +1,104 @@
 window.DEALS = [
   {
+    "title": "adidas Superstar II Trainers Black Black Iron Metallic",
+    "price": "£40",
+    "link": "https://www.hotukdeals.com/deals/adidas-superstar-ii-trainers-black-black-iron-metallic-4949961",
+    "date": "2026-08-03 19:18",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Gazelle Trainers Semi Green Spark Solar Orange Gum",
+    "price": "£30",
+    "link": "https://www.hotukdeals.com/deals/adidas-gazelle-trainers-semi-green-spark-solar-orange-gum-4949956",
+    "date": "2026-08-03 19:14",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Volley Plimsole Trainers",
+    "price": "£18",
+    "link": "https://www.hotukdeals.com/deals/adidas-volley-plimsole-trainers-4949953",
+    "date": "2026-08-03 19:09",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "PUMA Sprint Trainers Metallic Puma Silver Puma Black",
+    "price": "£16",
+    "link": "https://www.hotukdeals.com/deals/httpswwwoffspringcoukviewproductoffspring-catalog65393897531-4949949",
+    "date": "2026-08-03 19:06",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "adidas Samba OG Trainers Yellow Core Black Silver Met",
+    "price": "£30",
+    "link": "https://www.hotukdeals.com/deals/adidas-samba-og-trainers-yellow-core-black-silver-met-4949947",
+    "date": "2026-08-03 19:04",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Samba OG Trainers Aurora Ivy Core Black Silver Met",
+    "price": "£40",
+    "link": "https://www.hotukdeals.com/deals/adidas-samba-og-trainers-aurora-ivy-core-black-silver-met-4949946",
+    "date": "2026-08-03 19:01",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Air Force 1 '07 LV8 Shoes for $65 + shipping varies",
+    "price": "$65",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-07-LV8-Shoes-for-65-shipping-varies/21964136.html?iref=rss-c280",
+    "date": "2026-08-03 18:19",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's / Women's Precision 8 Low Basketball Shoes for $51 + free shipping",
+    "price": "$51",
+    "link": "https://www.dealnews.com/Nike-Mens-Womens-Precision-8-Low-Basketball-Shoes-for-51-free-shipping/21964135.html?iref=rss-c280",
+    "date": "2026-08-03 18:17",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Jordan Jumpman Pro Shoes for $85 + free shipping w/ $50",
+    "price": "$85",
+    "link": "https://www.dealnews.com/Nike-Mens-Jordan-Jumpman-Pro-Shoes-for-85-free-shipping-w-50/21964134.html?iref=rss-c280",
+    "date": "2026-08-03 18:11",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Air Men's VaporMax Plus Shoes (Black/Anthracite/White/Bright Crimson or Black) $120.73 + Free Shipping",
+    "price": "$120.73",
+    "link": "https://slickdeals.net/f/19838286-nike-air-men-s-vapormax-plus-shoes-black-anthracite-white-bright-crimson-or-black-120-73-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-03 14:23",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Jordan Jumpman Pro Men's Shoes (Black/White/Red) $84.75 + Free Shipping",
+    "price": "$84.75",
+    "link": "https://slickdeals.net/f/19838247-jordan-jumpman-pro-men-s-shoes-black-white-red-84-75-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-03 14:15",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "Vans Men's Filmore Shoes for $30 + free shipping w/ Prime",
     "price": "$30",
     "link": "https://www.dealnews.com/Vans-Mens-Filmore-Shoes-for-30-free-shipping-w-Prime/21964060.html?iref=rss-c280",
@@ -72,15 +171,6 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
-    "title": "adidas Men's Climacool Laced Shoes $79",
-    "price": "$79",
-    "link": "https://slickdeals.net/f/19835628-adidas-men-s-climacool-laced-shoes-79?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-02 21:26",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Nike Women's Zoom Air Fire Shoes for $42 + free shipping w/ $50",
     "price": "$42",
     "link": "https://www.dealnews.com/Nike-Womens-Zoom-Air-Fire-Shoes-for-42-free-shipping-w-50/21959334.html?iref=rss-c280",
@@ -108,42 +198,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas D.O.N. Issue 7 Men's Basketball Shoes for $58 + free shipping",
-    "price": "$58",
-    "link": "https://www.dealnews.com/adidas-D-O-N-Issue-7-Mens-Basketball-Shoes-for-58-free-shipping/21959303.html?iref=rss-c280",
-    "date": "2026-08-02 08:39",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Ultradream DNA Shoes for $37 + free shipping",
-    "price": "$37",
-    "link": "https://www.dealnews.com/adidas-Mens-Ultradream-DNA-Shoes-for-37-free-shipping/21959301.html?iref=rss-c280",
-    "date": "2026-08-02 08:19",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Adistar XLG 2.0 Shoes for $61 + free shipping",
-    "price": "$61",
-    "link": "https://www.dealnews.com/adidas-Adistar-XLG-2-0-Shoes-for-61-free-shipping/21959300.html?iref=rss-c280",
-    "date": "2026-08-02 07:46",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Women's Pacific Low-Profile Sneakers (Sail/Crimson/Blue, Sizes: 6-11) $38.98 + Free Shipping on $49+",
-    "price": "$38.98",
-    "link": "https://slickdeals.net/f/19829724-nike-women-s-pacific-low-profile-sneakers-sail-crimson-blue-sizes-6-11-38-98-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-31 19:11",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
     "price": "$77.",
     "link": "https://www.dealnews.com/adidas-Ultraboost-Back-to-School-Deals-Up-to-50-off-extra-15-off-free-shipping/21952805.html?iref=rss-c280",
@@ -153,13 +207,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Avia Kids Running Sneakers with Bungee Laces (Limited Sizes, 3 Colors) $9.97",
-    "price": "$9.97",
-    "link": "https://slickdeals.net/f/19818945-avia-kids-running-sneakers-with-bungee-laces-limited-sizes-3-colors-9-97?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-28 19:42",
+    "title": "Nike Dunk Low Big Kids' Shoes in White | FB9109-102 $52.47",
+    "price": "$52.47",
+    "link": "https://slickdeals.net/f/19817979-nike-dunk-low-big-kids-shoes-in-white-fb9109-102-52-47?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-07-28 15:47",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "sneakers"
+    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
