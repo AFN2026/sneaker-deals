@@ -1,30 +1,66 @@
 window.DEALS = [
   {
-    "title": "FireAngel SB1-R Optical Smoke Alarm Detector / Buy 2 for £14",
-    "price": "£14",
-    "link": "https://www.hotukdeals.com/deals/fireangel-sb1-r-optical-smoke-alarm-detector-buy-2-for-ps14-4950434",
-    "date": "2026-08-04 13:44",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
+    "title": "adidas Men's Terrex Eastrail 3 Shoes for $47.60 + Free shipping",
+    "price": "$47.60",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Eastrail-3-Shoes-for-47-60-Free-shipping/21969902.html?iref=rss-c280",
+    "date": "2026-08-04 19:04",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
-    "title": "Full car breakdown cover for you and legal spouse - annual price",
-    "price": "£57.28",
-    "link": "https://www.hotukdeals.com/deals/autoaid-full-car-breakdown-cover-for-you-and-legal-spouse-4950416",
-    "date": "2026-08-04 13:07",
+    "title": "Liverpool FC (LFC) Adidas Men's 25/26 Home Short Sleeve Goalkeeper Jersey",
+    "price": "£10",
+    "link": "https://www.hotukdeals.com/deals/liverpool-fc-lfc-adidas-mens-2526-home-short-sleeve-goalkeeper-jersey-4950599",
+    "date": "2026-08-04 18:59",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "vans"
+    "keyword": "adidas"
   },
   {
-    "title": "PUMA Orbita Cup Premier League Thrill Football size 5",
-    "price": "£11",
-    "link": "https://www.hotukdeals.com/deals/puma-orbita-cup-premier-league-thrill-football-4950414",
-    "date": "2026-08-04 13:04",
+    "title": "adidas Women's Terrex Eastrail 3 W Shoes for $40.80 + Free shipping",
+    "price": "$40.80",
+    "link": "https://www.dealnews.com/adidas-Womens-Terrex-Eastrail-3-W-Shoes-for-40-80-Free-shipping/21969900.html?iref=rss-c280",
+    "date": "2026-08-04 18:55",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's or Women's Juniper Trail 3 Trail Running Shoes for $54 + free shipping",
+    "price": "$54",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Juniper-Trail-3-Trail-Running-Shoes-for-54-free-shipping/21969899.html?iref=rss-c280",
+    "date": "2026-08-04 18:49",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Galaxy OG Trainers Night Indigo",
+    "price": "£24",
+    "link": "https://www.hotukdeals.com/deals/adidas-galaxy-og-trainers-night-indigo-4950591",
+    "date": "2026-08-04 18:38",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "PUMA Sprint Trainers Puma Black Warm White",
+    "price": "£18",
+    "link": "https://www.hotukdeals.com/deals/puma-sprint-trainers-puma-black-warm-white-4950590",
+    "date": "2026-08-04 18:35",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "puma"
+  },
+  {
+    "title": "Vans Skate Old Skool 36+ Shoe (Antique White/Black, Various Sizes) $25.77 + Free Store Pickup",
+    "price": "$25.77",
+    "link": "https://slickdeals.net/f/19843497-vans-skate-old-skool-36-shoe-antique-white-black-various-sizes-25-77-free-store-pickup?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-04 18:06",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "vans"
   },
   {
     "title": "Academy Sports Clothing & Shoes Deals: Extra 30% off in cart + free shipping w/ $50",
@@ -77,6 +113,15 @@ window.DEALS = [
     "link": "https://www.dealnews.com/Nike-Mens-Jordan-Jumpman-Pro-Shoes-for-85-free-shipping-w-50/21964134.html?iref=rss-c280",
     "date": "2026-08-03 18:11",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's  Nike LeBron Witness 9 Basketball Shoes (Particle Pink/Pearl. Sizes: 8-12) from $50.23 + Free Shipping",
+    "price": "$50.23",
+    "link": "https://slickdeals.net/f/19838259-nike-men-s-nike-lebron-witness-9-basketball-shoes-particle-pink-pearl-sizes-8-12-from-50-23-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-03 14:20",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "nike"
   },
@@ -135,22 +180,13 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas Men's Samoa Leather Shoes for $29 + free shipping",
-    "price": "$29",
-    "link": "https://www.dealnews.com/adidas-Mens-Samoa-Leather-Shoes-for-29-free-shipping/21959347.html?iref=rss-c280",
-    "date": "2026-08-02 23:29",
-    "source": "DealNews",
+    "title": "adidas Men's 3-Stripes Sweatpants (Medium Grey Heather) $19.2",
+    "price": "$19.2",
+    "link": "https://slickdeals.net/f/19834866-adidas-men-s-3-stripes-sweatpants-medium-grey-heather-19-2?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-02 15:04",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Chaps Women's York Deck Boat Shoe Sneakers for $13 + free shipping w/ $35",
-    "price": "$13",
-    "link": "https://www.dealnews.com/Chaps-Womens-York-Deck-Boat-Shoe-Sneakers-for-13-free-shipping-w-35/21959338.html?iref=rss-c280",
-    "date": "2026-08-02 21:27",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
   },
   {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
