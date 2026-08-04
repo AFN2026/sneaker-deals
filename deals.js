@@ -1,5 +1,32 @@
 window.DEALS = [
   {
+    "title": "ECO-WORTHY 50Ah 12.8V LiFePO4 Battery – BMS, Solar Expandable, 5.12kWh, 200A w/code @ ECOWORTHY UK Store [UK Stock]",
+    "price": "£69.13",
+    "link": "https://www.hotukdeals.com/deals/eco-worthy-50ah-128v-lifepo4-battery-bms-solar-expandable-512kwh-200a-wcode-at-ecoworthy-uk-store-uk-stock-4950247",
+    "date": "2026-08-04 08:19",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "vans"
+  },
+  {
+    "title": "adidas Women's Questar 3 Running Shoes, Sizes 6, 8 ,9 ,9.5 - Cloud White",
+    "price": "£27.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-womens-questar-3-running-shoes-6-8-9-95uk-4950226",
+    "date": "2026-08-04 07:55",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Sambas, Converse & more at Woot: Up to 77% off + free shipping w/ Prime",
+    "price": "$56.99",
+    "link": "https://www.dealnews.com/adidas-Sambas-Converse-more-at-Woot-Up-to-77-off-free-shipping-w-Prime/21969784.html?iref=rss-c280",
+    "date": "2026-08-04 06:17",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Women's or Men's Charge Suede Shoes for $45 + free shipping w/ $50",
     "price": "$45",
     "link": "https://www.dealnews.com/Nike-Womens-or-Mens-Charge-Suede-Shoes-for-45-free-shipping-w-50/21964186.html?iref=rss-c280",
@@ -99,20 +126,20 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike Men's Precision 7 Basketball Shoes (2 Colors) $45.73 + Free Shipping on $50",
-    "price": "$45.73",
-    "link": "https://slickdeals.net/f/19833948-nike-men-s-precision-7-basketball-shoes-2-colors-45-73-free-shipping-on-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-02 06:09",
-    "source": "Slickdeals",
+    "title": "Chaps Women's York Deck Boat Shoe Sneakers for $13 + free shipping w/ $35",
+    "price": "$13",
+    "link": "https://www.dealnews.com/Chaps-Womens-York-Deck-Boat-Shoe-Sneakers-for-13-free-shipping-w-35/21959338.html?iref=rss-c280",
+    "date": "2026-08-02 21:27",
+    "source": "DealNews",
     "currency": "USD",
-    "keyword": "nike"
+    "keyword": "sneakers"
   },
   {
-    "title": "2-Piece Nike Toddler Girls' Lace It Up Crewneck T-Shirt & Shorts Set (University Blue, Sizes: 2Y=4T) $19.13 + Free Store Pickup at Macy's or Free Shipping on $39+",
-    "price": "$19.13",
-    "link": "https://slickdeals.net/f/19828986-2-piece-nike-toddler-girls-lace-it-up-crewneck-t-shirt-shorts-set-university-blue-sizes-2y-4t-19-13-free-store-pickup-at-macy-s-or-free-shipping-on-39?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-07-31 14:56",
-    "source": "Slickdeals",
+    "title": "Nike Women's Zoom Air Fire Shoes for $42 + free shipping w/ $50",
+    "price": "$42",
+    "link": "https://www.dealnews.com/Nike-Womens-Zoom-Air-Fire-Shoes-for-42-free-shipping-w-50/21959334.html?iref=rss-c280",
+    "date": "2026-08-02 20:40",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
   },
