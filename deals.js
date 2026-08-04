@@ -1,21 +1,39 @@
 window.DEALS = [
   {
-    "title": "ECO-WORTHY 50Ah 12.8V LiFePO4 Battery – BMS, Solar Expandable, 5.12kWh, 200A w/code @ ECOWORTHY UK Store [UK Stock]",
-    "price": "£69.13",
-    "link": "https://www.hotukdeals.com/deals/eco-worthy-50ah-128v-lifepo4-battery-bms-solar-expandable-512kwh-200a-wcode-at-ecoworthy-uk-store-uk-stock-4950247",
-    "date": "2026-08-04 08:19",
+    "title": "FireAngel SB1-R Optical Smoke Alarm Detector / Buy 2 for £14",
+    "price": "£14",
+    "link": "https://www.hotukdeals.com/deals/fireangel-sb1-r-optical-smoke-alarm-detector-buy-2-for-ps14-4950434",
+    "date": "2026-08-04 13:44",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "vans"
   },
   {
-    "title": "adidas Women's Questar 3 Running Shoes, Sizes 6, 8 ,9 ,9.5 - Cloud White",
-    "price": "£27.99",
-    "link": "https://www.hotukdeals.com/deals/adidas-womens-questar-3-running-shoes-6-8-9-95uk-4950226",
-    "date": "2026-08-04 07:55",
+    "title": "Full car breakdown cover for you and legal spouse - annual price",
+    "price": "£57.28",
+    "link": "https://www.hotukdeals.com/deals/autoaid-full-car-breakdown-cover-for-you-and-legal-spouse-4950416",
+    "date": "2026-08-04 13:07",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "adidas"
+    "keyword": "vans"
+  },
+  {
+    "title": "PUMA Orbita Cup Premier League Thrill Football size 5",
+    "price": "£11",
+    "link": "https://www.hotukdeals.com/deals/puma-orbita-cup-premier-league-thrill-football-4950414",
+    "date": "2026-08-04 13:04",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "Academy Sports Clothing & Shoes Deals: Extra 30% off in cart + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Academy-Sports-Clothing-Shoes-Deals-Extra-30-off-in-cart-free-shipping-w-50/21969829.html?iref=rss-c280",
+    "date": "2026-08-04 12:36",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Sambas, Converse & more at Woot: Up to 77% off + free shipping w/ Prime",
@@ -133,15 +151,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Women's Zoom Air Fire Shoes for $42 + free shipping w/ $50",
-    "price": "$42",
-    "link": "https://www.dealnews.com/Nike-Womens-Zoom-Air-Fire-Shoes-for-42-free-shipping-w-50/21959334.html?iref=rss-c280",
-    "date": "2026-08-02 20:40",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
