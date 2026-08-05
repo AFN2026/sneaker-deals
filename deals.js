@@ -1,21 +1,93 @@
 window.DEALS = [
   {
-    "title": "Men's Asics GEL-SONOMA 15-50 Trainers - Extra 10% off New members (discount at checkout)",
-    "price": "£40.60",
-    "link": "https://www.hotukdeals.com/deals/mens-asics-gel-sonoma-15-50-trainers-extra-10-off-new-members-discount-at-checkout-4950890",
-    "date": "2026-08-05 08:15",
+    "title": "Nike Killshot 2 Trainers - Free C&C",
+    "price": "£18",
+    "link": "https://www.hotukdeals.com/deals/nike-killshot-2-trainers-now-ps18-free-cc-4951141",
+    "date": "2026-08-05 13:23",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "trainers"
+    "keyword": "nike"
   },
   {
-    "title": "adidas Essentials Fleece 3-Stripes Hoodie",
-    "price": "£23",
-    "link": "https://www.hotukdeals.com/deals/essentials-fleece-3-stripes-hoodie-mens-4950882",
-    "date": "2026-08-05 08:06",
+    "title": "adidas Originals Superstar II Trainers (Sizes 3 - 7) - w/code",
+    "price": "£34.39",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-superstar-ii-trainers-sizes-3-7-wcode-4951119",
+    "date": "2026-08-05 12:54",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
+  },
+  {
+    "title": "adidas \"New to Sale\" Deals: Up to 45% off + extra 15% off + free shipping",
+    "price": "$75,",
+    "link": "https://www.dealnews.com/adidas-New-to-Sale-Deals-Up-to-45-off-extra-15-off-free-shipping/21975134.html?iref=rss-c280",
+    "date": "2026-08-05 12:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Gato LV8 Shoes for $67 + free shipping",
+    "price": "$67",
+    "link": "https://www.dealnews.com/Nike-Mens-Gato-LV8-Shoes-for-67-free-shipping/21975127.html?iref=rss-c280",
+    "date": "2026-08-05 12:26",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Jordan Trunner Flow Shoes for $55 + free shipping",
+    "price": "$55",
+    "link": "https://www.dealnews.com/Nike-Mens-Jordan-Trunner-Flow-Shoes-for-55-free-shipping/21975123.html?iref=rss-c280",
+    "date": "2026-08-05 12:20",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Dunk Low Retro SE Shoes for $73 + shipping varies",
+    "price": "$73",
+    "link": "https://www.dealnews.com/Nike-Mens-Dunk-Low-Retro-SE-Shoes-for-73-shipping-varies/21975122.html?iref=rss-c280",
+    "date": "2026-08-05 12:17",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Kobe Air Force 1 Low Shoes for $71 + free shipping",
+    "price": "$71",
+    "link": "https://www.dealnews.com/Nike-Mens-Kobe-Air-Force-1-Low-Shoes-for-71-free-shipping/21975120.html?iref=rss-c280",
+    "date": "2026-08-05 12:13",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Slides for from $22 + free shipping",
+    "price": "$22",
+    "link": "https://www.dealnews.com/Nike-Mens-Slides-for-from-22-free-shipping/21975110.html?iref=rss-c280",
+    "date": "2026-08-05 11:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Ava Rover Shoes for $82 + free shipping",
+    "price": "$82",
+    "link": "https://www.dealnews.com/Nike-Mens-Ava-Rover-Shoes-for-82-free-shipping/21975059.html?iref=rss-c280",
+    "date": "2026-08-05 09:10",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Coostar Men's Casual Dress Sneakers for $18 + free shipping w/ Prime",
+    "price": "$18",
+    "link": "https://www.dealnews.com/Coostar-Mens-Casual-Dress-Sneakers-for-18-free-shipping-w-Prime/21975051.html?iref=rss-c280",
+    "date": "2026-08-05 08:52",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
   },
   {
     "title": "adidas Men's Courtjam Control 3 Tennis Shoes for $36 + free shipping",
@@ -79,69 +151,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Academy Sports Clothing & Shoes Deals: Extra 30% off in cart + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Academy-Sports-Clothing-Shoes-Deals-Extra-30-off-in-cart-free-shipping-w-50/21969829.html?iref=rss-c280",
-    "date": "2026-08-04 12:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Sambas, Converse & more at Woot: Up to 77% off + free shipping w/ Prime",
-    "price": "$56.99",
-    "link": "https://www.dealnews.com/adidas-Sambas-Converse-more-at-Woot-Up-to-77-off-free-shipping-w-Prime/21969784.html?iref=rss-c280",
-    "date": "2026-08-04 06:17",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Women's or Men's Charge Suede Shoes for $45 + free shipping w/ $50",
-    "price": "$45",
-    "link": "https://www.dealnews.com/Nike-Womens-or-Mens-Charge-Suede-Shoes-for-45-free-shipping-w-50/21964186.html?iref=rss-c280",
-    "date": "2026-08-03 20:51",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Force 1 '07 LV8 Shoes for $65 + shipping varies",
-    "price": "$65",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-07-LV8-Shoes-for-65-shipping-varies/21964136.html?iref=rss-c280",
-    "date": "2026-08-03 18:19",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's / Women's Precision 8 Low Basketball Shoes for $51 + free shipping",
-    "price": "$51",
-    "link": "https://www.dealnews.com/Nike-Mens-Womens-Precision-8-Low-Basketball-Shoes-for-51-free-shipping/21964135.html?iref=rss-c280",
-    "date": "2026-08-03 18:17",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Jordan Jumpman Pro Shoes for $85 + free shipping w/ $50",
-    "price": "$85",
-    "link": "https://www.dealnews.com/Nike-Mens-Jordan-Jumpman-Pro-Shoes-for-85-free-shipping-w-50/21964134.html?iref=rss-c280",
-    "date": "2026-08-03 18:11",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Vans Men's Filmore Shoes for $30 + free shipping w/ Prime",
-    "price": "$30",
-    "link": "https://www.dealnews.com/Vans-Mens-Filmore-Shoes-for-30-free-shipping-w-Prime/21964060.html?iref=rss-c280",
-    "date": "2026-08-03 13:03",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "vans"
   },
   {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
