@@ -1,5 +1,104 @@
 window.DEALS = [
   {
+    "title": "Nike Women's Air Force 1 '07 Trainers Black Black Off Noir, Sizes - 4,5,6 Only + Extra 10% off for Students & Bluelight Card Holders",
+    "price": "£55",
+    "link": "https://www.hotukdeals.com/deals/nike-womens-air-force-1-07-trainers-black-black-off-noir-sizes-456-only-extra-10-off-for-students-bluelight-card-holders-4952170",
+    "date": "2026-08-06 21:59",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Kobe Air Force 1 Low Shoes for $71 + free shipping",
+    "price": "$71",
+    "link": "https://www.dealnews.com/Nike-Mens-Kobe-Air-Force-1-Low-Shoes-for-71-free-shipping/21980736.html?iref=rss-c280",
+    "date": "2026-08-06 18:57",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Jordan Back to School Shoe Deals: Up to 29% off + extra 25% off + free shipping",
+    "price": "$99",
+    "link": "https://www.dealnews.com/Nike-Jordan-Back-to-School-Shoe-Deals-Up-to-29-off-extra-25-off-free-shipping/21980732.html?iref=rss-c280",
+    "date": "2026-08-06 18:50",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Air Force 1 Back to School Deals at Nike: Up to 30% off + extra 25% off + free shipping",
+    "price": "$80",
+    "link": "https://www.dealnews.com/Nike-Air-Force-1-Back-to-School-Deals-at-Nike-Up-to-30-off-extra-25-off-free-shipping/21980725.html?iref=rss-c280",
+    "date": "2026-08-06 18:35",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Air Max Back to School Deals: Up to 36% off + extra 25% off + free shipping",
+    "price": "$121",
+    "link": "https://www.dealnews.com/Nike-Air-Max-Back-to-School-Deals-Up-to-36-off-extra-25-off-free-shipping/21980723.html?iref=rss-c280",
+    "date": "2026-08-06 18:19",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Back to School Sale: Up to 49% off + extra 25% off + free shipping",
+    "price": "$22.97,",
+    "link": "https://www.dealnews.com/Nike-Back-to-School-Sale-Up-to-49-off-extra-25-off-free-shipping/21980719.html?iref=rss-c280",
+    "date": "2026-08-06 17:55",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Women's Grand Court 2.0 Shoes for $19 + free shipping",
+    "price": "$19",
+    "link": "https://www.dealnews.com/adidas-Womens-Grand-Court-2-0-Shoes-for-19-free-shipping/21980708.html?iref=rss-c280",
+    "date": "2026-08-06 16:48",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Ultraboost 5X Shoes for $52 + free shipping",
+    "price": "$52",
+    "link": "https://www.dealnews.com/adidas-Mens-Ultraboost-5-X-Shoes-for-52-free-shipping/21980679.html?iref=rss-c280",
+    "date": "2026-08-06 15:31",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "New Balance Sale at Scheels: Up to 60% off + free shipping w/ $75",
+    "price": "$75",
+    "link": "https://www.dealnews.com/New-Balance-Sale-at-Scheels-Up-to-60-off-free-shipping-w-75/21980642.html?iref=rss-c280",
+    "date": "2026-08-06 14:24",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "adidas Men's Streettalk Shoes for $18 + free shipping",
+    "price": "$18",
+    "link": "https://www.dealnews.com/adidas-Mens-Streettalk-Shoes-for-18-free-shipping/21980630.html?iref=rss-c280",
+    "date": "2026-08-06 14:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Adilette Comfort 2.0 Mexico Slides for $16 + free shipping",
+    "price": "$16",
+    "link": "https://www.dealnews.com/adidas-Mens-Adilette-Comfort-2-0-Mexico-Slides-for-16-free-shipping/21980626.html?iref=rss-c280",
+    "date": "2026-08-06 13:53",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Samba Shoe Deals: Up to 50% off + extra 15% off select + Free shipping",
     "price": "$50",
     "link": "https://www.dealnews.com/adidas-Samba-Shoe-Deals-Up-to-50-off-extra-15-off-select-Free-shipping/21980617.html?iref=rss-c280",
@@ -7,15 +106,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Outlet Sale + Extra 20% Off When Buying Any 2 Pairs - Brockwood Trainers from £22.40 / Hail Leather Shoes from £22.40 & More",
-    "price": "£22.40",
-    "link": "https://www.hotukdeals.com/deals/outlet-sale-extra-20-off-when-buying-any-2-pairs-brockwood-trainers-from-ps2240-hail-leather-shoes-from-ps2240-more-4951849",
-    "date": "2026-08-06 13:11",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
   },
   {
     "title": "adidas Men's Ultimashow Running Shoes for $23.80 + Free shipping",
@@ -54,15 +144,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike Revolution 7 Men's or Women's Running Shoes (Ashen Slate) $36.73 + Free Shipping on $50",
-    "price": "$36.73",
-    "link": "https://slickdeals.net/f/19849722-nike-revolution-7-men-s-or-women-s-running-shoes-ashen-slate-36-73-free-shipping-on-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-06 12:22",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "StockX Trending Deals: Below-retail prices + shipping varies",
     "price": "$30",
     "link": "https://www.dealnews.com/Stock-X-Trending-Deals-Below-retail-prices-shipping-varies/21980592.html?iref=rss-c280",
@@ -81,109 +162,19 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
+    "title": "adidas men Backpack $17.6 + Free Shipping",
+    "price": "$17.6",
+    "link": "https://slickdeals.net/f/19849524-adidas-men-backpack-17-6-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-06 11:29",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's VL Court 3.0 Shoes for From $20 + free shipping",
     "price": "$20",
     "link": "https://www.dealnews.com/adidas-Mens-VL-Court-3-0-Shoes-for-From-20-free-shipping/21980578.html?iref=rss-c280",
     "date": "2026-08-06 11:27",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Joseph Abboud Court Sneakers for $20 + free shipping w/ $99",
-    "price": "$20",
-    "link": "https://www.dealnews.com/Joseph-Abboud-Court-Sneakers-for-20-free-shipping-w-99/21975317.html?iref=rss-c280",
-    "date": "2026-08-05 21:59",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's Total 90 Shoes (Black/White/Bright Crimson) $59.98 + Free Shipping",
-    "price": "$59.98",
-    "link": "https://slickdeals.net/f/19847619-nike-men-s-total-90-shoes-black-white-bright-crimson-59-98-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-05 20:56",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Kids Lite Racer Adapt 7.0 Shoes for $18 + free shipping",
-    "price": "$18",
-    "link": "https://www.dealnews.com/adidas-Kids-Lite-Racer-Adapt-7-0-Shoes-for-18-free-shipping/21975264.html?iref=rss-c280",
-    "date": "2026-08-05 19:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Dick's Sporting Goods Women's Epic Shoe Sale: Up to 50% off + free shipping w/ $49",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Dicks-Sporting-Goods-Womens-Epic-Shoe-Sale-Up-to-50-off-free-shipping-w-49/21975256.html?iref=rss-c280",
-    "date": "2026-08-05 18:42",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Awearness Kenneth Cole Men's Plain Toe Suede Sneakers for $30 + free shipping",
-    "price": "$30",
-    "link": "https://www.dealnews.com/Awearness-Kenneth-Cole-Mens-Plain-Toe-Suede-Sneakers-for-30-free-shipping/21975255.html?iref=rss-c280",
-    "date": "2026-08-05 18:41",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Dick's Sporting Goods Men's Epic Shoe Sale: Up to 50% off + free shipping w/ $49",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Dicks-Sporting-Goods-Mens-Epic-Shoe-Sale-Up-to-50-off-free-shipping-w-49/21975253.html?iref=rss-c280",
-    "date": "2026-08-05 18:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Dick's Sporting Goods Epic Shoe Sale: Up to 56% off + free shipping w/ $49",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Dicks-Sporting-Goods-Epic-Shoe-Sale-Up-to-56-off-free-shipping-w-49/21975247.html?iref=rss-c280",
-    "date": "2026-08-05 18:17",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men VL Court 3.0 Shoes for $22 + free shipping",
-    "price": "$22",
-    "link": "https://www.dealnews.com/adidas-Men-VL-Court-3-0-Shoes-for-22-free-shipping/21975238.html?iref=rss-c280",
-    "date": "2026-08-05 17:31",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Campus 00s Shoes for $35 + free shipping",
-    "price": "$35",
-    "link": "https://www.dealnews.com/adidas-Mens-Campus-00-s-Shoes-for-35-free-shipping/21975166.html?iref=rss-c280",
-    "date": "2026-08-05 14:20",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Barreda Decode Shoes for $29 + free shipping",
-    "price": "$29",
-    "link": "https://www.dealnews.com/adidas-Mens-Barreda-Decode-Shoes-for-29-free-shipping/21975165.html?iref=rss-c280",
-    "date": "2026-08-05 14:14",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Grand Court Shoes for $24.80 + free shipping",
-    "price": "$24.80",
-    "link": "https://www.dealnews.com/adidas-Mens-Grand-Court-Shoes-for-24-80-free-shipping/21975163.html?iref=rss-c280",
-    "date": "2026-08-05 14:06",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
