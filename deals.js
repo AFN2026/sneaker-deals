@@ -1,14 +1,5 @@
 window.DEALS = [
   {
-    "title": "Nike Women's Air Force 1 '07 Trainers Black Black Off Noir, Sizes - 4,5,6 Only + Extra 10% off for Students & Bluelight Card Holders",
-    "price": "£55",
-    "link": "https://www.hotukdeals.com/deals/nike-womens-air-force-1-07-trainers-black-black-off-noir-sizes-456-only-extra-10-off-for-students-bluelight-card-holders-4952170",
-    "date": "2026-08-06 21:59",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
     "title": "Nike Men's Kobe Air Force 1 Low Shoes for $71 + free shipping",
     "price": "$71",
     "link": "https://www.dealnews.com/Nike-Mens-Kobe-Air-Force-1-Low-Shoes-for-71-free-shipping/21980736.html?iref=rss-c280",
@@ -59,6 +50,15 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Womens-Grand-Court-2-0-Shoes-for-19-free-shipping/21980708.html?iref=rss-c280",
     "date": "2026-08-06 16:48",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men Ultradream DNA Shoes (2 Colors) from $28",
+    "price": "$28",
+    "link": "https://slickdeals.net/f/19850529-adidas-men-ultradream-dna-shoes-2-colors-from-28?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-06 16:00",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -158,15 +158,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Galaxy-7-Running-Shoes-for-22-free-shipping/21980580.html?iref=rss-c280",
     "date": "2026-08-06 11:30",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men Backpack $17.6 + Free Shipping",
-    "price": "$17.6",
-    "link": "https://slickdeals.net/f/19849524-adidas-men-backpack-17-6-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-06 11:29",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
