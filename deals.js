@@ -135,33 +135,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Nike Men's Kobe Air Force 1 Low Shoes for $71 + free shipping",
-    "price": "$71",
-    "link": "https://www.dealnews.com/Nike-Mens-Kobe-Air-Force-1-Low-Shoes-for-71-free-shipping/21980736.html?iref=rss-c280",
-    "date": "2026-08-06 18:57",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Jordan Back to School Shoe Deals: Up to 29% off + extra 25% off + free shipping",
-    "price": "$99",
-    "link": "https://www.dealnews.com/Nike-Jordan-Back-to-School-Shoe-Deals-Up-to-29-off-extra-25-off-free-shipping/21980732.html?iref=rss-c280",
-    "date": "2026-08-06 18:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Journey Run Men's Shoes (3 Colors) $57.73 + Free Shipping",
-    "price": "$57.73",
-    "link": "https://slickdeals.net/f/19850655-nike-journey-run-men-s-shoes-3-colors-57-73-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-06 16:41",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
     "price": "$77.",
     "link": "https://www.dealnews.com/adidas-Ultraboost-Back-to-School-Deals-Up-to-50-off-extra-15-off-free-shipping/21952805.html?iref=rss-c280",
