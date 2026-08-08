@@ -1,12 +1,84 @@
 window.DEALS = [
   {
-    "title": "Adidas Men's X_PLR Path Shoes (2 colors) $23.20 + Free Shipping",
-    "price": "$23.20",
-    "link": "https://slickdeals.net/f/19855707-adidas-men-s-x-plr-path-shoes-2-colors-23-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-08 04:31",
-    "source": "Slickdeals",
+    "title": "Vans Old Skool Trainers in Blue/White (Sizes 3 - 8.5) - Sold & Shipped by Vans",
+    "price": "£31.99",
+    "link": "https://www.hotukdeals.com/deals/vans-old-skool-trainers-in-bluewhite-sizes-3-85-4953127",
+    "date": "2026-08-08 12:09",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "vans"
+  },
+  {
+    "title": "Nike FC Barcelona 25/26 Dri-FIT Stadium SS Away Shirt",
+    "price": "£50",
+    "link": "https://www.hotukdeals.com/deals/nike-fc-barcelona-2526-dri-fit-stadium-ss-away-shirt-4953124",
+    "date": "2026-08-08 11:59",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Adidas Inter Miami 2024 Authentic Home Shirt with Messi 10 (S, M, L sizes)",
+    "price": "£45",
+    "link": "https://www.hotukdeals.com/deals/adidas-inter-miami-2024-authentic-home-shirt-with-messi-10-s-m-l-sizes-4953123",
+    "date": "2026-08-08 11:56",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Samoa Leather Shoes for $29 + free shipping",
+    "price": "$29",
+    "link": "https://www.dealnews.com/adidas-Mens-Samoa-Leather-Shoes-for-29-free-shipping/21959347.html?iref=rss-c280",
+    "date": "2026-08-08 11:53",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "adidas Outlet Deals at eBay: Up to 70% off + extra 20% off, ending soon + free shipping",
+    "price": "$350",
+    "link": "https://www.dealnews.com/adidas-Outlet-Deals-at-eBay-Up-to-70-off-extra-20-off-ending-soon-free-shipping/21989161.html?iref=rss-c280",
+    "date": "2026-08-08 11:50",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Puma Future 7 Pro Firm Ground Football Boots",
+    "price": "£13",
+    "link": "https://www.hotukdeals.com/deals/puma-future-7-pro-firm-ground-football-boots-lovell-sports-4953107",
+    "date": "2026-08-08 10:51",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "Nike Men's Vaporfly 4 Carbon Plated Road Running Shoes, Green - Sizes 7 - 12 w/Code",
+    "price": "£67.50",
+    "link": "https://www.hotukdeals.com/deals/nike-mens-vaporfly-4-carbon-plated-road-running-shoes-sizes-7-12-wcode-4953105",
+    "date": "2026-08-08 10:47",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Ultradream DNA Shoes for $28 + free shipping",
+    "price": "$28",
+    "link": "https://www.dealnews.com/adidas-Mens-Ultradream-DNA-Shoes-for-28-free-shipping/21989149.html?iref=rss-c280",
+    "date": "2026-08-08 10:37",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Air Max Alpha Trainer 6 Shoes for $52 + free shipping",
+    "price": "$52",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Alpha-Trainer-6-Shoes-for-52-free-shipping/21915289.html?iref=rss-c280",
+    "date": "2026-08-08 09:46",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "Nike Men's Journey Run Shoes for $58 + free shipping",
@@ -63,15 +135,6 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
-    "title": "Nike Zoom Hyperspeed Court Volleyball Shoes (Black) $32.27 + Free Shipping on $49",
-    "price": "$32.27",
-    "link": "https://slickdeals.net/f/19853313-nike-zoom-hyperspeed-court-volleyball-shoes-black-32-27-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-07 12:14",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "adidas Back to School Running Shoe Deals: Up to 40% off + extra 15% off + 2x points + free shipping",
     "price": "$120,",
     "link": "https://www.dealnews.com/adidas-Back-to-School-Running-Shoe-Deals-Up-to-40-off-extra-15-off-2-x-points-free-shipping/21985389.html?iref=rss-c280",
@@ -79,78 +142,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Back to School Shoe Deals for From $15, running shoes from $24 + free shipping",
-    "price": "$15,",
-    "link": "https://www.dealnews.com/adidas-Mens-Back-to-School-Shoe-Deals-for-From-15-running-shoes-from-24-free-shipping/21949433.html?iref=rss-c280",
-    "date": "2026-08-07 11:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Rewards Points Deal: Double points on shoes + free shipping",
-    "price": "$1",
-    "link": "https://www.dealnews.com/adidas-Rewards-Points-Deal-Double-points-on-shoes-free-shipping/21985388.html?iref=rss-c280",
-    "date": "2026-08-07 11:42",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Globalwin Men's Fashion Sneakers for $13 + free shipping w/ Prime",
-    "price": "$13",
-    "link": "https://www.dealnews.com/Globalwin-Mens-Fashion-Sneakers-for-13-free-shipping-w-Prime/21985361.html?iref=rss-c280",
-    "date": "2026-08-07 10:33",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Men's Adilette Shower Slides for $8.00 + free shipping",
-    "price": "$8.00",
-    "link": "https://www.dealnews.com/adidas-Mens-Adilette-Shower-Slides-for-8-00-free-shipping/21985355.html?iref=rss-c280",
-    "date": "2026-08-07 10:18",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Reax 8 TR Workout Shoes for $60 + free shipping",
-    "price": "$60",
-    "link": "https://www.dealnews.com/Nike-Mens-Reax-8-TR-Workout-Shoes-for-60-free-shipping/21985326.html?iref=rss-c280",
-    "date": "2026-08-07 09:19",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Jordan 1 Low G Golf Shoes for $88 + free shipping",
-    "price": "$88",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Jordan-1-Low-G-Golf-Shoes-for-88-free-shipping/21985316.html?iref=rss-c280",
-    "date": "2026-08-07 09:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Jordan Skyline Shoes for $57 + free shipping",
-    "price": "$57",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Jordan-Skyline-Shoes-for-57-free-shipping/21985312.html?iref=rss-c280",
-    "date": "2026-08-07 08:55",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Jordan Heir Series 2 \"Bloodline\" Basketball Shoes for $73 + free shipping",
-    "price": "$73",
-    "link": "https://www.dealnews.com/Nike-Mens-Jordan-Heir-Series-2-Bloodline-Basketball-Shoes-for-73-free-shipping/21985300.html?iref=rss-c280",
-    "date": "2026-08-07 08:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
