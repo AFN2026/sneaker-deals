@@ -1,21 +1,21 @@
 window.DEALS = [
   {
-    "title": "FireAngel SB1-R Optical, Battery Powered Smoke/Detector Alarm for Home 2-Pack",
-    "price": "£10.92",
-    "link": "https://www.hotukdeals.com/deals/fireangel-sb1-r-optical-battery-powered-smokedetector-alarm-for-home-2-pack-4953667",
-    "date": "2026-08-09 12:13",
+    "title": "Asics Men’s Versblast 4 Running Trainers (Indigo Blue - Sizes 7.5-10) - £37.80 for New Members / Free Delivery for Members",
+    "price": "£37.80",
+    "link": "https://www.hotukdeals.com/deals/asics-mens-versblast-4-running-trainers-indigo-blue-sizes-75-10-ps3780-for-new-members-free-delivery-for-members-4953810",
+    "date": "2026-08-09 17:07",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "vans"
+    "keyword": "trainers"
   },
   {
-    "title": "Nike Air Jordan 1 Mid SE Women's Shoes (Pale Ivory/Racer Pink/Black/Muslin/Univ Red) $68.82 + Free Shipping",
-    "price": "$68.82",
-    "link": "https://slickdeals.net/f/19856745-nike-air-jordan-1-mid-se-women-s-shoes-pale-ivory-racer-pink-black-muslin-univ-red-68-82-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-08 15:00",
+    "title": "adidas kids Runfalcon 5 Shoes (Alumina / Dusky Petrol / Dusky Orange) $20.8",
+    "price": "$20.8",
+    "link": "https://slickdeals.net/f/19859175-adidas-kids-runfalcon-5-shoes-alumina-dusky-petrol-dusky-orange-20-8?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-09 15:53",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "nike"
+    "keyword": "adidas"
   },
   {
     "title": "Nike Men's Vomero Plus Shoes for $109 + free shipping",
@@ -72,15 +72,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Nike Men's Nike G.T. Cut 4 Basketball Shoes (2 Colors) $86.23 + Free S&H",
-    "price": "$86.23",
-    "link": "https://slickdeals.net/f/19854702-nike-men-s-nike-g-t-cut-4-basketball-shoes-2-colors-86-23-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-07 19:52",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "Nike Men's Journey Run Shoes for $58 + free shipping",
     "price": "$58",
     "link": "https://www.dealnews.com/Nike-Mens-Journey-Run-Shoes-for-58-free-shipping/21985462.html?iref=rss-c280",
@@ -95,15 +86,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/Nike-Mens-Air-Jordan-3-Worlds-Best-Shoes-for-161-shipping-varies/21985454.html?iref=rss-c280",
     "date": "2026-08-07 15:10",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Jordan 1 Low G Golf Shoes (White / White / Linen) $87.73",
-    "price": "$87.73",
-    "link": "https://slickdeals.net/f/19853676-nike-men-s-air-jordan-1-low-g-golf-shoes-white-white-linen-87-73?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-07 14:15",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "nike"
   },
@@ -142,15 +124,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Women's Air Max 90 Sp Casual Sneakers from Finish Line - Chrome, Platinum $140",
-    "price": "$140",
-    "link": "https://slickdeals.net/f/19851531-nike-women-s-air-max-90-sp-casual-sneakers-from-finish-line-chrome-platinum-140?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-06 21:30",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
