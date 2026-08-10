@@ -99,6 +99,15 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
+    "title": "adidas men Trefoil Essentials Hoodie (Black, M, L, XL) $19.2",
+    "price": "$19.2",
+    "link": "https://slickdeals.net/f/19850196-adidas-men-trefoil-essentials-hoodie-black-m-l-xl-19-2?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-06 14:58",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
     "price": "$77.",
     "link": "https://www.dealnews.com/adidas-Ultraboost-Back-to-School-Deals-Up-to-50-off-extra-15-off-free-shipping/21952805.html?iref=rss-c280",
