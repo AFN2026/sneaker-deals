@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "adidas Men's F50 Club Indoor Soccer Shoes for $31 + free shipping w/ $49",
+    "price": "$31",
+    "link": "https://www.dealnews.com/adidas-Mens-F50-Club-Indoor-Soccer-Shoes-for-31-free-shipping-w-49/21998124.html?iref=rss-c280",
+    "date": "2026-08-11 01:12",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Women's Aura Edge Shoes for $43 + free shipping w/ $50",
     "price": "$43",
     "link": "https://www.dealnews.com/Nike-Womens-Aura-Edge-Shoes-for-43-free-shipping-w-50/21998075.html?iref=rss-c280",
@@ -7,15 +16,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas men Ultradream DNA Shoes (2 Colors) from $30",
-    "price": "$30",
-    "link": "https://slickdeals.net/f/19863714-adidas-men-ultradream-dna-shoes-2-colors-from-30?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-10 18:44",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Men's or Women's Purechill Shoes for $37 + free shipping w/ $49",
@@ -88,15 +88,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Air Max Alpha Trainer 6 Shoes for $52 + free shipping",
-    "price": "$52",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Alpha-Trainer-6-Shoes-for-52-free-shipping/21915289.html?iref=rss-c280",
-    "date": "2026-08-08 09:46",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
