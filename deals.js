@@ -1,12 +1,21 @@
 window.DEALS = [
   {
-    "title": "adidas Men's Climacool Laced Shoes (Various) $81 + Free Shipping",
-    "price": "$81",
-    "link": "https://slickdeals.net/f/19867335-adidas-men-s-climacool-laced-shoes-various-81-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-11 17:11",
-    "source": "Slickdeals",
+    "title": "adidas Men's Lite Racer 4.0 Shoes for $22 + free shipping",
+    "price": "$22",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-22-free-shipping/22005120.html?iref=rss-c280",
+    "date": "2026-08-12 01:04",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "Nike Women's Air Max INTRLK Lite Shoes for $44 + free shipping w/ $50",
+    "price": "$44",
+    "link": "https://www.dealnews.com/Nike-Womens-Air-Max-INTRLK-Lite-Shoes-for-44-free-shipping-w-50/22004890.html?iref=rss-c280",
+    "date": "2026-08-11 22:38",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Men's Jump Hook Shoes for $30 + Free shipping",
@@ -54,6 +63,15 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
+    "title": "Adidas 3-Stripes Rubber Mini Basketball (Basketball Natural / Black / Metallic Gold) $7.20 + Free Shipping",
+    "price": "$7.20",
+    "link": "https://slickdeals.net/f/19866453-adidas-3-stripes-rubber-mini-basketball-basketball-natural-black-metallic-gold-7-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-11 13:08",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Men's Flex Train Shoes for $45 + free shipping w/ $50",
     "price": "$45",
     "link": "https://www.dealnews.com/Nike-Mens-Flex-Train-Shoes-for-45-free-shipping-w-50/22004488.html?iref=rss-c280",
@@ -81,15 +99,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Messi Mini Soccer Ball (Orange) $8.80 + Free Shipping",
-    "price": "$8.80",
-    "link": "https://slickdeals.net/f/19866258-adidas-messi-mini-soccer-ball-orange-8-80-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-11 11:25",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Run 70s 2.0 Shoes for $23 + free shipping",
     "price": "$23",
     "link": "https://www.dealnews.com/adidas-Mens-Run-70-s-2-0-Shoes-for-23-free-shipping/22004430.html?iref=rss-c280",
@@ -99,38 +108,11 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas kids Cushioned Mixed 2.0 6-Pack Crew Socks $10 + Free Shipping",
-    "price": "$10",
-    "link": "https://slickdeals.net/f/19865334-adidas-kids-cushioned-mixed-2-0-6-pack-crew-socks-10-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-11 03:33",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's F50 Club Indoor Soccer Shoes for $31 + free shipping w/ $49",
     "price": "$31",
     "link": "https://www.dealnews.com/adidas-Mens-F50-Club-Indoor-Soccer-Shoes-for-31-free-shipping-w-49/21998124.html?iref=rss-c280",
     "date": "2026-08-11 01:12",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Women's Aura Edge Shoes for $43 + free shipping w/ $50",
-    "price": "$43",
-    "link": "https://www.dealnews.com/Nike-Womens-Aura-Edge-Shoes-for-43-free-shipping-w-50/21998075.html?iref=rss-c280",
-    "date": "2026-08-10 19:53",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas women VL Court 3.0 Shoes (2 Colors) from $23",
-    "price": "$23",
-    "link": "https://slickdeals.net/f/19863333-adidas-women-vl-court-3-0-shoes-2-colors-from-23?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-10 17:15",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
