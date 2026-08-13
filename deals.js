@@ -1,10 +1,37 @@
 window.DEALS = [
   {
-    "title": "Costco Members - Adidas Men's/Women’s Cloudfoam Flex Sneakers - $16.97 or 3/$40.91 ($13.64 ea) + free shipping",
-    "price": "$16.97",
-    "link": "https://slickdeals.net/f/19873665-costco-members-adidas-men-s-women-s-cloudfoam-flex-sneakers-16-97-or-3-40-91-13-64-ea-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-13 06:14",
-    "source": "Slickdeals",
+    "title": "Nike Men's Pacific Shoes for From $44 + free shipping",
+    "price": "$44",
+    "link": "https://www.dealnews.com/Nike-Mens-Pacific-Shoes-for-From-44-free-shipping/22019130.html?iref=rss-c280",
+    "date": "2026-08-13 15:53",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Dick's Sporting Goods Epic Shoe Sale: Up to 40% off + free shipping w/ $49",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Dicks-Sporting-Goods-Epic-Shoe-Sale-Up-to-40-off-free-shipping-w-49/22019075.html?iref=rss-c280",
+    "date": "2026-08-13 15:25",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Galaxy 7 Running Shoes for $24 + free shipping",
+    "price": "$24",
+    "link": "https://www.dealnews.com/adidas-Mens-Galaxy-7-Running-Shoes-for-24-free-shipping/22019019.html?iref=rss-c280",
+    "date": "2026-08-13 15:00",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Barreda Shoes for $22 + free shipping",
+    "price": "$22",
+    "link": "https://www.dealnews.com/adidas-Mens-Barreda-Shoes-for-22-free-shipping/22018994.html?iref=rss-c280",
+    "date": "2026-08-13 14:36",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -85,60 +112,6 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Summer-Promo-Code-Up-to-50-off-extra-20-off-free-shipping/22012698.html?iref=rss-c280",
     "date": "2026-08-12 14:54",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Ultraboost Summer Shoe Deals: Up to 50% off + extra 20% off + free shipping",
-    "price": "$72",
-    "link": "https://www.dealnews.com/adidas-Ultraboost-Summer-Shoe-Deals-Up-to-50-off-extra-20-off-free-shipping/22012692.html?iref=rss-c280",
-    "date": "2026-08-12 14:47",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Summer Sneaker Deals for From $28 + free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-Mens-Summer-Sneaker-Deals-for-From-28-free-shipping/22012674.html?iref=rss-c280",
-    "date": "2026-08-12 14:34",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Summer Sale Men's Samba Deals: Up to 40% off + extra 20% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Summer-Sale-Mens-Samba-Deals-Up-to-40-off-extra-20-off-free-shipping/22012286.html?iref=rss-c280",
-    "date": "2026-08-12 10:34",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Summer Sale Men's Adizero Deals: Up to 50% off + extra 20% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Summer-Sale-Mens-Adizero-Deals-Up-to-50-off-extra-20-off-free-shipping/22012252.html?iref=rss-c280",
-    "date": "2026-08-12 10:20",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Air Max Bia Shoes for $77 + free shipping",
-    "price": "$77",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Bia-Shoes-for-77-free-shipping/22012171.html?iref=rss-c280",
-    "date": "2026-08-12 09:33",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Runfalcon 6 Cloudfoam Shoes for $37 + free shipping",
-    "price": "$37",
-    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Cloudfoam-Shoes-for-37-free-shipping/22012018.html?iref=rss-c280",
-    "date": "2026-08-12 08:25",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
