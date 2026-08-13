@@ -1,59 +1,5 @@
 window.DEALS = [
   {
-    "title": "LFC adidas Youth 25/26 Icons Third Anthem Jacket - Sizes 7-8 9-10 11-12 13-14",
-    "price": "£5",
-    "link": "https://www.hotukdeals.com/deals/lfc-adidas-youth-2526-icons-third-anthem-jacket-sizes-7-8-9-10-11-12-13-14-4956243",
-    "date": "2026-08-13 01:13",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "LFC adidas Juniors 25/26 Training Top Red - Sizes 5-6Y 15-16Y",
-    "price": "£5",
-    "link": "https://www.hotukdeals.com/deals/lfc-adidas-juniors-2526-training-top-red-sizes-5-6y-15-16y-4956242",
-    "date": "2026-08-13 01:05",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "LFC adidas Kids 25/26 Home Mini Kit - Sizes 18-24 2-3",
-    "price": "£5",
-    "link": "https://www.hotukdeals.com/deals/lfc-adidas-kids-2526-home-mini-kit-sizes-18-24-2-3-4956239",
-    "date": "2026-08-13 00:53",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "LFC adidas Youth 25/26 US Pack Shirt Red - Sizes 7-8Y 9-10Y 11-12Y 13-14Y",
-    "price": "£5",
-    "link": "https://www.hotukdeals.com/deals/lfc-adidas-youth-2526-us-pack-shirt-red-sizes-7-8y-9-10y-11-12y-13-14y-4956238",
-    "date": "2026-08-13 00:39",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "BaByliss Rose Gold Hair Straighteners - Ceramic Plates for Smooth Styling, Multi-Voltage Worldwide use, Ultra-Fast 15 Second Heat Up",
-    "price": "£26.99",
-    "link": "https://www.hotukdeals.com/deals/babyliss-rose-gold-hair-straighteners-ceramic-plates-for-smooth-styling-multi-voltage-worldwide-use-ultra-fast-15-second-heat-up-4956223",
-    "date": "2026-08-12 23:55",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "converse"
-  },
-  {
-    "title": "Ground Up Women's Stitch & Angel Low Retro Sneakers for $9 + free shipping w/ $35",
-    "price": "$9",
-    "link": "https://www.dealnews.com/Ground-Up-Womens-Stitch-Angel-Low-Retro-Sneakers-for-9-free-shipping-w-35/22013378.html?iref=rss-c280",
-    "date": "2026-08-12 23:40",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
     "title": "adidas Deals at ShopSimon: Up to 50% off + shipping varies",
     "price": "$60,",
     "link": "https://www.dealnews.com/adidas-Deals-at-Shop-Simon-Up-to-50-off-shipping-varies/22013315.html?iref=rss-c280",
@@ -189,13 +135,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Jos. A. Bank Men's Suede Sneakers for $30 + free shipping",
-    "price": "$30",
-    "link": "https://www.dealnews.com/Jos-A-Bank-Mens-Suede-Sneakers-for-30-free-shipping/22005133.html?iref=rss-c280",
-    "date": "2026-08-12 01:30",
-    "source": "DealNews",
+    "title": "Nike Men's Ava X Mesh Shoes (2 Colors) $72.73",
+    "price": "$72.73",
+    "link": "https://slickdeals.net/f/19863474-nike-men-s-ava-x-mesh-shoes-2-colors-72-73?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-10 17:54",
+    "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "sneakers"
+    "keyword": "nike"
   },
   {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
