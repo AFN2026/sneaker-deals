@@ -1,5 +1,50 @@
 window.DEALS = [
   {
+    "title": "Nike Men's / Women's LeBron Witness 9 Basketball Shoes for $48 + free shipping w/ $50",
+    "price": "$48",
+    "link": "https://www.dealnews.com/Nike-Mens-Womens-Le-Bron-Witness-9-Basketball-Shoes-for-48-free-shipping-w-50/22019616.html?iref=rss-c280",
+    "date": "2026-08-13 22:17",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Academy Sports + Outdoors Clothing & Shoes Deals: Up to 57% off + up to extra 25% off in cart + free shipping w/ $25",
+    "price": "$25",
+    "link": "https://www.dealnews.com/Academy-Sports-Outdoors-Clothing-Shoes-Deals-Up-to-57-off-up-to-extra-25-off-in-cart-free-shipping-w-25/22019561.html?iref=rss-c280",
+    "date": "2026-08-13 21:30",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Shoes Sale at JCPenney: Up to 40% off + free shipping w/ $49",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Nike-Shoes-Sale-at-JCPenney-Up-to-40-off-free-shipping-w-49/22019537.html?iref=rss-c280",
+    "date": "2026-08-13 21:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's C1TY Premium Cordura Shoes for $68 + free shipping",
+    "price": "$68",
+    "link": "https://www.dealnews.com/Nike-Mens-C1-TY-Premium-Cordura-Shoes-for-68-free-shipping/22019501.html?iref=rss-c280",
+    "date": "2026-08-13 20:42",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Revolution 7 Road Running Shoes (Black / Off Noir) $39.73",
+    "price": "$39.73",
+    "link": "https://slickdeals.net/f/19875882-nike-men-s-revolution-7-road-running-shoes-black-off-noir-39-73?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-13 18:45",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "Nike Men's Pacific Shoes for From $44 + free shipping",
     "price": "$44",
     "link": "https://www.dealnews.com/Nike-Mens-Pacific-Shoes-for-From-44-free-shipping/22019130.html?iref=rss-c280",
@@ -79,42 +124,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "PUMA Back to School Sale for 50% off + $15 backpack w/ $100 + free shipping w/ $60",
-    "price": "$15",
-    "link": "https://www.dealnews.com/PUMA-Back-to-School-Sale-for-50-off-15-backpack-w-100-free-shipping-w-60/22013150.html?iref=rss-c280",
-    "date": "2026-08-12 20:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "puma"
-  },
-  {
-    "title": "Nike Men's Air Force 1 '07 LV8 \"Denim\" Shoes for $65 + free shipping",
-    "price": "$65",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-07-LV8-Denim-Shoes-for-65-free-shipping/22013087.html?iref=rss-c280",
-    "date": "2026-08-12 19:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Air Max 270 Men's Shoes for $115 + free shipping",
-    "price": "$115",
-    "link": "https://www.dealnews.com/Nike-Air-Max-270-Mens-Shoes-for-115-free-shipping/22013069.html?iref=rss-c280",
-    "date": "2026-08-12 19:42",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Terrex Summer Promo Code: Up to 50% off + extra 20% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Promo-Code-Up-to-50-off-extra-20-off-free-shipping/22012698.html?iref=rss-c280",
-    "date": "2026-08-12 14:54",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Ultraboost Back to School Deals: Up to 50% off + extra 15% off + free shipping",
