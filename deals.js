@@ -1,5 +1,68 @@
 window.DEALS = [
   {
+    "title": "PUMA Outlet Deals at eBay: Extra 20% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/PUMA-Outlet-Deals-at-eBay-Extra-20-off-free-shipping/22024984.html?iref=rss-c280",
+    "date": "2026-08-14 11:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "puma"
+  },
+  {
+    "title": "Nike Men's Air Max Excee Shoes for $60 + free shipping",
+    "price": "$60",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Excee-Shoes-for-60-free-shipping/22024980.html?iref=rss-c280",
+    "date": "2026-08-14 11:33",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Dunk Low Shoes for $64 + free shipping",
+    "price": "$64",
+    "link": "https://www.dealnews.com/Nike-Mens-Dunk-Low-Shoes-for-64-free-shipping/22024953.html?iref=rss-c280",
+    "date": "2026-08-14 11:29",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "DSW Back-to-School Shoe Deals: Up to 40% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/DSW-Back-to-School-Shoe-Deals-Up-to-40-off-free-shipping/22024927.html?iref=rss-c280",
+    "date": "2026-08-14 11:11",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Outlet Deals at eBay: Extra 20% off + free shipping",
+    "price": "$77",
+    "link": "https://www.dealnews.com/Nike-Mens-Outlet-Deals-at-eBay-Extra-20-off-free-shipping/22024926.html?iref=rss-c280",
+    "date": "2026-08-14 11:10",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Women's Dunk Low Shoes (Coconut Milk/Pale) $63.73 + Free Shipping",
+    "price": "$63.73",
+    "link": "https://slickdeals.net/f/19877973-nike-women-s-dunk-low-shoes-coconut-milk-pale-63-73-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-14 08:39",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air Max Alpha Trainer 6 Shoes for $52 + free shipping",
+    "price": "$52",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Alpha-Trainer-6-Shoes-for-52-free-shipping/22024596.html?iref=rss-c280",
+    "date": "2026-08-14 08:00",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "Nike Back to School Sale: Up to 49% off + extra 25% off + free shipping",
     "price": "$22.97,",
     "link": "https://www.dealnews.com/Nike-Back-to-School-Sale-Up-to-49-off-extra-25-off-free-shipping/22018458.html?iref=rss-c280",
@@ -9,13 +72,13 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "New Balance Men's or Women's Fresh Foam BB V3 Basketball Shoes (various) $49.99 + Free Shipping on $99",
-    "price": "$49.99",
-    "link": "https://slickdeals.net/f/19877133-new-balance-men-s-or-women-s-fresh-foam-bb-v3-basketball-shoes-various-49-99-free-shipping-on-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-14 02:09",
+    "title": "Costco Members - Converse Chuck Taylor Hi-Top or Low Top Sneakers - $29.97 (+ additional savings) + free shipping",
+    "price": "$29.97",
+    "link": "https://slickdeals.net/f/19877127-costco-members-converse-chuck-taylor-hi-top-or-low-top-sneakers-29-97-additional-savings-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-14 02:08",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "new balance"
+    "keyword": "converse"
   },
   {
     "title": "Nike Men's / Women's LeBron Witness 9 Basketball Shoes for $48 + free shipping w/ $50",
@@ -54,15 +117,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas men D4T Long Sleeve Lightweight Hoodie $19",
-    "price": "$19",
-    "link": "https://slickdeals.net/f/19875759-adidas-men-d4t-long-sleeve-lightweight-hoodie-19?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-13 18:06",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Nike Men's Pacific Shoes for From $44 + free shipping",
     "price": "$44",
     "link": "https://www.dealnews.com/Nike-Mens-Pacific-Shoes-for-From-44-free-shipping/22019130.html?iref=rss-c280",
@@ -99,49 +153,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Deals at ShopSimon: Up to 50% off + shipping varies",
-    "price": "$60,",
-    "link": "https://www.dealnews.com/adidas-Deals-at-Shop-Simon-Up-to-50-off-shipping-varies/22013315.html?iref=rss-c280",
-    "date": "2026-08-12 22:44",
-    "source": "DealNews",
+    "title": "adidas Men's Grand Court Alpha Shoes (Grey Four / Cloud White / Off White) $26",
+    "price": "$26",
+    "link": "https://slickdeals.net/f/19869408-adidas-men-s-grand-court-alpha-shoes-grey-four-cloud-white-off-white-26?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-12 04:31",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "New Balance Reconsidered Sneaker Sale: Up to 60% off + shipping varies",
-    "price": "$10",
-    "link": "https://www.dealnews.com/New-Balance-Reconsidered-Sneaker-Sale-Up-to-60-off-shipping-varies/22013308.html?iref=rss-c280",
-    "date": "2026-08-12 22:33",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
-  },
-  {
-    "title": "New Balance Back to School Sale: Up to 30% off + free shipping",
-    "price": "$135.99",
-    "link": "https://www.dealnews.com/New-Balance-Back-to-School-Sale-Up-to-30-off-free-shipping/22013265.html?iref=rss-c280",
-    "date": "2026-08-12 22:06",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
-  },
-  {
-    "title": "Levi's Men's Munro UL Faux Leather Lace-Up Sneakers for $17 + free shipping w/ $39",
-    "price": "$17",
-    "link": "https://www.dealnews.com/Levis-Mens-Munro-UL-Faux-Leather-Lace-Up-Sneakers-for-17-free-shipping-w-39/22013244.html?iref=rss-c280",
-    "date": "2026-08-12 21:52",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Timberland Men's Pro Radius Knit Comp-Toe Slip-On Work Sneakers for $60 + free shipping w/ $75",
-    "price": "$60",
-    "link": "https://www.dealnews.com/Timberland-Mens-Pro-Radius-Knit-Comp-Toe-Slip-On-Work-Sneakers-for-60-free-shipping-w-75/22013185.html?iref=rss-c280",
-    "date": "2026-08-12 21:09",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
