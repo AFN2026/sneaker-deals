@@ -1,5 +1,41 @@
 window.DEALS = [
   {
+    "title": "Adidas Mini Airliner Bag - Free Members Delivery",
+    "price": "£28",
+    "link": "https://www.hotukdeals.com/deals/adidas-mini-airliner-bag-free-members-delivery-4957666",
+    "date": "2026-08-14 23:44",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Handball Spezial Shoes for $61 + free shipping",
+    "price": "$61",
+    "link": "https://www.dealnews.com/adidas-Handball-Spezial-Shoes-for-61-free-shipping/22025768.html?iref=rss-c280",
+    "date": "2026-08-14 20:10",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Ultraboost 5X Shoes for $53 + free shipping",
+    "price": "$53",
+    "link": "https://www.dealnews.com/adidas-Mens-Ultraboost-5-X-Shoes-for-53-free-shipping/22025682.html?iref=rss-c280",
+    "date": "2026-08-14 19:12",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Lite Racer Adapt 7.0 Shoes for $28 + free shipping",
+    "price": "$28",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-Adapt-7-0-Shoes-for-28-free-shipping/22025655.html?iref=rss-c280",
+    "date": "2026-08-14 18:50",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Running Shoes Deals: Up to 40% off + extra 20% off + Free shipping",
     "price": "$36",
     "link": "https://www.dealnews.com/adidas-Running-Shoes-Deals-Up-to-40-off-extra-20-off-Free-shipping/22025626.html?iref=rss-c280",
@@ -43,24 +79,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "converse"
-  },
-  {
-    "title": "adidas Men's Terrex Agravic Speed Trail Running Shoes (Ruby) $44.98 + Free Shipping on $49",
-    "price": "$44.98",
-    "link": "https://slickdeals.net/f/19878633-adidas-men-s-terrex-agravic-speed-trail-running-shoes-ruby-44-98-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-14 13:36",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Kids' Adizero Aruku Shoes (Black) $20.98 + Free Shipping on $49",
-    "price": "$20.98",
-    "link": "https://slickdeals.net/f/19878513-adidas-kids-adizero-aruku-shoes-black-20-98-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-14 12:53",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "PUMA Outlet Deals at eBay: Extra 20% off + free shipping",
@@ -124,51 +142,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's / Women's LeBron Witness 9 Basketball Shoes for $48 + free shipping w/ $50",
-    "price": "$48",
-    "link": "https://www.dealnews.com/Nike-Mens-Womens-Le-Bron-Witness-9-Basketball-Shoes-for-48-free-shipping-w-50/22019616.html?iref=rss-c280",
-    "date": "2026-08-13 22:17",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Academy Sports + Outdoors Clothing & Shoes Deals: Up to 57% off + up to extra 25% off in cart + free shipping w/ $25",
-    "price": "$25",
-    "link": "https://www.dealnews.com/Academy-Sports-Outdoors-Clothing-Shoes-Deals-Up-to-57-off-up-to-extra-25-off-in-cart-free-shipping-w-25/22019561.html?iref=rss-c280",
-    "date": "2026-08-13 21:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Shoes Sale at JCPenney: Up to 40% off + free shipping w/ $49",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Nike-Shoes-Sale-at-JCPenney-Up-to-40-off-free-shipping-w-49/22019537.html?iref=rss-c280",
-    "date": "2026-08-13 21:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's C1TY Premium Cordura Shoes for $68 + free shipping",
-    "price": "$68",
-    "link": "https://www.dealnews.com/Nike-Mens-C1-TY-Premium-Cordura-Shoes-for-68-free-shipping/22019501.html?iref=rss-c280",
-    "date": "2026-08-13 20:42",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Adidas men's galaxy 7 running shoes (4 options) - from $22.50 + free shipping",
-    "price": "$22.50",
-    "link": "https://slickdeals.net/f/19869297-adidas-men-s-galaxy-7-running-shoes-4-options-from-22-50-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-12 03:57",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
