@@ -1,12 +1,66 @@
 window.DEALS = [
   {
-    "title": "Adidas Mini Airliner Bag - Free Members Delivery",
-    "price": "£28",
-    "link": "https://www.hotukdeals.com/deals/adidas-mini-airliner-bag-free-members-delivery-4957666",
-    "date": "2026-08-14 23:44",
+    "title": "NIKE Dunk Low Womens, Pink/White, Size 4 & 5",
+    "price": "£60",
+    "link": "https://www.hotukdeals.com/deals/nike-dunk-low-womens-pinkwhite-size-4-5-4957720",
+    "date": "2026-08-15 06:23",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Womens Nike Dunk Low Trainers, Brwn/Ivry/On, Sizes 3-8",
+    "price": "£55",
+    "link": "https://www.hotukdeals.com/deals/womens-nike-dunk-low-trainers-brwnivryon-size-3-8-4957717",
+    "date": "2026-08-15 06:17",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Originals Campus 00s Trainers in Light Grey and Black, Size 5.5",
+    "price": "£30.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-campus-00s-trainers-in-light-grey-and-black-size-55-4957715",
+    "date": "2026-08-15 06:14",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
+  },
+  {
+    "title": "adidas Run 70s 2.0 Shoes, Size 9 UK",
+    "price": "£28.06",
+    "link": "https://www.hotukdeals.com/deals/adidas-run-70s-20-shoes-9uk-4957705",
+    "date": "2026-08-15 06:00",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Club French Terry Cuffed Joggers in Light Blue, Size XS-2XL",
+    "price": "£24.99",
+    "link": "https://www.hotukdeals.com/deals/nike-club-french-terry-cuffed-jogger-in-light-blue-size-xs-2xl-4957694",
+    "date": "2026-08-15 05:21",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Originals Montreal 76 Trainers - size? Exclusive - Grey / Purple",
+    "price": "£25",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-montreal-76-grey-or-purple-ps25-4957692",
+    "date": "2026-08-15 04:48",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Women's Aura Edge Shoes (Platinum Violet) $38 + Free Shipping",
+    "price": "$38",
+    "link": "https://slickdeals.net/f/19880574-nike-women-s-aura-edge-shoes-platinum-violet-38-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-14 23:59",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Handball Spezial Shoes for $61 + free shipping",
