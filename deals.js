@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "PUMA STELLAR Play Premier League 2026/27 Reactivity Football size 4",
+    "price": "£11.49",
+    "link": "https://www.hotukdeals.com/deals/puma-stellar-play-premier-league-202627-reactivity-football-4958727",
+    "date": "2026-08-16 17:45",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
     "title": "Jos. A. Bank Men's Suede Sneakers for $30 + free shipping",
     "price": "$30",
     "link": "https://www.dealnews.com/Jos-A-Bank-Mens-Suede-Sneakers-for-30-free-shipping/22005133.html?iref=rss-c280",
@@ -14,6 +23,24 @@ window.DEALS = [
     "link": "https://www.dealnews.com/Dicks-Sporting-Goods-Epic-Shoe-Sale-Up-to-40-off-free-shipping-w-49/22019075.html?iref=rss-c280",
     "date": "2026-08-16 08:49",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas men Essentials 3-Stripes Fleece Hoodie (Pure Ruby / Black) $21",
+    "price": "$21",
+    "link": "https://slickdeals.net/f/19884309-adidas-men-essentials-3-stripes-fleece-hoodie-pure-ruby-black-21?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-16 08:20",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Air Force 1 '07 LV8 Sneaker (Blue/Anthracite) $59.99 + Free Shipping",
+    "price": "$59.99",
+    "link": "https://slickdeals.net/f/19883589-nike-men-s-air-force-1-07-lv8-sneaker-blue-anthracite-59-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-16 01:44",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "nike"
   },
@@ -95,6 +122,15 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Terrex-Agravic-Speed-Trail-Shoes-for-45-free-shipping-w-49/22025334.html?iref=rss-c280",
     "date": "2026-08-14 15:05",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Barreda Decode Shoes (Limited Sizes, Core Black / Cloud White / Core White)  $29",
+    "price": "$29",
+    "link": "https://slickdeals.net/f/19869522-adidas-men-s-barreda-decode-shoes-limited-sizes-core-black-cloud-white-core-white-29?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-12 04:58",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
