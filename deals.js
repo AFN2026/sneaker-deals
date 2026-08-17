@@ -54,28 +54,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Lite Racer Adapt 7.0 Shoes for $28 + free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-Adapt-7-0-Shoes-for-28-free-shipping/22025655.html?iref=rss-c280",
-    "date": "2026-08-14 18:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Running Shoes Deals: Up to 40% off + extra 20% off + Free shipping",
     "price": "$36",
     "link": "https://www.dealnews.com/adidas-Running-Shoes-Deals-Up-to-40-off-extra-20-off-Free-shipping/22025626.html?iref=rss-c280",
     "date": "2026-08-14 18:19",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Tracefinder Trail Running Shoes for $50 + Free shipping",
-    "price": "$50",
-    "link": "https://www.dealnews.com/adidas-Mens-Tracefinder-Trail-Running-Shoes-for-50-Free-shipping/22025560.html?iref=rss-c280",
-    "date": "2026-08-14 17:32",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
@@ -99,13 +81,22 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Adidas Ultraboost 5X Women's Running Shoes (3 Colors) $72.00 + Free Shipping",
-    "price": "$72.00",
-    "link": "https://slickdeals.net/f/19866534-adidas-ultraboost-5x-women-s-running-shoes-3-colors-72-00-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-11 13:33",
-    "source": "Slickdeals",
+    "title": "DSW Back-to-School Shoe Deals: Up to 40% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/DSW-Back-to-School-Shoe-Deals-Up-to-40-off-free-shipping/22024927.html?iref=rss-c280",
+    "date": "2026-08-14 11:11",
+    "source": "DealNews",
     "currency": "USD",
-    "keyword": "adidas"
+    "keyword": "nike"
+  },
+  {
+    "title": "Academy Sports + Outdoors Clothing & Shoes Deals: Up to 57% off + up to extra 25% off in cart + free shipping w/ $25",
+    "price": "$25",
+    "link": "https://www.dealnews.com/Academy-Sports-Outdoors-Clothing-Shoes-Deals-Up-to-57-off-up-to-extra-25-off-in-cart-free-shipping-w-25/22019561.html?iref=rss-c280",
+    "date": "2026-08-13 21:30",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
