@@ -1,5 +1,32 @@
 window.DEALS = [
   {
+    "title": "Up to 40% off Back to School Sale, Backpacks, Shoes, Trainers, Lunch Boxes and Drinks Bottles and Included",
+    "price": "£3.99",
+    "link": "https://www.hotukdeals.com/deals/up-to-40-off-back-to-school-sale-backpacks-shoes-trainers-lunch-boxes-and-drinks-bottles-and-included-4959377",
+    "date": "2026-08-17 12:15",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Athletic Shoes Sale at Woot: Up to 72% off + free shipping w/ Prime",
+    "price": "$15.",
+    "link": "https://www.dealnews.com/Athletic-Shoes-Sale-at-Woot-Up-to-72-off-free-shipping-w-Prime/22045293.html?iref=rss-c280",
+    "date": "2026-08-17 09:52",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Costco Members: Converse Chuck Taylor Low or Hi-Top Sneaker (limited sizes) $19.97",
+    "price": "$19.97",
+    "link": "https://slickdeals.net/f/19887564-costco-members-converse-chuck-taylor-low-or-hi-top-sneaker-limited-sizes-19-97?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-17 08:11",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "converse"
+  },
+  {
     "title": "Jos. A. Bank Men's Suede Sneakers for $30 + free shipping",
     "price": "$30",
     "link": "https://www.dealnews.com/Jos-A-Bank-Mens-Suede-Sneakers-for-30-free-shipping/22005133.html?iref=rss-c280",
@@ -85,15 +112,6 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/DSW-Back-to-School-Shoe-Deals-Up-to-40-off-free-shipping/22024927.html?iref=rss-c280",
     "date": "2026-08-14 11:11",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Academy Sports + Outdoors Clothing & Shoes Deals: Up to 57% off + up to extra 25% off in cart + free shipping w/ $25",
-    "price": "$25",
-    "link": "https://www.dealnews.com/Academy-Sports-Outdoors-Clothing-Shoes-Deals-Up-to-57-off-up-to-extra-25-off-in-cart-free-shipping-w-25/22019561.html?iref=rss-c280",
-    "date": "2026-08-13 21:30",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
