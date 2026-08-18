@@ -1,12 +1,39 @@
 window.DEALS = [
   {
-    "title": "adidas Terrex Summer Promo Code: Up to 50% off + extra 20% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Promo-Code-Up-to-50-off-extra-20-off-free-shipping/22045041.html?iref=rss-c280",
-    "date": "2026-08-18 04:01",
-    "source": "DealNews",
+    "title": "Adidas Women's 76/26 Shoes - Size 4.5 UK",
+    "price": "£18.28",
+    "link": "https://www.hotukdeals.com/deals/adidas-womens-7626-shoes-4960382",
+    "date": "2026-08-18 12:18",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Air Zoom Pegasus 41 Men's Running Shoes 5.5-9 W/Code",
+    "price": "£59.49",
+    "link": "https://www.hotukdeals.com/deals/nike-air-zoom-pegasus-41-mens-running-shoes-55-9-wcode-4960362",
+    "date": "2026-08-18 11:58",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas kids Barreda Decode Shoes $21 + Free Shipping",
+    "price": "$21",
+    "link": "https://slickdeals.net/f/19892520-adidas-kids-barreda-decode-shoes-21-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-18 11:38",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "Nike Women's Pegasus 42 Running Shoes (Pearl Pink) $80 + Free Shipping",
+    "price": "$80",
+    "link": "https://slickdeals.net/f/19892463-nike-women-s-pegasus-42-running-shoes-pearl-pink-80-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-18 11:04",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Women's SL72 OG Shoes for $38 + free shipping w/ $49",
@@ -45,42 +72,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas Men's Adizero Boston 12 Running Shoes for $76.80 + Free shipping",
-    "price": "$76.80",
-    "link": "https://www.dealnews.com/adidas-Mens-Adizero-Boston-12-Running-Shoes-for-76-80-Free-shipping/22045954.html?iref=rss-c280",
-    "date": "2026-08-17 16:23",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Adizero SL 2 Shoes for $52 + free shipping",
-    "price": "$52",
-    "link": "https://www.dealnews.com/adidas-Mens-Adizero-SL-2-Shoes-for-52-free-shipping/22045940.html?iref=rss-c280",
-    "date": "2026-08-17 16:15",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's adizero Goukana Shoes for $80 + free shipping",
-    "price": "$80",
-    "link": "https://www.dealnews.com/adidas-Mens-adizero-Goukana-Shoes-for-80-free-shipping/22045876.html?iref=rss-c280",
-    "date": "2026-08-17 15:31",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Shoe Deals for Sandals from $14, Shoes from $31 + free shipping",
-    "price": "$14,",
-    "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-for-Sandals-from-14-Shoes-from-31-free-shipping/22045867.html?iref=rss-c280",
-    "date": "2026-08-17 15:24",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "eBay Men's Luxury Shoes Deals: Up to 50% off + extra 20% off + shipping varies",
     "price": "$150",
     "link": "https://www.dealnews.com/eBay-Mens-Luxury-Shoes-Deals-Up-to-50-off-extra-20-off-shipping-varies/22045647.html?iref=rss-c280",
@@ -106,6 +97,33 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
+  },
+  {
+    "title": "Dick's Sporting Goods Epic Shoe Sale: Up to 40% off + free shipping w/ $49",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Dicks-Sporting-Goods-Epic-Shoe-Sale-Up-to-40-off-free-shipping-w-49/22019075.html?iref=rss-c280",
+    "date": "2026-08-16 08:49",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Vomero Plus Shoes for $109 + free shipping",
+    "price": "$109",
+    "link": "https://www.dealnews.com/Nike-Mens-Vomero-Plus-Shoes-for-109-free-shipping/21933203.html?iref=rss-c280",
+    "date": "2026-08-15 13:50",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Adidas men's run 70s 2.0 shoes (2 options) - $22 + free shipping",
+    "price": "$22",
+    "link": "https://slickdeals.net/f/19869291-adidas-men-s-run-70s-2-0-shoes-2-options-22-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-12 03:53",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
