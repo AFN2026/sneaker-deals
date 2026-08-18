@@ -1,5 +1,32 @@
 window.DEALS = [
   {
+    "title": "adidas Women's SL72 OG Shoes for $38 + free shipping w/ $49",
+    "price": "$38",
+    "link": "https://www.dealnews.com/adidas-Womens-SL72-OG-Shoes-for-38-free-shipping-w-49/22046425.html?iref=rss-c280",
+    "date": "2026-08-17 23:48",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Air Force 1 '07 Men's Shoes for $68 + shipping varies",
+    "price": "$68",
+    "link": "https://www.dealnews.com/Nike-Air-Force-1-07-Mens-Shoes-for-68-shipping-varies/22046333.html?iref=rss-c280",
+    "date": "2026-08-17 21:54",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "lululemon Women's Cityverse Sneakers for $89 + free shipping",
+    "price": "$89",
+    "link": "https://www.dealnews.com/lululemon-Womens-Cityverse-Sneakers-for-89-free-shipping/22046201.html?iref=rss-c280",
+    "date": "2026-08-17 19:49",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
     "title": "Nike Men's Air Max Excee Shoes for $61 + free shipping",
     "price": "$61",
     "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Excee-Shoes-for-61-free-shipping/22046013.html?iref=rss-c280",
@@ -72,55 +99,10 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
-    "title": "Dick's Sporting Goods Epic Shoe Sale: Up to 40% off + free shipping w/ $49",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Dicks-Sporting-Goods-Epic-Shoe-Sale-Up-to-40-off-free-shipping-w-49/22019075.html?iref=rss-c280",
-    "date": "2026-08-16 08:49",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Vomero Plus Shoes for $109 + free shipping",
-    "price": "$109",
-    "link": "https://www.dealnews.com/Nike-Mens-Vomero-Plus-Shoes-for-109-free-shipping/21933203.html?iref=rss-c280",
-    "date": "2026-08-15 13:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Terrex Summer Promo Code: Up to 50% off + extra 20% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Promo-Code-Up-to-50-off-extra-20-off-free-shipping/22012698.html?iref=rss-c280",
-    "date": "2026-08-15 12:49",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Handball Spezial Shoes for $61 + free shipping",
-    "price": "$61",
-    "link": "https://www.dealnews.com/adidas-Handball-Spezial-Shoes-for-61-free-shipping/22025768.html?iref=rss-c280",
-    "date": "2026-08-14 20:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Ultraboost 5X Shoes for $53 + free shipping",
-    "price": "$53",
-    "link": "https://www.dealnews.com/adidas-Mens-Ultraboost-5-X-Shoes-for-53-free-shipping/22025682.html?iref=rss-c280",
-    "date": "2026-08-14 19:12",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Adidas women's galaxy 7 running shoes - $22.50",
-    "price": "$22.50",
-    "link": "https://slickdeals.net/f/19869702-adidas-women-s-galaxy-7-running-shoes-22-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-12 05:27",
+    "title": "adidas Women's SL72 OG Shoes (Pink Spark) $28.48 + Free Shipping on $49",
+    "price": "$28.48",
+    "link": "https://slickdeals.net/f/19878603-adidas-women-s-sl72-og-shoes-pink-spark-28-48-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-14 13:27",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
