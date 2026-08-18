@@ -1,39 +1,30 @@
 window.DEALS = [
   {
-    "title": "Adidas Women's 76/26 Shoes - Size 4.5 UK",
-    "price": "£18.28",
-    "link": "https://www.hotukdeals.com/deals/adidas-womens-7626-shoes-4960382",
-    "date": "2026-08-18 12:18",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Air Zoom Pegasus 41 Men's Running Shoes 5.5-9 W/Code",
-    "price": "£59.49",
-    "link": "https://www.hotukdeals.com/deals/nike-air-zoom-pegasus-41-mens-running-shoes-55-9-wcode-4960362",
-    "date": "2026-08-18 11:58",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas kids Barreda Decode Shoes $21 + Free Shipping",
-    "price": "$21",
-    "link": "https://slickdeals.net/f/19892520-adidas-kids-barreda-decode-shoes-21-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-18 11:38",
-    "source": "Slickdeals",
+    "title": "adidas Men's Adistar XLG 2.0 Shoes for From $69 + shipping varies",
+    "price": "$69",
+    "link": "https://www.dealnews.com/adidas-Mens-Adistar-XLG-2-0-Shoes-for-From-69-shipping-varies/22052308.html?iref=rss-c280",
+    "date": "2026-08-18 16:26",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "Nike Women's Pegasus 42 Running Shoes (Pearl Pink) $80 + Free Shipping",
-    "price": "$80",
-    "link": "https://slickdeals.net/f/19892463-nike-women-s-pegasus-42-running-shoes-pearl-pink-80-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-18 11:04",
-    "source": "Slickdeals",
+    "title": "Macy's Men's Shoes Flash Sale: 50% off & more + free shipping w/ $39",
+    "price": "$39",
+    "link": "https://www.dealnews.com/Macys-Mens-Shoes-Flash-Sale-50-off-more-free-shipping-w-39/22052166.html?iref=rss-c280",
+    "date": "2026-08-18 14:03",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
+  },
+  {
+    "title": "Macy's Women's Shoes Flash Sale: 50% off & more + free shipping w/ $39",
+    "price": "$39",
+    "link": "https://www.dealnews.com/Macys-Womens-Shoes-Flash-Sale-50-off-more-free-shipping-w-39/22052151.html?iref=rss-c280",
+    "date": "2026-08-18 13:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
   },
   {
     "title": "adidas Women's SL72 OG Shoes for $38 + free shipping w/ $49",
@@ -86,42 +77,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/Athletic-Shoes-Sale-at-Woot-Up-to-72-off-free-shipping-w-Prime/22045293.html?iref=rss-c280",
     "date": "2026-08-17 09:52",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Jos. A. Bank Men's Suede Sneakers for $30 + free shipping",
-    "price": "$30",
-    "link": "https://www.dealnews.com/Jos-A-Bank-Mens-Suede-Sneakers-for-30-free-shipping/22005133.html?iref=rss-c280",
-    "date": "2026-08-16 09:24",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Dick's Sporting Goods Epic Shoe Sale: Up to 40% off + free shipping w/ $49",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Dicks-Sporting-Goods-Epic-Shoe-Sale-Up-to-40-off-free-shipping-w-49/22019075.html?iref=rss-c280",
-    "date": "2026-08-16 08:49",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Vomero Plus Shoes for $109 + free shipping",
-    "price": "$109",
-    "link": "https://www.dealnews.com/Nike-Mens-Vomero-Plus-Shoes-for-109-free-shipping/21933203.html?iref=rss-c280",
-    "date": "2026-08-15 13:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Adidas men's run 70s 2.0 shoes (2 options) - $22 + free shipping",
-    "price": "$22",
-    "link": "https://slickdeals.net/f/19869291-adidas-men-s-run-70s-2-0-shoes-2-options-22-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-12 03:53",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
