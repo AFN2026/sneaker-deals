@@ -1,5 +1,86 @@
 window.DEALS = [
   {
+    "title": "PUMA Kids Prowler Golf Cap Black / Deep navy £5.17 / White £5.76",
+    "price": "£5.17",
+    "link": "https://www.hotukdeals.com/deals/puma-kids-prowler-golf-cap-black-deep-navy-ps517-white-ps576-4960834",
+    "date": "2026-08-18 23:46",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "adidas Unisex Adults Linear Ankle Cushioned Socks 3 Pairs, Black/White 6.5 - 8 UK / 8.5 - 10 £4.99",
+    "price": "£4.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-unisex-adults-linear-ankle-cushioned-socks-3-pairs-blackwhite-65-8-uk-85-10-ps499-4960829",
+    "date": "2026-08-18 23:41",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Thin and Light Sportswear Low-Cut Socks 3 Pairs size 4.5 - 5.5 UK / or size S (£3.43 with s&s)",
+    "price": "£3.43",
+    "link": "https://www.hotukdeals.com/deals/adidas-thin-and-light-sportswear-low-cut-socks-3-pairs-size-45-55-uk-or-size-s-ps343-with-ss-4960823",
+    "date": "2026-08-18 23:39",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's or Women's Revolution 7 Road Running Shoes for $37 + free shipping w/ $50",
+    "price": "$37",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Revolution-7-Road-Running-Shoes-for-37-free-shipping-w-50/22052664.html?iref=rss-c280",
+    "date": "2026-08-18 22:11",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Juniper Trail 3 Trail Running Shoes for $54 + free shipping",
+    "price": "$54",
+    "link": "https://www.dealnews.com/Nike-Mens-Juniper-Trail-3-Trail-Running-Shoes-for-54-free-shipping/22052663.html?iref=rss-c280",
+    "date": "2026-08-18 22:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's or Women's Court Vision SE Shoes for $58 + free shipping",
+    "price": "$58",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Court-Vision-SE-Shoes-for-58-free-shipping/22052661.html?iref=rss-c280",
+    "date": "2026-08-18 22:02",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Academy Sports + Outdoors Back to School Shoe Deals: Up to 50% off + free shipping w/ $25",
+    "price": "$25",
+    "link": "https://www.dealnews.com/Academy-Sports-Outdoors-Back-to-School-Shoe-Deals-Up-to-50-off-free-shipping-w-25/22052602.html?iref=rss-c280",
+    "date": "2026-08-18 21:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Nike Juniper Trail 3 Trail Running Shoes (Black/Wolf Grey/Photon Dust/Black) $53.97 + Free Shipping",
+    "price": "$53.97",
+    "link": "https://slickdeals.net/f/19894461-nike-men-s-nike-juniper-trail-3-trail-running-shoes-black-wolf-grey-photon-dust-black-53-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-18 20:35",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's or Women's Air Max Bia Shoes for $58 + free shipping",
+    "price": "$58",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Air-Max-Bia-Shoes-for-58-free-shipping/22052508.html?iref=rss-c280",
+    "date": "2026-08-18 19:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "adidas Men's Adistar XLG 2.0 Shoes for From $69 + shipping varies",
     "price": "$69",
     "link": "https://www.dealnews.com/adidas-Mens-Adistar-XLG-2-0-Shoes-for-From-69-shipping-varies/22052308.html?iref=rss-c280",
@@ -43,42 +124,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "lululemon Women's Cityverse Sneakers for $89 + free shipping",
-    "price": "$89",
-    "link": "https://www.dealnews.com/lululemon-Womens-Cityverse-Sneakers-for-89-free-shipping/22046201.html?iref=rss-c280",
-    "date": "2026-08-17 19:49",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's Air Max Excee Shoes for $61 + free shipping",
-    "price": "$61",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Excee-Shoes-for-61-free-shipping/22046013.html?iref=rss-c280",
-    "date": "2026-08-17 17:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "eBay Men's Luxury Shoes Deals: Up to 50% off + extra 20% off + shipping varies",
-    "price": "$150",
-    "link": "https://www.dealnews.com/eBay-Mens-Luxury-Shoes-Deals-Up-to-50-off-extra-20-off-shipping-varies/22045647.html?iref=rss-c280",
-    "date": "2026-08-17 13:12",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Athletic Shoes Sale at Woot: Up to 72% off + free shipping w/ Prime",
-    "price": "$15.",
-    "link": "https://www.dealnews.com/Athletic-Shoes-Sale-at-Woot-Up-to-72-off-free-shipping-w-Prime/22045293.html?iref=rss-c280",
-    "date": "2026-08-17 09:52",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
