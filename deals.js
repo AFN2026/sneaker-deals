@@ -1,12 +1,12 @@
 window.DEALS = [
   {
-    "title": "Nike Women's Air Max Nuaxis Shoes (White) $42.81 + Free Shipping",
-    "price": "$42.81",
-    "link": "https://slickdeals.net/f/19895199-nike-women-s-air-max-nuaxis-shoes-white-42-81-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-19 02:04",
+    "title": "Adidas Men's 3-Stripes Tricot Regular Tapered Track Pants (Royal Blue) - $12.50 + free shipping",
+    "price": "$12.50",
+    "link": "https://slickdeals.net/f/19895469-adidas-men-s-3-stripes-tricot-regular-tapered-track-pants-royal-blue-12-50-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-19 03:30",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "nike"
+    "keyword": "adidas"
   },
   {
     "title": "Nike Men's or Women's Revolution 7 Road Running Shoes for $37 + free shipping w/ $50",
@@ -76,24 +76,6 @@ window.DEALS = [
     "price": "$68",
     "link": "https://www.dealnews.com/Nike-Air-Force-1-07-Mens-Shoes-for-68-shipping-varies/22046333.html?iref=rss-c280",
     "date": "2026-08-17 21:54",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "lululemon Women's Cityverse Sneakers for $89 + free shipping",
-    "price": "$89",
-    "link": "https://www.dealnews.com/lululemon-Womens-Cityverse-Sneakers-for-89-free-shipping/22046201.html?iref=rss-c280",
-    "date": "2026-08-17 19:49",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's Air Max Excee Shoes for $61 + free shipping",
-    "price": "$61",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Excee-Shoes-for-61-free-shipping/22046013.html?iref=rss-c280",
-    "date": "2026-08-17 17:10",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
