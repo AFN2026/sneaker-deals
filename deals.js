@@ -1,10 +1,46 @@
 window.DEALS = [
   {
-    "title": "Adidas Men's 3-Stripes Tricot Regular Tapered Track Pants (Royal Blue) - $12.50 + free shipping",
-    "price": "$12.50",
-    "link": "https://slickdeals.net/f/19895469-adidas-men-s-3-stripes-tricot-regular-tapered-track-pants-royal-blue-12-50-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-19 03:30",
-    "source": "Slickdeals",
+    "title": "adidas Adistar Xlg 2.0 Sneaker Grey Strata, Core Black & Off White",
+    "price": "£66.19",
+    "link": "https://www.hotukdeals.com/deals/adidas-adistar-xlg-20-sneaker-grey-strata-core-black-off-white-4961469",
+    "date": "2026-08-19 17:30",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Lite Racer 4.0 Shoes for $22 + free shipping",
+    "price": "$22",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-22-free-shipping/22058974.html?iref=rss-c280",
+    "date": "2026-08-19 16:24",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's X_PLR Path Shoes for $25 + free shipping",
+    "price": "$25",
+    "link": "https://www.dealnews.com/adidas-Mens-X-PLR-Path-Shoes-for-25-free-shipping/22058972.html?iref=rss-c280",
+    "date": "2026-08-19 16:19",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's RUN 70s 2.0 Shoes for $28 + free shipping",
+    "price": "$28",
+    "link": "https://www.dealnews.com/adidas-Mens-RUN-70-s-2-0-Shoes-for-28-free-shipping/22058970.html?iref=rss-c280",
+    "date": "2026-08-19 16:17",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Adizero Pacer Shoes for $64 + free shipping",
+    "price": "$64",
+    "link": "https://www.dealnews.com/adidas-Mens-Adizero-Pacer-Shoes-for-64-free-shipping/22058877.html?iref=rss-c280",
+    "date": "2026-08-19 15:07",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -54,31 +90,22 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas Men's Adistar XLG 2.0 Shoes for From $69 + shipping varies",
-    "price": "$69",
-    "link": "https://www.dealnews.com/adidas-Mens-Adistar-XLG-2-0-Shoes-for-From-69-shipping-varies/22052308.html?iref=rss-c280",
-    "date": "2026-08-18 16:26",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Women's SL72 OG Shoes for $38 + free shipping w/ $49",
-    "price": "$38",
-    "link": "https://www.dealnews.com/adidas-Womens-SL72-OG-Shoes-for-38-free-shipping-w-49/22046425.html?iref=rss-c280",
-    "date": "2026-08-17 23:48",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Air Force 1 '07 Men's Shoes for $68 + shipping varies",
-    "price": "$68",
-    "link": "https://www.dealnews.com/Nike-Air-Force-1-07-Mens-Shoes-for-68-shipping-varies/22046333.html?iref=rss-c280",
-    "date": "2026-08-17 21:54",
-    "source": "DealNews",
+    "title": "Nike Men's Air Max Excee Shoes (White / Pure Platinum / Black) $60.97",
+    "price": "$60.97",
+    "link": "https://slickdeals.net/f/19892133-nike-men-s-air-max-excee-shoes-white-pure-platinum-black-60-97?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-18 07:31",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "nike"
+  },
+  {
+    "title": "$12.59* | adidas Starlancer Club Size 4 Soccer Ball (Various) at Amazon",
+    "price": "$12.59",
+    "link": "https://slickdeals.net/f/19887384-12-59-adidas-starlancer-club-size-4-soccer-ball-various-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-17 07:32",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
