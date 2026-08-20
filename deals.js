@@ -1,21 +1,12 @@
 window.DEALS = [
   {
-    "title": "New Balance 1000 Trainers Silver Metallic Green, Size 3-6, w/code BLC holders, (free C&C)",
-    "price": "£49.50",
-    "link": "https://www.hotukdeals.com/deals/new-balance-1000-trainers-silver-metallic-green-size-3-6-wcode-blc-holders-free-cc-4961833",
-    "date": "2026-08-20 06:07",
+    "title": "adidas Originals AdiFOM Superstar Boots Women's - Size 5 UK",
+    "price": "£25",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-adifom-superstar-boots-womens-4962227",
+    "date": "2026-08-20 11:51",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "new balance"
-  },
-  {
-    "title": "3-Piece JEEXI Premium Sieve Mesh Extra Fine Stainless Steel Strainers w/ Wooden Handles  $10.09 + Free S&H w/ Walmart+ or on $35+",
-    "price": "$10.09",
-    "link": "https://slickdeals.net/f/19899927-3-piece-jeexi-premium-sieve-mesh-extra-fine-stainless-steel-strainers-w-wooden-handles-10-09-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-20 04:01",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "trainers"
+    "keyword": "adidas"
   },
   {
     "title": "Nike Men's or Women's A'One Sequoia Basketball Shoes for $42 + free shipping w/ $49",
@@ -59,15 +50,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Adizero-Pacer-Shoes-for-64-free-shipping/22058877.html?iref=rss-c280",
     "date": "2026-08-19 15:07",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "38L adidas Foundation Backpack )4 Colors) $32.48 + Free Shipping w/ Prime or on $35+",
-    "price": "$32.48",
-    "link": "https://slickdeals.net/f/19890342-38l-adidas-foundation-backpack-4-colors-32-48-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-17 20:13",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
