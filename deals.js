@@ -1,12 +1,30 @@
 window.DEALS = [
   {
-    "title": "adidas Adistar Xlg 2.0 Sneaker Grey Strata, Core Black & Off White",
-    "price": "£66.19",
-    "link": "https://www.hotukdeals.com/deals/adidas-adistar-xlg-20-sneaker-grey-strata-core-black-off-white-4961469",
-    "date": "2026-08-19 17:30",
+    "title": "Nike Men's or Women's A'One Sequoia Basketball Shoes for $42 + free shipping w/ $49",
+    "price": "$42",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-AOne-Sequoia-Basketball-Shoes-for-42-free-shipping-w-49/22059448.html?iref=rss-c280",
+    "date": "2026-08-20 00:23",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Sinners (2025) (4K / UHD / HDR / Dolby Vision / Dolby Atmos / Bonus X-Ray Edition) - To Buy - Prime Video",
+    "price": "£4.99",
+    "link": "https://www.hotukdeals.com/deals/sinners-2025-4k-uhd-hdr-dolby-vision-dolby-atmos-bonus-x-ray-edition-to-buy-prime-video-4961697",
+    "date": "2026-08-20 00:03",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "adidas"
+    "keyword": "jordan"
+  },
+  {
+    "title": "Sinners (2025) (4K / Dolby Vision / Dolby Atmos / iTunes Extras) - To Buy",
+    "price": "£4.99",
+    "link": "https://www.hotukdeals.com/deals/sinners-2025-4k-dolby-vision-dolby-atmos-itunes-extras-to-buy-4961695",
+    "date": "2026-08-20 00:02",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "jordan"
   },
   {
     "title": "adidas Men's Lite Racer 4.0 Shoes for $22 + free shipping",
@@ -45,67 +63,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike Men's or Women's Revolution 7 Road Running Shoes for $37 + free shipping w/ $50",
-    "price": "$37",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Revolution-7-Road-Running-Shoes-for-37-free-shipping-w-50/22052664.html?iref=rss-c280",
-    "date": "2026-08-18 22:11",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Juniper Trail 3 Trail Running Shoes for $54 + free shipping",
-    "price": "$54",
-    "link": "https://www.dealnews.com/Nike-Mens-Juniper-Trail-3-Trail-Running-Shoes-for-54-free-shipping/22052663.html?iref=rss-c280",
-    "date": "2026-08-18 22:08",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's or Women's Court Vision SE Shoes for $58 + free shipping",
-    "price": "$58",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Court-Vision-SE-Shoes-for-58-free-shipping/22052661.html?iref=rss-c280",
-    "date": "2026-08-18 22:02",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Academy Sports + Outdoors Back to School Shoe Deals: Up to 50% off + free shipping w/ $25",
-    "price": "$25",
-    "link": "https://www.dealnews.com/Academy-Sports-Outdoors-Back-to-School-Shoe-Deals-Up-to-50-off-free-shipping-w-25/22052602.html?iref=rss-c280",
-    "date": "2026-08-18 21:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's or Women's Air Max Bia Shoes for $58 + free shipping",
-    "price": "$58",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Air-Max-Bia-Shoes-for-58-free-shipping/22052508.html?iref=rss-c280",
-    "date": "2026-08-18 19:39",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Max Excee Shoes (White / Pure Platinum / Black) $60.97",
-    "price": "$60.97",
-    "link": "https://slickdeals.net/f/19892133-nike-men-s-air-max-excee-shoes-white-pure-platinum-black-60-97?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-18 07:31",
+    "title": "23\" VANSOFY Waterproof Recliner Chair Cover (Chocolate) $9.99 + Free Shipping w/ Prime or on $35+",
+    "price": "$9.99",
+    "link": "https://slickdeals.net/f/19894740-23-vansofy-waterproof-recliner-chair-cover-chocolate-9-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-18 21:47",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "$12.59* | adidas Starlancer Club Size 4 Soccer Ball (Various) at Amazon",
-    "price": "$12.59",
-    "link": "https://slickdeals.net/f/19887384-12-59-adidas-starlancer-club-size-4-soccer-ball-various-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-17 07:32",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
+    "keyword": "vans"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
