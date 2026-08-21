@@ -1,12 +1,93 @@
 window.DEALS = [
   {
-    "title": "Nova Direct 1-Year Ruby Car Breakdown Cover & Home Assistance – Nationwide, With No Excess",
-    "price": "£24",
-    "link": "https://www.hotukdeals.com/deals/nova-direct-1-year-ruby-car-breakdown-cover-home-assistance-nationwide-with-no-excess-4962568",
-    "date": "2026-08-20 18:22",
+    "title": "Athletic Works Men's Front Runner Wide Sneakers for $8 + free shipping w/ $35",
+    "price": "$8",
+    "link": "https://www.dealnews.com/Athletic-Works-Mens-Front-Runner-Wide-Sneakers-for-8-free-shipping-w-35/22065691.html?iref=rss-c280",
+    "date": "2026-08-21 00:15",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "£15 Bonus on £70+ Spend at Adidas",
+    "price": "£15",
+    "link": "https://www.hotukdeals.com/deals/ps15-bonus-on-ps70-spend-at-adidas-4962724",
+    "date": "2026-08-20 23:00",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "vans"
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Women's Air Max Dn8 Shoes for $45 + free shipping w/ $49",
+    "price": "$45",
+    "link": "https://www.dealnews.com/Nike-Womens-Air-Max-Dn8-Shoes-for-45-free-shipping-w-49/22065558.html?iref=rss-c280",
+    "date": "2026-08-20 21:25",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's / Women's Infinity G NN Golf Shoes for $50 + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Mens-Womens-Infinity-G-NN-Golf-Shoes-for-50-free-shipping-w-50/22065527.html?iref=rss-c280",
+    "date": "2026-08-20 20:53",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas kids Superstar Sandals (Core Black) $8",
+    "price": "$8",
+    "link": "https://slickdeals.net/f/19903596-adidas-kids-superstar-sandals-core-black-8?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-20 20:30",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Women's Superstar II Shoes for $34 + free shipping",
+    "price": "$34",
+    "link": "https://www.dealnews.com/adidas-Womens-Superstar-II-Shoes-for-34-free-shipping/22065507.html?iref=rss-c280",
+    "date": "2026-08-20 20:25",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "New Balance Back to School Sale: Up to 30% off + shipping varies",
+    "price": "",
+    "link": "https://www.dealnews.com/New-Balance-Back-to-School-Sale-Up-to-30-off-shipping-varies/22065495.html?iref=rss-c280",
+    "date": "2026-08-20 20:15",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "adidas Men's Barreda Shoes for $20 + free shipping",
+    "price": "$20",
+    "link": "https://www.dealnews.com/adidas-Mens-Barreda-Shoes-for-20-free-shipping/22065449.html?iref=rss-c280",
+    "date": "2026-08-20 19:22",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Galaxy 7 Running Shoes for $23 + free shipping",
+    "price": "$23",
+    "link": "https://www.dealnews.com/adidas-Mens-Galaxy-7-Running-Shoes-for-23-free-shipping/22065432.html?iref=rss-c280",
+    "date": "2026-08-20 19:03",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's RUN 70s 2.0 Shoes for $27 + free shipping",
+    "price": "$27",
+    "link": "https://www.dealnews.com/adidas-Mens-RUN-70-s-2-0-Shoes-for-27-free-shipping/22065414.html?iref=rss-c280",
+    "date": "2026-08-20 18:50",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Men's X_PLR Path Shoes for $24 + free shipping",
@@ -36,6 +117,24 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
+    "title": "adidas women Grand Court 2.0 Shoes (2 Colors) $22.50",
+    "price": "$22.50",
+    "link": "https://slickdeals.net/f/19902615-adidas-women-grand-court-2-0-shoes-2-colors-22-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-20 17:03",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men Barreda Shoes (Alumina / Better Scarlet / Wonder Beige) $21",
+    "price": "$21",
+    "link": "https://slickdeals.net/f/19902312-adidas-men-barreda-shoes-alumina-better-scarlet-wonder-beige-21?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-20 16:01",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Men's or Women's A'One Sequoia Basketball Shoes for $42 + free shipping w/ $49",
     "price": "$42",
     "link": "https://www.dealnews.com/Nike-Mens-or-Womens-AOne-Sequoia-Basketball-Shoes-for-42-free-shipping-w-49/22059448.html?iref=rss-c280",
@@ -43,42 +142,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Lite Racer 4.0 Shoes for $22 + free shipping",
-    "price": "$22",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-22-free-shipping/22058974.html?iref=rss-c280",
-    "date": "2026-08-19 16:24",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's X_PLR Path Shoes for $25 + free shipping",
-    "price": "$25",
-    "link": "https://www.dealnews.com/adidas-Mens-X-PLR-Path-Shoes-for-25-free-shipping/22058972.html?iref=rss-c280",
-    "date": "2026-08-19 16:19",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's RUN 70s 2.0 Shoes for $28 + free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-Mens-RUN-70-s-2-0-Shoes-for-28-free-shipping/22058970.html?iref=rss-c280",
-    "date": "2026-08-19 16:17",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Adizero Pacer Shoes for $64 + free shipping",
-    "price": "$64",
-    "link": "https://www.dealnews.com/adidas-Mens-Adizero-Pacer-Shoes-for-64-free-shipping/22058877.html?iref=rss-c280",
-    "date": "2026-08-19 15:07",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
