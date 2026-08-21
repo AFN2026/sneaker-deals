@@ -1,5 +1,59 @@
 window.DEALS = [
   {
+    "title": "adidas Unisex Daily 4.0 Shoes 7.5UK",
+    "price": "£23.66",
+    "link": "https://www.hotukdeals.com/deals/adidas-unisex-daily-40-shoes-75uk-4962881",
+    "date": "2026-08-21 06:24",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Runfalcon 6 Cloudfoam Running Shoes",
+    "price": "£35",
+    "link": "https://www.hotukdeals.com/deals/adidas-runfalcon-6-cloudfoam-running-shoes-4962877",
+    "date": "2026-08-21 06:22",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Little Trees Air Freshener, New Car // Wild Cherry // Ice (Red white blue) - Discount at checkout",
+    "price": "£1.20",
+    "link": "https://www.hotukdeals.com/deals/little-trees-air-freshener-new-car-wild-cherry-ice-red-white-blue-discount-at-checkout-4962868",
+    "date": "2026-08-21 06:17",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "vans"
+  },
+  {
+    "title": "adidas men Utility 3.0 Boonie Hat $15 + Free Shipping",
+    "price": "$15",
+    "link": "https://slickdeals.net/f/19904718-adidas-men-utility-3-0-boonie-hat-15-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-21 03:31",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men Tabela 23 Jersey (various colors) from $7 + Free Shipping",
+    "price": "$7",
+    "link": "https://slickdeals.net/f/19904655-adidas-men-tabela-23-jersey-various-colors-from-7-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-21 02:57",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Jordan Trunner Flow Shoes for $55 + free shipping",
+    "price": "$55",
+    "link": "https://www.dealnews.com/Nike-Mens-Jordan-Trunner-Flow-Shoes-for-55-free-shipping/22065753.html?iref=rss-c280",
+    "date": "2026-08-21 01:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "Athletic Works Men's Front Runner Wide Sneakers for $8 + free shipping w/ $35",
     "price": "$8",
     "link": "https://www.dealnews.com/Athletic-Works-Mens-Front-Runner-Wide-Sneakers-for-8-free-shipping-w-35/22065691.html?iref=rss-c280",
@@ -7,15 +61,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "£15 Bonus on £70+ Spend at Adidas",
-    "price": "£15",
-    "link": "https://www.hotukdeals.com/deals/ps15-bonus-on-ps70-spend-at-adidas-4962724",
-    "date": "2026-08-20 23:00",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
   },
   {
     "title": "Nike Women's Air Max Dn8 Shoes for $45 + free shipping w/ $49",
@@ -34,15 +79,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas kids Superstar Sandals (Core Black) $8",
-    "price": "$8",
-    "link": "https://slickdeals.net/f/19903596-adidas-kids-superstar-sandals-core-black-8?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-20 20:30",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Women's Superstar II Shoes for $34 + free shipping",
@@ -113,24 +149,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-20-free-shipping/22065365.html?iref=rss-c280",
     "date": "2026-08-20 18:03",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas women Grand Court 2.0 Shoes (2 Colors) $22.50",
-    "price": "$22.50",
-    "link": "https://slickdeals.net/f/19902615-adidas-women-grand-court-2-0-shoes-2-colors-22-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-20 17:03",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men Barreda Shoes (Alumina / Better Scarlet / Wonder Beige) $21",
-    "price": "$21",
-    "link": "https://slickdeals.net/f/19902312-adidas-men-barreda-shoes-alumina-better-scarlet-wonder-beige-21?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-20 16:01",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
