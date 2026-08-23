@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "$38-$44: New Balance Men's 237 V1 Sneaker (Various Sizes 4-13) $41.28",
+    "price": "$38",
+    "link": "https://slickdeals.net/f/19911951-38-44-new-balance-men-s-237-v1-sneaker-various-sizes-4-13-41-28?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-23 02:43",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
     "title": "adidas Men's Runfalcon 6 Cloudfoam Running Shoes for $39.10 + Free shipping",
     "price": "$39.10",
     "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Cloudfoam-Running-Shoes-for-39-10-Free-shipping/22072018.html?iref=rss-c280",
