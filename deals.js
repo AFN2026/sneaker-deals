@@ -1,5 +1,50 @@
 window.DEALS = [
   {
+    "title": "adidas Men's Terrex Anylander Mid Rain.Rdy Hiking Shoes for $39 + free shipping",
+    "price": "$39",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Anylander-Mid-Rain-Rdy-Hiking-Shoes-for-39-free-shipping/22088021.html?iref=rss-c280",
+    "date": "2026-08-24 12:06",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Lite Racer 4.0 Shoes for $20 + free shipping",
+    "price": "$20",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-20-free-shipping/22088020.html?iref=rss-c280",
+    "date": "2026-08-24 12:03",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's X_PLR Path Shoes for $24 + free shipping",
+    "price": "$24",
+    "link": "https://www.dealnews.com/adidas-Mens-X-PLR-Path-Shoes-for-24-free-shipping/22088008.html?iref=rss-c280",
+    "date": "2026-08-24 12:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Solway Holiday Park (Siloth), Cumbria Caravan Stay for up to 6 people - TWO Night stay (Sep & Oct dates) w/ code",
+    "price": "£84.15",
+    "link": "https://www.hotukdeals.com/deals/solway-holiday-park-siloth-cumbria-caravan-stay-for-up-to-6-people-two-night-stay-sep-oct-dates-w-code-4965213",
+    "date": "2026-08-24 11:43",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "vans"
+  },
+  {
+    "title": "adidas Shoes Sale for Sandals from $14, Shoes from $24 + free shipping",
+    "price": "$14,",
+    "link": "https://www.dealnews.com/adidas-Shoes-Sale-for-Sandals-from-14-Shoes-from-24-free-shipping/22087787.html?iref=rss-c280",
+    "date": "2026-08-24 09:24",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $35 + free shipping",
     "price": "$35",
     "link": "https://www.dealnews.com/adidas-Mens-Cloudfoam-Cuxxion-Sock-Shoes-for-35-free-shipping/22071681.html?iref=rss-c280",
@@ -70,42 +115,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Adizero SL 2 Running Shoes for $55 + free shipping",
-    "price": "$55",
-    "link": "https://www.dealnews.com/adidas-Mens-Adizero-SL-2-Running-Shoes-for-55-free-shipping/22071911.html?iref=rss-c280",
-    "date": "2026-08-21 15:17",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Shoes Sale for Sandals from $14, Shoes from $24 + free shipping",
-    "price": "$14,",
-    "link": "https://www.dealnews.com/adidas-Shoes-Sale-for-Sandals-from-14-Shoes-from-24-free-shipping/22071884.html?iref=rss-c280",
-    "date": "2026-08-21 14:59",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "New Balance Sale: 25% off + shipping varies",
-    "price": "$125",
-    "link": "https://www.dealnews.com/New-Balance-Sale-25-off-shipping-varies/22071772.html?iref=rss-c280",
-    "date": "2026-08-21 13:12",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
-  },
-  {
-    "title": "adidas Men's Supernova Ease Shoes for $38 + free shipping",
-    "price": "$38",
-    "link": "https://www.dealnews.com/adidas-Mens-Supernova-Ease-Shoes-for-38-free-shipping/22071682.html?iref=rss-c280",
-    "date": "2026-08-21 12:15",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
