@@ -36,15 +36,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas men Designed for Training Full-Zip Track Jacket $25 + Free Shipping",
-    "price": "$25",
-    "link": "https://slickdeals.net/f/19917690-adidas-men-designed-for-training-full-zip-track-jacket-25-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-24 14:04",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Terrex Anylander Mid Rain.Rdy Hiking Shoes for $39 + free shipping",
     "price": "$39",
     "link": "https://www.dealnews.com/adidas-Mens-Terrex-Anylander-Mid-Rain-Rdy-Hiking-Shoes-for-39-free-shipping/22088021.html?iref=rss-c280",
