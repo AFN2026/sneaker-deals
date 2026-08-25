@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "Nike Men's Reax 8 TR Workout Shoes for $61 + free shipping",
+    "price": "$61",
+    "link": "https://www.dealnews.com/Nike-Mens-Reax-8-TR-Workout-Shoes-for-61-free-shipping/22088928.html?iref=rss-c280",
+    "date": "2026-08-25 00:56",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
     "price": "$14,",
     "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-for-From-14-Shoes-from-36-free-shipping/22088415.html?iref=rss-c280",
@@ -94,15 +103,6 @@ window.DEALS = [
     "price": "$36",
     "link": "https://www.dealnews.com/adidas-Mens-Tracefinder-Trail-Running-Shoes-for-36-free-shipping/22082454.html?iref=rss-c280",
     "date": "2026-08-23 21:04",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Outlet Sale at eBay: Up to 60% off + extra 50% off + free shipping",
-    "price": "$130",
-    "link": "https://www.dealnews.com/adidas-Outlet-Sale-at-eBay-Up-to-60-off-extra-50-off-free-shipping/22082278.html?iref=rss-c280",
-    "date": "2026-08-23 17:12",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
