@@ -1,12 +1,57 @@
 window.DEALS = [
   {
-    "title": "Crivit Carbon Running Trainers",
-    "price": "£39.99",
-    "link": "https://www.hotukdeals.com/deals/crivit-carbon-running-trainers-4966911",
-    "date": "2026-08-26 11:48",
+    "title": "Nike tns pink foam chesire oaks various sizes",
+    "price": "£83.99",
+    "link": "https://www.hotukdeals.com/deals/nike-tns-pink-foam-chesire-oaks-various-sizes-4967189",
+    "date": "2026-08-26 19:35",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "trainers"
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Adilette Aqua Slides for $11 + free shipping",
+    "price": "$11",
+    "link": "https://www.dealnews.com/products/adidas/adidas-Mens-Adilette-Aqua-Slides/498597.html?iref=rss-c280",
+    "date": "2026-08-26 19:35",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Air Force 1 Sale - Extra 20% Off Selected Styles + Extra 10% w/DFC - e.g Air Force 1 GORE-TEX Waterproof Trainers - Free C&C",
+    "price": "£43.20",
+    "link": "https://www.hotukdeals.com/deals/nike-air-force-1-sale-extra-20-off-selected-styles-extra-10-wdfc-eg-air-force-1-gore-tex-waterproof-trainers-free-cc-4967159",
+    "date": "2026-08-26 18:46",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "lululemon We Made Too Much Shoe Savings for From $49, sneakers from $89 + free shipping",
+    "price": "$49,",
+    "link": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Shoe-Savings-for-From-49-sneakers-from-89-free-shipping/22100188.html?iref=rss-c280",
+    "date": "2026-08-26 18:28",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Nike Caitlin Clark Basketball Fleece Hoodie (Midnight Navy) $19.48 + Free Shipping on $49",
+    "price": "$19.48",
+    "link": "https://slickdeals.net/f/19929285-nike-caitlin-clark-basketball-fleece-hoodie-midnight-navy-19-48-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-26 18:16",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's NikeCourt Heritage Dri-FIT Terry Tennis Hoodie (Neutral Olive) $20.23 + Free Shipping on $49",
+    "price": "$20.23",
+    "link": "https://slickdeals.net/f/19929273-nike-men-s-nikecourt-heritage-dri-fit-terry-tennis-hoodie-neutral-olive-20-23-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-26 18:14",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Men's Ultraboost 5X Shoes for $52 + free shipping",
@@ -108,10 +153,10 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
-    "title": "adidas Men's Run 70s 2.0 Shoes for $22 + free shipping",
-    "price": "$22",
-    "link": "https://www.dealnews.com/adidas-Mens-Run-70-s-2-0-Shoes-for-22-free-shipping/22093610.html?iref=rss-c280",
-    "date": "2026-08-25 13:24",
+    "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
+    "price": "$14,",
+    "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-for-From-14-Shoes-from-36-free-shipping/22093180.html?iref=rss-c280",
+    "date": "2026-08-25 08:06",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
