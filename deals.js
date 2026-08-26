@@ -1,21 +1,66 @@
 window.DEALS = [
   {
-    "title": "adidas Essential Crew Sweatshirt in Blue (Sizes XS - XXL) - Free Click and Collect",
-    "price": "£15",
-    "link": "https://www.hotukdeals.com/deals/adidas-essential-crew-sweatshirt-in-blue-sizes-xs-xxl-free-click-and-collect-4966545",
-    "date": "2026-08-26 06:07",
+    "title": "Crivit Carbon Running Trainers",
+    "price": "£39.99",
+    "link": "https://www.hotukdeals.com/deals/crivit-carbon-running-trainers-4966911",
+    "date": "2026-08-26 11:48",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "trainers"
+  },
+  {
+    "title": "adidas Men's Ultraboost 5X Shoes for $52 + free shipping",
+    "price": "$52",
+    "link": "https://www.dealnews.com/adidas-Mens-Ultraboost-5-X-Shoes-for-52-free-shipping/22099795.html?iref=rss-c280",
+    "date": "2026-08-26 11:42",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "Nike Men's Revolution 8 Running Sneakers for $38 + free shipping w/ $39",
-    "price": "$38",
-    "link": "https://www.dealnews.com/Nike-Mens-Revolution-8-Running-Sneakers-for-38-free-shipping-w-39/22094198.html?iref=rss-c280",
-    "date": "2026-08-25 22:29",
+    "title": "adidas Men's Samoa Leather Shoes for $29 + free shipping",
+    "price": "$29",
+    "link": "https://www.dealnews.com/adidas-Mens-Samoa-Leather-Shoes-for-29-free-shipping/22099793.html?iref=rss-c280",
+    "date": "2026-08-26 11:36",
     "source": "DealNews",
     "currency": "USD",
-    "keyword": "nike"
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Lite Racer Adapt 7.0 Wide Shoes for $23 + free shipping",
+    "price": "$23",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-Adapt-7-0-Wide-Shoes-for-23-free-shipping/22099785.html?iref=rss-c280",
+    "date": "2026-08-26 11:31",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Own the Game 3 Shoes (Size 13 only) for $33 + free shipping",
+    "price": "$33",
+    "link": "https://www.dealnews.com/adidas-Mens-Own-the-Game-3-Shoes-Size-13-only-for-33-free-shipping/22099643.html?iref=rss-c280",
+    "date": "2026-08-26 09:42",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Ultraboost Shoes Sale: Up to 35% off + extra 15% off + Free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Ultraboost-Shoes-Sale-Up-to-35-off-extra-15-off-Free-shipping/22099636.html?iref=rss-c280",
+    "date": "2026-08-26 09:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's End of Summer Sneaker Sale: Up to 50% off + extra 15% off + Free shipping",
+    "price": "$47,",
+    "link": "https://www.dealnews.com/adidas-Mens-End-of-Summer-Sneaker-Sale-Up-to-50-off-extra-15-off-Free-shipping/22099612.html?iref=rss-c280",
+    "date": "2026-08-26 09:23",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "Nike Men's or Women's LeBron TR 1 Workout Shoes for $77 + free shipping",
@@ -72,24 +117,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
-    "price": "$14,",
-    "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-for-From-14-Shoes-from-36-free-shipping/22093180.html?iref=rss-c280",
-    "date": "2026-08-25 08:06",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "$9.99 | Jordan Peele 3-Movie Collection at iTunes",
-    "price": "$9.99",
-    "link": "https://slickdeals.net/f/19921662-9-99-jordan-peele-3-movie-collection-at-itunes?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-25 07:00",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "jordan"
-  },
-  {
     "title": "adidas Shoes Sale for Sandals from $14, Shoes from $24 + free shipping",
     "price": "$14,",
     "link": "https://www.dealnews.com/adidas-Shoes-Sale-for-Sandals-from-14-Shoes-from-24-free-shipping/22087787.html?iref=rss-c280",
@@ -112,15 +139,6 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
     "date": "2026-06-30 04:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
-    "price": "$99",
-    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
-    "date": "2026-06-18 14:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
