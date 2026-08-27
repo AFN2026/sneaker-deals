@@ -1,29 +1,101 @@
 window.DEALS = [
   {
-    "title": "Diadora Camaro M2 Mens Trainers (Sizes 7 & 7.5)",
-    "price": "£10",
-    "link": "https://www.hotukdeals.com/deals/diadora-camaro-m2-mens-trainers-sizes-7-75-4967472",
-    "date": "2026-08-27 06:23",
+    "title": "PUMA M Flex Joggers - Size S",
+    "price": "£8.36",
+    "link": "https://www.hotukdeals.com/deals/puma-m-flex-joggers-size-s-4968183",
+    "date": "2026-08-27 21:18",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "trainers"
+    "keyword": "puma"
   },
   {
-    "title": "adidas Originals Marbella Trainers - size? exclusive (Sizes 6.5 - 7.5)",
-    "price": "£20",
-    "link": "https://www.hotukdeals.com/deals/adidas-originals-marbella-trainers-size-exclusive-sizes-65-75-4967469",
-    "date": "2026-08-27 06:19",
+    "title": "Velway 3m x 4m 250gsm Tarp Cover Heavy Duty Waterproof Tarpaulin Green",
+    "price": "£15.99",
+    "link": "https://www.hotukdeals.com/deals/velway-3m-x-4m-250gsm-tarp-cover-heavy-duty-waterproof-tarpaulin-green-4968182",
+    "date": "2026-08-27 21:18",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "vans"
+  },
+  {
+    "title": "PUMA Scend Pro Running Shoes - Size 3.5",
+    "price": "£15.13",
+    "link": "https://www.hotukdeals.com/deals/puma-scend-pro-running-shoes-size-35-4968176",
+    "date": "2026-08-27 21:07",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "adidas Unisex Tiro Shoebag Shoe Bag, Team Navy Blue 2/White, One Size",
+    "price": "£9.54",
+    "link": "https://www.hotukdeals.com/deals/adidas-unisex-tiro-shoebag-shoe-bag-team-navy-blue-2white-one-size-4968162",
+    "date": "2026-08-27 20:51",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Essentials Feelcozy Fleece Sweatshirt, Black/White, Size L (£12.71) / Size M (£15.98)",
-    "price": "£12.71",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-essentials-feelcozy-fleece-sweatshirt-blackwhite-size-l-ps1271-size-m-ps1598-4967446",
-    "date": "2026-08-27 05:55",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "adidas Men's Grand Court 2.0 Shoes for $25 + free shipping",
+    "price": "$25",
+    "link": "https://www.dealnews.com/adidas-Mens-Grand-Court-2-0-Shoes-for-25-free-shipping/22105386.html?iref=rss-c280",
+    "date": "2026-08-27 19:00",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's X_PLR Path Shoes for $23.50 + free shipping",
+    "price": "$23.50",
+    "link": "https://www.dealnews.com/adidas-Mens-X-PLR-Path-Shoes-for-23-50-free-shipping/22105385.html?iref=rss-c280",
+    "date": "2026-08-27 18:57",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Barreda Shoes for $21 + free shipping",
+    "price": "$21",
+    "link": "https://www.dealnews.com/adidas-Mens-Barreda-Shoes-for-21-free-shipping/22105352.html?iref=rss-c280",
+    "date": "2026-08-27 18:24",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Terrex Anylander RAIN.RDY Hiking Shoes for $62 + free shipping",
+    "price": "$62",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Anylander-RAIN-RDY-Hiking-Shoes-for-62-free-shipping/22105335.html?iref=rss-c280",
+    "date": "2026-08-27 18:10",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Lite Racer Adapt 8.0 Wide Shoes for $42 + Free shipping",
+    "price": "$42",
+    "link": "https://www.dealnews.com/adidas-Lite-Racer-Adapt-8-0-Wide-Shoes-for-42-Free-shipping/22105308.html?iref=rss-c280",
+    "date": "2026-08-27 17:43",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's CLOT Samba by Edison Chen Shoes for $71.40 + Free shipping",
+    "price": "$71.40",
+    "link": "https://www.dealnews.com/adidas-Mens-CLOT-Samba-by-Edison-Chen-Shoes-for-71-40-Free-shipping/22105305.html?iref=rss-c280",
+    "date": "2026-08-27 17:31",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Zenboost Shoe Deals for From $80 + extra 15% off + Free shipping",
+    "price": "$80",
+    "link": "https://www.dealnews.com/adidas-Zenboost-Shoe-Deals-for-From-80-extra-15-off-Free-shipping/22105297.html?iref=rss-c280",
+    "date": "2026-08-27 17:19",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
@@ -54,100 +126,10 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas Men's VL Court 3.0 Shoes for $22.50 + free shipping",
-    "price": "$22.50",
-    "link": "https://www.dealnews.com/adidas-Mens-VL-Court-3-0-Shoes-for-22-50-free-shipping/22100254.html?iref=rss-c280",
-    "date": "2026-08-26 19:57",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's RUN 70s 2.0 Shoes for $26.50 + free shipping",
-    "price": "$26.50",
-    "link": "https://www.dealnews.com/adidas-Mens-RUN-70-s-2-0-Shoes-for-26-50-free-shipping/22100253.html?iref=rss-c280",
-    "date": "2026-08-26 19:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Galaxy 7 Running Shoes for $23 + free shipping",
-    "price": "$23",
-    "link": "https://www.dealnews.com/adidas-Mens-Galaxy-7-Running-Shoes-for-23-free-shipping/22100246.html?iref=rss-c280",
-    "date": "2026-08-26 19:43",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Adilette Aqua Slides for $11 + free shipping",
-    "price": "$11",
-    "link": "https://www.dealnews.com/products/adidas/adidas-Mens-Adilette-Aqua-Slides/498597.html?iref=rss-c280",
-    "date": "2026-08-26 19:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "lululemon We Made Too Much Shoe Savings for From $49, sneakers from $89 + free shipping",
-    "price": "$49,",
-    "link": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Shoe-Savings-for-From-49-sneakers-from-89-free-shipping/22100188.html?iref=rss-c280",
-    "date": "2026-08-26 18:28",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Men's Ultraboost 5X Shoes for $52 + free shipping",
-    "price": "$52",
-    "link": "https://www.dealnews.com/adidas-Mens-Ultraboost-5-X-Shoes-for-52-free-shipping/22099795.html?iref=rss-c280",
-    "date": "2026-08-26 11:42",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Samoa Leather Shoes for $29 + free shipping",
-    "price": "$29",
-    "link": "https://www.dealnews.com/adidas-Mens-Samoa-Leather-Shoes-for-29-free-shipping/22099793.html?iref=rss-c280",
-    "date": "2026-08-26 11:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Lite Racer Adapt 7.0 Wide Shoes for $23 + free shipping",
-    "price": "$23",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-Adapt-7-0-Wide-Shoes-for-23-free-shipping/22099785.html?iref=rss-c280",
-    "date": "2026-08-26 11:31",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Own the Game 3 Shoes (Size 13 only) for $33 + free shipping",
-    "price": "$33",
-    "link": "https://www.dealnews.com/adidas-Mens-Own-the-Game-3-Shoes-Size-13-only-for-33-free-shipping/22099643.html?iref=rss-c280",
-    "date": "2026-08-26 09:42",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Ultraboost Shoes Sale: Up to 35% off + extra 15% off + Free shipping",
     "price": "",
     "link": "https://www.dealnews.com/adidas-Ultraboost-Shoes-Sale-Up-to-35-off-extra-15-off-Free-shipping/22099636.html?iref=rss-c280",
     "date": "2026-08-26 09:32",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's End of Summer Sneaker Sale: Up to 50% off + extra 15% off + Free shipping",
-    "price": "$47,",
-    "link": "https://www.dealnews.com/adidas-Mens-End-of-Summer-Sneaker-Sale-Up-to-50-off-extra-15-off-Free-shipping/22099612.html?iref=rss-c280",
-    "date": "2026-08-26 09:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
