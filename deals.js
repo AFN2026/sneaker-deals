@@ -1,12 +1,84 @@
 window.DEALS = [
   {
-    "title": "Nike tns pink foam chesire oaks various sizes",
-    "price": "£83.99",
-    "link": "https://www.hotukdeals.com/deals/nike-tns-pink-foam-chesire-oaks-various-sizes-4967189",
-    "date": "2026-08-26 19:35",
+    "title": "Diadora Camaro M2 Mens Trainers (Sizes 7 & 7.5)",
+    "price": "£10",
+    "link": "https://www.hotukdeals.com/deals/diadora-camaro-m2-mens-trainers-sizes-7-75-4967472",
+    "date": "2026-08-27 06:23",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "trainers"
+  },
+  {
+    "title": "adidas Originals Marbella Trainers - size? exclusive (Sizes 6.5 - 7.5)",
+    "price": "£20",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-marbella-trainers-size-exclusive-sizes-65-75-4967469",
+    "date": "2026-08-27 06:19",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Essentials Feelcozy Fleece Sweatshirt, Black/White, Size L (£12.71) / Size M (£15.98)",
+    "price": "£12.71",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-essentials-feelcozy-fleece-sweatshirt-blackwhite-size-l-ps1271-size-m-ps1598-4967446",
+    "date": "2026-08-27 05:55",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's or Women's Purechill Shoes for $27 + free shipping",
+    "price": "$27",
+    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Purechill-Shoes-for-27-free-shipping/22100308.html?iref=rss-c280",
+    "date": "2026-08-26 21:11",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "DSW Men's Clearance Sale for From $25 + free shipping",
+    "price": "$25",
+    "link": "https://www.dealnews.com/DSW-Mens-Clearance-Sale-for-From-25-free-shipping/22100307.html?iref=rss-c280",
+    "date": "2026-08-26 21:09",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's or Women's Air Jordan Skyline Shoes for $60 + free shipping",
+    "price": "$60",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Air-Jordan-Skyline-Shoes-for-60-free-shipping/22100271.html?iref=rss-c280",
+    "date": "2026-08-26 20:13",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's VL Court 3.0 Shoes for $22.50 + free shipping",
+    "price": "$22.50",
+    "link": "https://www.dealnews.com/adidas-Mens-VL-Court-3-0-Shoes-for-22-50-free-shipping/22100254.html?iref=rss-c280",
+    "date": "2026-08-26 19:57",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's RUN 70s 2.0 Shoes for $26.50 + free shipping",
+    "price": "$26.50",
+    "link": "https://www.dealnews.com/adidas-Mens-RUN-70-s-2-0-Shoes-for-26-50-free-shipping/22100253.html?iref=rss-c280",
+    "date": "2026-08-26 19:50",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Galaxy 7 Running Shoes for $23 + free shipping",
+    "price": "$23",
+    "link": "https://www.dealnews.com/adidas-Mens-Galaxy-7-Running-Shoes-for-23-free-shipping/22100246.html?iref=rss-c280",
+    "date": "2026-08-26 19:43",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Adilette Aqua Slides for $11 + free shipping",
@@ -18,15 +90,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike Air Force 1 Sale - Extra 20% Off Selected Styles + Extra 10% w/DFC - e.g Air Force 1 GORE-TEX Waterproof Trainers - Free C&C",
-    "price": "£43.20",
-    "link": "https://www.hotukdeals.com/deals/nike-air-force-1-sale-extra-20-off-selected-styles-extra-10-wdfc-eg-air-force-1-gore-tex-waterproof-trainers-free-cc-4967159",
-    "date": "2026-08-26 18:46",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
     "title": "lululemon We Made Too Much Shoe Savings for From $49, sneakers from $89 + free shipping",
     "price": "$49,",
     "link": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Shoe-Savings-for-From-49-sneakers-from-89-free-shipping/22100188.html?iref=rss-c280",
@@ -34,24 +97,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Caitlin Clark Basketball Fleece Hoodie (Midnight Navy) $19.48 + Free Shipping on $49",
-    "price": "$19.48",
-    "link": "https://slickdeals.net/f/19929285-nike-caitlin-clark-basketball-fleece-hoodie-midnight-navy-19-48-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-26 18:16",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's NikeCourt Heritage Dri-FIT Terry Tennis Hoodie (Neutral Olive) $20.23 + Free Shipping on $49",
-    "price": "$20.23",
-    "link": "https://slickdeals.net/f/19929273-nike-men-s-nikecourt-heritage-dri-fit-terry-tennis-hoodie-neutral-olive-20-23-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-26 18:14",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Men's Ultraboost 5X Shoes for $52 + free shipping",
@@ -108,51 +153,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike Men's or Women's LeBron TR 1 Workout Shoes for $77 + free shipping",
-    "price": "$77",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Le-Bron-TR-1-Workout-Shoes-for-77-free-shipping/22094142.html?iref=rss-c280",
-    "date": "2026-08-25 21:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Terrex Anylander Hiking Shoes for $45 + Free shipping",
-    "price": "$45",
-    "link": "https://www.dealnews.com/adidas-Terrex-Anylander-Hiking-Shoes-for-45-Free-shipping/22094026.html?iref=rss-c280",
-    "date": "2026-08-25 19:06",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Shoe Deals: Up to 50% off + extra 15% off + Free shipping",
-    "price": "$30",
-    "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-Up-to-50-off-extra-15-off-Free-shipping/22094013.html?iref=rss-c280",
-    "date": "2026-08-25 18:53",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Ultraboost Shoes Sale: Up to 35% off + extra 15% off + Free shipping",
-    "price": "$99",
-    "link": "https://www.dealnews.com/adidas-Ultraboost-Shoes-Sale-Up-to-35-off-extra-15-off-Free-shipping/22093994.html?iref=rss-c280",
-    "date": "2026-08-25 18:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Skechers Summits Louvin Men's Sneakers for $42 + free shipping w/ $49",
-    "price": "$42",
-    "link": "https://www.dealnews.com/Skechers-Summits-Louvin-Mens-Sneakers-for-42-free-shipping-w-49/22093909.html?iref=rss-c280",
-    "date": "2026-08-25 17:20",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
     "price": "$14,",
     "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-for-From-14-Shoes-from-36-free-shipping/22093180.html?iref=rss-c280",
@@ -175,15 +175,6 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
     "date": "2026-07-28 04:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
-    "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
