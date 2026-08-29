@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "adidas Terrex Shoes & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
+    "price": "$112,",
+    "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/22114478.html?iref=rss-c280",
+    "date": "2026-08-29 14:45",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Sneaker Deals: Up to 40% off + extra 15% off + Free shipping",
+    "price": "$66",
+    "link": "https://www.dealnews.com/adidas-Mens-Sneaker-Deals-Up-to-40-off-extra-15-off-Free-shipping/22114477.html?iref=rss-c280",
+    "date": "2026-08-29 14:31",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Airhas Men's Anatomical Toe Box Low Drop Sneakers for $30 + free shipping",
     "price": "$30",
     "link": "https://www.dealnews.com/Airhas-Mens-Anatomical-Toe-Box-Low-Drop-Sneakers-for-30-free-shipping/22109803.html?iref=rss-c280",
@@ -13,15 +31,6 @@ window.DEALS = [
     "price": "$42",
     "link": "https://www.dealnews.com/adidas-Lite-Racer-Adapt-8-0-Wide-Shoes-for-42-Free-shipping/22105308.html?iref=rss-c280",
     "date": "2026-08-27 17:43",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "DSW Men's Clearance Sale for From $25 + free shipping",
-    "price": "$25",
-    "link": "https://www.dealnews.com/DSW-Mens-Clearance-Sale-for-From-25-free-shipping/22100307.html?iref=rss-c280",
-    "date": "2026-08-26 21:09",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
