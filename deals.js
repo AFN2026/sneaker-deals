@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "Nike Downshifter 14 Women's Running Shoes (Pink) $49.97 + Free Shipping on $50",
+    "price": "$49.97",
+    "link": "https://slickdeals.net/f/19946367-nike-downshifter-14-women-s-running-shoes-pink-49-97-free-shipping-on-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-31 00:03",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's or Women's Jamaica or Colombia Handball Spezial Shoes for $71 + free shipping",
+    "price": "$71",
+    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Jamaica-or-Colombia-Handball-Spezial-Shoes-for-71-free-shipping/22119393.html?iref=rss-c280",
+    "date": "2026-08-30 20:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's or Women's CLOT Samba by Edison Chen Shoes for $71 + free shipping",
     "price": "$71",
     "link": "https://www.dealnews.com/adidas-Mens-or-Womens-CLOT-Samba-by-Edison-Chen-Shoes-for-71-free-shipping/22119378.html?iref=rss-c280",
@@ -7,6 +25,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "$29.02: Pyle 2-Pack Heavy Duty Rubber Wheel Stops for Garage Parking, Reflective Safety Strip Included",
+    "price": "$29.02",
+    "link": "https://slickdeals.net/f/19945704-29-02-pyle-2-pack-heavy-duty-rubber-wheel-stops-for-garage-parking-reflective-safety-strip-included?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-30 19:28",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "vans"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
@@ -63,10 +90,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
-    "date": "2026-06-30 04:01",
+    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
+    "price": "$99",
+    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
+    "date": "2026-06-18 14:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
