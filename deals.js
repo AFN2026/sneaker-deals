@@ -1,65 +1,65 @@
 window.DEALS = [
   {
-    "title": "Nike P-6000 Mens Trainers - Sizes 3-12 - w/ Vouchers via Tesco + Code - Free Delivery for Members",
-    "price": "£51.97",
-    "link": "https://www.hotukdeals.com/deals/nike-p-6000-mens-trainers-sizes-3-12-ps5197-via-vouchers-via-tesco-code-free-delivery-for-members-4970592",
-    "date": "2026-08-31 12:12",
+    "title": "Asics JOG 100S Sneakers",
+    "price": "£47",
+    "link": "https://www.hotukdeals.com/deals/asics-jog-100s-4970993",
+    "date": "2026-08-31 21:40",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Adidas Arsenal 25/26 Third Authentic Jersey XS-2XL",
+    "price": "£91",
+    "link": "https://www.hotukdeals.com/deals/adidas-arsenal-2526-third-authentic-jersey-xs-2xl-at-adidas-4970990",
+    "date": "2026-08-31 21:35",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Nike Air Max 95 'Houseflies' Trainers",
+    "price": "£50",
+    "link": "https://www.hotukdeals.com/deals/nike-nike-air-max-95-houseflies-4970979",
+    "date": "2026-08-31 21:20",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "nike"
   },
   {
-    "title": "adidas Mens Lightshift 2.0 Shoes - Size 8",
-    "price": "£19.30",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-lightshift20-4970586",
-    "date": "2026-08-31 12:05",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "PUMA Unisex's Future 9 Match It Soccer Shoes - 8.5UK",
-    "price": "£22.10",
-    "link": "https://www.hotukdeals.com/deals/puma-unisexs-future-9-match-it-soccer-shoe-4970585",
-    "date": "2026-08-31 12:04",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
-  },
-  {
-    "title": "Reebok Women's Classic Leather Trainers - 2.5UK",
-    "price": "£19.30",
-    "link": "https://www.hotukdeals.com/deals/reebok-womens-classic-leather-trainers-4970583",
-    "date": "2026-08-31 12:00",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Reebok Men's or Women's NFX Trainer 2 Training Shoes for $29 + free shipping",
+    "price": "$29",
+    "link": "https://www.dealnews.com/Reebok-Mens-or-Womens-NFX-Trainer-2-Training-Shoes-for-29-free-shipping/22124454.html?iref=rss-c280",
+    "date": "2026-08-31 20:48",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "reebok"
   },
   {
-    "title": "adidas Mercedes - AMG Petronas Formula One Team Adilette Comfort Slides - Size 4 - Black",
-    "price": "£11.40",
-    "link": "https://www.hotukdeals.com/deals/adidas-mercedes-amg-petronas-formula-one-team-adilette-comfort-slides-4970577",
-    "date": "2026-08-31 11:56",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
+    "title": "Reebok Men's or Women's Engine LT Shoes for $32 + free shipping",
+    "price": "$32",
+    "link": "https://www.dealnews.com/Reebok-Mens-or-Womens-Engine-LT-Shoes-for-32-free-shipping/22124321.html?iref=rss-c280",
+    "date": "2026-08-31 19:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "reebok"
   },
   {
-    "title": "PUMA Unisex Kid's King 20 Play FG/AG Jr Soccer Shoe - Size 11.5",
-    "price": "£10.40",
-    "link": "https://www.hotukdeals.com/deals/puma-unisex-kids-king-20-play-fgag-jr-soccer-shoe-4970574",
-    "date": "2026-08-31 11:50",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
+    "title": "Timberland Men's Voyager Valley Sneakers for $76.58 for members + free shipping",
+    "price": "$76.58",
+    "link": "https://www.dealnews.com/Timberland-Mens-Voyager-Valley-Sneakers-for-76-58-for-members-free-shipping/22124202.html?iref=rss-c280",
+    "date": "2026-08-31 17:29",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
   },
   {
-    "title": "adidas Ultimashow 2.0 Men's Trainers - Grey/White - Size: 8, 9, 11, 12",
-    "price": "£25",
-    "link": "https://www.hotukdeals.com/deals/adidas-ultimashow-20-mens-trainers-4970573",
-    "date": "2026-08-31 11:49",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Men's Shoes Labor Day Deals at eBay: Up to 50% off + extra 20% off + free shipping",
+    "price": "$500",
+    "link": "https://www.dealnews.com/Mens-Shoes-Labor-Day-Deals-at-eBay-Up-to-50-off-extra-20-off-free-shipping/22124123.html?iref=rss-c280",
+    "date": "2026-08-31 16:01",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
@@ -70,42 +70,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "$9 | adidas FIFA World Cup 26™ Crossbody Bag at Amazon",
-    "price": "$9",
-    "link": "https://slickdeals.net/f/19948047-9-adidas-fifa-world-cup-26-crossbody-bag-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-31 10:47",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "$4.40 | adidas FIFA World Cup 26™ Trionda Mini Soccer Ball at Amazon",
-    "price": "$4.40",
-    "link": "https://slickdeals.net/f/19947261-4-40-adidas-fifa-world-cup-26-trionda-mini-soccer-ball-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-31 07:07",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Unisex-Adult Wc26 Club Home Argentina Football Federation, for $5",
-    "price": "$5",
-    "link": "https://slickdeals.net/f/19947249-adidas-unisex-adult-wc26-club-home-argentina-football-federation-for-5?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-31 07:07",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "[AC] $21.10* | adidas Excel Athletic Laptop Bag Backpack for 15\" Laptops (Twill Grey) + 10% Back w/ Prime Visa Card at Amazon",
-    "price": "$21.10",
-    "link": "https://slickdeals.net/f/19947162-ac-21-10-adidas-excel-athletic-laptop-bag-backpack-for-15-laptops-twill-grey-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-31 06:45",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Men's or Women's Jamaica or Colombia Handball Spezial Shoes for $71 + free shipping",
@@ -144,13 +108,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Airhas Men's Anatomical Toe Box Low Drop Sneakers for $30 + free shipping",
-    "price": "$30",
-    "link": "https://www.dealnews.com/Airhas-Mens-Anatomical-Toe-Box-Low-Drop-Sneakers-for-30-free-shipping/22109803.html?iref=rss-c280",
-    "date": "2026-08-28 14:25",
-    "source": "DealNews",
+    "title": "Nike Women's Blazer Mid '77 Vintage Sneakers (Color: Cacao Wow) $49.25 + Free S&H on $75+",
+    "price": "$49.25",
+    "link": "https://slickdeals.net/f/19936266-nike-women-s-blazer-mid-77-vintage-sneakers-color-cacao-wow-49-25-free-s-h-on-75?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-28 05:10",
+    "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "sneakers"
+    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
