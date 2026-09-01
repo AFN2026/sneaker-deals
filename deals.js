@@ -1,30 +1,30 @@
 window.DEALS = [
   {
-    "title": "Asics JOG 100S Sneakers",
-    "price": "£47",
-    "link": "https://www.hotukdeals.com/deals/asics-jog-100s-4970993",
-    "date": "2026-08-31 21:40",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "sneakers"
+    "title": "Reebok Men's Viva Speed Shoes for $29 + free shipping",
+    "price": "$29",
+    "link": "https://www.dealnews.com/Reebok-Mens-Viva-Speed-Shoes-for-29-free-shipping/22124679.html?iref=rss-c280",
+    "date": "2026-09-01 00:24",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "reebok"
   },
   {
-    "title": "Adidas Arsenal 25/26 Third Authentic Jersey XS-2XL",
-    "price": "£91",
-    "link": "https://www.hotukdeals.com/deals/adidas-arsenal-2526-third-authentic-jersey-xs-2xl-at-adidas-4970990",
-    "date": "2026-08-31 21:35",
+    "title": "adidas Terrex Anylander Mid Hiking Shoes ( Various sizes) in core Black/ or Olive",
+    "price": "£49.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-terrex-anylander-mid-hiking-shoes-various-sizes-in-core-black-or-olive-4971043",
+    "date": "2026-09-01 00:10",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
   },
   {
-    "title": "Nike Nike Air Max 95 'Houseflies' Trainers",
-    "price": "£50",
-    "link": "https://www.hotukdeals.com/deals/nike-nike-air-max-95-houseflies-4970979",
-    "date": "2026-08-31 21:20",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
+    "title": "Vans Men's or Women's Authentic Shoe (Various Styles/Colors) from $14.99, More + Free Shipping on $50+",
+    "price": "$14.99,",
+    "link": "https://slickdeals.net/f/19951317-vans-men-s-or-women-s-authentic-shoe-various-styles-colors-from-14-99-more-free-shipping-on-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-08-31 21:34",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "vans"
   },
   {
     "title": "Reebok Men's or Women's NFX Trainer 2 Training Shoes for $29 + free shipping",
@@ -108,15 +108,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike Women's Blazer Mid '77 Vintage Sneakers (Color: Cacao Wow) $49.25 + Free S&H on $75+",
-    "price": "$49.25",
-    "link": "https://slickdeals.net/f/19936266-nike-women-s-blazer-mid-77-vintage-sneakers-color-cacao-wow-49-25-free-s-h-on-75?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-28 05:10",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
     "price": "$14,",
     "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-for-From-14-Shoes-from-36-free-shipping/22093180.html?iref=rss-c280",
@@ -130,6 +121,15 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
     "date": "2026-07-28 04:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
+    "price": "$99",
+    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
+    "date": "2026-06-18 14:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
