@@ -9,24 +9,6 @@ window.DEALS = [
     "keyword": "reebok"
   },
   {
-    "title": "adidas Terrex Anylander Mid Hiking Shoes ( Various sizes) in core Black/ or Olive",
-    "price": "£49.99",
-    "link": "https://www.hotukdeals.com/deals/adidas-terrex-anylander-mid-hiking-shoes-various-sizes-in-core-black-or-olive-4971043",
-    "date": "2026-09-01 00:10",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Vans Men's or Women's Authentic Shoe (Various Styles/Colors) from $14.99, More + Free Shipping on $50+",
-    "price": "$14.99,",
-    "link": "https://slickdeals.net/f/19951317-vans-men-s-or-women-s-authentic-shoe-various-styles-colors-from-14-99-more-free-shipping-on-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-08-31 21:34",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "vans"
-  },
-  {
     "title": "Reebok Men's or Women's NFX Trainer 2 Training Shoes for $29 + free shipping",
     "price": "$29",
     "link": "https://www.dealnews.com/Reebok-Mens-or-Womens-NFX-Trainer-2-Training-Shoes-for-29-free-shipping/22124454.html?iref=rss-c280",
@@ -90,37 +72,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Terrex Shoes & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
-    "price": "$112,",
-    "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/22114478.html?iref=rss-c280",
-    "date": "2026-08-29 14:45",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Sneaker Deals: Up to 40% off + extra 15% off + Free shipping",
-    "price": "$66",
-    "link": "https://www.dealnews.com/adidas-Mens-Sneaker-Deals-Up-to-40-off-extra-15-off-Free-shipping/22114477.html?iref=rss-c280",
-    "date": "2026-08-29 14:31",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
     "price": "$14,",
     "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-for-From-14-Shoes-from-36-free-shipping/22093180.html?iref=rss-c280",
     "date": "2026-08-25 08:06",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
-    "date": "2026-07-28 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
