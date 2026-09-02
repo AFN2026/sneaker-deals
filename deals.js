@@ -1,5 +1,32 @@
 window.DEALS = [
   {
+    "title": "Skechers Men's Go Walk Max FocalSlip On Trainers - Size 8UK",
+    "price": "£29.99",
+    "link": "https://www.hotukdeals.com/deals/skechers-mens-go-walk-max-focalslip-on-trainers-4972162",
+    "date": "2026-09-02 09:49",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "trainers"
+  },
+  {
+    "title": "adidas Labor Day Sale: Up to 60% off + extra 30% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Labor-Day-Sale-Up-to-60-off-extra-30-off-free-shipping/22134182.html?iref=rss-c280",
+    "date": "2026-09-02 07:26",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men DAYREADY TRACKTOP from $19 + Free Shipping",
+    "price": "$19",
+    "link": "https://slickdeals.net/f/19958196-adidas-men-dayready-tracktop-from-19-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-02 04:26",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Reebok Men's or Women's BB 1000 Retro Basketball Shoes for $36 + free shipping",
     "price": "$36",
     "link": "https://www.dealnews.com/Reebok-Mens-or-Womens-BB-1000-Retro-Basketball-Shoes-for-36-free-shipping/22130471.html?iref=rss-c280",
@@ -27,15 +54,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Reebok Men's pack of 3 T-Shirts, Santo Shirt, Black/White/Grey Marl - S, M, L, XL Cotton Blend, Lightweight, Machine Washable",
-    "price": "£14.99",
-    "link": "https://www.hotukdeals.com/deals/reebok-mens-pack-of-3-t-shirts-santo-shirt-blackwhitegrey-marl-s-m-l-xl-cotton-blend-lightweight-machine-washable-4971876",
-    "date": "2026-09-01 23:48",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "reebok"
-  },
-  {
     "title": "JCPenney Labor Day Men's Shoes Sale for From $16 + free shipping w/ $49",
     "price": "$16",
     "link": "https://www.dealnews.com/JCPenney-Labor-Day-Mens-Shoes-Sale-for-From-16-free-shipping-w-49/22130340.html?iref=rss-c280",
@@ -49,15 +67,6 @@ window.DEALS = [
     "price": "$24",
     "link": "https://www.dealnews.com/adidas-Mens-Galaxy-7-Running-Shoes-for-24-free-shipping/22130338.html?iref=rss-c280",
     "date": "2026-09-01 21:34",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas College Footwear Deals at Fanatics: Up to 50% off + free shipping w/ $39",
-    "price": "$39",
-    "link": "https://www.dealnews.com/adidas-College-Footwear-Deals-at-Fanatics-Up-to-50-off-free-shipping-w-39/22130169.html?iref=rss-c280",
-    "date": "2026-09-01 19:08",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
@@ -238,6 +247,15 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
     "date": "2026-06-30 04:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
+    "price": "$99",
+    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
+    "date": "2026-06-18 14:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
