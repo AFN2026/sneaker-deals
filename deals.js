@@ -1,5 +1,59 @@
 window.DEALS = [
   {
+    "title": "Reebok Men's or Women's BB 1000 Retro Basketball Shoes for $36 + free shipping",
+    "price": "$36",
+    "link": "https://www.dealnews.com/Reebok-Mens-or-Womens-BB-1000-Retro-Basketball-Shoes-for-36-free-shipping/22130471.html?iref=rss-c280",
+    "date": "2026-09-02 01:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "reebok"
+  },
+  {
+    "title": "Reebok Men's or Women's Active Lite Shoes for $24 + free shipping",
+    "price": "$24",
+    "link": "https://www.dealnews.com/Reebok-Mens-or-Womens-Active-Lite-Shoes-for-24-free-shipping/22130469.html?iref=rss-c280",
+    "date": "2026-09-02 00:57",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "reebok"
+  },
+  {
+    "title": "adidas Men's or Women's Anthony Edwards 2 All-Star Basketball Shoes for $50 + free shipping w/ $75",
+    "price": "$50",
+    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Anthony-Edwards-2-All-Star-Basketball-Shoes-for-50-free-shipping-w-75/22130461.html?iref=rss-c280",
+    "date": "2026-09-02 00:28",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Reebok Men's pack of 3 T-Shirts, Santo Shirt, Black/White/Grey Marl - S, M, L, XL Cotton Blend, Lightweight, Machine Washable",
+    "price": "£14.99",
+    "link": "https://www.hotukdeals.com/deals/reebok-mens-pack-of-3-t-shirts-santo-shirt-blackwhitegrey-marl-s-m-l-xl-cotton-blend-lightweight-machine-washable-4971876",
+    "date": "2026-09-01 23:48",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "reebok"
+  },
+  {
+    "title": "JCPenney Labor Day Men's Shoes Sale for From $16 + free shipping w/ $49",
+    "price": "$16",
+    "link": "https://www.dealnews.com/JCPenney-Labor-Day-Mens-Shoes-Sale-for-From-16-free-shipping-w-49/22130340.html?iref=rss-c280",
+    "date": "2026-09-01 21:38",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Galaxy 7 Running Shoes for $24 + free shipping",
+    "price": "$24",
+    "link": "https://www.dealnews.com/adidas-Mens-Galaxy-7-Running-Shoes-for-24-free-shipping/22130338.html?iref=rss-c280",
+    "date": "2026-09-01 21:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas College Footwear Deals at Fanatics: Up to 50% off + free shipping w/ $39",
     "price": "$39",
     "link": "https://www.dealnews.com/adidas-College-Footwear-Deals-at-Fanatics-Up-to-50-off-free-shipping-w-39/22130169.html?iref=rss-c280",
@@ -68,15 +122,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Questar-4-Shoes-for-37-free-shipping/22129774.html?iref=rss-c280",
     "date": "2026-09-01 14:21",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "$35 Adidas Gift Card + $15 adidas Promo eGift Card for $35 (Digital Delivery)",
-    "price": "$35",
-    "link": "https://slickdeals.net/f/19945359-35-adidas-gift-card-15-adidas-promo-egift-card-for-35-digital-delivery?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-01 13:30",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -180,24 +225,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Reebok Men's Viva Speed Shoes for $29 + free shipping",
-    "price": "$29",
-    "link": "https://www.dealnews.com/Reebok-Mens-Viva-Speed-Shoes-for-29-free-shipping/22124679.html?iref=rss-c280",
-    "date": "2026-09-01 00:24",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "reebok"
-  },
-  {
-    "title": "Reebok Men's or Women's NFX Trainer 2 Training Shoes for $29 + free shipping",
-    "price": "$29",
-    "link": "https://www.dealnews.com/Reebok-Mens-or-Womens-NFX-Trainer-2-Training-Shoes-for-29-free-shipping/22124454.html?iref=rss-c280",
-    "date": "2026-08-31 20:48",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "reebok"
-  },
-  {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
     "price": "$14,",
     "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-for-From-14-Shoes-from-36-free-shipping/22093180.html?iref=rss-c280",
@@ -207,10 +234,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
-    "price": "$99",
-    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
-    "date": "2026-06-18 14:23",
+    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
+    "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
