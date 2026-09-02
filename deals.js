@@ -1,30 +1,12 @@
 window.DEALS = [
   {
-    "title": "Nike Flex Train Men's Workout Shoes Trainers | 2 Colours | w/code (Free delivery for members over £50)",
-    "price": "£50",
-    "link": "https://www.hotukdeals.com/deals/nike-flex-train-mens-workout-shoes-trainers-2-colours-wcode-free-delivery-for-members-over-ps50-4972422",
-    "date": "2026-09-02 15:08",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "The Quilted Bear Folding Travel Clothes Steamer with Carry Case Introductory Price",
-    "price": "£26.99",
-    "link": "https://www.hotukdeals.com/deals/the-quilted-bear-folding-travel-clothes-steamer-with-carry-case-introductory-price-4972418",
-    "date": "2026-09-02 15:02",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
-  },
-  {
-    "title": "Nike Terra Reflective Beanie Hat, Black - Free C&C",
-    "price": "£10",
-    "link": "https://www.hotukdeals.com/deals/nike-terra-reflective-beanie-hat-black-free-cc-4972406",
-    "date": "2026-09-02 14:45",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
+    "title": "adidas men Samoa Shoes (3 colors) $32 + Free Shipping",
+    "price": "$32",
+    "link": "https://slickdeals.net/f/19960701-adidas-men-samoa-shoes-3-colors-32-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-02 15:09",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Terrex Anylander Hiking Shoes for $42 + Free shipping",
@@ -68,15 +50,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Anthony-Edwards-2-All-Star-Basketball-Shoes-for-50-free-shipping-w-75/22130461.html?iref=rss-c280",
     "date": "2026-09-02 00:28",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "24L adidas All Me 3 Tote Bag (2 Colors) $30.80 + Free Shipping",
-    "price": "$30.80",
-    "link": "https://slickdeals.net/f/19957107-24l-adidas-all-me-3-tote-bag-2-colors-30-80-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-01 22:18",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -148,15 +121,6 @@ window.DEALS = [
     "price": "$37",
     "link": "https://www.dealnews.com/adidas-Mens-Response-2-Shoes-for-37-free-shipping/22129792.html?iref=rss-c280",
     "date": "2026-09-01 14:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Questar 4 Shoes for $37 + free shipping",
-    "price": "$37",
-    "link": "https://www.dealnews.com/adidas-Mens-Questar-4-Shoes-for-37-free-shipping/22129774.html?iref=rss-c280",
-    "date": "2026-09-01 14:21",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
