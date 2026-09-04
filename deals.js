@@ -1,12 +1,30 @@
 window.DEALS = [
   {
-    "title": "70% Off Selected Men's New Balance Trainers - e.g Abzorb 2010 - Sizes 4 - 11.5 - Free Returns",
-    "price": "£45",
-    "link": "https://www.hotukdeals.com/deals/70-off-selected-mens-new-balance-trainers-eg-abzorb-2010-sizes-4-115-free-returns-4974291",
-    "date": "2026-09-04 14:59",
+    "title": "Extra 25% Off Vans Sale Applied at Checkout - e.g Men's Off The Wall Skinny Fit Jeans",
+    "price": "£7.50",
+    "link": "https://www.hotukdeals.com/deals/extra-25-off-vans-sale-applied-at-checkout-eg-mens-off-the-wall-skinny-fit-jeans-4974418",
+    "date": "2026-09-04 18:52",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "new balance"
+    "keyword": "vans"
+  },
+  {
+    "title": "Journeys Labor Day Sale: Up to 50% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/Journeys-Labor-Day-Sale-Up-to-50-off-free-shipping/22142793.html?iref=rss-c280",
+    "date": "2026-09-04 18:35",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Famous Footwear Back to School Sale: Buy 1, get 2nd 50% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/Famous-Footwear-Back-to-School-Sale-Buy-1-get-2-nd-50-off-free-shipping/22142787.html?iref=rss-c280",
+    "date": "2026-09-04 18:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "New Balance Labor Day Sale: Up to 30% off + free shipping",
@@ -90,20 +108,20 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Adidas Men's Handball Spezial Shoes (Size 10-12.5) $50",
-    "price": "$50",
-    "link": "https://slickdeals.net/f/19968972-adidas-men-s-handball-spezial-shoes-size-10-12-5-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-04 05:24",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Samoa Leather Shoes for $32 + free shipping",
     "price": "$32",
     "link": "https://www.dealnews.com/adidas-Mens-Samoa-Leather-Shoes-for-32-free-shipping/22139645.html?iref=rss-c280",
     "date": "2026-09-04 00:37",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas kids Runfalcon 5 Shoes $21 + Free Shipping at adidas via eBay",
+    "price": "$21",
+    "link": "https://slickdeals.net/f/19965741-adidas-kids-runfalcon-5-shoes-21-free-shipping-at-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-03 14:49",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -117,11 +135,11 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
-    "price": "$14,",
-    "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-for-From-14-Shoes-from-36-free-shipping/22093180.html?iref=rss-c280",
-    "date": "2026-08-25 08:06",
-    "source": "DealNews",
+    "title": "adidas Men's Anthony Edwards 2 All-Star Basketball Shoes (Lucid Orange/Silver Metallic/Grey, 8,9,10,10.5) $50 + Free Shipping $75+",
+    "price": "$50",
+    "link": "https://slickdeals.net/f/19955646-adidas-men-s-anthony-edwards-2-all-star-basketball-shoes-lucid-orange-silver-metallic-grey-8-9-10-10-5-50-free-shipping-75?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-01 17:32",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -130,6 +148,15 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
     "date": "2026-07-28 04:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
+    "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
