@@ -1,12 +1,21 @@
 window.DEALS = [
   {
-    "title": "3-Pack PUMA Men's Performance Boxer Briefs (Bright Blue & Black Grey) LARGE $10.86 + Free Shipping w/ Prime or on $35+",
-    "price": "$10.86",
-    "link": "https://slickdeals.net/f/19966581-3-pack-puma-men-s-performance-boxer-briefs-bright-blue-black-grey-large-10-86-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-03 17:52",
+    "title": "adidas Men's Samoa Leather Shoes for $32 + free shipping",
+    "price": "$32",
+    "link": "https://www.dealnews.com/adidas-Mens-Samoa-Leather-Shoes-for-32-free-shipping/22139645.html?iref=rss-c280",
+    "date": "2026-09-04 00:37",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "HOKA Clifton 10 Men's and Women's Sneakers (Various - Includes Wide) - from $79.86 + free shipping",
+    "price": "$79.86",
+    "link": "https://slickdeals.net/f/19967913-hoka-clifton-10-men-s-and-women-s-sneakers-various-includes-wide-from-79-86-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-04 00:26",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "puma"
+    "keyword": "sneakers"
   },
   {
     "title": "adidas Men's Shoes Labor Day Deals at eBay: Up to 65% off + extra 20% off + free shipping",
@@ -63,13 +72,13 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
-    "title": "Nike End of Summer Deals at Dick’s Sporting Goods: Up to 50% off + free shipping w/ $49",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Nike-End-of-Summer-Deals-at-Dick-s-Sporting-Goods-Up-to-50-off-free-shipping-w-49/22134620.html?iref=rss-c280",
-    "date": "2026-09-02 21:02",
+    "title": "adidas Labor Day Sale: Up to 60% off + extra 30% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Labor-Day-Sale-Up-to-60-off-extra-30-off-free-shipping/22134182.html?iref=rss-c280",
+    "date": "2026-09-02 07:26",
     "source": "DealNews",
     "currency": "USD",
-    "keyword": "nike"
+    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
@@ -81,19 +90,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
+    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
     "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
-    "date": "2026-07-28 04:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
-    "price": "$99",
-    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
-    "date": "2026-06-18 14:23",
+    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
+    "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
