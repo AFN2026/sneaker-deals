@@ -1,14 +1,5 @@
 window.DEALS = [
   {
-    "title": "Extra 25% Off Vans Sale Applied at Checkout - e.g Men's Off The Wall Skinny Fit Jeans",
-    "price": "£7.50",
-    "link": "https://www.hotukdeals.com/deals/extra-25-off-vans-sale-applied-at-checkout-eg-mens-off-the-wall-skinny-fit-jeans-4974418",
-    "date": "2026-09-04 18:52",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
-  },
-  {
     "title": "Journeys Labor Day Sale: Up to 50% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/Journeys-Labor-Day-Sale-Up-to-50-off-free-shipping/22142793.html?iref=rss-c280",
@@ -117,37 +108,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas kids Runfalcon 5 Shoes $21 + Free Shipping at adidas via eBay",
-    "price": "$21",
-    "link": "https://slickdeals.net/f/19965741-adidas-kids-runfalcon-5-shoes-21-free-shipping-at-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-03 14:49",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Labor Day Sale: Up to 60% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Labor-Day-Sale-Up-to-60-off-extra-30-off-free-shipping/22134182.html?iref=rss-c280",
-    "date": "2026-09-02 07:26",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Anthony Edwards 2 All-Star Basketball Shoes (Lucid Orange/Silver Metallic/Grey, 8,9,10,10.5) $50 + Free Shipping $75+",
-    "price": "$50",
-    "link": "https://slickdeals.net/f/19955646-adidas-men-s-anthony-edwards-2-all-star-basketball-shoes-lucid-orange-silver-metallic-grey-8-9-10-10-5-50-free-shipping-75?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-01 17:32",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
-    "date": "2026-07-28 04:01",
+    "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
+    "price": "$14,",
+    "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-for-From-14-Shoes-from-36-free-shipping/22093180.html?iref=rss-c280",
+    "date": "2026-08-25 08:06",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
