@@ -1,18 +1,45 @@
 window.DEALS = [
   {
-    "title": "Puma Orbita Play Premier League Lights Football - Size 5",
-    "price": "£8",
-    "link": "https://www.hotukdeals.com/deals/puma-orbita-play-premier-league-lights-football-size-5-4975024",
-    "date": "2026-09-05 18:09",
+    "title": "Manchester United x adidas Womens Essentials 3-Stripes Full-Zip Fleece Hoodie Black",
+    "price": "£15",
+    "link": "https://www.hotukdeals.com/deals/manchester-united-x-adidas-womens-essentials-3-stripes-full-zip-fleece-hoodie-black-4975155",
+    "date": "2026-09-06 01:09",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "puma"
+    "keyword": "adidas"
   },
   {
-    "title": "adidas Run 70s 2.0 Shoessize 9.5",
-    "price": "£28.11",
-    "link": "https://www.hotukdeals.com/deals/adidas-run-70s-20-shoessize-95-4975023",
-    "date": "2026-09-05 18:08",
+    "title": "Manchester United x adidas ALL SZN Fleece Hoodie Blue",
+    "price": "£15",
+    "link": "https://www.hotukdeals.com/deals/manchester-united-x-adidas-all-szn-fleece-hoodie-blue-4975153",
+    "date": "2026-09-06 00:56",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men Lite Racer 4.0 Shoes (various colors) $22 + Free Shipping",
+    "price": "$22",
+    "link": "https://slickdeals.net/f/19976493-adidas-men-lite-racer-4-0-shoes-various-colors-22-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-06 00:52",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Manchester United x adidas Golf Crewneck Sweatshirt Grey £15.00 from £50.00",
+    "price": "£15.00",
+    "link": "https://www.hotukdeals.com/deals/manchester-united-x-adidas-golf-crewneck-sweatshirt-grey-ps1500from-ps5000-4975152",
+    "date": "2026-09-06 00:44",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Manchester United x adidas Womens Essentials 3-Stripes Full Zip Fleece Hoodie White £15.00from £50.00 £15.00",
+    "price": "£15.00",
+    "link": "https://www.hotukdeals.com/deals/manchester-united-x-adidas-womens-essentials-3-stripes-full-zip-fleece-hoodie-white-ps1500from-ps5000-ps1500-4975150",
+    "date": "2026-09-06 00:34",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
@@ -122,6 +149,15 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Labor-Day-Sneaker-Deals-Up-to-50-off-extra-30-off-free-shipping/22142334.html?iref=rss-c280",
     "date": "2026-09-04 08:49",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "$6.63* | 26oz. adidas Stadium Plastic Sports Water Bottle w/ Locking Spout Top (Black) at Amazon",
+    "price": "$6.63",
+    "link": "https://slickdeals.net/f/19958817-6-63-26oz-adidas-stadium-plastic-sports-water-bottle-w-locking-spout-top-black-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-02 07:17",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
