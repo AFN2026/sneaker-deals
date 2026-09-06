@@ -1,48 +1,12 @@
 window.DEALS = [
   {
-    "title": "Manchester United x adidas Womens Essentials 3-Stripes Full-Zip Fleece Hoodie Black",
-    "price": "£15",
-    "link": "https://www.hotukdeals.com/deals/manchester-united-x-adidas-womens-essentials-3-stripes-full-zip-fleece-hoodie-black-4975155",
-    "date": "2026-09-06 01:09",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Manchester United x adidas ALL SZN Fleece Hoodie Blue",
-    "price": "£15",
-    "link": "https://www.hotukdeals.com/deals/manchester-united-x-adidas-all-szn-fleece-hoodie-blue-4975153",
-    "date": "2026-09-06 00:56",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men Lite Racer 4.0 Shoes (various colors) $22 + Free Shipping",
-    "price": "$22",
-    "link": "https://slickdeals.net/f/19976493-adidas-men-lite-racer-4-0-shoes-various-colors-22-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-06 00:52",
-    "source": "Slickdeals",
+    "title": "New Balance Reconsidered Labor Day Sneaker Sale for From $14 + shipping varies",
+    "price": "$14",
+    "link": "https://www.dealnews.com/New-Balance-Reconsidered-Labor-Day-Sneaker-Sale-for-From-14-shipping-varies/22130167.html?iref=rss-c280",
+    "date": "2026-09-06 09:48",
+    "source": "DealNews",
     "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Manchester United x adidas Golf Crewneck Sweatshirt Grey £15.00 from £50.00",
-    "price": "£15.00",
-    "link": "https://www.hotukdeals.com/deals/manchester-united-x-adidas-golf-crewneck-sweatshirt-grey-ps1500from-ps5000-4975152",
-    "date": "2026-09-06 00:44",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Manchester United x adidas Womens Essentials 3-Stripes Full Zip Fleece Hoodie White £15.00from £50.00 £15.00",
-    "price": "£15.00",
-    "link": "https://www.hotukdeals.com/deals/manchester-united-x-adidas-womens-essentials-3-stripes-full-zip-fleece-hoodie-white-ps1500from-ps5000-ps1500-4975150",
-    "date": "2026-09-06 00:34",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
+    "keyword": "new balance"
   },
   {
     "title": "adidas Terrex Labor Day Sale: Up to 50% off + extra 30% off + free shipping",
@@ -135,29 +99,11 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $37 + free shipping",
-    "price": "$37",
-    "link": "https://www.dealnews.com/adidas-Mens-Cloudfoam-Cuxxion-Sock-Shoes-for-37-free-shipping/22142491.html?iref=rss-c280",
-    "date": "2026-09-04 11:51",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Labor Day Sneaker Deals: Up to 50% off + extra 30% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/adidas-Labor-Day-Sneaker-Deals-Up-to-50-off-extra-30-off-free-shipping/22142334.html?iref=rss-c280",
     "date": "2026-09-04 08:49",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "$6.63* | 26oz. adidas Stadium Plastic Sports Water Bottle w/ Locking Spout Top (Black) at Amazon",
-    "price": "$6.63",
-    "link": "https://slickdeals.net/f/19958817-6-63-26oz-adidas-stadium-plastic-sports-water-bottle-w-locking-spout-top-black-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-02 07:17",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -180,10 +126,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
-    "date": "2026-06-30 04:01",
+    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
+    "price": "$99",
+    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
+    "date": "2026-06-18 14:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
