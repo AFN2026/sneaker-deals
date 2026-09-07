@@ -1,30 +1,84 @@
 window.DEALS = [
   {
-    "title": "Vans Men's Brooklyn LS Sneakers Casual Shoes - Black",
-    "price": "£27.75",
-    "link": "https://www.hotukdeals.com/deals/vans-mens-brooklyn-ls-sneakers-casual-shoes-4976252",
-    "date": "2026-09-07 16:43",
+    "title": "Adidas Essentials Linear Single Jersey Tee - Pack of 2 - XL",
+    "price": "£10.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-essentials-linear-single-jersey-tee-pack-of-2-xl-4976384",
+    "date": "2026-09-07 20:51",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Car Seat Cooling Fan, USB Plug-in Car Fans that Blow Cold Air - Sold by tp-store / FBA",
+    "price": "£5.99",
+    "link": "https://www.hotukdeals.com/deals/car-seat-cooling-fanusb-plug-in-car-fans-that-blow-cold-air-sold-by-tp-store-fba-4976373",
+    "date": "2026-09-07 20:28",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "vans"
   },
   {
-    "title": "Vans Brooklyn LS Sneakers Casual Shoes 5 UK Child",
-    "price": "£22.20",
-    "link": "https://www.hotukdeals.com/deals/vans-mens-brooklyn-ls-sneakers-casual-shoes-4976251",
-    "date": "2026-09-07 16:42",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
+    "title": "adidas Labor Day Walking Shoes Deals: Up to 45% off + extra 30% off + Free shipping",
+    "price": "$39,",
+    "link": "https://www.dealnews.com/adidas-Labor-Day-Walking-Shoes-Deals-Up-to-45-off-extra-30-off-Free-shipping/22155083.html?iref=rss-c280",
+    "date": "2026-09-07 20:00",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
-    "title": "Vans Men's Brooklyn LS Sneakers Casual Shoes - Black & White",
-    "price": "£24.05",
-    "link": "https://www.hotukdeals.com/deals/vans-mens-brooklyn-ls-sneakers-casual-shoes-4976250",
-    "date": "2026-09-07 16:41",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
+    "title": "adidas Men's Zenboost Running Shoes for $49 + Free shipping",
+    "price": "$49",
+    "link": "https://www.dealnews.com/adidas-Mens-Zenboost-Running-Shoes-for-49-Free-shipping/22155079.html?iref=rss-c280",
+    "date": "2026-09-07 19:47",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Adilette Comfort 2.0 Mexico Slides for $18 + free shipping",
+    "price": "$18",
+    "link": "https://www.dealnews.com/adidas-Mens-Adilette-Comfort-2-0-Mexico-Slides-for-18-free-shipping/22155050.html?iref=rss-c280",
+    "date": "2026-09-07 19:16",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Labor Day Shoe Deals for Slides from $17, sneakers from $27 + Free shipping",
+    "price": "$17,",
+    "link": "https://www.dealnews.com/adidas-Mens-Labor-Day-Shoe-Deals-for-Slides-from-17-sneakers-from-27-Free-shipping/22155037.html?iref=rss-c280",
+    "date": "2026-09-07 19:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Lite Racer Adapt 7.0 Shoes for $28 + free shipping",
+    "price": "$28",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-Adapt-7-0-Shoes-for-28-free-shipping/22154952.html?iref=rss-c280",
+    "date": "2026-09-07 17:23",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Kizik Men's London Hands Free Slip On Sneakers for $80 + free shipping",
+    "price": "$80",
+    "link": "https://www.dealnews.com/Kizik-Mens-London-Hands-Free-Slip-On-Sneakers-for-80-free-shipping/22154951.html?iref=rss-c280",
+    "date": "2026-09-07 17:22",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Men's Daily 4.0  Shoes for $28 + free shipping",
+    "price": "$28",
+    "link": "https://www.dealnews.com/adidas-Mens-Daily-4-0-Shoes-for-28-free-shipping/22154946.html?iref=rss-c280",
+    "date": "2026-09-07 17:15",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "Shoebacca Labor Day Sale: Up to 70% off + free shipping",
@@ -94,60 +148,6 @@ window.DEALS = [
     "price": "$21",
     "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-5-Running-Shoes-for-21-free-shipping/22150843.html?iref=rss-c280",
     "date": "2026-09-06 21:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "New Balance Reconsidered Labor Day Sneaker Sale for From $14 + shipping varies",
-    "price": "$14",
-    "link": "https://www.dealnews.com/New-Balance-Reconsidered-Labor-Day-Sneaker-Sale-for-From-14-shipping-varies/22130167.html?iref=rss-c280",
-    "date": "2026-09-06 09:48",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
-  },
-  {
-    "title": "adidas Terrex Labor Day Sale: Up to 50% off + extra 30% off + free shipping",
-    "price": "$60",
-    "link": "https://www.dealnews.com/adidas-Terrex-Labor-Day-Sale-Up-to-50-off-extra-30-off-free-shipping/22146336.html?iref=rss-c280",
-    "date": "2026-09-05 11:55",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Labor Day Sneaker Deals: Up to 40% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Mens-Labor-Day-Sneaker-Deals-Up-to-40-off-extra-30-off-free-shipping/22146334.html?iref=rss-c280",
-    "date": "2026-09-05 11:46",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Anylander Rain.Rdy Hiking Shoes for $53 + free shipping",
-    "price": "$53",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Anylander-Rain-Rdy-Hiking-Shoes-for-53-free-shipping/22129563.html?iref=rss-c280",
-    "date": "2026-09-05 11:37",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas End of Summer Labor Day Sale: Up to 60% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-End-of-Summer-Labor-Day-Sale-Up-to-60-off-extra-30-off-free-shipping/22129502.html?iref=rss-c280",
-    "date": "2026-09-05 07:16",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Journeys Labor Day Sale: Up to 50% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/Journeys-Labor-Day-Sale-Up-to-50-off-free-shipping/22142793.html?iref=rss-c280",
-    "date": "2026-09-04 18:35",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
