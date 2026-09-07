@@ -1,12 +1,75 @@
 window.DEALS = [
   {
-    "title": "Blue Wednesday - XBOX One / XBOX Series X|S",
-    "price": "£1.24",
-    "link": "https://www.hotukdeals.com/deals/blue-wednesday-xbox-one-xbox-series-xs-4975718",
-    "date": "2026-09-07 01:08",
+    "title": "PUMA Men's Scend Pro Running Shoe Sneaker - Size 3.5 UK",
+    "price": "£15.96",
+    "link": "https://www.hotukdeals.com/deals/puma-mens-scend-pro-running-shoe-sneaker-size-35-uk-4976014",
+    "date": "2026-09-07 11:11",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "vans"
+    "keyword": "puma"
+  },
+  {
+    "title": "PUMA Unisex King 20 Play Fg/Ag Soccer Shoe - Size 8.5 UK",
+    "price": "£17.27",
+    "link": "https://www.hotukdeals.com/deals/puma-unisex-king-20-play-fgag-soccer-shoe-size-85-uk-4976011",
+    "date": "2026-09-07 11:06",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "PUMA Unisex Ultra 6 Play Mg Soccer Shoe - Size 8.5 UK",
+    "price": "£13.87",
+    "link": "https://www.hotukdeals.com/deals/puma-unisex-ultra-6-play-mg-soccer-shoe-size-85-uk-4976010",
+    "date": "2026-09-07 11:05",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "Puma Men's Attacanto II Fg/Ag Soccer Shoe - Size 8 UK",
+    "price": "£18.36",
+    "link": "https://www.hotukdeals.com/deals/puma-mens-attacanto-ii-fgag-soccer-shoe-size-8-uk-4976007",
+    "date": "2026-09-07 11:02",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "Now Up to 50% Off Accessories Sale (including Nike, Adidas, Berghaus, New Era) Over 400 Lines, New Lines Added + Free C&C",
+    "price": "£20",
+    "link": "https://www.hotukdeals.com/deals/now-up-to-50-off-accessories-sale-including-nike-adidas-berghaus-new-era-over-400-lines-new-lines-added-free-cc-4976005",
+    "date": "2026-09-07 11:00",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Adidas Adilette Shower K Sliders Unisex - Size 12 UK Child",
+    "price": "£5.90",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-adilette-shower-k-sliders-unisex-adults-pool-size-12-uk-child-4976004",
+    "date": "2026-09-07 11:00",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "PUMA Womens Club Klassika Low Top Trainers - Size 3.5 UK",
+    "price": "£15.47",
+    "link": "https://www.hotukdeals.com/deals/puma-womens-club-klassika-low-top-trainers-size-35-uk-4975997",
+    "date": "2026-09-07 10:38",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "PUMA 8 Play Womens Artificial Ground Football Boots Firm - Size 9.5 UK",
+    "price": "£11.76",
+    "link": "https://www.hotukdeals.com/deals/puma-8-play-womens-artificial-ground-football-boots-firm-size-95-uk-4975987",
+    "date": "2026-09-07 10:30",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
   },
   {
     "title": "adidas Women's Jump Hook Shoes for $32 + free shipping",
