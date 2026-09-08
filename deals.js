@@ -1,5 +1,113 @@
 window.DEALS = [
   {
+    "title": "Nike Men's Mens Vaporfly 4 Running Shoes | Alphafly 3 Running Shoes £107.19 - Limited Sizes (Links in Description) W/Code",
+    "price": "£107.19",
+    "link": "https://www.hotukdeals.com/deals/nike-mens-mens-vaporfly-4-running-shoes-alphafly-3-running-shoes-ps10719-limited-sizes-links-in-description-wcode-4977160",
+    "date": "2026-09-08 20:17",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Essentials Linear Cotton T-Shirt - small",
+    "price": "£5.11",
+    "link": "https://www.hotukdeals.com/deals/adidas-essentials-linear-cotton-t-shirt-small-4977159",
+    "date": "2026-09-08 20:16",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Air Max Fire Men's Sneaker for $55 in cart + free shipping w/ $89",
+    "price": "$55",
+    "link": "https://www.dealnews.com/Nike-Air-Max-Fire-Mens-Sneaker-for-55-in-cart-free-shipping-w-89/22159109.html?iref=rss-c280",
+    "date": "2026-09-08 20:12",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Foot Locker Sale: Up to 50% off + an extra 25% off + free shipping",
+    "price": "$85",
+    "link": "https://www.dealnews.com/Foot-Locker-Sale-Up-to-50-off-an-extra-25-off-free-shipping/22159101.html?iref=rss-c280",
+    "date": "2026-09-08 19:58",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Up to 50% Off Now Extra 20% Off for Students + Additional 8% Off via DFC Gift Cards - e.g New Balance 1000 (£31.65 w/ Gift Card)",
+    "price": "£31.65",
+    "link": "https://www.hotukdeals.com/deals/up-to-50-off-now-extra-20-off-for-students-additional-8-off-via-dfc-gift-cards-eg-new-balance-1000-ps3165-w-gift-card-4977135",
+    "date": "2026-09-08 19:10",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Lacoste Men's Baseshot Leather Sneakers for $40 + free shipping over $75",
+    "price": "$40",
+    "link": "https://www.dealnews.com/Lacoste-Mens-Baseshot-Leather-Sneakers-for-40-free-shipping-over-75/22159051.html?iref=rss-c280",
+    "date": "2026-09-08 19:09",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Nike Men's Precision 8 Low Basketball Shoes for $54 in cart + free shipping",
+    "price": "$54",
+    "link": "https://www.dealnews.com/Nike-Mens-Precision-8-Low-Basketball-Shoes-for-54-in-cart-free-shipping/22159050.html?iref=rss-c280",
+    "date": "2026-09-08 19:04",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Air Max Summer Ready Shoe Deals: Extra 20% to 25% off in cart + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Air-Max-Summer-Ready-Shoe-Deals-Extra-20-to-25-off-in-cart-free-shipping-w-50/22159037.html?iref=rss-c280",
+    "date": "2026-09-08 18:53",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Lacoste Men's Chaymon Suede Sneakers for $62 + free shipping w/ $75",
+    "price": "$62",
+    "link": "https://www.dealnews.com/Lacoste-Mens-Chaymon-Suede-Sneakers-for-62-free-shipping-w-75/22159026.html?iref=rss-c280",
+    "date": "2026-09-08 18:41",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Lacoste Men's L-Spin Evo Sneakers for $70 + free shipping over $75",
+    "price": "$70",
+    "link": "https://www.dealnews.com/Lacoste-Mens-L-Spin-Evo-Sneakers-for-70-free-shipping-over-75/22159007.html?iref=rss-c280",
+    "date": "2026-09-08 18:30",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "lululemon We Made Too Much Shoe Savings for Slides from $49, sneakers from $89 + free shipping",
+    "price": "$49,",
+    "link": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Shoe-Savings-for-Slides-from-49-sneakers-from-89-free-shipping/22158858.html?iref=rss-c280",
+    "date": "2026-09-08 15:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Men's Terrex Anylander Rain.Rdy Hiking Shoes for $53 + free shipping",
+    "price": "$53",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Anylander-Rain-Rdy-Hiking-Shoes-for-53-free-shipping/22129563.html?iref=rss-c280",
+    "date": "2026-09-08 15:42",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's Adizero Prime SP 4 Shoes for $91 + free shipping",
     "price": "$91",
     "link": "https://www.dealnews.com/adidas-Mens-Adizero-Prime-SP-4-Shoes-for-91-free-shipping/22158857.html?iref=rss-c280",
@@ -54,69 +162,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Labor Day Walking Shoes Deals: Up to 45% off + extra 30% off + Free shipping",
-    "price": "$39,",
-    "link": "https://www.dealnews.com/adidas-Labor-Day-Walking-Shoes-Deals-Up-to-45-off-extra-30-off-Free-shipping/22155083.html?iref=rss-c280",
-    "date": "2026-09-07 20:00",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Zenboost Running Shoes for $49 + Free shipping",
-    "price": "$49",
-    "link": "https://www.dealnews.com/adidas-Mens-Zenboost-Running-Shoes-for-49-Free-shipping/22155079.html?iref=rss-c280",
-    "date": "2026-09-07 19:47",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Adilette Comfort 2.0 Mexico Slides for $18 + free shipping",
-    "price": "$18",
-    "link": "https://www.dealnews.com/adidas-Mens-Adilette-Comfort-2-0-Mexico-Slides-for-18-free-shipping/22155050.html?iref=rss-c280",
-    "date": "2026-09-07 19:16",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Labor Day Shoe Deals for Slides from $17, sneakers from $27 + Free shipping",
-    "price": "$17,",
-    "link": "https://www.dealnews.com/adidas-Mens-Labor-Day-Shoe-Deals-for-Slides-from-17-sneakers-from-27-Free-shipping/22155037.html?iref=rss-c280",
-    "date": "2026-09-07 19:08",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Lite Racer Adapt 7.0 Shoes for $28 + free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-Adapt-7-0-Shoes-for-28-free-shipping/22154952.html?iref=rss-c280",
-    "date": "2026-09-07 17:23",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Kizik Men's London Hands Free Slip On Sneakers for $80 + free shipping",
-    "price": "$80",
-    "link": "https://www.dealnews.com/Kizik-Mens-London-Hands-Free-Slip-On-Sneakers-for-80-free-shipping/22154951.html?iref=rss-c280",
-    "date": "2026-09-07 17:22",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Men's Daily 4.0  Shoes for $28 + free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-Mens-Daily-4-0-Shoes-for-28-free-shipping/22154946.html?iref=rss-c280",
-    "date": "2026-09-07 17:15",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Terrex Labor Day Sale: Up to 50% off + extra 30% off + free shipping",
     "price": "$60",
     "link": "https://www.dealnews.com/adidas-Terrex-Labor-Day-Sale-Up-to-50-off-extra-30-off-free-shipping/22154701.html?iref=rss-c280",
@@ -130,15 +175,6 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Labor-Day-Sneaker-Deals-Up-to-50-off-extra-30-off-free-shipping/22142334.html?iref=rss-c280",
     "date": "2026-09-04 08:49",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
-    "price": "$14,",
-    "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-for-From-14-Shoes-from-36-free-shipping/22093180.html?iref=rss-c280",
-    "date": "2026-08-25 08:06",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
