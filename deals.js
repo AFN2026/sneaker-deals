@@ -1,21 +1,12 @@
 window.DEALS = [
   {
-    "title": "Adidas Essentials Linear Single Jersey Tee - Pack of 2 - XL",
-    "price": "£10.99",
-    "link": "https://www.hotukdeals.com/deals/adidas-essentials-linear-single-jersey-tee-pack-of-2-xl-4976384",
-    "date": "2026-09-07 20:51",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "adidas Men's or Women's Busenitz Vintage Shoes (Aurora Coffee / Wonder Clay / Gum) $35.70 + Free Shipping",
+    "price": "$35.70",
+    "link": "https://slickdeals.net/f/19984881-adidas-men-s-or-women-s-busenitz-vintage-shoes-aurora-coffee-wonder-clay-gum-35-70-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-08 00:41",
+    "source": "Slickdeals",
+    "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Car Seat Cooling Fan, USB Plug-in Car Fans that Blow Cold Air - Sold by tp-store / FBA",
-    "price": "£5.99",
-    "link": "https://www.hotukdeals.com/deals/car-seat-cooling-fanusb-plug-in-car-fans-that-blow-cold-air-sold-by-tp-store-fba-4976373",
-    "date": "2026-09-07 20:28",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
   },
   {
     "title": "adidas Labor Day Walking Shoes Deals: Up to 45% off + extra 30% off + Free shipping",
@@ -135,24 +126,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Women's Jump Hook Shoes for $32 + free shipping",
-    "price": "$32",
-    "link": "https://www.dealnews.com/adidas-Womens-Jump-Hook-Shoes-for-32-free-shipping/22150894.html?iref=rss-c280",
-    "date": "2026-09-06 22:48",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Runfalcon 5 Running Shoes for $21 + free shipping",
-    "price": "$21",
-    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-5-Running-Shoes-for-21-free-shipping/22150843.html?iref=rss-c280",
-    "date": "2026-09-06 21:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Labor Day Sneaker Deals: Up to 50% off + extra 30% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/adidas-Labor-Day-Sneaker-Deals-Up-to-50-off-extra-30-off-free-shipping/22142334.html?iref=rss-c280",
@@ -171,10 +144,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Terrex Shoe & Clothing Deals: Up to 40% off + extra 15% off + free shipping",
+    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
     "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
-    "date": "2026-07-28 04:01",
+    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
+    "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
