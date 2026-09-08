@@ -1,10 +1,46 @@
 window.DEALS = [
   {
-    "title": "adidas Men's or Women's Busenitz Vintage Shoes (Aurora Coffee / Wonder Clay / Gum) $35.70 + Free Shipping",
-    "price": "$35.70",
-    "link": "https://slickdeals.net/f/19984881-adidas-men-s-or-women-s-busenitz-vintage-shoes-aurora-coffee-wonder-clay-gum-35-70-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-08 00:41",
-    "source": "Slickdeals",
+    "title": "Adidas Unisex Adilette Aqua Slides Flipflop | All Black | UK sizes available: 7 - 12",
+    "price": "£13",
+    "link": "https://www.hotukdeals.com/deals/adidas-unisex-adilette-aqua-slides-flipflop-uk-sizes-available-7-12-4976737",
+    "date": "2026-09-08 10:14",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Adidas Mens Squadra25 Shorts, Black/White - Size S only",
+    "price": "£8.26",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-squadra25-shorts-blackwhite-size-s-only-4976734",
+    "date": "2026-09-08 10:09",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Reebok Joyner Gym Shorts for Women | High-Waisted Black Base Layer Bottoms | Moisture Wicking and Breathable | Sizes: XS - L",
+    "price": "£4.99",
+    "link": "https://www.hotukdeals.com/deals/reebok-joyner-gym-shorts-for-women-high-waisted-black-base-layer-bottoms-moisture-wicking-and-breathable-sizes-xs-l-4976726",
+    "date": "2026-09-08 09:59",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "reebok"
+  },
+  {
+    "title": "Up to 40% Off adidas Instore Only Sale 08/09-23/09",
+    "price": "",
+    "link": "https://www.hotukdeals.com/deals/up-to-40-off-adidas-instore-only-sale-0809-2309-4976722",
+    "date": "2026-09-08 09:55",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Labor Day Sneaker Deals: Up to 40% off + extra 30% off + free shipping",
+    "price": "$38.20",
+    "link": "https://www.dealnews.com/adidas-Mens-Labor-Day-Sneaker-Deals-Up-to-40-off-extra-30-off-free-shipping/22154818.html?iref=rss-c280",
+    "date": "2026-09-08 04:01",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -81,15 +117,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Shoes Labor Day Deals at eBay: Up to 65% off + extra 20% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Mens-Shoes-Labor-Day-Deals-at-eBay-Up-to-65-off-extra-20-off-free-shipping/22139141.html?iref=rss-c280",
-    "date": "2026-09-07 15:25",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Reebok Basketball Blowout Sale: Up to 53% off + free shipping w/ $75",
     "price": "$75",
     "link": "https://www.dealnews.com/Reebok-Basketball-Blowout-Sale-Up-to-53-off-free-shipping-w-75/22154793.html?iref=rss-c280",
@@ -126,10 +153,10 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Labor Day Sneaker Deals: Up to 50% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Labor-Day-Sneaker-Deals-Up-to-50-off-extra-30-off-free-shipping/22142334.html?iref=rss-c280",
-    "date": "2026-09-04 08:49",
+    "title": "adidas Women's Jump Hook Shoes for $32 + free shipping",
+    "price": "$32",
+    "link": "https://www.dealnews.com/adidas-Womens-Jump-Hook-Shoes-for-32-free-shipping/22150894.html?iref=rss-c280",
+    "date": "2026-09-06 22:48",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
