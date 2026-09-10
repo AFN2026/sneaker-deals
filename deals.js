@@ -1,12 +1,21 @@
 window.DEALS = [
   {
-    "title": "Clear Tarpaulin, Waterproof Heavy Duty PVC Tarp 1x2m with Eyelets & Rope - UV & Tear-Resistant Windproof - Sold By FMJXB",
-    "price": "£19.87",
-    "link": "https://www.hotukdeals.com/deals/clear-tarpaulin-waterproof-heavy-duty-pvc-tarp-1x2m-with-eyelets-rope-uv-tear-resistant-windproof-sold-by-fmjxb-4978148",
-    "date": "2026-09-10 00:21",
+    "title": "Reebok Classic Nylon Trainers Black/White (Sizes 7 - 12) - with DFC / HSC code - Free Click and Collect",
+    "price": "£31.50",
+    "link": "https://www.hotukdeals.com/deals/reebok-classic-nylon-trainers-blackwhite-sizes-7-12-with-dfc-hsc-code-free-click-and-collect-4978445",
+    "date": "2026-09-10 10:06",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "vans"
+    "keyword": "reebok"
+  },
+  {
+    "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22165860.html?iref=rss-c280",
+    "date": "2026-09-10 09:45",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $20 + free shipping",
@@ -25,15 +34,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas men Essentials 3-Stripes Fleece Pants Open Hem $14",
-    "price": "$14",
-    "link": "https://slickdeals.net/f/19993767-adidas-men-essentials-3-stripes-fleece-pants-open-hem-14?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-09 20:59",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Supernova Ease Shoes for $35 + free shipping",
@@ -63,15 +63,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas Men's Galaxy 7 Running Shoes (2 Colors) from $21",
-    "price": "$21",
-    "link": "https://slickdeals.net/f/19993443-adidas-men-s-galaxy-7-running-shoes-2-colors-from-21?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-09 19:34",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's VL Court Base Shoes for $17 + free shipping",
     "price": "$17",
     "link": "https://www.dealnews.com/adidas-Mens-VL-Court-Base-Shoes-for-17-free-shipping/22162859.html?iref=rss-c280",
@@ -90,15 +81,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Reebok Extra 40% Off with code REEBOK40 @ ShopSimon.com",
-    "price": "",
-    "link": "https://slickdeals.net/f/19992867-reebok-extra-40-off-with-code-reebok40-shopsimon-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-09 17:19",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "reebok"
-  },
-  {
     "title": "adidas Men's Purechill Shoes for $28 + free shipping",
     "price": "$28",
     "link": "https://www.dealnews.com/adidas-Mens-Purechill-Shoes-for-28-free-shipping/22162445.html?iref=rss-c280",
@@ -115,15 +97,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "new balance"
-  },
-  {
-    "title": "adidas Sale at Zappos: Up to 50% off + free shipping",
-    "price": "$90",
-    "link": "https://www.dealnews.com/adidas-Sale-at-Zappos-Up-to-50-off-free-shipping/22159134.html?iref=rss-c280",
-    "date": "2026-09-08 20:45",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
