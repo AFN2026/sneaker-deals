@@ -1,11 +1,29 @@
 window.DEALS = [
   {
-    "title": "AAdidas men's Sports Entrada 22 Shorts Royal blue (most sizes)/ Navy blue (S or M) / Red (XS) / Black £8.25 + free del with free sign up",
-    "price": "£8.25",
-    "link": "https://www.hotukdeals.com/deals/aadidas-mens-sports-entrada-22-shorts-royal-blue-most-sizes-navy-blue-s-or-m-red-xs-black-ps825-free-del-with-free-sign-up-4979224",
-    "date": "2026-09-11 10:20",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Vans Final Sale Men's Shoe Deals for From $25 + free shipping w/ $50",
+    "price": "$25",
+    "link": "https://www.dealnews.com/Vans-Final-Sale-Mens-Shoe-Deals-for-From-25-free-shipping-w-50/22169667.html?iref=rss-c280",
+    "date": "2026-09-11 13:27",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "vans"
+  },
+  {
+    "title": "adidas Men's Handball Spezial Shoes (Green) $43.17 + Free Shipping on $49",
+    "price": "$43.17",
+    "link": "https://slickdeals.net/f/20001390-adidas-men-s-handball-spezial-shoes-green-43-17-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-11 13:24",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Fall Kick Off Sneaker Deals for Kids' from $21, adults' from $30 + free shipping",
+    "price": "$21,",
+    "link": "https://www.dealnews.com/adidas-Fall-Kick-Off-Sneaker-Deals-for-Kids-from-21-adults-from-30-free-shipping/22169635.html?iref=rss-c280",
+    "date": "2026-09-11 11:35",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
@@ -79,24 +97,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Reax 8 TR Workout Shoes for $60 + free shipping",
-    "price": "$60",
-    "link": "https://www.dealnews.com/Nike-Mens-Reax-8-TR-Workout-Shoes-for-60-free-shipping/22162934.html?iref=rss-c280",
-    "date": "2026-09-09 19:40",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Galaxy 7 Running Shoes for $21 + free shipping",
-    "price": "$21",
-    "link": "https://www.dealnews.com/adidas-Mens-Galaxy-7-Running-Shoes-for-21-free-shipping/22162858.html?iref=rss-c280",
-    "date": "2026-09-09 18:04",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
