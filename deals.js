@@ -1,5 +1,32 @@
 window.DEALS = [
   {
+    "title": "Uefa Champions League Size 5 Football 25/26 League Stage Ball - Free Delivery Members",
+    "price": "£9.20",
+    "link": "https://www.hotukdeals.com/deals/uefa-champions-league-size-5-football-adidas-4979557",
+    "date": "2026-09-11 19:53",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "EasyAcc Dehumidifiers for Home, 2000ml Dehumidifier Pro - 500-650ml - Sold by Hey.live Store / FBA",
+    "price": "£42.99",
+    "link": "https://www.hotukdeals.com/deals/easyacc-dehumidifiers-for-home-2000ml-dehumidifier-pro-500-650ml-sold-by-heylive-store-fba-4979542",
+    "date": "2026-09-11 19:00",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "vans"
+  },
+  {
+    "title": "adidas Men's Handball Spezial Shoes for $43 + free shipping w/ $49",
+    "price": "$43",
+    "link": "https://www.dealnews.com/adidas-Mens-Handball-Spezial-Shoes-for-43-free-shipping-w-49/22169721.html?iref=rss-c280",
+    "date": "2026-09-11 15:40",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Vans Final Sale Men's Shoe Deals for From $25 + free shipping w/ $50",
     "price": "$25",
     "link": "https://www.dealnews.com/Vans-Final-Sale-Mens-Shoe-Deals-for-From-25-free-shipping-w-50/22169667.html?iref=rss-c280",
@@ -7,15 +34,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "vans"
-  },
-  {
-    "title": "adidas Men's Handball Spezial Shoes (Green) $43.17 + Free Shipping on $49",
-    "price": "$43.17",
-    "link": "https://slickdeals.net/f/20001390-adidas-men-s-handball-spezial-shoes-green-43-17-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-11 13:24",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Fall Kick Off Sneaker Deals for Kids' from $21, adults' from $30 + free shipping",
@@ -67,33 +85,6 @@ window.DEALS = [
     "price": "$50",
     "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22165860.html?iref=rss-c280",
     "date": "2026-09-10 09:45",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Hibbett Men's Sneaker & Shoe Deals for From $20 + free 2-day shipping",
-    "price": "$20",
-    "link": "https://www.dealnews.com/Hibbett-Mens-Sneaker-Shoe-Deals-for-From-20-free-2-day-shipping/22163030.html?iref=rss-c280",
-    "date": "2026-09-09 21:17",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Supernova Ease Shoes for $35 + free shipping",
-    "price": "$35",
-    "link": "https://www.dealnews.com/adidas-Mens-Supernova-Ease-Shoes-for-35-free-shipping/22162998.html?iref=rss-c280",
-    "date": "2026-09-09 20:43",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Shox NZ Shoe for $79 + free shipping",
-    "price": "$79",
-    "link": "https://www.dealnews.com/Nike-Mens-Shox-NZ-Shoe-for-79-free-shipping/22162950.html?iref=rss-c280",
-    "date": "2026-09-09 19:58",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
