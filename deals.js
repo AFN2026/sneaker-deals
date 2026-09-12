@@ -1,21 +1,21 @@
 window.DEALS = [
   {
-    "title": "Uefa Champions League Size 5 Football 25/26 League Stage Ball - Free Delivery Members",
-    "price": "£9.20",
-    "link": "https://www.hotukdeals.com/deals/uefa-champions-league-size-5-football-adidas-4979557",
-    "date": "2026-09-11 19:53",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
+    "title": "Jordan 1 Men's Football Cleats for $93 + free shipping",
+    "price": "$93",
+    "link": "https://www.dealnews.com/Jordan-1-Mens-Football-Cleats-for-93-free-shipping/22170063.html?iref=rss-c280",
+    "date": "2026-09-11 22:05",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "jordan"
   },
   {
-    "title": "EasyAcc Dehumidifiers for Home, 2000ml Dehumidifier Pro - 500-650ml - Sold by Hey.live Store / FBA",
-    "price": "£42.99",
-    "link": "https://www.hotukdeals.com/deals/easyacc-dehumidifiers-for-home-2000ml-dehumidifier-pro-500-650ml-sold-by-heylive-store-fba-4979542",
-    "date": "2026-09-11 19:00",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
+    "title": "adidas Men's Adistar Control 5 Sneakers (Sizes: 7-13, White/Scarlet/Dash Grey) $48 + Free Shipping",
+    "price": "$48",
+    "link": "https://slickdeals.net/f/20002464-adidas-men-s-adistar-control-5-sneakers-sizes-7-13-white-scarlet-dash-grey-48-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-11 17:49",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Handball Spezial Shoes for $43 + free shipping w/ $49",
