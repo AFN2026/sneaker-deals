@@ -1,5 +1,50 @@
 window.DEALS = [
   {
+    "title": "Nike Zoom Vomero 5 Sneaker - Size 6-10",
+    "price": "£62",
+    "link": "https://www.hotukdeals.com/deals/nike-zoom-vomero-5-sneaker-size-6-10-4980059",
+    "date": "2026-09-12 18:44",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas x Willy Chavarria Jabbar Low Sneaker - Size 4 - 11",
+    "price": "£56",
+    "link": "https://www.hotukdeals.com/deals/adidas-x-willy-chavarria-jabbar-low-sneaker-size-4-11-4980057",
+    "date": "2026-09-12 18:42",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Shox Ride 2 Sneaker - Sizes 7 - 10.5",
+    "price": "£50",
+    "link": "https://www.hotukdeals.com/deals/nike-shox-ride-2-sneaker-4980054",
+    "date": "2026-09-12 18:30",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Amazon – Vilanva Women's Lace Detail Fashion Sneakers - $32.49 w/ Code",
+    "price": "$32.49",
+    "link": "https://slickdeals.net/f/20006019-amazon-vilanva-women-s-lace-detail-fashion-sneakers-32-49-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-12 17:24",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Nike Men's Jordan Flight Court Shoes for $52 + free shipping",
+    "price": "$52",
+    "link": "https://www.dealnews.com/Nike-Mens-Jordan-Flight-Court-Shoes-for-52-free-shipping/22172951.html?iref=rss-c280",
+    "date": "2026-09-12 16:38",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "lululemon We Made Too Much Shoe Specials for Slides from $39, sneakers from $59 + free shipping",
     "price": "$39,",
     "link": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Shoe-Specials-for-Slides-from-39-sneakers-from-59-free-shipping/22172605.html?iref=rss-c280",
@@ -76,15 +121,6 @@ window.DEALS = [
     "price": "$22",
     "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-22-free-shipping/22165880.html?iref=rss-c280",
     "date": "2026-09-10 11:13",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Fall Kick Off Shoe Deals: Up to 50% off + extra 15% off + Free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Fall-Kick-Off-Shoe-Deals-Up-to-50-off-extra-15-off-Free-shipping/22165872.html?iref=rss-c280",
-    "date": "2026-09-10 10:41",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
