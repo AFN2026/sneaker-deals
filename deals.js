@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "3:10 to Yuma Blu Ray - Pre-owned",
+    "price": "£3.47",
+    "link": "https://www.hotukdeals.com/deals/310-to-yuma-blu-ray-pre-owned-4979780",
+    "date": "2026-09-12 09:28",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "vans"
+  },
+  {
     "title": "Jordan 1 Men's Football Cleats for $93 + free shipping",
     "price": "$93",
     "link": "https://www.dealnews.com/Jordan-1-Mens-Football-Cleats-for-93-free-shipping/22170063.html?iref=rss-c280",
@@ -7,15 +16,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "jordan"
-  },
-  {
-    "title": "adidas Men's Adistar Control 5 Sneakers (Sizes: 7-13, White/Scarlet/Dash Grey) $48 + Free Shipping",
-    "price": "$48",
-    "link": "https://slickdeals.net/f/20002464-adidas-men-s-adistar-control-5-sneakers-sizes-7-13-white-scarlet-dash-grey-48-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-11 17:49",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Handball Spezial Shoes for $43 + free shipping w/ $49",
