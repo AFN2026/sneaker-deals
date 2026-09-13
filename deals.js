@@ -1,9 +1,27 @@
 window.DEALS = [
   {
-    "title": "Nike Men's Jordan Flight Court Shoes for $52 + free shipping",
-    "price": "$52",
-    "link": "https://www.dealnews.com/Nike-Mens-Jordan-Flight-Court-Shoes-for-52-free-shipping/22172951.html?iref=rss-c280",
-    "date": "2026-09-12 16:38",
+    "title": "Adidas Germany 1994 Home Jersey Top - XS, S",
+    "price": "£27",
+    "link": "https://www.hotukdeals.com/deals/adidas-germany-1994-home-jersey-top-4980318",
+    "date": "2026-09-13 10:49",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Essentials Joggers Kids Size 5-6",
+    "price": "£8.78",
+    "link": "https://www.hotukdeals.com/deals/adidas-essentials-joggers-kids-size-5-6-4980315",
+    "date": "2026-09-13 10:41",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22165860.html?iref=rss-c280",
+    "date": "2026-09-13 07:14",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
@@ -45,15 +63,6 @@ window.DEALS = [
     "keyword": "jordan"
   },
   {
-    "title": "adidas Men's Handball Spezial Shoes for $43 + free shipping w/ $49",
-    "price": "$43",
-    "link": "https://www.dealnews.com/adidas-Mens-Handball-Spezial-Shoes-for-43-free-shipping-w-49/22169721.html?iref=rss-c280",
-    "date": "2026-09-11 15:40",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Vans Final Sale Men's Shoe Deals for From $25 + free shipping w/ $50",
     "price": "$25",
     "link": "https://www.dealnews.com/Vans-Final-Sale-Mens-Shoe-Deals-for-From-25-free-shipping-w-50/22169667.html?iref=rss-c280",
@@ -85,6 +94,24 @@ window.DEALS = [
     "price": "$22",
     "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-22-free-shipping/22165880.html?iref=rss-c280",
     "date": "2026-09-10 11:13",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Terrex Fall Kick Off Shoe Deals: Up to 50% off + extra 15% off + Free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Terrex-Fall-Kick-Off-Shoe-Deals-Up-to-50-off-extra-15-off-Free-shipping/22165872.html?iref=rss-c280",
+    "date": "2026-09-10 10:41",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Fall Kick Off Shoe Deals: Up to 50% off + extra 15% off + free shipping",
+    "price": "$17,",
+    "link": "https://www.dealnews.com/adidas-Mens-Fall-Kick-Off-Shoe-Deals-Up-to-50-off-extra-15-off-free-shipping/22165867.html?iref=rss-c280",
+    "date": "2026-09-10 10:20",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
