@@ -1,23 +1,5 @@
 window.DEALS = [
   {
-    "title": "Adidas Germany 1994 Home Jersey Top - XS, S",
-    "price": "£27",
-    "link": "https://www.hotukdeals.com/deals/adidas-germany-1994-home-jersey-top-4980318",
-    "date": "2026-09-13 10:49",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Essentials Joggers Kids Size 5-6",
-    "price": "£8.78",
-    "link": "https://www.hotukdeals.com/deals/adidas-essentials-joggers-kids-size-5-6-4980315",
-    "date": "2026-09-13 10:41",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
     "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
     "price": "$50",
     "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22165860.html?iref=rss-c280",
