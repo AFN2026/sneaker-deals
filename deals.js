@@ -1,48 +1,48 @@
 window.DEALS = [
   {
-    "title": "NIKE Men's Unisex Everyday Crew 3 Pack Socks (pack of 1) S, XL",
-    "price": "£8.99",
-    "link": "https://www.hotukdeals.com/deals/nike-mens-unisex-u-nk-everyday-ltwt-crew-3pr-socks-pack-of-1-s-xl-4981072",
-    "date": "2026-09-14 11:20",
+    "title": "adidas Unisex Linear Organizer Waist Pack (Pack of 2)",
+    "price": "£7.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-unisex-linear-organizer-waist-pack-pack-of-2-4981312",
+    "date": "2026-09-14 17:14",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Students Get 20% Off - Includes Sale Items - Free C&C",
+    "price": "£70.",
+    "link": "https://www.hotukdeals.com/deals/students-get-20-off-includes-sale-items-free-cc-4981309",
+    "date": "2026-09-14 17:10",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "nike"
   },
   {
-    "title": "Skechers Mens Track Scloric Trainers | white/black | UK sizes 6-11, some half sizes available | w/ voucher",
-    "price": "£38.40",
-    "link": "https://www.hotukdeals.com/deals/skechers-mens-track-scloric-trainers-whiteblack-uk-sizes-6-11-some-half-sizes-available-w-voucher-4981070",
-    "date": "2026-09-14 11:15",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
-  },
-  {
-    "title": "Tommy Hilfiger Men’s Essential Leather Detail Vulcanised Trainers | white/red/blue | UK sizes 5.5-11 - some half sizes available - w/Voucher",
-    "price": "£45.60",
-    "link": "https://www.hotukdeals.com/deals/tommy-hilfiger-mens-essential-leather-detail-vulcanised-trainers-whiteredblue-uk-sizes-55-11-some-half-sizes-available-4981056",
-    "date": "2026-09-14 10:57",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
-  },
-  {
-    "title": "adidas men Advantage Shoes (Cloud White / Cloud White / Legend Ink) $19",
-    "price": "$19",
-    "link": "https://slickdeals.net/f/20012028-adidas-men-advantage-shoes-cloud-white-cloud-white-legend-ink-19?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-14 10:48",
-    "source": "Slickdeals",
+    "title": "adidas Men's Terrex Rockadia Hiking Shoe for $51 + Free shipping",
+    "price": "$51",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Rockadia-Hiking-Shoe-for-51-Free-shipping/22180979.html?iref=rss-c280",
+    "date": "2026-09-14 16:52",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "adidas men X_PLR Path Shoes (3 Colors) from $25",
-    "price": "$25",
-    "link": "https://slickdeals.net/f/20011905-adidas-men-x-plr-path-shoes-3-colors-from-25?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-14 09:48",
-    "source": "Slickdeals",
-    "currency": "USD",
+    "title": "Adidas Men's Essential Three Stripes French Terry Pant - Size Small",
+    "price": "£11.20",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-essential-three-stripes-french-terry-pant-size-small-4981292",
+    "date": "2026-09-14 16:33",
+    "source": "HotUKDeals",
+    "currency": "GBP",
     "keyword": "adidas"
+  },
+  {
+    "title": "Air Zoom Pegasus 40 Mens Running Trainers instore Bicester Outlet",
+    "price": "£48.99",
+    "link": "https://www.hotukdeals.com/deals/air-zoom-pegasus-40-mens-running-trainers-4981291",
+    "date": "2026-09-14 16:31",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
   },
   {
     "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
@@ -130,15 +130,6 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Fall-Kick-Off-Shoe-Deals-Up-to-50-off-extra-15-off-Free-shipping/22165872.html?iref=rss-c280",
     "date": "2026-09-10 10:41",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Fall Kick Off Shoe Deals: Up to 50% off + extra 15% off + free shipping",
-    "price": "$17,",
-    "link": "https://www.dealnews.com/adidas-Mens-Fall-Kick-Off-Shoe-Deals-Up-to-50-off-extra-15-off-free-shipping/22165867.html?iref=rss-c280",
-    "date": "2026-09-10 10:20",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
