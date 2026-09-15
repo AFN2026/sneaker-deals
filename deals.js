@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "Now Up to 70% Off NFL Jerseys, Clothing & Accessories Sale + Extra 20% Off With Code (Over 160 Lines) Prices From £7.99",
+    "price": "£7.99",
+    "link": "https://www.hotukdeals.com/deals/now-up-to-70-off-nfl-jerseys-clothing-accessories-sale-extra-20-off-with-code-over-160-lines-prices-from-ps799-4982000",
+    "date": "2026-09-15 15:33",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Samba OG Shoes for $55 + Free shipping",
+    "price": "$55",
+    "link": "https://www.dealnews.com/adidas-Samba-OG-Shoes-for-55-Free-shipping/22184861.html?iref=rss-c280",
+    "date": "2026-09-15 14:14",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Woot Open-Box Shoes & Accessories Deals: Up to 91% off + free shipping w/ Prime",
     "price": "$51,",
     "link": "https://www.dealnews.com/Woot-Open-Box-Shoes-Accessories-Deals-Up-to-91-off-free-shipping-w-Prime/22184609.html?iref=rss-c280",
@@ -7,15 +25,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Puma Scend Pro Running Shoes - Size 9 UK",
-    "price": "£22.17",
-    "link": "https://www.hotukdeals.com/deals/puma-scend-pro-running-shoes-size-9-4981817",
-    "date": "2026-09-15 10:27",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
   },
   {
     "title": "adidas Men's or Women's Harden Volume 10 'Imma Be a Star' Basketball Shoes for $48 + free shipping w/ $49",
@@ -106,24 +115,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Men's Adizero EVO SL Woven Running Shoes for $75 + free shipping",
-    "price": "$75",
-    "link": "https://www.dealnews.com/adidas-Mens-Adizero-EVO-SL-Woven-Running-Shoes-for-75-free-shipping/22172571.html?iref=rss-c280",
-    "date": "2026-09-12 10:59",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Book 1 Men's Basketball Shoes (Sizes 8.5 & 10) for $44 + free shipping w/ $49",
-    "price": "$44",
-    "link": "https://www.dealnews.com/Nike-Book-1-Mens-Basketball-Shoes-Sizes-8-5-10-for-44-free-shipping-w-49/22172549.html?iref=rss-c280",
-    "date": "2026-09-12 10:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
