@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "Woot Open-Box Shoes & Accessories Deals: Up to 91% off + free shipping w/ Prime",
+    "price": "$51,",
+    "link": "https://www.dealnews.com/Woot-Open-Box-Shoes-Accessories-Deals-Up-to-91-off-free-shipping-w-Prime/22184609.html?iref=rss-c280",
+    "date": "2026-09-15 10:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Puma Scend Pro Running Shoes - Size 9 UK",
+    "price": "£22.17",
+    "link": "https://www.hotukdeals.com/deals/puma-scend-pro-running-shoes-size-9-4981817",
+    "date": "2026-09-15 10:27",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
     "title": "adidas Men's or Women's Harden Volume 10 'Imma Be a Star' Basketball Shoes for $48 + free shipping w/ $49",
     "price": "$48",
     "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Harden-Volume-10-Imma-Be-a-Star-Basketball-Shoes-for-48-free-shipping-w-49/22181411.html?iref=rss-c280",
@@ -72,24 +90,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "PUMA Transport Running Mens Black Sneakers Athletic Shoes(Size 9~12) $19.96 + Free S&H at ebay",
-    "price": "$19.96",
-    "link": "https://slickdeals.net/f/20012025-puma-transport-running-mens-black-sneakers-athletic-shoes-size-9-12-19-96-free-s-h-at-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-14 10:46",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "puma"
-  },
-  {
-    "title": "adidas men Lite Racer Adapt 7.0 Wide Shoes (2 Colors) from $25",
-    "price": "$25",
-    "link": "https://slickdeals.net/f/20012016-adidas-men-lite-racer-adapt-7-0-wide-shoes-2-colors-from-25?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-14 10:43",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
     "price": "$50",
     "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22165860.html?iref=rss-c280",
@@ -124,15 +124,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Jordan 1 Men's Football Cleats for $93 + free shipping",
-    "price": "$93",
-    "link": "https://www.dealnews.com/Jordan-1-Mens-Football-Cleats-for-93-free-shipping/22170063.html?iref=rss-c280",
-    "date": "2026-09-11 22:05",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "jordan"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
