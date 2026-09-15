@@ -1,12 +1,21 @@
 window.DEALS = [
   {
-    "title": "Now Up to 70% Off NFL Jerseys, Clothing & Accessories Sale + Extra 20% Off With Code (Over 160 Lines) Prices From £7.99",
-    "price": "£7.99",
-    "link": "https://www.hotukdeals.com/deals/now-up-to-70-off-nfl-jerseys-clothing-accessories-sale-extra-20-off-with-code-over-160-lines-prices-from-ps799-4982000",
-    "date": "2026-09-15 15:33",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Nike Men's or Women's A'One Sequoia Basketball Shoes for $42 + free shipping w/ $49",
+    "price": "$42",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-AOne-Sequoia-Basketball-Shoes-for-42-free-shipping-w-49/22185166.html?iref=rss-c280",
+    "date": "2026-09-15 20:36",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
+  },
+  {
+    "title": "New Balance Women's 574 Leather Shoes for $36 + free shipping w/ $49",
+    "price": "$36",
+    "link": "https://www.dealnews.com/New-Balance-Womens-574-Leather-Shoes-for-36-free-shipping-w-49/22185150.html?iref=rss-c280",
+    "date": "2026-09-15 20:13",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
   },
   {
     "title": "adidas Samba OG Shoes for $55 + Free shipping",
@@ -97,24 +106,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22165860.html?iref=rss-c280",
-    "date": "2026-09-13 07:14",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "lululemon We Made Too Much Shoe Specials for Slides from $39, sneakers from $59 + free shipping",
-    "price": "$39,",
-    "link": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Shoe-Specials-for-Slides-from-39-sneakers-from-59-free-shipping/22172605.html?iref=rss-c280",
-    "date": "2026-09-12 11:24",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
