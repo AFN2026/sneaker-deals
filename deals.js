@@ -1,5 +1,59 @@
 window.DEALS = [
   {
+    "title": "New Balance 1906R Shoes for $48 + free shipping w/ $49",
+    "price": "$48",
+    "link": "https://www.dealnews.com/New-Balance-1906-R-Shoes-for-48-free-shipping-w-49/22188772.html?iref=rss-c280",
+    "date": "2026-09-16 15:17",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "Sneakers One Day Sale at DICK'S Sporting Goods: Up to 64% off + free shipping w/ $49",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Sneakers-One-Day-Sale-at-DICKS-Sporting-Goods-Up-to-64-off-free-shipping-w-49/22188751.html?iref=rss-c280",
+    "date": "2026-09-16 14:59",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "New Balance Sale for Extra 25% off $125 + free shipping",
+    "price": "$125",
+    "link": "https://www.dealnews.com/New-Balance-Sale-for-Extra-25-off-125-free-shipping/22188742.html?iref=rss-c280",
+    "date": "2026-09-16 14:46",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "Up to 50% off the Nike Sale + Extra 15% Using Code Over 4000 Styles included",
+    "price": "£104.99",
+    "link": "https://www.hotukdeals.com/deals/up-to-50-off-the-nike-sale-extra-15-using-code-over-4000-styles-included-4982779",
+    "date": "2026-09-16 14:39",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Reebok Boys' Hooded Packable Jacket (3 Colors, Sizes: XS-XL) $19.99 + Free Store Pickup at Macy's or Free Shipping on $39+",
+    "price": "$19.99",
+    "link": "https://slickdeals.net/f/20022693-reebok-boys-hooded-packable-jacket-3-colors-sizes-xs-xl-19-99-free-store-pickup-at-macy-s-or-free-shipping-on-39?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-16 13:39",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "reebok"
+  },
+  {
+    "title": "Nike Men's Downshifter 14 Realtree Shoes for $50 + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Mens-Downshifter-14-Realtree-Shoes-for-50-free-shipping-w-50/22188575.html?iref=rss-c280",
+    "date": "2026-09-16 10:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "adidas Men's Climacool SPW Shoes (Sizes 11.5 + larger) for $50 + free shipping",
     "price": "$50",
     "link": "https://www.dealnews.com/adidas-Mens-Climacool-SPW-Shoes-Sizes-11-5-larger-for-50-free-shipping/22188561.html?iref=rss-c280",
@@ -63,40 +117,13 @@ window.DEALS = [
     "keyword": "new balance"
   },
   {
-    "title": "adidas Samba OG Shoes for $55 + Free shipping",
-    "price": "$55",
-    "link": "https://www.dealnews.com/adidas-Samba-OG-Shoes-for-55-Free-shipping/22184861.html?iref=rss-c280",
-    "date": "2026-09-15 14:14",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Woot Open-Box Shoes & Accessories Deals: Up to 91% off + free shipping w/ Prime",
-    "price": "$51,",
-    "link": "https://www.dealnews.com/Woot-Open-Box-Shoes-Accessories-Deals-Up-to-91-off-free-shipping-w-Prime/22184609.html?iref=rss-c280",
-    "date": "2026-09-15 10:32",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "PUMA Transport Running Mens Black Sneakers Athletic Shoes(Size 9~12) $19.96 + Free S&H at ebay",
-    "price": "$19.96",
-    "link": "https://slickdeals.net/f/20012025-puma-transport-running-mens-black-sneakers-athletic-shoes-size-9-12-19-96-free-s-h-at-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-14 10:46",
+    "title": "3-Pack: Puma Men's Bandon Quarter-Zip Pullovers UPF 30+ (Gray, Navy & Black) M to XXXXL $39.99 + Free Shipping",
+    "price": "$39.99",
+    "link": "https://slickdeals.net/f/20014392-3-pack-puma-men-s-bandon-quarter-zip-pullovers-upf-30-gray-navy-black-m-to-xxxxl-39-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-14 18:35",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "puma"
-  },
-  {
-    "title": "adidas men Harden Volume 10 Shoes (Hi-Res Yellow / Core Black / Lucid Orange) $63",
-    "price": "$63",
-    "link": "https://slickdeals.net/f/20011932-adidas-men-harden-volume-10-shoes-hi-res-yellow-core-black-lucid-orange-63?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-14 09:56",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
@@ -121,15 +148,6 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
     "date": "2026-06-30 04:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "TGW adidas Golf Footwear Sale: Up to 57% off + free shipping w/ $99",
-    "price": "$99",
-    "link": "https://www.dealnews.com/TGW-adidas-Golf-Footwear-Sale-Up-to-57-off-free-shipping-w-99/21842331.html?iref=rss-c280",
-    "date": "2026-06-18 14:23",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
