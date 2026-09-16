@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "Adidas Fluento Mens Running Shoes Steel Grey / Forest / Black - With Code",
+    "price": "£24.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-fluento-mens-running-shoes-steel-grey-forest-black-with-code-4982955",
+    "date": "2026-09-16 20:20",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
     "title": "New Balance 1906R Shoes for $48 + free shipping w/ $49",
     "price": "$48",
     "link": "https://www.dealnews.com/New-Balance-1906-R-Shoes-for-48-free-shipping-w-49/22188772.html?iref=rss-c280",
@@ -25,24 +34,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "new balance"
-  },
-  {
-    "title": "Up to 50% off the Nike Sale + Extra 15% Using Code Over 4000 Styles included",
-    "price": "£104.99",
-    "link": "https://www.hotukdeals.com/deals/up-to-50-off-the-nike-sale-extra-15-using-code-over-4000-styles-included-4982779",
-    "date": "2026-09-16 14:39",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "Reebok Boys' Hooded Packable Jacket (3 Colors, Sizes: XS-XL) $19.99 + Free Store Pickup at Macy's or Free Shipping on $39+",
-    "price": "$19.99",
-    "link": "https://slickdeals.net/f/20022693-reebok-boys-hooded-packable-jacket-3-colors-sizes-xs-xl-19-99-free-store-pickup-at-macy-s-or-free-shipping-on-39?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-16 13:39",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "reebok"
   },
   {
     "title": "Nike Men's Downshifter 14 Realtree Shoes for $50 + free shipping w/ $50",
@@ -106,24 +97,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "New Balance Women's 574 Leather Shoes for $36 + free shipping w/ $49",
-    "price": "$36",
-    "link": "https://www.dealnews.com/New-Balance-Womens-574-Leather-Shoes-for-36-free-shipping-w-49/22185150.html?iref=rss-c280",
-    "date": "2026-09-15 20:13",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
-  },
-  {
-    "title": "3-Pack: Puma Men's Bandon Quarter-Zip Pullovers UPF 30+ (Gray, Navy & Black) M to XXXXL $39.99 + Free Shipping",
-    "price": "$39.99",
-    "link": "https://slickdeals.net/f/20014392-3-pack-puma-men-s-bandon-quarter-zip-pullovers-upf-30-gray-navy-black-m-to-xxxxl-39-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-14 18:35",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "puma"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
