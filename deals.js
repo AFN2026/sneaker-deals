@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "adidas Men's Climacool SPW Shoes (Sizes 11.5 + larger) for $50 + free shipping",
+    "price": "$50",
+    "link": "https://www.dealnews.com/adidas-Mens-Climacool-SPW-Shoes-Sizes-11-5-larger-for-50-free-shipping/22188561.html?iref=rss-c280",
+    "date": "2026-09-16 09:58",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Women's Reactx Rejuven8 Slides for $23 + free shipping w/ $49",
     "price": "$23",
     "link": "https://www.dealnews.com/Nike-Womens-Reactx-Rejuven8-Slides-for-23-free-shipping-w-49/22185392.html?iref=rss-c280",
@@ -34,15 +43,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "PUMA Bmw M Motorsport Drift Cat 11 Lace Up Mens White Sneakers Casual Shoes - $43.96 + Free Shipping",
-    "price": "$43.96",
-    "link": "https://slickdeals.net/f/20019990-puma-bmw-m-motorsport-drift-cat-11-lace-up-mens-white-sneakers-casual-shoes-43-96-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-15 20:58",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "puma"
   },
   {
     "title": "Nike Men's or Women's A'One Sequoia Basketball Shoes for $42 + free shipping w/ $49",
@@ -81,11 +81,20 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's or Women's Harden Volume 10 'Imma Be a Star' Basketball Shoes for $48 + free shipping w/ $49",
-    "price": "$48",
-    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Harden-Volume-10-Imma-Be-a-Star-Basketball-Shoes-for-48-free-shipping-w-49/22181411.html?iref=rss-c280",
-    "date": "2026-09-15 00:49",
-    "source": "DealNews",
+    "title": "PUMA Transport Running Mens Black Sneakers Athletic Shoes(Size 9~12) $19.96 + Free S&H at ebay",
+    "price": "$19.96",
+    "link": "https://slickdeals.net/f/20012025-puma-transport-running-mens-black-sneakers-athletic-shoes-size-9-12-19-96-free-s-h-at-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-14 10:46",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "puma"
+  },
+  {
+    "title": "adidas men Harden Volume 10 Shoes (Hi-Res Yellow / Core Black / Lucid Orange) $63",
+    "price": "$63",
+    "link": "https://slickdeals.net/f/20011932-adidas-men-harden-volume-10-shoes-hi-res-yellow-core-black-lucid-orange-63?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-14 09:56",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
