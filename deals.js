@@ -1,27 +1,45 @@
 window.DEALS = [
   {
-    "title": "Nike Men's Structure Plus Running Shoes for $76 + free shipping",
-    "price": "$76",
-    "link": "https://www.dealnews.com/Nike-Mens-Structure-Plus-Running-Shoes-for-76-free-shipping/22189206.html?iref=rss-c280",
-    "date": "2026-09-16 22:46",
+    "title": "TREKURE 6000A Jump Starter Power Pack for up 9L Gas/6.5L Diesel with voucher and checkout discount - Sold by Kacical / FBA",
+    "price": "£29.99",
+    "link": "https://www.hotukdeals.com/deals/trekure-6000a-jump-starter-power-pack-jump-starter-for-up-9l-gas65l-diesel-with-voucher-and-checkout-discount-sold-by-kacical-fba-4983318",
+    "date": "2026-09-17 10:18",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "vans"
+  },
+  {
+    "title": "Outdoor Footwear Sale at Woot: Up to 70% off + free shipping w/ Prime",
+    "price": "$15.",
+    "link": "https://www.dealnews.com/Outdoor-Footwear-Sale-at-Woot-Up-to-70-off-free-shipping-w-Prime/22192050.html?iref=rss-c280",
+    "date": "2026-09-17 09:28",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "vans"
+  },
+  {
+    "title": "Kohl's Sandals Deals: 40% off + free shipping w/ $49",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Kohls-Sandals-Deals-40-off-free-shipping-w-49/22192043.html?iref=rss-c280",
+    "date": "2026-09-17 09:15",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
   },
   {
-    "title": "New Balance 1906R Shoes for $48 + free shipping w/ $49",
-    "price": "$48",
-    "link": "https://www.dealnews.com/New-Balance-1906-R-Shoes-for-48-free-shipping-w-49/22188772.html?iref=rss-c280",
-    "date": "2026-09-16 15:17",
+    "title": "Saucony, Altra, & More Running Shoe Deals at Woot: Up to 61% off + free shipping w/ Prime",
+    "price": "$34.99",
+    "link": "https://www.dealnews.com/Saucony-Altra-More-Running-Shoe-Deals-at-Woot-Up-to-61-off-free-shipping-w-Prime/22192005.html?iref=rss-c280",
+    "date": "2026-09-17 08:20",
     "source": "DealNews",
     "currency": "USD",
-    "keyword": "new balance"
+    "keyword": "adidas"
   },
   {
-    "title": "Sneakers One Day Sale at DICK'S Sporting Goods: Up to 64% off + free shipping w/ $49",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Sneakers-One-Day-Sale-at-DICKS-Sporting-Goods-Up-to-64-off-free-shipping-w-49/22188751.html?iref=rss-c280",
-    "date": "2026-09-16 14:59",
+    "title": "Nike Men's Structure Plus Running Shoes for $76 + free shipping",
+    "price": "$76",
+    "link": "https://www.dealnews.com/Nike-Mens-Structure-Plus-Running-Shoes-for-76-free-shipping/22189206.html?iref=rss-c280",
+    "date": "2026-09-16 22:46",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
@@ -61,15 +79,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Keen Men's Jasper Zionic Sneakers for $60 + free shipping w/ $60",
-    "price": "$60",
-    "link": "https://www.dealnews.com/Keen-Mens-Jasper-Zionic-Sneakers-for-60-free-shipping-w-60/22185273.html?iref=rss-c280",
-    "date": "2026-09-15 23:14",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
