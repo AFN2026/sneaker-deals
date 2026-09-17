@@ -1,12 +1,12 @@
 window.DEALS = [
   {
-    "title": "Adidas Fluento Mens Running Shoes Steel Grey / Forest / Black - With Code",
-    "price": "£24.99",
-    "link": "https://www.hotukdeals.com/deals/adidas-fluento-mens-running-shoes-steel-grey-forest-black-with-code-4982955",
-    "date": "2026-09-16 20:20",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
+    "title": "Nike Men's Structure Plus Running Shoes for $76 + free shipping",
+    "price": "$76",
+    "link": "https://www.dealnews.com/Nike-Mens-Structure-Plus-Running-Shoes-for-76-free-shipping/22189206.html?iref=rss-c280",
+    "date": "2026-09-16 22:46",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "New Balance 1906R Shoes for $48 + free shipping w/ $49",
@@ -70,33 +70,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Men's or Women's F50 League Indoor Soccer Shoes for $34 + free shipping w/ $49",
-    "price": "$34",
-    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-F50-League-Indoor-Soccer-Shoes-for-34-free-shipping-w-49/22185247.html?iref=rss-c280",
-    "date": "2026-09-15 22:31",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Athletic Works Men's Banded Jogger Slip-On Sneakers for $12 + free shipping w/ $35",
-    "price": "$12",
-    "link": "https://www.dealnews.com/Athletic-Works-Mens-Banded-Jogger-Slip-On-Sneakers-for-12-free-shipping-w-35/22185214.html?iref=rss-c280",
-    "date": "2026-09-15 21:37",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's or Women's A'One Sequoia Basketball Shoes for $42 + free shipping w/ $49",
-    "price": "$42",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-AOne-Sequoia-Basketball-Shoes-for-42-free-shipping-w-49/22185166.html?iref=rss-c280",
-    "date": "2026-09-15 20:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
