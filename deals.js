@@ -1,12 +1,75 @@
 window.DEALS = [
   {
-    "title": "TREKURE 6000A Jump Starter Power Pack for up 9L Gas/6.5L Diesel with voucher and checkout discount - Sold by Kacical / FBA",
-    "price": "£29.99",
-    "link": "https://www.hotukdeals.com/deals/trekure-6000a-jump-starter-power-pack-jump-starter-for-up-9l-gas65l-diesel-with-voucher-and-checkout-discount-sold-by-kacical-fba-4983318",
-    "date": "2026-09-17 10:18",
+    "title": "MeacoFan Sefte 8\" Portable Battery Air Circulator - Graded B (with bag) - 3 Year Warranty (UK Mainland) - Sold by meacouk",
+    "price": "£49.99",
+    "link": "https://www.hotukdeals.com/deals/meacofan-sefte-8-portable-battery-air-circulator-graded-b-with-bag-3-year-warranty-4983506",
+    "date": "2026-09-17 15:04",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "vans"
+  },
+  {
+    "title": "adidas Men's Runfalcon 6 Wide Shoes for $29 + free shipping",
+    "price": "$29",
+    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Wide-Shoes-for-29-free-shipping/22192266.html?iref=rss-c280",
+    "date": "2026-09-17 13:13",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Daily 4.0 Shoes for $27 + free shipping",
+    "price": "$27",
+    "link": "https://www.dealnews.com/adidas-Mens-Daily-4-0-Shoes-for-27-free-shipping/22192263.html?iref=rss-c280",
+    "date": "2026-09-17 13:10",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $32 + free shipping",
+    "price": "$32",
+    "link": "https://www.dealnews.com/adidas-Mens-Cloudfoam-Cuxxion-Sock-Shoes-for-32-free-shipping/22192260.html?iref=rss-c280",
+    "date": "2026-09-17 13:02",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Terrex Eastrail 3 Shoes for $42 + free shipping",
+    "price": "$42",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Eastrail-3-Shoes-for-42-free-shipping/22192256.html?iref=rss-c280",
+    "date": "2026-09-17 12:50",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Fall Shoe Deals for From $15, sneakers from $27 + free shipping",
+    "price": "$15,",
+    "link": "https://www.dealnews.com/adidas-Mens-Fall-Shoe-Deals-for-From-15-sneakers-from-27-free-shipping/22192220.html?iref=rss-c280",
+    "date": "2026-09-17 12:22",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Adidas X Coca-Cola Predator Sala Shoes (Silver Metallic / None / Grey Two) $56",
+    "price": "$56",
+    "link": "https://slickdeals.net/f/20027202-adidas-x-coca-cola-predator-sala-shoes-silver-metallic-none-grey-two-56?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-17 11:53",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "New Balance Men's Fresh Foam Arishi v4 Shoes for $45 + free shipping",
+    "price": "$45",
+    "link": "https://www.dealnews.com/New-Balance-Mens-Fresh-Foam-Arishi-v4-Shoes-for-45-free-shipping/22192142.html?iref=rss-c280",
+    "date": "2026-09-17 11:11",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
   },
   {
     "title": "Outdoor Footwear Sale at Woot: Up to 70% off + free shipping w/ Prime",
@@ -36,6 +99,15 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
+    "title": "adidas Men's Daily 4.0 Shoes (2 Colors) $28",
+    "price": "$28",
+    "link": "https://slickdeals.net/f/20026359-adidas-men-s-daily-4-0-shoes-2-colors-28?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-17 06:06",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Men's Structure Plus Running Shoes for $76 + free shipping",
     "price": "$76",
     "link": "https://www.dealnews.com/Nike-Mens-Structure-Plus-Running-Shoes-for-76-free-shipping/22189206.html?iref=rss-c280",
@@ -45,6 +117,24 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
+    "title": "Nike Men's G.T. Cut 4 Basketball Shoes (Black / Uni Gold / Black / White) $89.98",
+    "price": "$89.98",
+    "link": "https://slickdeals.net/f/20023872-nike-men-s-g-t-cut-4-basketball-shoes-black-uni-gold-black-white-89-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-16 17:19",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Club América Mini Soccer Ball $6.00 + Free Shipping",
+    "price": "$6.00",
+    "link": "https://slickdeals.net/f/20023587-adidas-club-am-rica-mini-soccer-ball-6-00-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-16 16:33",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "New Balance Sale for Extra 25% off $125 + free shipping",
     "price": "$125",
     "link": "https://www.dealnews.com/New-Balance-Sale-for-Extra-25-off-125-free-shipping/22188742.html?iref=rss-c280",
@@ -52,33 +142,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "new balance"
-  },
-  {
-    "title": "Nike Men's Downshifter 14 Realtree Shoes for $50 + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Mens-Downshifter-14-Realtree-Shoes-for-50-free-shipping-w-50/22188575.html?iref=rss-c280",
-    "date": "2026-09-16 10:39",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Climacool SPW Shoes (Sizes 11.5 + larger) for $50 + free shipping",
-    "price": "$50",
-    "link": "https://www.dealnews.com/adidas-Mens-Climacool-SPW-Shoes-Sizes-11-5-larger-for-50-free-shipping/22188561.html?iref=rss-c280",
-    "date": "2026-09-16 09:58",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Women's Reactx Rejuven8 Slides for $23 + free shipping w/ $49",
-    "price": "$23",
-    "link": "https://www.dealnews.com/Nike-Womens-Reactx-Rejuven8-Slides-for-23-free-shipping-w-49/22185392.html?iref=rss-c280",
-    "date": "2026-09-16 01:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
