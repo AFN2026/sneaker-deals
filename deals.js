@@ -1,12 +1,75 @@
 window.DEALS = [
   {
-    "title": "Air Jordan 4 'London' Trainers (with Carer's or Student Discount)",
-    "price": "£189",
-    "link": "https://www.hotukdeals.com/deals/air-jordan-4-london-trainers-4983701",
-    "date": "2026-09-17 19:56",
+    "title": "Sorel Women's ONA Ave Slip-On Sneakers for $25 + free shipping w/ Prime",
+    "price": "$25",
+    "link": "https://www.dealnews.com/Sorel-Womens-ONA-Ave-Slip-On-Sneakers-for-25-free-shipping-w-Prime/22192468.html?iref=rss-c280",
+    "date": "2026-09-18 01:40",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "ASICS Men's Gel-1130 Running Sneakers for $74 + free shipping",
+    "price": "$74",
+    "link": "https://www.dealnews.com/ASICS-Mens-Gel-1130-Running-Sneakers-for-74-free-shipping/22192466.html?iref=rss-c280",
+    "date": "2026-09-18 01:30",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas men Swift Run 1.0 Shoes (Olive Strata / Blanch Cargo / Cloud White) $32.4",
+    "price": "$32.4",
+    "link": "https://slickdeals.net/f/20030592-adidas-men-swift-run-1-0-shoes-olive-strata-blanch-cargo-cloud-white-32-4?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-18 01:11",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men Adilette Comfort Slides (Various) from $10.80",
+    "price": "$10.80",
+    "link": "https://slickdeals.net/f/20030424-adidas-men-adilette-comfort-slides-various-from-10-80?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-18 00:23",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Originals 3 Pack 3 Stripe Long Crew Socks",
+    "price": "£8.39",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-3-pack-3-stripe-long-crew-socks-4983787",
+    "date": "2026-09-17 23:49",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "jordan"
+    "keyword": "adidas"
+  },
+  {
+    "title": "Extra 30% Off Coupon Code at adidas",
+    "price": "",
+    "link": "https://slickdeals.net/f/20030196-extra-30-off-coupon-code-at-adidas?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-17 23:05",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "New Balance Men's or Women's ABZORB 2000 Shoes for $77 + free shipping",
+    "price": "$77",
+    "link": "https://www.dealnews.com/New-Balance-Mens-or-Womens-ABZORB-2000-Shoes-for-77-free-shipping/22192417.html?iref=rss-c280",
+    "date": "2026-09-17 21:04",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "Nike Men's or Women's Book 2 SE 'The Phoenix' Basketball Shoes for $54 + free shipping",
+    "price": "$54",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Book-2-SE-The-Phoenix-Basketball-Shoes-for-54-free-shipping/22192406.html?iref=rss-c280",
+    "date": "2026-09-17 20:46",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "Athletic Works Men's Silver Series 3 Wide Width Sneakers for $11 + free shipping w/ $35",
@@ -90,15 +153,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas Utility 4 Sling Bag (Black) $21.97 + Free Shipping on $49",
-    "price": "$21.97",
-    "link": "https://slickdeals.net/f/20028792-adidas-utility-4-sling-bag-black-21-97-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-17 16:31",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Runfalcon 6 Wide Shoes for $29 + free shipping",
     "price": "$29",
     "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Wide-Shoes-for-29-free-shipping/22192266.html?iref=rss-c280",
@@ -178,24 +232,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Lite Racer Adapt 7.0 Shoes (Cloud White/Core Black) $28.00 + Free Shipping",
-    "price": "$28.00",
-    "link": "https://slickdeals.net/f/20026242-adidas-men-s-lite-racer-adapt-7-0-shoes-cloud-white-core-black-28-00-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-17 05:12",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Structure Plus Running Shoes for $76 + free shipping",
-    "price": "$76",
-    "link": "https://www.dealnews.com/Nike-Mens-Structure-Plus-Running-Shoes-for-76-free-shipping/22189206.html?iref=rss-c280",
-    "date": "2026-09-16 22:46",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
