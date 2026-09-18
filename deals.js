@@ -1,10 +1,46 @@
 window.DEALS = [
   {
-    "title": "Adidas Men's Essentials Fleece Hoodie (2 Colors, S or 2XL) $12.00 + Free Shipping",
-    "price": "$12.00",
-    "link": "https://slickdeals.net/f/20032809-adidas-men-s-essentials-fleece-hoodie-2-colors-s-or-2xl-12-00-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-18 14:27",
+    "title": "PUMA PHASE CB Small Backpack",
+    "price": "£10.99",
+    "link": "https://www.hotukdeals.com/deals/puma-phase-cb-small-backpack-4984345",
+    "date": "2026-09-18 20:11",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "Skechers Women's Skipper Hi Classic Low-Top Trainers - Available in 3 Colours",
+    "price": "£13.50",
+    "link": "https://www.hotukdeals.com/deals/skechers-womens-skipper-hi-classic-low-top-trainers-available-in-3-colours-4984343",
+    "date": "2026-09-18 19:51",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "trainers"
+  },
+  {
+    "title": "Coostar Men's Slip-On Walking Sneakers for $30 + free shipping",
+    "price": "$30",
+    "link": "https://www.dealnews.com/Coostar-Mens-Slip-On-Walking-Sneakers-for-30-free-shipping/22195241.html?iref=rss-c280",
+    "date": "2026-09-18 17:36",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Men's Runfalcon 5 Running Shoes (Cloud White / Core Black / Grey Four) $27.3",
+    "price": "$27.3",
+    "link": "https://slickdeals.net/f/20033604-adidas-men-s-runfalcon-5-running-shoes-cloud-white-core-black-grey-four-27-3?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-18 17:26",
     "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Purechill Slides for $18 + free shipping",
+    "price": "$18",
+    "link": "https://www.dealnews.com/adidas-Mens-Purechill-Slides-for-18-free-shipping/22195200.html?iref=rss-c280",
+    "date": "2026-09-18 15:28",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -25,24 +61,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Shoe Protector Spray $8.49 – Waterproof & Stain Repellent for Sneakers, Suede & Canvas",
-    "price": "$8.49",
-    "link": "https://slickdeals.net/f/20032323-shoe-protector-spray-8-49-waterproof-stain-repellent-for-sneakers-suede-canvas?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-18 12:30",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Kids' Air Max Dn8 Shoes (Celestine Blue, Size 4-7) $47.29 + Free Shipping on $49+",
-    "price": "$47.29",
-    "link": "https://slickdeals.net/f/20032284-nike-kids-air-max-dn8-shoes-celestine-blue-size-4-7-47-29-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-18 12:19",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Women's Cloudfoam Flex Slounge Shoes for $25 + free shipping",
@@ -133,60 +151,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Campus 00s Shoes for $41 + Free shipping",
-    "price": "$41",
-    "link": "https://www.dealnews.com/adidas-Campus-00-s-Shoes-for-41-Free-shipping/22192335.html?iref=rss-c280",
-    "date": "2026-09-17 18:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Questar 4 Running Shoes for $34 + Free shipping",
-    "price": "$34",
-    "link": "https://www.dealnews.com/adidas-Mens-Questar-4-Running-Shoes-for-34-Free-shipping/22192332.html?iref=rss-c280",
-    "date": "2026-09-17 18:04",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Dropset Control Training Shoes for $41 + Free shipping",
-    "price": "$41",
-    "link": "https://www.dealnews.com/adidas-Mens-Dropset-Control-Training-Shoes-for-41-Free-shipping/22192330.html?iref=rss-c280",
-    "date": "2026-09-17 17:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Women's Terrex Free Hiker 2.0 Gore-Tex Hiking Shoes for $83 + Free shipping",
-    "price": "$83",
-    "link": "https://www.dealnews.com/adidas-Womens-Terrex-Free-Hiker-2-0-Gore-Tex-Hiking-Shoes-for-83-Free-shipping/22192319.html?iref=rss-c280",
-    "date": "2026-09-17 17:19",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Anylander Hiking Shoes for $43 + Free shipping",
-    "price": "$43",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Anylander-Hiking-Shoes-for-43-Free-shipping/22192316.html?iref=rss-c280",
-    "date": "2026-09-17 17:02",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Macy's Best of the Season Shoe Deals: Up to 60% off + free shipping w/ $39",
-    "price": "$39",
-    "link": "https://www.dealnews.com/Macys-Best-of-the-Season-Shoe-Deals-Up-to-60-off-free-shipping-w-39/22192310.html?iref=rss-c280",
-    "date": "2026-09-17 16:42",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
