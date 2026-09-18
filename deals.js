@@ -1,21 +1,48 @@
 window.DEALS = [
   {
-    "title": "Various Cereals - E.g. Kellogg's Crunchy Nut Crunchies 420g/Jordans Strawberry Cereal 450g - Mix & Match x3",
-    "price": "£6",
-    "link": "https://www.hotukdeals.com/deals/various-cereals-kellogs-quaker-jordans-scotts-3-for-ps6-instore-and-online-at-asda-4984027",
-    "date": "2026-09-18 10:11",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "jordan"
+    "title": "Adidas Men's Essentials Fleece Hoodie (2 Colors, S or 2XL) $12.00 + Free Shipping",
+    "price": "$12.00",
+    "link": "https://slickdeals.net/f/20032809-adidas-men-s-essentials-fleece-hoodie-2-colors-s-or-2xl-12-00-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-18 14:27",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
-    "title": "TOSHIBA 20L Black Silver Mirror Microwave Oven, 800W with 11 Power Levels, 6 Auto Menus, +30s Express Cook, Perfect for 9''Pizza, MW3-EM20PF",
-    "price": "£69.99",
-    "link": "https://www.hotukdeals.com/deals/toshiba-20l-black-silver-mirror-microwave-oven-800w-with-11-power-levels-6-auto-menus-30s-express-cook-perfect-for-9pizza-mw3-em20pf-4984026",
-    "date": "2026-09-18 10:07",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
+    "title": "adidas Men's Lite Racer 4.0 Shoes for $27 + free shipping",
+    "price": "$27",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-27-free-shipping/22195152.html?iref=rss-c280",
+    "date": "2026-09-18 13:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Runfalcon 5 Running Shoes for $27 + Free shipping",
+    "price": "$27",
+    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-5-Running-Shoes-for-27-Free-shipping/22195151.html?iref=rss-c280",
+    "date": "2026-09-18 13:27",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Shoe Protector Spray $8.49 – Waterproof & Stain Repellent for Sneakers, Suede & Canvas",
+    "price": "$8.49",
+    "link": "https://slickdeals.net/f/20032323-shoe-protector-spray-8-49-waterproof-stain-repellent-for-sneakers-suede-canvas?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-18 12:30",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Nike Kids' Air Max Dn8 Shoes (Celestine Blue, Size 4-7) $47.29 + Free Shipping on $49+",
+    "price": "$47.29",
+    "link": "https://slickdeals.net/f/20032284-nike-kids-air-max-dn8-shoes-celestine-blue-size-4-7-47-29-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-18 12:19",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Women's Cloudfoam Flex Slounge Shoes for $25 + free shipping",
@@ -63,24 +90,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Women's Ultraboost 5X Shoes (4 Colors) from $54",
-    "price": "$54",
-    "link": "https://slickdeals.net/f/20031522-adidas-women-s-ultraboost-5x-shoes-4-colors-from-54?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-18 07:14",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Adidas women's Swift Run 1.0 Shoes ( Beige / Core Black / Cloud White) - $19.20 + Free Shipping",
-    "price": "$19.20",
-    "link": "https://slickdeals.net/f/20030832-adidas-women-s-swift-run-1-0-shoes-beige-core-black-cloud-white-19-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-18 02:47",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Sorel Women's ONA Ave Slip-On Sneakers for $25 + free shipping w/ Prime",
     "price": "$25",
     "link": "https://www.dealnews.com/Sorel-Womens-ONA-Ave-Slip-On-Sneakers-for-25-free-shipping-w-Prime/22192468.html?iref=rss-c280",
@@ -97,24 +106,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "adidas men Lite Racer Adapt 7.0 Shoes (Cloud White / Core Black / Cloud White) - $21 + free shipping",
-    "price": "$21",
-    "link": "https://slickdeals.net/f/20030448-adidas-men-lite-racer-adapt-7-0-shoes-cloud-white-core-black-cloud-white-21-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-18 00:29",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men Galaxy 7 Running Shoes (3 colors) - from $23.40",
-    "price": "$23.40",
-    "link": "https://slickdeals.net/f/20030439-adidas-men-galaxy-7-running-shoes-3-colors-from-23-40?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-18 00:26",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "New Balance Men's or Women's ABZORB 2000 Shoes for $77 + free shipping",
@@ -196,51 +187,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "$59.99 AMAZON New Balance Men's 608 V5 Casual Comfort Cross Trainer, White/Navy,  size 9, 11 XWide and 12 Wide",
-    "price": "$59.99",
-    "link": "https://slickdeals.net/f/20027814-59-99-amazon-new-balance-men-s-608-v5-casual-comfort-cross-trainer-white-navy-size-9-11-xwide-and-12-wide?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-17 13:59",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "new balance"
-  },
-  {
-    "title": "adidas Men's Runfalcon 6 Wide Shoes for $29 + free shipping",
-    "price": "$29",
-    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Wide-Shoes-for-29-free-shipping/22192266.html?iref=rss-c280",
-    "date": "2026-09-17 13:13",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Eastrail 3 Shoes for $42 + free shipping",
-    "price": "$42",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Eastrail-3-Shoes-for-42-free-shipping/22192256.html?iref=rss-c280",
-    "date": "2026-09-17 12:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "New Balance Men's Fresh Foam Arishi v4 Shoes for $45 + free shipping",
-    "price": "$45",
-    "link": "https://www.dealnews.com/New-Balance-Mens-Fresh-Foam-Arishi-v4-Shoes-for-45-free-shipping/22192142.html?iref=rss-c280",
-    "date": "2026-09-17 11:11",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
-  },
-  {
-    "title": "adidas Men's Lite Racer 4.0 Shoes (Various) $22",
-    "price": "$22",
-    "link": "https://slickdeals.net/f/20026320-adidas-men-s-lite-racer-4-0-shoes-various-22?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-17 05:48",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
