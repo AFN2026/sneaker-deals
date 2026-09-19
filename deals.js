@@ -1,20 +1,47 @@
 window.DEALS = [
   {
-    "title": "Car Fan for Backseat, Auto Car Cooling Fan with Dual Head, Separate Control Car Fan with 3 Speeds Sold by bai wei ju shangmao / FBA",
-    "price": "£9.89",
-    "link": "https://www.hotukdeals.com/deals/car-fan-for-backseat-auto-car-cooling-fan-with-dual-head-separate-control-car-fan-with-3-speeds-sold-by-bai-wei-ju-shangmao-fba-4984779",
-    "date": "2026-09-19 15:05",
+    "title": "Nike Mens Vomero Premium Running Shoes - Green (Sizes 6.5, 7, 7.5, 8, 8.5, 11.5)",
+    "price": "£89.99",
+    "link": "https://www.hotukdeals.com/deals/nike-mens-vomero-premium-running-shoes-green-sizes-65-7-75-8-85-115-4984874",
+    "date": "2026-09-19 18:52",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "vans"
+    "keyword": "nike"
   },
   {
-    "title": "adidas VL Court 3.0 Shoes",
-    "price": "£36",
-    "link": "https://www.hotukdeals.com/deals/adidas-vl-court-30-shoes-4984774",
-    "date": "2026-09-19 15:01",
+    "title": "Nike Dri-FIT Park Adult Kit Set",
+    "price": "£20.10",
+    "link": "https://www.hotukdeals.com/deals/nike-dri-fit-park-adult-kit-set-4984868",
+    "date": "2026-09-19 18:37",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Adilette Comfort 2.0 Mexico Slides $23",
+    "price": "$23",
+    "link": "https://slickdeals.net/f/20037270-adilette-comfort-2-0-mexico-slides-23?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-19 17:05",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "New Balance ABZORB 2000 Shoes for $69 + free shipping",
+    "price": "$69",
+    "link": "https://www.dealnews.com/New-Balance-ABZORB-2000-Shoes-for-69-free-shipping/22197950.html?iref=rss-c280",
+    "date": "2026-09-19 15:33",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "adidas Men's Daily 4.0 Shoes (Limited Sizes, Core Black / Cloud White / Gum) $23.1",
+    "price": "$23.1",
+    "link": "https://slickdeals.net/f/20036985-adidas-men-s-daily-4-0-shoes-limited-sizes-core-black-cloud-white-gum-23-1?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-19 15:11",
+    "source": "Slickdeals",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
@@ -25,15 +52,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas men Essentials 3-Stripes Fleece Hoodie from $14.4 + Free Shipping",
-    "price": "$14.4",
-    "link": "https://slickdeals.net/f/20036784-adidas-men-essentials-3-stripes-fleece-hoodie-from-14-4-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-19 13:30",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Daily 4.0 Shoes for $23 + free shipping",
@@ -52,15 +70,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "26L Nike Sportswear RPM Backpack (Denim Turquoise) $27.73 + Free Shipping on $49",
-    "price": "$27.73",
-    "link": "https://slickdeals.net/f/20036727-26l-nike-sportswear-rpm-backpack-denim-turquoise-27-73-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-19 13:06",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $25 + free shipping",
@@ -95,6 +104,15 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Cloudfoam-Running-Shoes-for-23-free-shipping/22197926.html?iref=rss-c280",
     "date": "2026-09-19 12:56",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men Essentials 3-Stripes Fleece Hoodie from $19.20 + Free Shipping",
+    "price": "$19.20",
+    "link": "https://slickdeals.net/f/20036661-adidas-men-essentials-3-stripes-fleece-hoodie-from-19-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-19 12:47",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -135,6 +153,15 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
+    "title": "adidas men CLUB AMERICA MINI HOME Soccer $6 + Free Shipping",
+    "price": "$6",
+    "link": "https://slickdeals.net/f/20035488-adidas-men-club-america-mini-home-soccer-6-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-19 02:26",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Coostar Men's Slip-On Walking Sneakers for $30 + free shipping",
     "price": "$30",
     "link": "https://www.dealnews.com/Coostar-Mens-Slip-On-Walking-Sneakers-for-30-free-shipping/22195241.html?iref=rss-c280",
@@ -149,33 +176,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Purechill-Slides-for-18-free-shipping/22195200.html?iref=rss-c280",
     "date": "2026-09-18 15:28",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Lite Racer 4.0 Shoes for $27 + free shipping",
-    "price": "$27",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-27-free-shipping/22195152.html?iref=rss-c280",
-    "date": "2026-09-18 13:32",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Adidas women's Cloudfoam Pure 2.0 Shoes (Cloud White) Limited Sizes - $18 + Free Shipping",
-    "price": "$18",
-    "link": "https://slickdeals.net/f/20030907-adidas-women-s-cloudfoam-pure-2-0-shoes-cloud-white-limited-sizes-18-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-18 03:03",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men Supernova Ease Shoes (Core Black / Cloud White / Charcoal) $33",
-    "price": "$33",
-    "link": "https://slickdeals.net/f/20030616-adidas-men-supernova-ease-shoes-core-black-cloud-white-charcoal-33?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-18 01:15",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
