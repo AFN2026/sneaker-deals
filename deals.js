@@ -1,30 +1,12 @@
 window.DEALS = [
   {
-    "title": "VL Court Base Shoes Cloud White / Bright Red / Alumina Sz 9.5 and 8.5 available",
-    "price": "£30",
-    "link": "https://www.hotukdeals.com/deals/vl-court-base-shoes-cloud-white-bright-red-alumina-4984964",
-    "date": "2026-09-19 23:57",
+    "title": "Adidas Men's Street Talk Trainers - Size 6.5",
+    "price": "£20.44",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-street-talk-trainers-size-65-4985071",
+    "date": "2026-09-20 09:41",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
-  },
-  {
-    "title": "Pinnacle Lithium Hybrid Bike",
-    "price": "£379",
-    "link": "https://www.hotukdeals.com/deals/pinnacle-lithium-hybrid-bike-4984957",
-    "date": "2026-09-19 23:46",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
-  },
-  {
-    "title": "New Balance ABZORB 2000 Shoes for $69 + free shipping",
-    "price": "$69",
-    "link": "https://www.dealnews.com/New-Balance-ABZORB-2000-Shoes-for-69-free-shipping/22197950.html?iref=rss-c280",
-    "date": "2026-09-19 15:33",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
   },
   {
     "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
@@ -122,24 +104,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Fall-Sneaker-Deals-Up-to-50-off-extra-30-off-free-shipping/22197852.html?iref=rss-c280",
     "date": "2026-09-19 10:24",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men Essentials 3-Stripes Track Suit $25.20 + Free Shipping",
-    "price": "$25.20",
-    "link": "https://slickdeals.net/f/20035533-adidas-men-essentials-3-stripes-track-suit-25-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-19 02:45",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men Mexico 26 Waist Bag $12 + Free Shipping",
-    "price": "$12",
-    "link": "https://slickdeals.net/f/20035425-adidas-men-mexico-26-waist-bag-12-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-19 02:09",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
