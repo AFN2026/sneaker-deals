@@ -1,30 +1,21 @@
 window.DEALS = [
   {
-    "title": "Nike Mens Vomero Premium Running Shoes - Green (Sizes 6.5, 7, 7.5, 8, 8.5, 11.5)",
-    "price": "£89.99",
-    "link": "https://www.hotukdeals.com/deals/nike-mens-vomero-premium-running-shoes-green-sizes-65-7-75-8-85-115-4984874",
-    "date": "2026-09-19 18:52",
+    "title": "VL Court Base Shoes Cloud White / Bright Red / Alumina Sz 9.5 and 8.5 available",
+    "price": "£30",
+    "link": "https://www.hotukdeals.com/deals/vl-court-base-shoes-cloud-white-bright-red-alumina-4984964",
+    "date": "2026-09-19 23:57",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Dri-FIT Park Adult Kit Set",
-    "price": "£20.10",
-    "link": "https://www.hotukdeals.com/deals/nike-dri-fit-park-adult-kit-set-4984868",
-    "date": "2026-09-19 18:37",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "Adilette Comfort 2.0 Mexico Slides $23",
-    "price": "$23",
-    "link": "https://slickdeals.net/f/20037270-adilette-comfort-2-0-mexico-slides-23?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-19 17:05",
-    "source": "Slickdeals",
-    "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "Pinnacle Lithium Hybrid Bike",
+    "price": "£379",
+    "link": "https://www.hotukdeals.com/deals/pinnacle-lithium-hybrid-bike-4984957",
+    "date": "2026-09-19 23:46",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "vans"
   },
   {
     "title": "New Balance ABZORB 2000 Shoes for $69 + free shipping",
@@ -34,15 +25,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "new balance"
-  },
-  {
-    "title": "adidas Men's Daily 4.0 Shoes (Limited Sizes, Core Black / Cloud White / Gum) $23.1",
-    "price": "$23.1",
-    "link": "https://slickdeals.net/f/20036985-adidas-men-s-daily-4-0-shoes-limited-sizes-core-black-cloud-white-gum-23-1?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-19 15:11",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
@@ -108,15 +90,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas men Essentials 3-Stripes Fleece Hoodie from $19.20 + Free Shipping",
-    "price": "$19.20",
-    "link": "https://slickdeals.net/f/20036661-adidas-men-essentials-3-stripes-fleece-hoodie-from-19-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-19 12:47",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Adilette Aqua Slides for $7.20 + free shipping",
     "price": "$7.20",
     "link": "https://www.dealnews.com/products/adidas/adidas-Mens-Adilette-Aqua-Slides/498597.html?iref=rss-c280",
@@ -153,10 +126,19 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas men CLUB AMERICA MINI HOME Soccer $6 + Free Shipping",
-    "price": "$6",
-    "link": "https://slickdeals.net/f/20035488-adidas-men-club-america-mini-home-soccer-6-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-19 02:26",
+    "title": "adidas men Essentials 3-Stripes Track Suit $25.20 + Free Shipping",
+    "price": "$25.20",
+    "link": "https://slickdeals.net/f/20035533-adidas-men-essentials-3-stripes-track-suit-25-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-19 02:45",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men Mexico 26 Waist Bag $12 + Free Shipping",
+    "price": "$12",
+    "link": "https://slickdeals.net/f/20035425-adidas-men-mexico-26-waist-bag-12-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-19 02:09",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
