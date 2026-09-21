@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "adidas Men's Fall Shoe Deals for From $14, sneakers from $23 + free shipping",
+    "price": "$14,",
+    "link": "https://www.dealnews.com/adidas-Mens-Fall-Shoe-Deals-for-From-14-sneakers-from-23-free-shipping/22203402.html?iref=rss-c280",
+    "date": "2026-09-21 12:41",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's Lite Racer Adapt 8.0 Wide Shoes for $34 + free shipping",
     "price": "$34",
     "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-Adapt-8-0-Wide-Shoes-for-34-free-shipping/22203380.html?iref=rss-c280",
@@ -130,15 +139,6 @@ window.DEALS = [
     "price": "$25",
     "link": "https://www.dealnews.com/adidas-Mens-Cloudfoam-Cuxxion-Sock-Shoes-for-25-free-shipping/22197929.html?iref=rss-c280",
     "date": "2026-09-19 13:06",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Fall Shoe Deals for From $14, sneakers from $23 + free shipping",
-    "price": "$14,",
-    "link": "https://www.dealnews.com/adidas-Mens-Fall-Shoe-Deals-for-From-14-sneakers-from-23-free-shipping/22197928.html?iref=rss-c280",
-    "date": "2026-09-19 13:03",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
