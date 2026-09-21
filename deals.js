@@ -1,84 +1,21 @@
 window.DEALS = [
   {
-    "title": "Jordan Flight Court Trainers Obsidian Alabaster White",
-    "price": "£40",
-    "link": "https://www.hotukdeals.com/deals/jordan-flight-court-trainers-obsidian-alabaster-white-4985363",
-    "date": "2026-09-20 20:02",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
+    "title": "New Balance Men's or Women's 740 Running Shoes for $53 + free shipping",
+    "price": "$53",
+    "link": "https://www.dealnews.com/New-Balance-Mens-or-Womens-740-Running-Shoes-for-53-free-shipping/22200733.html?iref=rss-c280",
+    "date": "2026-09-21 01:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
   },
   {
-    "title": "Adidas Gazelle Indoor Cream White Preloved Teal Trainers",
-    "price": "£40",
-    "link": "https://www.hotukdeals.com/deals/adidas-gazelle-indoor-cream-white-preloved-teal-4985360",
-    "date": "2026-09-20 19:58",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "adidas Men's or Women's Predator Freestyle Indoor Soccer Shoes for $39 + free shipping w/ $49",
+    "price": "$39",
+    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Predator-Freestyle-Indoor-Soccer-Shoes-for-39-free-shipping-w-49/22200689.html?iref=rss-c280",
+    "date": "2026-09-20 20:09",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Nike LD-1000 trainers Lightening University Blue White Black - Size 3",
-    "price": "£25",
-    "link": "https://www.hotukdeals.com/deals/nike-ld-1000-trainers-lightening-university-blue-white-black-4985355",
-    "date": "2026-09-20 19:48",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Daybreak Trainers Limelight Electro Orange Healing Jade Pale Ivory B - Size 4.5",
-    "price": "£24",
-    "link": "https://www.hotukdeals.com/deals/nike-daybreak-trainers-limelight-electro-orange-healing-jade-pale-ivory-b-4985352",
-    "date": "2026-09-20 19:44",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Air Superfly Trainers Metallic Silver Black Anthracite - Size 8.5",
-    "price": "£24",
-    "link": "https://www.hotukdeals.com/deals/nike-air-superfly-trainers-metallic-silver-black-anthracite-4985348",
-    "date": "2026-09-20 19:40",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Air Superfly Suede Ale Brown Team Red Treeline - Sizes 3, 4, 5 & 6",
-    "price": "£24",
-    "link": "https://www.hotukdeals.com/deals/nike-air-superfly-suede-ale-brown-team-red-treeline-4985347",
-    "date": "2026-09-20 19:39",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Adizero Adios OG Trainers Grey Black Court Green - size 4",
-    "price": "£24",
-    "link": "https://www.hotukdeals.com/deals/adidas-adizero-adios-og-trainers-grey-black-court-green-size-4-4985343",
-    "date": "2026-09-20 19:30",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "PUMA Sprint Trainers - White Dusty Tan - Size 4 / 5",
-    "price": "£18",
-    "link": "https://www.hotukdeals.com/deals/puma-sprint-trainers-puma-white-dusty-tan-4985339",
-    "date": "2026-09-20 19:26",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
-  },
-  {
-    "title": "PUMA Sprint Trainers Metallic - Gold & Black",
-    "price": "£14",
-    "link": "https://www.hotukdeals.com/deals/puma-sprint-trainers-metallic-puma-gold-puma-black-4985337",
-    "date": "2026-09-20 19:22",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
   },
   {
     "title": "adidas Men's Samba Barstool Spikeless Golf Shoes for $49 + free shipping",
@@ -117,22 +54,22 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Adidas Response Runner Shoes, $31.50, FS, adidas",
-    "price": "$31.50,",
-    "link": "https://slickdeals.net/f/20037903-adidas-response-runner-shoes-31-50-fs-adidas?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-19 21:04",
+    "title": "adidas men Victory 5 Bucket Hat $13.8 + Free Shipping at adidas via eBay",
+    "price": "$13.8",
+    "link": "https://slickdeals.net/f/20039856-adidas-men-victory-5-bucket-hat-13-8-free-shipping-at-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-20 13:59",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "Men's Adidas Dropset Control Training Shoes, $37.80, FS, Adidas",
-    "price": "$37.80,",
-    "link": "https://slickdeals.net/f/20037870-men-s-adidas-dropset-control-training-shoes-37-80-fs-adidas?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-19 20:49",
+    "title": "Nike Women's Reactx Rejuven8 Shoe ( Ltorewoodbrn/Ltorewoodbrn ) ( sizes 7,8 and 9 available) $29.97",
+    "price": "$29.97",
+    "link": "https://slickdeals.net/f/20039286-nike-women-s-reactx-rejuven8-shoe-ltorewoodbrn-ltorewoodbrn-sizes-7-8-and-9-available-29-97?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-20 09:16",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "adidas"
+    "keyword": "nike"
   },
   {
     "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
@@ -225,22 +162,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Fall Sneaker Deals: Up to 50% off + extra 30% off + free shipping",
-    "price": "$17.50",
-    "link": "https://www.dealnews.com/adidas-Fall-Sneaker-Deals-Up-to-50-off-extra-30-off-free-shipping/22197852.html?iref=rss-c280",
-    "date": "2026-09-19 10:24",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Reebok Men's City Ride Running Sneakers (Black/White) $35 + Free Pickup at Macys or Free Shipping on $39+",
-    "price": "$35",
-    "link": "https://slickdeals.net/f/20033298-reebok-men-s-city-ride-running-sneakers-black-white-35-free-pickup-at-macys-or-free-shipping-on-39?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-18 16:11",
+    "title": "adidas men Purechill Shoes (2 Colors) from $18",
+    "price": "$18",
+    "link": "https://slickdeals.net/f/20011695-adidas-men-purechill-shoes-2-colors-from-18?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-14 08:44",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "reebok"
+    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
