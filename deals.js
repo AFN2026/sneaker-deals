@@ -1,10 +1,55 @@
 window.DEALS = [
   {
-    "title": "adidas Stadium Sackpack Drawstring Bag (White/Black/Germany) $6.14 + Free Shipping w/ Prime or on $35+",
-    "price": "$6.14",
-    "link": "https://slickdeals.net/f/20047713-adidas-stadium-sackpack-drawstring-bag-white-black-germany-6-14-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-22 09:19",
+    "title": "Now Up to 50% Off adidas Last Chance sale (100's of Price Drops Added) Men's, Women's & Kids Clothing & Trainers",
+    "price": "£29.99",
+    "link": "https://www.hotukdeals.com/deals/now-up-to-50-off-adidas-last-chance-sale-100s-of-price-drops-added-mens-womens-kids-clothing-trainers-4986593",
+    "date": "2026-09-22 15:25",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Fall Sale Men's Slides for from $14 + free shipping",
+    "price": "$14",
+    "link": "https://www.dealnews.com/adidas-Fall-Sale-Mens-Slides-for-from-14-free-shipping/22206589.html?iref=rss-c280",
+    "date": "2026-09-22 14:57",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas kids RUNFALCON 6 SHOES JUNIOR $19.8 + Free Shipping",
+    "price": "$19.8",
+    "link": "https://slickdeals.net/f/20048394-adidas-kids-runfalcon-6-shoes-junior-19-8-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-22 13:41",
     "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Lite Racer Adapt 7.0 Shoes for $19 + free shipping",
+    "price": "$19",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-Adapt-7-0-Shoes-for-19-free-shipping/22206552.html?iref=rss-c280",
+    "date": "2026-09-22 13:22",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Terrex Rockadia Shoes for $42 + free shipping",
+    "price": "$42",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Rockadia-Shoes-for-42-free-shipping/22206509.html?iref=rss-c280",
+    "date": "2026-09-22 10:45",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's GameCourt 3 All Court Shoes for $42 + free shipping",
+    "price": "$42",
+    "link": "https://www.dealnews.com/adidas-Mens-Game-Court-3-All-Court-Shoes-for-42-free-shipping/22206507.html?iref=rss-c280",
+    "date": "2026-09-22 10:41",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -14,15 +59,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Handball-Spezial-Shoes-for-37-free-shipping-w-49/22206438.html?iref=rss-c280",
     "date": "2026-09-22 07:07",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "$50 Adidas gift card, $40, Paypal",
-    "price": "$50",
-    "link": "https://slickdeals.net/f/20045598-50-adidas-gift-card-40-paypal?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-21 21:28",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -135,31 +171,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Adipure Shift Running Shoes for $39 + free shipping",
-    "price": "$39",
-    "link": "https://www.dealnews.com/adidas-Mens-Adipure-Shift-Running-Shoes-for-39-free-shipping/22200675.html?iref=rss-c280",
-    "date": "2026-09-20 18:14",
-    "source": "DealNews",
+    "title": "PUMA BMW M Motorsport X Extent NITRO Lace Up Men's Sneakers - $44.95 + Free Shipping",
+    "price": "$44.95",
+    "link": "https://slickdeals.net/f/20032377-puma-bmw-m-motorsport-x-extent-nitro-lace-up-men-s-sneakers-44-95-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-18 12:45",
+    "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas x Coca-Cola Men's or Women's Samba OG Leather Shoes for $55 + free shipping",
-    "price": "$55",
-    "link": "https://www.dealnews.com/adidas-x-Coca-Cola-Mens-or-Womens-Samba-OG-Leather-Shoes-for-55-free-shipping/22200674.html?iref=rss-c280",
-    "date": "2026-09-20 18:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22197943.html?iref=rss-c280",
-    "date": "2026-09-19 14:27",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
+    "keyword": "puma"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
