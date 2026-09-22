@@ -1,12 +1,57 @@
 window.DEALS = [
   {
-    "title": "Now Up to 50% Off adidas Last Chance sale (100's of Price Drops Added) Men's, Women's & Kids Clothing & Trainers",
-    "price": "£29.99",
-    "link": "https://www.hotukdeals.com/deals/now-up-to-50-off-adidas-last-chance-sale-100s-of-price-drops-added-mens-womens-kids-clothing-trainers-4986593",
-    "date": "2026-09-22 15:25",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
+    "title": "Nike Men's or Women's G.T. Cut 3 Turbo Dallas Basketball Shoes for $85 + free shipping",
+    "price": "$85",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-G-T-Cut-3-Turbo-Dallas-Basketball-Shoes-for-85-free-shipping/22206653.html?iref=rss-c280",
+    "date": "2026-09-22 19:16",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Women's Reactx Rejuven8 Shoes for $30 + free shipping w/ $49",
+    "price": "$30",
+    "link": "https://www.dealnews.com/Nike-Womens-Reactx-Rejuven8-Shoes-for-30-free-shipping-w-49/22206648.html?iref=rss-c280",
+    "date": "2026-09-22 18:49",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Saucony Men's Shadow 5000 Lifestyle Sneakers for $63 + free shipping",
+    "price": "$63",
+    "link": "https://www.dealnews.com/Saucony-Mens-Shadow-5000-Lifestyle-Sneakers-for-63-free-shipping/22206640.html?iref=rss-c280",
+    "date": "2026-09-22 18:17",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "New Balance Men's 603 Sneakers for $60 + free shipping",
+    "price": "$60",
+    "link": "https://www.dealnews.com/New-Balance-Mens-603-Sneakers-for-60-free-shipping/22206638.html?iref=rss-c280",
+    "date": "2026-09-22 18:14",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "Nike Men's Winflo 12 Running Sneakers for $60 + free shipping",
+    "price": "$60",
+    "link": "https://www.dealnews.com/Nike-Mens-Winflo-12-Running-Sneakers-for-60-free-shipping/22206637.html?iref=rss-c280",
+    "date": "2026-09-22 18:09",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Skechers Men's Uno Suited On Air Memory Foam Sneakers for $34 + free shipping w/ $39",
+    "price": "$34",
+    "link": "https://www.dealnews.com/Skechers-Mens-Uno-Suited-On-Air-Memory-Foam-Sneakers-for-34-free-shipping-w-39/22206632.html?iref=rss-c280",
+    "date": "2026-09-22 18:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
   },
   {
     "title": "adidas Fall Sale Men's Slides for from $14 + free shipping",
@@ -14,15 +59,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Fall-Sale-Mens-Slides-for-from-14-free-shipping/22206589.html?iref=rss-c280",
     "date": "2026-09-22 14:57",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas kids RUNFALCON 6 SHOES JUNIOR $19.8 + Free Shipping",
-    "price": "$19.8",
-    "link": "https://slickdeals.net/f/20048394-adidas-kids-runfalcon-6-shoes-junior-19-8-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-22 13:41",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -63,6 +99,15 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
+    "title": "$14.99 | Reebok Men Artillery Oblong Pant at Woot!",
+    "price": "$14.99",
+    "link": "https://slickdeals.net/f/20047023-14-99-reebok-men-artillery-oblong-pant-at-woot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-22 05:14",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "reebok"
+  },
+  {
     "title": "ASICS Men's GEL-Venture 11 Trail Running Sneakers for $51 + free shipping",
     "price": "$51",
     "link": "https://www.dealnews.com/ASICS-Mens-GEL-Venture-11-Trail-Running-Sneakers-for-51-free-shipping/22203494.html?iref=rss-c280",
@@ -99,85 +144,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Lite Racer Adapt 8.0 Wide Shoes for $34 + free shipping",
-    "price": "$34",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-Adapt-8-0-Wide-Shoes-for-34-free-shipping/22203380.html?iref=rss-c280",
-    "date": "2026-09-21 11:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Jabbar Lo Shoes for $32 + free shipping",
-    "price": "$32",
-    "link": "https://www.dealnews.com/adidas-Mens-Jabbar-Lo-Shoes-for-32-free-shipping/22203379.html?iref=rss-c280",
-    "date": "2026-09-21 11:08",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas x Coca-Cola Men's Superstar II Shoes for $65 + free shipping",
-    "price": "$65",
-    "link": "https://www.dealnews.com/adidas-x-Coca-Cola-Mens-Superstar-II-Shoes-for-65-free-shipping/22203378.html?iref=rss-c280",
-    "date": "2026-09-21 11:05",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Shoes Sale: Up to 50% off + extra 30% off + free shipping",
-    "price": "$70",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Shoes-Sale-Up-to-50-off-extra-30-off-free-shipping/22203357.html?iref=rss-c280",
-    "date": "2026-09-21 10:23",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Adizero Select 3.0 Shoes for $54 + free shipping",
-    "price": "$54",
-    "link": "https://www.dealnews.com/adidas-Mens-Adizero-Select-3-0-Shoes-for-54-free-shipping/22203352.html?iref=rss-c280",
-    "date": "2026-09-21 10:12",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's or Women's Predator Freestyle Indoor Soccer Shoes for $39 + free shipping w/ $49",
-    "price": "$39",
-    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Predator-Freestyle-Indoor-Soccer-Shoes-for-39-free-shipping-w-49/22200689.html?iref=rss-c280",
-    "date": "2026-09-20 20:09",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Samba Barstool Spikeless Golf Shoes for $49 + free shipping",
-    "price": "$49",
-    "link": "https://www.dealnews.com/adidas-Mens-Samba-Barstool-Spikeless-Golf-Shoes-for-49-free-shipping/22200677.html?iref=rss-c280",
-    "date": "2026-09-20 18:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Grand Court 3.0 Shoes for $29 + free shipping",
-    "price": "$29",
-    "link": "https://www.dealnews.com/adidas-Mens-Grand-Court-3-0-Shoes-for-29-free-shipping/22200676.html?iref=rss-c280",
-    "date": "2026-09-20 18:26",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "PUMA BMW M Motorsport X Extent NITRO Lace Up Men's Sneakers - $44.95 + Free Shipping",
-    "price": "$44.95",
-    "link": "https://slickdeals.net/f/20032377-puma-bmw-m-motorsport-x-extent-nitro-lace-up-men-s-sneakers-44-95-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-18 12:45",
+    "title": "adidas men HERITAGE BELT from $18 + Free Shipping",
+    "price": "$18",
+    "link": "https://slickdeals.net/f/20032035-adidas-men-heritage-belt-from-18-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-18 10:55",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "puma"
+    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
