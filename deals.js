@@ -1,38 +1,38 @@
 window.DEALS = [
   {
-    "title": "adidas Essentials Single Jersey Big Logo T-Shirt - Size XS",
-    "price": "£8.17",
-    "link": "https://www.hotukdeals.com/deals/adidas-essentials-single-jersey-big-logo-t-shirt-4987193",
-    "date": "2026-09-23 10:24",
+    "title": "Adidas Originals Womens Adifom Stan Smith Mule Shoes Core Black",
+    "price": "£11.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-womens-adifom-stan-smith-mule-shoes-core-black-4987378",
+    "date": "2026-09-23 15:01",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
   },
   {
-    "title": "Adidas D.O.N Issue 5 Mens Trainers B Grade With code",
-    "price": "£27.99",
-    "link": "https://www.hotukdeals.com/deals/adidas-don-issue-5-mens-trainers-b-grade-4987178",
-    "date": "2026-09-23 10:10",
+    "title": "Nike Vomero Plus - Black UK 8,9,10 - with Unidays discount",
+    "price": "£72",
+    "link": "https://www.hotukdeals.com/deals/nike-vomero-plus-black-uk-8910-ps90-with-free-delivery-15-tcb-4987372",
+    "date": "2026-09-23 14:51",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Fall Kick Off Shoe Deals for From $17, sneakers from $28 + free shipping",
+    "price": "$17,",
+    "link": "https://www.dealnews.com/adidas-Mens-Fall-Kick-Off-Shoe-Deals-for-From-17-sneakers-from-28-free-shipping/22209739.html?iref=rss-c280",
+    "date": "2026-09-23 12:34",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "adidas Lite Racer 4.0 Shoes",
-    "price": "£22.50",
-    "link": "https://www.hotukdeals.com/deals/adidas-lite-racer-40-shoes-4987176",
-    "date": "2026-09-23 10:08",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Boosted 20% Off at JD Sports (Including Sale Items) w/Unique Code via TOTUM",
-    "price": "£6.40",
-    "link": "https://www.hotukdeals.com/deals/20-off-at-jd-sports-including-sale-items-w-unique-code-via-totum-4987175",
-    "date": "2026-09-23 10:07",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Macy's Semi-Annual Men's Shoe Deals: Up to 70% off + free shipping w/ $39",
+    "price": "$39",
+    "link": "https://www.dealnews.com/Macys-Semi-Annual-Mens-Shoe-Deals-Up-to-70-off-free-shipping-w-39/22209697.html?iref=rss-c280",
+    "date": "2026-09-23 10:48",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
@@ -115,42 +115,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Men's Lite Racer Adapt 7.0 Shoes for $19 + free shipping",
-    "price": "$19",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-Adapt-7-0-Shoes-for-19-free-shipping/22206552.html?iref=rss-c280",
-    "date": "2026-09-22 13:22",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Handball Spezial Shoes for $37 + free shipping w/ $49",
-    "price": "$37",
-    "link": "https://www.dealnews.com/adidas-Mens-Handball-Spezial-Shoes-for-37-free-shipping-w-49/22206438.html?iref=rss-c280",
-    "date": "2026-09-22 07:07",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "ASICS Men's GEL-Venture 11 Trail Running Sneakers for $51 + free shipping",
-    "price": "$51",
-    "link": "https://www.dealnews.com/ASICS-Mens-GEL-Venture-11-Trail-Running-Sneakers-for-51-free-shipping/22203494.html?iref=rss-c280",
-    "date": "2026-09-21 21:27",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "PUMA Form Factor Duffel Bag, Black/Cool Dark Grey/Red, One Size $14.45",
-    "price": "$14.45",
-    "link": "https://slickdeals.net/f/20028894-puma-form-factor-duffel-bag-black-cool-dark-grey-red-one-size-14-45?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-17 16:50",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "puma"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
