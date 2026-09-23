@@ -1,20 +1,47 @@
 window.DEALS = [
   {
-    "title": "Adidas Originals Womens Adifom Stan Smith Mule Shoes Core Black",
-    "price": "£11.99",
-    "link": "https://www.hotukdeals.com/deals/adidas-originals-womens-adifom-stan-smith-mule-shoes-core-black-4987378",
-    "date": "2026-09-23 15:01",
+    "title": "Converse x Dragon Ball Z All Star Hi Mid Sizes Trainers- youth sizes",
+    "price": "£30",
+    "link": "https://www.hotukdeals.com/deals/converse-x-dragon-ball-z-all-star-hi-mid-sizes-trainers-youth-sizes-4987586",
+    "date": "2026-09-23 20:45",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "converse"
+  },
+  {
+    "title": "Dragon Ball Z x Converse All Star Hi Trainers",
+    "price": "£50",
+    "link": "https://www.hotukdeals.com/deals/dragon-ball-z-x-converse-all-star-hi-trainers-4987579",
+    "date": "2026-09-23 20:42",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "converse"
+  },
+  {
+    "title": "adidas Men's Basic 3-Stripes Tricot Track Suit",
+    "price": "£26.97",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-basic-3-stripes-tricot-track-suit-4987575",
+    "date": "2026-09-23 20:25",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
   },
   {
-    "title": "Nike Vomero Plus - Black UK 8,9,10 - with Unidays discount",
-    "price": "£72",
-    "link": "https://www.hotukdeals.com/deals/nike-vomero-plus-black-uk-8910-ps90-with-free-delivery-15-tcb-4987372",
-    "date": "2026-09-23 14:51",
+    "title": "adidas Men's Basic 3-Stripes Tricot Full Track Suit",
+    "price": "£32.25",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-basic-3-stripes-tricot-full-track-suit-4987574",
+    "date": "2026-09-23 20:23",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's or Women's Air Max Alpha Trainer 6 Premium Workout Shoes for $65 + free shipping",
+    "price": "$65",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Air-Max-Alpha-Trainer-6-Premium-Workout-Shoes-for-65-free-shipping/22209873.html?iref=rss-c280",
+    "date": "2026-09-23 20:09",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
@@ -108,13 +135,13 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "Skechers Men's Uno Suited On Air Memory Foam Sneakers for $34 + free shipping w/ $39",
-    "price": "$34",
-    "link": "https://www.dealnews.com/Skechers-Mens-Uno-Suited-On-Air-Memory-Foam-Sneakers-for-34-free-shipping-w-39/22206632.html?iref=rss-c280",
-    "date": "2026-09-22 18:01",
-    "source": "DealNews",
+    "title": "adidas women Barreda Shoes (2 colors) - from $23.40 + free shipping",
+    "price": "$23.40",
+    "link": "https://slickdeals.net/f/20031369-adidas-women-barreda-shoes-2-colors-from-23-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-18 06:13",
+    "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "sneakers"
+    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
