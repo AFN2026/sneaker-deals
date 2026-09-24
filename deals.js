@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "Quest Black Compact Travel Kettle, 0.5 Litres, 600 Watt & Dual Voltage for Worldwide Use, Includes 2 Lightweight Cups",
+    "price": "£11.99",
+    "link": "https://www.hotukdeals.com/deals/quest-black-compact-travel-kettle-05-litres-600-watt-dual-voltage-for-worldwide-use-includes-2-lightweight-cups-4988341",
+    "date": "2026-09-24 19:55",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "vans"
+  },
+  {
     "title": "adidas Terrex Fall Kick Off Sale: Up to 50% off + extra 15% off + free shipping",
     "price": "$110",
     "link": "https://www.dealnews.com/adidas-Terrex-Fall-Kick-Off-Sale-Up-to-50-off-extra-15-off-free-shipping/22212502.html?iref=rss-c280",
@@ -61,6 +70,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
+  },
+  {
+    "title": "Nike Women's Sportswear Varsity Jacket (Pure Platinum/Chalk) $29.97 + Free Shipping on $49+",
+    "price": "$29.97",
+    "link": "https://slickdeals.net/f/20051652-nike-women-s-sportswear-varsity-jacket-pure-platinum-chalk-29-97-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-23 05:44",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "Nike Men's or Women's Air Diamond Turf 2 Shoes for $103 + free shipping",
