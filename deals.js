@@ -1,23 +1,5 @@
 window.DEALS = [
   {
-    "title": "Nike V5 Rnr Pre School Shoes - Limited sizes Free delivery for FLX members",
-    "price": "£20",
-    "link": "https://www.hotukdeals.com/deals/nike-v5-rnr-pre-school-shoes-4988003",
-    "date": "2026-09-24 10:28",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "SKECHERS Junior Boys S Lights Vortex 2.0 Veltrox Trainers Blue/Navy",
-    "price": "£14.99",
-    "link": "https://www.hotukdeals.com/deals/skechers-junior-boys-s-lights-vortex-20-veltrox-trainers-bluenavy-4988000",
-    "date": "2026-09-24 10:27",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
-  },
-  {
     "title": "adidas Terrex Fall Kick Off Sale: Up to 50% off + extra 15% off + free shipping",
     "price": "$110",
     "link": "https://www.dealnews.com/adidas-Terrex-Fall-Kick-Off-Sale-Up-to-50-off-extra-15-off-free-shipping/22212502.html?iref=rss-c280",
