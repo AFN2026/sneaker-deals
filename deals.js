@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "adidas Cloudfoam Fall Kick Off Deals: Up to 45% off + extra 15% off + free shipping",
+    "price": "$28",
+    "link": "https://www.dealnews.com/adidas-Cloudfoam-Fall-Kick-Off-Deals-Up-to-45-off-extra-15-off-free-shipping/22215956.html?iref=rss-c280",
+    "date": "2026-09-25 10:22",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas x Pokémon Collection: Now available + free shipping",
+    "price": "$28",
+    "link": "https://www.dealnews.com/adidas-x-Pok-mon-Collection-Now-available-free-shipping/22215949.html?iref=rss-c280",
+    "date": "2026-09-25 10:09",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Waffle Nav Men's Shoes for $50 + free shipping w/ $50",
     "price": "$50",
     "link": "https://www.dealnews.com/Nike-Waffle-Nav-Mens-Shoes-for-50-free-shipping-w-50/22212822.html?iref=rss-c280",
@@ -54,15 +72,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas Women's Superlite Super No Show Socks 6 Pairs $13.19",
-    "price": "$13.19",
-    "link": "https://slickdeals.net/f/20054409-adidas-women-s-superlite-super-no-show-socks-6-pairs-13-19?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-23 18:27",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Fall Kick Off Shoe Deals for From $17, sneakers from $28 + free shipping",
     "price": "$17,",
     "link": "https://www.dealnews.com/adidas-Mens-Fall-Kick-Off-Shoe-Deals-for-From-17-sneakers-from-28-free-shipping/22209739.html?iref=rss-c280",
@@ -79,15 +88,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Skechers Men's Summits Comfort Slip-On Lifestyle Sneakers for $34 + free shipping w/ $39",
-    "price": "$34",
-    "link": "https://www.dealnews.com/Skechers-Mens-Summits-Comfort-Slip-On-Lifestyle-Sneakers-for-34-free-shipping-w-39/22209602.html?iref=rss-c280",
-    "date": "2026-09-23 07:18",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
