@@ -1,12 +1,12 @@
 window.DEALS = [
   {
-    "title": "Puma Men's Leisurewear Long Fleece Full Tracksuit navy / black",
-    "price": "£14",
-    "link": "https://www.hotukdeals.com/deals/puma-mens-leisurewear-long-fleece-full-tracksuit-navy-black-4989503",
-    "date": "2026-09-26 14:46",
+    "title": "Adidas Adizero Pro 4 Carbon Running Shoes - With Code",
+    "price": "£93.50",
+    "link": "https://www.hotukdeals.com/deals/adidas-adizero-pro-4-carbon-running-shoes-4989654",
+    "date": "2026-09-26 20:25",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "puma"
+    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Supernova Ease Shoes for $27 + free shipping",
@@ -86,15 +86,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Fall-Kick-Off-Shoe-Deals-for-From-17-sneakers-from-28-free-shipping/22209739.html?iref=rss-c280",
     "date": "2026-09-23 12:34",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas women Women's Sport Essentials Strapback Hat $8.4 + Free Shipping",
-    "price": "$8.4",
-    "link": "https://slickdeals.net/f/20039844-adidas-women-women-s-sport-essentials-strapback-hat-8-4-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-20 13:55",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
