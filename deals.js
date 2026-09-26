@@ -1,12 +1,12 @@
 window.DEALS = [
   {
-    "title": "Backpack Sale e.g. Under Armour Grey Hustle Sport Backpack - C&C £1.99",
-    "price": "£1.99",
-    "link": "https://www.hotukdeals.com/deals/backpack-sale-eg-under-armour-grey-hustle-sport-backpack-cc-ps199-4989360",
-    "date": "2026-09-26 10:20",
+    "title": "Puma Men's Leisurewear Long Fleece Full Tracksuit navy / black",
+    "price": "£14",
+    "link": "https://www.hotukdeals.com/deals/puma-mens-leisurewear-long-fleece-full-tracksuit-navy-black-4989503",
+    "date": "2026-09-26 14:46",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "jordan"
+    "keyword": "puma"
   },
   {
     "title": "adidas Men's Supernova Ease Shoes for $27 + free shipping",
@@ -16,15 +16,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "24L Nike Aura Backpack (Blue) $15.73 + Free Shipping on $49",
-    "price": "$15.73",
-    "link": "https://slickdeals.net/f/20060685-24l-nike-aura-backpack-blue-15-73-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-25 12:09",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Cloudfoam Fall Kick Off Deals: Up to 45% off + extra 15% off + free shipping",
@@ -95,6 +86,15 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Fall-Kick-Off-Shoe-Deals-for-From-17-sneakers-from-28-free-shipping/22209739.html?iref=rss-c280",
     "date": "2026-09-23 12:34",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas women Women's Sport Essentials Strapback Hat $8.4 + Free Shipping",
+    "price": "$8.4",
+    "link": "https://slickdeals.net/f/20039844-adidas-women-women-s-sport-essentials-strapback-hat-8-4-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-20 13:55",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
