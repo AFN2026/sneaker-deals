@@ -1,5 +1,41 @@
 window.DEALS = [
   {
+    "title": "Sophie Jordan - A Fire In The Sky: Don’t Miss The Sizzling Enemies To Lovers Romantasy, Full Of Adventure, Dragons, And Magic - Paperback",
+    "price": "£3",
+    "link": "https://www.hotukdeals.com/deals/a-fire-in-the-sky-dont-miss-the-sizzling-enemies-to-lovers-romantasy-full-of-adventure-dragons-and-magic-new-in-paperback-in-2025-4990103",
+    "date": "2026-09-27 15:45",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "jordan"
+  },
+  {
+    "title": "Zappos Win the Season Sale: Up to 70% off + extra 20% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/Zappos-Win-the-Season-Sale-Up-to-70-off-extra-20-off-free-shipping/22220674.html?iref=rss-c280",
+    "date": "2026-09-27 12:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22197943.html?iref=rss-c280",
+    "date": "2026-09-27 11:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Climacool Laced Shoes for $58 + free shipping",
+    "price": "$58",
+    "link": "https://www.dealnews.com/adidas-Mens-Climacool-Laced-Shoes-for-58-free-shipping/22220652.html?iref=rss-c280",
+    "date": "2026-09-27 11:26",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Terrex Fall Kick Off Sale: Up to 50% off + extra 15% off + free shipping",
     "price": "$110",
     "link": "https://www.dealnews.com/adidas-Terrex-Fall-Kick-Off-Sale-Up-to-50-off-extra-15-off-free-shipping/22212502.html?iref=rss-c280",
@@ -14,15 +50,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Fall-Kick-Off-Shoe-Deals-for-From-17-sneakers-from-33-free-shipping/22220612.html?iref=rss-c280",
     "date": "2026-09-27 08:30",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men Tiro26 Stadium Parka (size: S) $45.6 + Free Shipping",
-    "price": "$45.6",
-    "link": "https://slickdeals.net/f/20065566-adidas-men-tiro26-stadium-parka-size-s-45-6-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-27 03:28",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -70,24 +97,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Dockers Men's Frederick Casual Sneakers for $25 + free shipping w/ $35",
-    "price": "$25",
-    "link": "https://www.dealnews.com/Dockers-Mens-Frederick-Casual-Sneakers-for-25-free-shipping-w-35/22209897.html?iref=rss-c280",
-    "date": "2026-09-23 22:04",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's or Women's Air Max Alpha Trainer 6 Premium Workout Shoes for $65 + free shipping",
-    "price": "$65",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Air-Max-Alpha-Trainer-6-Premium-Workout-Shoes-for-65-free-shipping/22209873.html?iref=rss-c280",
-    "date": "2026-09-23 20:09",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
