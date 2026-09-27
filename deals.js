@@ -1,18 +1,27 @@
 window.DEALS = [
   {
-    "title": "Up to 60% Off Fanatics Clothing Sale + Free shipping with code - Includes Formula 1, WWE, Ferrari, Adidas, NBA, & More",
-    "price": "£15",
-    "link": "https://www.hotukdeals.com/deals/up-to-60-off-fanatics-clothing-sale-free-shipping-with-code-includes-formula-1-wwe-ferrari-adidas-nba-more-4989718",
-    "date": "2026-09-27 00:24",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "adidas Terrex Fall Kick Off Sale: Up to 50% off + extra 15% off + free shipping",
+    "price": "$110",
+    "link": "https://www.dealnews.com/adidas-Terrex-Fall-Kick-Off-Sale-Up-to-50-off-extra-15-off-free-shipping/22212502.html?iref=rss-c280",
+    "date": "2026-09-27 08:30",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "Adidas Women's Essentials 3-Stripes Cotton Leggings $12.00 + Free Shipping",
-    "price": "$12.00",
-    "link": "https://slickdeals.net/f/20063016-adidas-women-s-essentials-3-stripes-cotton-leggings-12-00-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-26 02:23",
+    "title": "adidas Men's Fall Kick Off Shoe Deals for From $17, sneakers from $33 + free shipping",
+    "price": "$17,",
+    "link": "https://www.dealnews.com/adidas-Mens-Fall-Kick-Off-Shoe-Deals-for-From-17-sneakers-from-33-free-shipping/22220612.html?iref=rss-c280",
+    "date": "2026-09-27 08:30",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men Tiro26 Stadium Parka (size: S) $45.6 + Free Shipping",
+    "price": "$45.6",
+    "link": "https://slickdeals.net/f/20065566-adidas-men-tiro26-stadium-parka-size-s-45-6-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-27 03:28",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
@@ -54,15 +63,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas Terrex Fall Kick Off Sale: Up to 50% off + extra 15% off + free shipping",
-    "price": "$110",
-    "link": "https://www.dealnews.com/adidas-Terrex-Fall-Kick-Off-Sale-Up-to-50-off-extra-15-off-free-shipping/22212502.html?iref=rss-c280",
-    "date": "2026-09-24 08:57",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Fall Kick Off Sneaker Deals: Up to 50% off + extra 15% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/adidas-Fall-Kick-Off-Sneaker-Deals-Up-to-50-off-extra-15-off-free-shipping/22212498.html?iref=rss-c280",
@@ -88,15 +88,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Fall Kick Off Shoe Deals for From $17, sneakers from $28 + free shipping",
-    "price": "$17,",
-    "link": "https://www.dealnews.com/adidas-Mens-Fall-Kick-Off-Shoe-Deals-for-From-17-sneakers-from-28-free-shipping/22209739.html?iref=rss-c280",
-    "date": "2026-09-23 12:34",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
