@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "Adidas Samba LT Trainers - 3 Different Colours with Discount For Carers code - Free delivery for Members",
+    "price": "£45",
+    "link": "https://www.hotukdeals.com/deals/adidas-samba-lt-trainers-3-different-cw-discount-for-carers-code-free-delivery-4990678",
+    "date": "2026-09-28 12:02",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Men's Total 90 Shoes for $50 + free shipping",
     "price": "$50",
     "link": "https://www.dealnews.com/Nike-Mens-Total-90-Shoes-for-50-free-shipping/22220753.html?iref=rss-c280",
@@ -54,29 +63,11 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike Women's Dri-FIT Short-Sleeve Top (Sea Coral) $14.42 + Free Shipping on $49",
-    "price": "$14.42",
-    "link": "https://slickdeals.net/f/20061072-nike-women-s-dri-fit-short-sleeve-top-sea-coral-14-42-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-25 13:47",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "adidas Men's Supernova Ease Shoes for $27 + free shipping",
     "price": "$27",
     "link": "https://www.dealnews.com/adidas-Mens-Supernova-Ease-Shoes-for-27-free-shipping/22216009.html?iref=rss-c280",
     "date": "2026-09-25 13:09",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "15-Piece adidas FIFA World Cup Historical Mini Soccer Ball w/ Case Set $143.97 + Free Shipping",
-    "price": "$143.97",
-    "link": "https://slickdeals.net/f/20060703-15-piece-adidas-fifa-world-cup-historical-mini-soccer-ball-w-case-set-143-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-25 12:14",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -130,15 +121,6 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Terrex-Shoe-Clothing-Deals-Up-to-40-off-extra-15-off-free-shipping/21934370.html?iref=rss-c280",
     "date": "2026-07-28 04:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Summer Deals: Up to 40% off + extra 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Terrex-Summer-Deals-Up-to-40-off-extra-30-off-free-shipping/21862639.html?iref=rss-c280",
-    "date": "2026-06-30 04:01",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
