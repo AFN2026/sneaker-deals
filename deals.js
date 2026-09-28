@@ -1,12 +1,75 @@
 window.DEALS = [
   {
-    "title": "Adidas Samba LT Trainers - 3 Different Colours with Discount For Carers code - Free delivery for Members",
-    "price": "£45",
-    "link": "https://www.hotukdeals.com/deals/adidas-samba-lt-trainers-3-different-cw-discount-for-carers-code-free-delivery-4990678",
-    "date": "2026-09-28 12:02",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Nike Men's C1TY Street Shoes for $50 in cart + free shipping",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Mens-C1-TY-Street-Shoes-for-50-in-cart-free-shipping/22223356.html?iref=rss-c280",
+    "date": "2026-09-28 21:04",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Adidas men Lite Racer Adapt 7.0 Wide Shoes (Black, Select Sizes) - $16.80 + Free Shipping adidas via eBay",
+    "price": "$16.80",
+    "link": "https://slickdeals.net/f/20071719-adidas-men-lite-racer-adapt-7-0-wide-shoes-black-select-sizes-16-80-free-shipping-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-28 20:02",
+    "source": "Slickdeals",
+    "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "adidas men Essentials Fleece Hoodie, color: Legend Ink / White (size: S,M,L,XL) $15.6 at adidas via eBay",
+    "price": "$15.6",
+    "link": "https://slickdeals.net/f/20071509-adidas-men-essentials-fleece-hoodie-color-legend-ink-white-size-s-m-l-xl-15-6-at-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-28 19:03",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Macy's Best of the Season Men's Shoes Deals: Up to 75% off + free shipping w/ $39",
+    "price": "$39",
+    "link": "https://www.dealnews.com/Macys-Best-of-the-Season-Mens-Shoes-Deals-Up-to-75-off-free-shipping-w-39/22223314.html?iref=rss-c280",
+    "date": "2026-09-28 18:47",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Adizero Deals: Up to 50% off + extra 15% off + Free shipping",
+    "price": "$204,",
+    "link": "https://www.dealnews.com/adidas-Adizero-Deals-Up-to-50-off-extra-15-off-Free-shipping/22223276.html?iref=rss-c280",
+    "date": "2026-09-28 17:17",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Tracefinder Trail Running Shoes for $48 + Free shipping",
+    "price": "$48",
+    "link": "https://www.dealnews.com/adidas-Tracefinder-Trail-Running-Shoes-for-48-Free-shipping/22223263.html?iref=rss-c280",
+    "date": "2026-09-28 16:29",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Terrex Hikster LT Hiking Shoes for $41 + Free shipping",
+    "price": "$41",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Hikster-LT-Hiking-Shoes-for-41-Free-shipping/22223259.html?iref=rss-c280",
+    "date": "2026-09-28 16:23",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Women's Pro Full-Length Leggings (Black/White) $24 + Free Shipping",
+    "price": "$24",
+    "link": "https://slickdeals.net/f/20069559-nike-women-s-pro-full-length-leggings-black-white-24-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-28 12:42",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "Nike Men's Total 90 Shoes for $50 + free shipping",
@@ -49,60 +112,6 @@ window.DEALS = [
     "price": "$110",
     "link": "https://www.dealnews.com/adidas-Terrex-Fall-Kick-Off-Sale-Up-to-50-off-extra-15-off-free-shipping/22212502.html?iref=rss-c280",
     "date": "2026-09-27 08:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Fall Kick Off Shoe Deals for From $17, sneakers from $33 + free shipping",
-    "price": "$17,",
-    "link": "https://www.dealnews.com/adidas-Mens-Fall-Kick-Off-Shoe-Deals-for-From-17-sneakers-from-33-free-shipping/22220612.html?iref=rss-c280",
-    "date": "2026-09-27 08:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Supernova Ease Shoes for $27 + free shipping",
-    "price": "$27",
-    "link": "https://www.dealnews.com/adidas-Mens-Supernova-Ease-Shoes-for-27-free-shipping/22216009.html?iref=rss-c280",
-    "date": "2026-09-25 13:09",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Cloudfoam Fall Kick Off Deals: Up to 45% off + extra 15% off + free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-Cloudfoam-Fall-Kick-Off-Deals-Up-to-45-off-extra-15-off-free-shipping/22215956.html?iref=rss-c280",
-    "date": "2026-09-25 10:22",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas x Pokémon Collection: Now available + free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-x-Pok-mon-Collection-Now-available-free-shipping/22215949.html?iref=rss-c280",
-    "date": "2026-09-25 10:09",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Waffle Nav Men's Shoes for $50 + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Waffle-Nav-Mens-Shoes-for-50-free-shipping-w-50/22212822.html?iref=rss-c280",
-    "date": "2026-09-25 00:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Fall Kick Off Sneaker Deals: Up to 50% off + extra 15% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Fall-Kick-Off-Sneaker-Deals-Up-to-50-off-extra-15-off-free-shipping/22212498.html?iref=rss-c280",
-    "date": "2026-09-24 08:48",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
