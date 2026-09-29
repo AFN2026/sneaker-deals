@@ -1,12 +1,57 @@
 window.DEALS = [
   {
-    "title": "PUMA Unisex Kids Teamliga Training Sweat Jr Sweater (Blue Size 152)",
-    "price": "£6.08",
-    "link": "https://www.hotukdeals.com/deals/puma-unisex-kids-teamliga-training-sweat-jr-sweater-blue-size-152-4991687",
-    "date": "2026-09-29 16:39",
+    "title": "Nike Men's Calm Shoes for $36 + free shipping",
+    "price": "$36",
+    "link": "https://www.dealnews.com/Nike-Mens-Calm-Shoes-for-36-free-shipping/22226953.html?iref=rss-c280",
+    "date": "2026-09-29 20:42",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Unisex Adults F50 League Firm Ground Football Boots",
+    "price": "£18",
+    "link": "https://www.hotukdeals.com/deals/unisex-adults-f50-league-firm-ground-football-boots-4991797",
+    "date": "2026-09-29 20:30",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "puma"
+    "keyword": "adidas"
+  },
+  {
+    "title": "LFC adidas Youth 25/26 Home Shorts - 13-14 years",
+    "price": "£1",
+    "link": "https://www.hotukdeals.com/deals/lfc-adidas-youth-2526-home-shorts-4991796",
+    "date": "2026-09-29 20:28",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Big Kids Sportswear Embroidered Futura T-Shirt - Green (XS-L, XL £8.50)",
+    "price": "£8.50",
+    "link": "https://www.hotukdeals.com/deals/big-kids-sportswear-embroidered-futura-t-shirt-green-4991786",
+    "date": "2026-09-29 20:15",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's or Women's World Cup Gazelle Indoor Shoes for $41 + free shipping w/ $49",
+    "price": "$41",
+    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-World-Cup-Gazelle-Indoor-Shoes-for-41-free-shipping-w-49/22226901.html?iref=rss-c280",
+    "date": "2026-09-29 18:11",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's or Women's Pre Montreal '17 Shoes for $55 + free shipping",
+    "price": "$55",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Pre-Montreal-17-Shoes-for-55-free-shipping/22226899.html?iref=rss-c280",
+    "date": "2026-09-29 17:58",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "Nike Men's V5 Runner Shoes for $49 + free shipping",
@@ -85,24 +130,6 @@ window.DEALS = [
     "price": "$50",
     "link": "https://www.dealnews.com/Nike-Mens-Total-90-Shoes-for-50-free-shipping/22220753.html?iref=rss-c280",
     "date": "2026-09-28 00:59",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Zappos Win the Season Sale: Up to 70% off + extra 20% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/Zappos-Win-the-Season-Sale-Up-to-70-off-extra-20-off-free-shipping/22220674.html?iref=rss-c280",
-    "date": "2026-09-27 12:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22197943.html?iref=rss-c280",
-    "date": "2026-09-27 11:32",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
