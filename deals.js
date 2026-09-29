@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "PUMA Unisex Kids Teamliga Training Sweat Jr Sweater (Blue Size 152)",
+    "price": "£6.08",
+    "link": "https://www.hotukdeals.com/deals/puma-unisex-kids-teamliga-training-sweat-jr-sweater-blue-size-152-4991687",
+    "date": "2026-09-29 16:39",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
     "title": "Nike Men's V5 Runner Shoes for $49 + free shipping",
     "price": "$49",
     "link": "https://www.dealnews.com/Nike-Mens-V5-Runner-Shoes-for-49-free-shipping/22223401.html?iref=rss-c280",
