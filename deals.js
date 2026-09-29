@@ -1,5 +1,41 @@
 window.DEALS = [
   {
+    "title": "Nike Men's V5 Runner Shoes for $49 + free shipping",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Nike-Mens-V5-Runner-Shoes-for-49-free-shipping/22223401.html?iref=rss-c280",
+    "date": "2026-09-29 01:22",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air Max Excee Shoes for $50 + free shipping w/ $89",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Excee-Shoes-for-50-free-shipping-w-89/22223390.html?iref=rss-c280",
+    "date": "2026-09-29 00:19",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Women's Air Max Invigor Shoes for $46 + free shipping",
+    "price": "$46",
+    "link": "https://www.dealnews.com/Nike-Womens-Air-Max-Invigor-Shoes-for-46-free-shipping/22223389.html?iref=rss-c280",
+    "date": "2026-09-29 00:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air Force 1 '07 LX Vibram Shoes for $80 + free shipping",
+    "price": "$80",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Force-1-07-LX-Vibram-Shoes-for-80-free-shipping/22223386.html?iref=rss-c280",
+    "date": "2026-09-28 23:55",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "Nike Men's C1TY Street Shoes for $50 in cart + free shipping",
     "price": "$50",
     "link": "https://www.dealnews.com/Nike-Mens-C1-TY-Street-Shoes-for-50-in-cart-free-shipping/22223356.html?iref=rss-c280",
@@ -7,24 +43,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Adidas men Lite Racer Adapt 7.0 Wide Shoes (Black, Select Sizes) - $16.80 + Free Shipping adidas via eBay",
-    "price": "$16.80",
-    "link": "https://slickdeals.net/f/20071719-adidas-men-lite-racer-adapt-7-0-wide-shoes-black-select-sizes-16-80-free-shipping-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-28 20:02",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men Essentials Fleece Hoodie, color: Legend Ink / White (size: S,M,L,XL) $15.6 at adidas via eBay",
-    "price": "$15.6",
-    "link": "https://slickdeals.net/f/20071509-adidas-men-essentials-fleece-hoodie-color-legend-ink-white-size-s-m-l-xl-15-6-at-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-28 19:03",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "Macy's Best of the Season Men's Shoes Deals: Up to 75% off + free shipping w/ $39",
@@ -63,15 +81,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike Women's Pro Full-Length Leggings (Black/White) $24 + Free Shipping",
-    "price": "$24",
-    "link": "https://slickdeals.net/f/20069559-nike-women-s-pro-full-length-leggings-black-white-24-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-09-28 12:42",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "Nike Men's Total 90 Shoes for $50 + free shipping",
     "price": "$50",
     "link": "https://www.dealnews.com/Nike-Mens-Total-90-Shoes-for-50-free-shipping/22220753.html?iref=rss-c280",
@@ -88,33 +97,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22197943.html?iref=rss-c280",
-    "date": "2026-09-27 11:32",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Climacool Laced Shoes for $58 + free shipping",
-    "price": "$58",
-    "link": "https://www.dealnews.com/adidas-Mens-Climacool-Laced-Shoes-for-58-free-shipping/22220652.html?iref=rss-c280",
-    "date": "2026-09-27 11:26",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Fall Kick Off Sale: Up to 50% off + extra 15% off + free shipping",
-    "price": "$110",
-    "link": "https://www.dealnews.com/adidas-Terrex-Fall-Kick-Off-Sale-Up-to-50-off-extra-15-off-free-shipping/22212502.html?iref=rss-c280",
-    "date": "2026-09-27 08:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
