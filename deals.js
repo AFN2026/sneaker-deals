@@ -1,11 +1,29 @@
 window.DEALS = [
   {
-    "title": "adidas Originals Adistar MLD trainers in butter yellow RRP £90",
-    "price": "£90",
-    "link": "https://www.hotukdeals.com/deals/adidas-originals-adistar-mld-trainers-in-butter-yellow-4991882",
-    "date": "2026-09-30 01:35",
+    "title": "Adidas Cushioned Crew Socks 6 Pairs | White | UK size 2.5 - 14.5",
+    "price": "£12.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-cushioned-crew-socks-6-pairs-white-uk-size-25-145-4992214",
+    "date": "2026-09-30 11:34",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike P-6000 Suede Trainers, Sizes 6-12 (£46.74 for New Customers W/Code)",
+    "price": "£46.74",
+    "link": "https://www.hotukdeals.com/deals/nike-p-6000-suede-trainers-sizes-6-12-ps4674-for-new-customers-wcode-4992212",
+    "date": "2026-09-30 11:29",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Adidas via Shopsimon - Extra 40% Off + Free Shipping",
+    "price": "",
+    "link": "https://slickdeals.net/f/20077539-adidas-via-shopsimon-extra-40-off-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-09-30 05:27",
+    "source": "Slickdeals",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
@@ -88,24 +106,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas Adizero Deals: Up to 50% off + extra 15% off + Free shipping",
-    "price": "$204,",
-    "link": "https://www.dealnews.com/adidas-Adizero-Deals-Up-to-50-off-extra-15-off-Free-shipping/22223276.html?iref=rss-c280",
-    "date": "2026-09-28 17:17",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Tracefinder Trail Running Shoes for $48 + Free shipping",
-    "price": "$48",
-    "link": "https://www.dealnews.com/adidas-Tracefinder-Trail-Running-Shoes-for-48-Free-shipping/22223263.html?iref=rss-c280",
-    "date": "2026-09-28 16:29",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
