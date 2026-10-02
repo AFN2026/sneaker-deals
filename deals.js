@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "Adidas Climacool 2 Shoes - Various sizes",
+    "price": "£66",
+    "link": "https://www.hotukdeals.com/deals/adidas-climacool-2-shoes-4994550",
+    "date": "2026-10-02 21:07",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's 3-Stripes Full-Zip Puffer Jacket Sm to XXXL - Black $39.99 + Free Shipping",
+    "price": "$39.99",
+    "link": "https://slickdeals.net/f/20089866-adidas-men-s-3-stripes-full-zip-puffer-jacket-sm-to-xxxl-black-39-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-02 18:55",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Merrell Men's Agility Peak 5 Trek SE Sneakers for $70 + free shipping w/ $100",
     "price": "$70",
     "link": "https://www.dealnews.com/Merrell-Mens-Agility-Peak-5-Trek-SE-Sneakers-for-70-free-shipping-w-100/22234960.html?iref=rss-c280",
@@ -67,15 +85,6 @@ window.DEALS = [
     "price": "$37",
     "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Superstar-II-Shoes-for-37-free-shipping-w-49/22229764.html?iref=rss-c280",
     "date": "2026-09-30 22:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Tech Response 3.0 Golf Shoes for $28 + free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-Mens-Tech-Response-3-0-Golf-Shoes-for-28-free-shipping/22229752.html?iref=rss-c280",
-    "date": "2026-09-30 21:25",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
