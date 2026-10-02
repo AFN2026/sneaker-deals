@@ -1,12 +1,12 @@
 window.DEALS = [
   {
-    "title": "Nike Park 26 Fleece Full Zip Men's Hoodie IB1228071 - Charcoal Heather/White - Size L",
-    "price": "£13.95",
-    "link": "https://www.hotukdeals.com/deals/nike-park-26-fleece-full-zip-mens-hoodie-ib1228071-charcoal-heatherwhite-size-l-4993791",
-    "date": "2026-10-02 03:19",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
+    "title": "adidas men Essentials 3-Stripes Fleece Pants $14 + Free Shipping",
+    "price": "$14",
+    "link": "https://slickdeals.net/f/20087550-adidas-men-essentials-3-stripes-fleece-pants-14-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-02 09:50",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "Nike Men's or Women's Total 90 Indoor Soccer Shoes for $45 + free shipping w/ $49",
@@ -70,6 +70,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
+  },
+  {
+    "title": "Foot Locker Air Jordan 1 Sale for $80 & Under + free shipping",
+    "price": "$80",
+    "link": "https://www.dealnews.com/Foot-Locker-Air-Jordan-1-Sale-for-80-Under-free-shipping/22229642.html?iref=rss-c280",
+    "date": "2026-09-30 16:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "jordan"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
