@@ -1,11 +1,11 @@
 window.DEALS = [
   {
-    "title": "Nike Men's Air VaporMax Plus Shoes (Black/Anthracite/White/Bright Crimson) $121.97 + Free Shipping",
-    "price": "$121.97",
-    "link": "https://slickdeals.net/f/20085342-nike-men-s-air-vapormax-plus-shoes-black-anthracite-white-bright-crimson-121-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-01 19:40",
-    "source": "Slickdeals",
-    "currency": "USD",
+    "title": "Nike Park 26 Fleece Full Zip Men's Hoodie IB1228071 - Charcoal Heather/White - Size L",
+    "price": "£13.95",
+    "link": "https://www.hotukdeals.com/deals/nike-park-26-fleece-full-zip-mens-hoodie-ib1228071-charcoal-heatherwhite-size-l-4993791",
+    "date": "2026-10-02 03:19",
+    "source": "HotUKDeals",
+    "currency": "GBP",
     "keyword": "nike"
   },
   {
@@ -43,15 +43,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Adidas men's adilette comfort slides $13.2 at adidas via ShopSimon",
-    "price": "$13.2",
-    "link": "https://slickdeals.net/f/20080830-adidas-men-s-adilette-comfort-slides-13-2-at-adidas-via-shopsimon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-01 00:27",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Men's or Women's Superstar II Shoes for $37 + free shipping w/ $49",
