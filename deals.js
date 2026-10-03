@@ -1,14 +1,5 @@
 window.DEALS = [
   {
-    "title": "Under Armour UA Charged Edge - Low - Sneakers Athletic Shoes - various sizes",
-    "price": "£33.59",
-    "link": "https://www.hotukdeals.com/deals/under-armour-ua-charged-edge-low-sneakers-athletic-shoes-various-sizes-4994649",
-    "date": "2026-10-03 01:28",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "sneakers"
-  },
-  {
     "title": "Reebok Men's or Women's Lifestyle Club C 85 Vintage Sneaker for $70 + free shipping",
     "price": "$70",
     "link": "https://www.dealnews.com/Reebok-Mens-or-Womens-Lifestyle-Club-C-85-Vintage-Sneaker-for-70-free-shipping/22235524.html?iref=rss-c280",
@@ -70,15 +61,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Merrell Men's Tempo Sol Hiking Sneakers for $38 + free shipping w/ $89",
-    "price": "$38",
-    "link": "https://www.dealnews.com/Merrell-Mens-Tempo-Sol-Hiking-Sneakers-for-38-free-shipping-w-89/22229789.html?iref=rss-c280",
-    "date": "2026-10-01 00:41",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
