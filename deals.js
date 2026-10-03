@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "adidas men Basic 3-Stripes Tricot Track Suit $32 + Free Shipping",
+    "price": "$32",
+    "link": "https://slickdeals.net/f/20092764-adidas-men-basic-3-stripes-tricot-track-suit-32-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-03 15:31",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "$27.95: PUMA X Cheetos Suede Lace Up Youth Boys Orange Sneakers Casual Shoes + FS at eBay",
+    "price": "$27.95",
+    "link": "https://slickdeals.net/f/20092326-27-95-puma-x-cheetos-suede-lace-up-youth-boys-orange-sneakers-casual-shoes-fs-at-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-03 12:57",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "puma"
+  },
+  {
     "title": "Reebok Men's or Women's Lifestyle Club C 85 Vintage Sneaker for $70 + free shipping",
     "price": "$70",
     "link": "https://www.dealnews.com/Reebok-Mens-or-Womens-Lifestyle-Club-C-85-Vintage-Sneaker-for-70-free-shipping/22235524.html?iref=rss-c280",
