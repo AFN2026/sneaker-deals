@@ -1,21 +1,12 @@
 window.DEALS = [
   {
-    "title": "Full car breakdown cover for you and legal spouse - annual price",
-    "price": "£57.28",
-    "link": "https://www.hotukdeals.com/deals/full-car-breakdown-cover-for-you-and-legal-spouse-annual-price-4996096",
-    "date": "2026-10-05 00:46",
+    "title": "adidas Men's Duramo RC2 Running Shoes 8UK",
+    "price": "£28",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-duramo-rc2-running-shoes-8uk-4996516",
+    "date": "2026-10-05 13:10",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "vans"
-  },
-  {
-    "title": "Nike Women's Air Max Fire Shoes (Pink) $49.95 + Free Shipping on $65 +",
-    "price": "$49.95",
-    "link": "https://slickdeals.net/f/20097975-nike-women-s-air-max-fire-shoes-pink-49-95-free-shipping-on-65?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-05 00:40",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
+    "keyword": "adidas"
   },
   {
     "title": "Nike Men's Air Jordan MVP 92 Shoes for $57 + free shipping",
