@@ -1,10 +1,73 @@
 window.DEALS = [
   {
-    "title": "adidas men Worldwide Hoops Logo Performance Graphic Tee $8 + Free Shipping at adidas via eBay",
-    "price": "$8",
-    "link": "https://slickdeals.net/f/20106027-adidas-men-worldwide-hoops-logo-performance-graphic-tee-8-free-shipping-at-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-06 03:24",
-    "source": "Slickdeals",
+    "title": "adidas Men's Essentials FEELCOZY Fleece Cargo Pant (Various Sizes )",
+    "price": "£24.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-essentials-feelcozy-fleece-cargo-pant-various-sizes-4998261",
+    "date": "2026-10-06 12:22",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Fall Favorites Shoe Sale for From $15, sneakers from $26 + free shipping",
+    "price": "$15,",
+    "link": "https://www.dealnews.com/adidas-Mens-Fall-Favorites-Shoe-Sale-for-From-15-sneakers-from-26-free-shipping/22249277.html?iref=rss-c280",
+    "date": "2026-10-06 10:55",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Air VaporMax Plus Shoes for $122 + free shipping",
+    "price": "$122",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Vapor-Max-Plus-Shoes-for-122-free-shipping/22249190.html?iref=rss-c280",
+    "date": "2026-10-06 09:47",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Adizero SL 2 Shoes for $42 + free shipping",
+    "price": "$42",
+    "link": "https://www.dealnews.com/adidas-Mens-Adizero-SL-2-Shoes-for-42-free-shipping/22249173.html?iref=rss-c280",
+    "date": "2026-10-06 09:42",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "New Balance Unisex 933 Andrew Reynolds Shoes for $45 w/ Prime + free shipping",
+    "price": "$45",
+    "link": "https://www.dealnews.com/New-Balance-Unisex-933-Andrew-Reynolds-Shoes-for-45-w-Prime-free-shipping/22249137.html?iref=rss-c280",
+    "date": "2026-10-06 09:17",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "K-Swiss Women's Shadx Running & Walking Sneakers for $52 w/ Prime + free shipping",
+    "price": "$52",
+    "link": "https://www.dealnews.com/K-Swiss-Womens-Shadx-Running-Walking-Sneakers-for-52-w-Prime-free-shipping/22248988.html?iref=rss-c280",
+    "date": "2026-10-06 07:55",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Men's Ultraboost 5X Shoes for $65 + free shipping",
+    "price": "$65",
+    "link": "https://www.dealnews.com/adidas-Mens-Ultraboost-5-X-Shoes-for-65-free-shipping/22248984.html?iref=rss-c280",
+    "date": "2026-10-06 07:52",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Countdown to Holidays Sale at eBay: Up to 60% off + extra 20% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Countdown-to-Holidays-Sale-at-eBay-Up-to-60-off-extra-20-off-free-shipping/22248980.html?iref=rss-c280",
+    "date": "2026-10-06 07:48",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -63,15 +126,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas men Lifestyle Low Ripstop Hat (Black) $8.8 at adidas via eBay",
-    "price": "$8.8",
-    "link": "https://slickdeals.net/f/20103447-adidas-men-lifestyle-low-ripstop-hat-black-8-8-at-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-05 18:20",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Response Runner 2.0 Sneaker for $32 + free shipping",
     "price": "$32",
     "link": "https://www.dealnews.com/adidas-Mens-Response-Runner-2-0-Sneaker-for-32-free-shipping/22246683.html?iref=rss-c280",
@@ -115,33 +169,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Vomero 18 Running Shoes (Cool Grey/Black/Safety Orange) $84.97 + Free Shipping",
-    "price": "$84.97",
-    "link": "https://slickdeals.net/f/20100672-nike-men-s-vomero-18-running-shoes-cool-grey-black-safety-orange-84-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-05 11:53",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Jordan MVP 92 Shoes for $57 + free shipping",
-    "price": "$57",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Jordan-MVP-92-Shoes-for-57-free-shipping/22242833.html?iref=rss-c280",
-    "date": "2026-10-04 20:56",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Adizero Deals: Up to 50% off + extra 15% off + Free shipping",
-    "price": "$204,",
-    "link": "https://www.dealnews.com/adidas-Adizero-Deals-Up-to-50-off-extra-15-off-Free-shipping/22223276.html?iref=rss-c280",
-    "date": "2026-10-04 15:06",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
