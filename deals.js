@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "adidas men Worldwide Hoops Logo Performance Graphic Tee $8 + Free Shipping at adidas via eBay",
+    "price": "$8",
+    "link": "https://slickdeals.net/f/20106027-adidas-men-worldwide-hoops-logo-performance-graphic-tee-8-free-shipping-at-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-06 03:24",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Women's The Jordan Pointe Sneakers for $40 + free shipping",
     "price": "$40",
     "link": "https://www.dealnews.com/Nike-Womens-The-Jordan-Pointe-Sneakers-for-40-free-shipping/22247202.html?iref=rss-c280",
@@ -16,15 +25,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas men RUN 70s 2.0 Shoes (6 Colors) $25.6",
-    "price": "$25.6",
-    "link": "https://slickdeals.net/f/20104335-adidas-men-run-70s-2-0-shoes-6-colors-25-6?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-05 21:18",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "Dockers Men's Estes Wax Casual Sneakers for $26 + free shipping w/ $39",
@@ -59,6 +59,15 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Run-70-s-2-0-Shoes-for-26-free-shipping/22246844.html?iref=rss-c280",
     "date": "2026-10-05 18:31",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men Lifestyle Low Ripstop Hat (Black) $8.8 at adidas via eBay",
+    "price": "$8.8",
+    "link": "https://slickdeals.net/f/20103447-adidas-men-lifestyle-low-ripstop-hat-black-8-8-at-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-05 18:20",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -104,6 +113,15 @@ window.DEALS = [
     "link": "https://www.dealnews.com/eBay-Countdown-to-Holiday-Mens-Shoes-Deals-Up-to-60-off-extra-20-off-free-shipping/22246397.html?iref=rss-c280",
     "date": "2026-10-05 13:28",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Vomero 18 Running Shoes (Cool Grey/Black/Safety Orange) $84.97 + Free Shipping",
+    "price": "$84.97",
+    "link": "https://slickdeals.net/f/20100672-nike-men-s-vomero-18-running-shoes-cool-grey-black-safety-orange-84-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-05 11:53",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "nike"
   },
