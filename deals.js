@@ -1,14 +1,5 @@
 window.DEALS = [
   {
-    "title": "Stanley STST1-70713 Folding Sawhorses Set + 2 Stanley Window Scrapers (Free C&C)",
-    "price": "£23.26",
-    "link": "https://www.hotukdeals.com/deals/stanley-stst1-70713-folding-sawhorses-set-2-stanley-window-scrapers-free-cc-4998805",
-    "date": "2026-10-06 21:47",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
-  },
-  {
     "title": "Nike Men's Reax 8 TR Workout Shoes for $60 + free shipping",
     "price": "$60",
     "link": "https://www.dealnews.com/Nike-Mens-Reax-8-TR-Workout-Shoes-for-60-free-shipping/22249993.html?iref=rss-c280",
@@ -59,6 +50,15 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Terrex-Fall-Favorites-Sale-Up-to-50-off-extra-15-off-free-shipping/22249644.html?iref=rss-c280",
     "date": "2026-10-06 14:40",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas men Essentials Fleece 3-Stripes Full-Zip Hoodie from 20.8 + Free Shippng $20.8",
+    "price": "$20.8",
+    "link": "https://slickdeals.net/f/20112795-adidas-men-essentials-fleece-3-stripes-full-zip-hoodie-from-20-8-free-shippng-20-8?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-06 14:30",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -131,33 +131,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Countdown-to-Holidays-Sale-at-eBay-Up-to-60-off-extra-20-off-free-shipping/22248980.html?iref=rss-c280",
     "date": "2026-10-06 07:48",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Women's The Jordan Pointe Sneakers for $40 + free shipping",
-    "price": "$40",
-    "link": "https://www.dealnews.com/Nike-Womens-The-Jordan-Pointe-Sneakers-for-40-free-shipping/22247202.html?iref=rss-c280",
-    "date": "2026-10-05 23:15",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's or Women's Rival Sprint Glam Track & Field Shoes for $22 + free shipping w/ $49",
-    "price": "$22",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Rival-Sprint-Glam-Track-Field-Shoes-for-22-free-shipping-w-49/22247141.html?iref=rss-c280",
-    "date": "2026-10-05 22:24",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas women Women’s Signature Strapback Hat (Red / Pink Spark) $9.6",
-    "price": "$9.6",
-    "link": "https://slickdeals.net/f/20103405-adidas-women-women-s-signature-strapback-hat-red-pink-spark-9-6?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-05 18:10",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
