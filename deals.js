@@ -1,23 +1,5 @@
 window.DEALS = [
   {
-    "title": "adidas Women's Supernova Glide Running Shoes, Ice Purple Silver Met Halo Silver, Size 9, Prime Deal",
-    "price": "£38.27",
-    "link": "https://www.hotukdeals.com/deals/adidas-womens-supernova-glide-running-shoes-ice-purple-silver-met-halo-silver-size-9-prime-deal-4999959",
-    "date": "2026-10-07 22:17",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Unisex Daily 4.0 Shoes Classic, comfortable, durable, adidas Daily 4.0 shoes - Lightweight Ideal for everyday use - Size 8.5",
-    "price": "£20.22",
-    "link": "https://www.hotukdeals.com/deals/adidas-unisex-daily-40-shoes-classic-comfortable-durable-adidas-daily-40-shoes-lightweight-ideal-for-everyday-use-size-85-4999957",
-    "date": "2026-10-07 22:06",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Women's Barreda Decode Shoes for $19 + free shipping",
     "price": "$19",
     "link": "https://www.dealnews.com/adidas-Womens-Barreda-Decode-Shoes-for-19-free-shipping/22257222.html?iref=rss-c280",
@@ -32,15 +14,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Daily-4-0-Shoes-for-23-free-shipping/22257213.html?iref=rss-c280",
     "date": "2026-10-07 19:35",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men VL Court 3.0 Shoes (3 Colors) from $20",
-    "price": "$20",
-    "link": "https://slickdeals.net/f/20124855-adidas-men-vl-court-3-0-shoes-3-colors-from-20?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-07 19:34",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -99,15 +72,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas women Sport Essentials Strapback Hat (Black / Beige) $9.6",
-    "price": "$9.6",
-    "link": "https://slickdeals.net/f/20121333-adidas-women-sport-essentials-strapback-hat-black-beige-9-6?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-07 11:09",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Skechers Men's Higgins Drexer Knit Sneakers for $24 + free shipping w/ $35",
     "price": "$24",
     "link": "https://www.dealnews.com/Skechers-Mens-Higgins-Drexer-Knit-Sneakers-for-24-free-shipping-w-35/22256358.html?iref=rss-c280",
@@ -142,15 +106,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's Nike Air Max 90 \"Tiempo\" Shoes (Black/Black/Voltage Green/White, Sizes: 6-15) $85.97 + Free Shipping",
-    "price": "$85.97",
-    "link": "https://slickdeals.net/f/20101167-nike-men-s-nike-air-max-90-tiempo-shoes-black-black-voltage-green-white-sizes-6-15-85-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-05 13:17",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
