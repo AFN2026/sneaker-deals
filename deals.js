@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "Nike Men's Vomero Plus Shoes for $100 + free shipping",
+    "price": "$100",
+    "link": "https://www.dealnews.com/Nike-Mens-Vomero-Plus-Shoes-for-100-free-shipping/22264101.html?iref=rss-c280",
+    "date": "2026-10-08 07:58",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "adidas Women's Barreda Decode Shoes for $19 + free shipping",
     "price": "$19",
     "link": "https://www.dealnews.com/adidas-Womens-Barreda-Decode-Shoes-for-19-free-shipping/22257222.html?iref=rss-c280",
@@ -18,15 +27,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "UGG Men's South Bay Low Suede Sneakers for $58 + free shipping w/ Prime",
-    "price": "$58",
-    "link": "https://www.dealnews.com/UGG-Mens-South-Bay-Low-Suede-Sneakers-for-58-free-shipping-w-Prime/22257108.html?iref=rss-c280",
-    "date": "2026-10-07 18:26",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
     "title": "adidas x Coca-Cola Men's or Women's Adilette OG CF Slides for $23 + free shipping",
     "price": "$23",
     "link": "https://www.dealnews.com/adidas-x-Coca-Cola-Mens-or-Womens-Adilette-OG-CF-Slides-for-23-free-shipping/22257084.html?iref=rss-c280",
@@ -43,15 +43,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Macy's Sneaker Flash Sale: Up to 60% off + free shipping w/ $39",
-    "price": "$39",
-    "link": "https://www.dealnews.com/Macys-Sneaker-Flash-Sale-Up-to-60-off-free-shipping-w-39/22256868.html?iref=rss-c280",
-    "date": "2026-10-07 15:41",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Men's Campus 00s Shoes for $26 + free shipping",
