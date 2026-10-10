@@ -1,12 +1,57 @@
 window.DEALS = [
   {
-    "title": "Asics Men’s Gel-Venture 11 Trail Running Trainers (Sizes 6-13) - Member Price & Free Delivery for Members",
-    "price": "£44.10",
-    "link": "https://www.hotukdeals.com/deals/asics-mens-gel-venture-11-trail-running-trainers-sizes-6-13-member-price-free-delivery-for-members-5001542",
-    "date": "2026-10-09 23:41",
+    "title": "Nike Zoom Fly 6 Men's Running Shoes, In Store Bicester",
+    "price": "£76.99",
+    "link": "https://www.hotukdeals.com/deals/nike-zoom-fly-6-mens-running-shoes-in-store-bicester-5001807",
+    "date": "2026-10-10 11:09",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Character Boys Sonic Emboss Lights Boys Trainers Blue/Multi",
+    "price": "£9.99",
+    "link": "https://www.hotukdeals.com/deals/character-boys-sonic-emboss-lights-trainers-bluemulti-5001799",
+    "date": "2026-10-10 10:50",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "trainers"
+  },
+  {
+    "title": "adidas Cloudfoam Cuxxion Sock Shoes for $30 + Free shipping",
+    "price": "$30",
+    "link": "https://www.dealnews.com/adidas-Cloudfoam-Cuxxion-Sock-Shoes-for-30-Free-shipping/22264840.html?iref=rss-c280",
+    "date": "2026-10-10 08:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Vans Shoes, Clothing & Accessories Sale: Up to 50% off + extra 30% off + shipping varies",
+    "price": "$24.50",
+    "link": "https://www.dealnews.com/Vans-Shoes-Clothing-Accessories-Sale-Up-to-50-off-extra-30-off-shipping-varies/22269185.html?iref=rss-c280",
+    "date": "2026-10-10 07:41",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "vans"
+  },
+  {
+    "title": "lululemon Shoe Specials for From $49, Sneakers from $89 + shipping varies",
+    "price": "$49,",
+    "link": "https://www.dealnews.com/lululemon-Shoe-Specials-for-From-49-Sneakers-from-89-shipping-varies/22264658.html?iref=rss-c280",
+    "date": "2026-10-10 07:18",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Nike Women's Shox Z Sneakers (Various) - from $29.99",
+    "price": "$29.99",
+    "link": "https://slickdeals.net/f/20137371-nike-women-s-shox-z-sneakers-various-from-29-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-10 05:23",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Women's X_PLR Path Shoes for $29 + free shipping",
@@ -85,33 +130,6 @@ window.DEALS = [
     "price": "$40.80",
     "link": "https://www.dealnews.com/adidas-Terrex-Fall-Favorites-Sale-Up-to-50-off-extra-15-off-free-shipping/22249644.html?iref=rss-c280",
     "date": "2026-10-09 09:31",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Run Swift 3 Men's Road Running Shoes (Anthracite Light Bone) + $10 Kohl's Cash $50.97 + Free Shipping",
-    "price": "$10",
-    "link": "https://slickdeals.net/f/20131305-nike-run-swift-3-men-s-road-running-shoes-anthracite-light-bone-10-kohl-s-cash-50-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-08 22:01",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Lite Racer 4.0 Shoes for $20 + free shipping",
-    "price": "$20",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-20-free-shipping/22265043.html?iref=rss-c280",
-    "date": "2026-10-08 21:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Women's Grand Court 2.0 Shoes for $18 + free shipping",
-    "price": "$18",
-    "link": "https://www.dealnews.com/adidas-Womens-Grand-Court-2-0-Shoes-for-18-free-shipping/22264959.html?iref=rss-c280",
-    "date": "2026-10-08 18:32",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
