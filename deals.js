@@ -1,21 +1,21 @@
 window.DEALS = [
   {
-    "title": "Nike Zoom Fly 6 Men's Running Shoes, In Store Bicester",
-    "price": "£76.99",
-    "link": "https://www.hotukdeals.com/deals/nike-zoom-fly-6-mens-running-shoes-in-store-bicester-5001807",
-    "date": "2026-10-10 11:09",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
+    "title": "adidas Men's Technochaos 2000 Shoes for $34 + free shipping",
+    "price": "$34",
+    "link": "https://www.dealnews.com/adidas-Mens-Technochaos-2000-Shoes-for-34-free-shipping/22269572.html?iref=rss-c280",
+    "date": "2026-10-10 14:12",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
-    "title": "Character Boys Sonic Emboss Lights Boys Trainers Blue/Multi",
-    "price": "£9.99",
-    "link": "https://www.hotukdeals.com/deals/character-boys-sonic-emboss-lights-trainers-bluemulti-5001799",
-    "date": "2026-10-10 10:50",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
+    "title": "adidas Men's Questar 4 Running Shoes for $32 + Free shipping",
+    "price": "$32",
+    "link": "https://www.dealnews.com/adidas-Mens-Questar-4-Running-Shoes-for-32-Free-shipping/22269574.html?iref=rss-c280",
+    "date": "2026-10-10 14:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Cloudfoam Cuxxion Sock Shoes for $30 + Free shipping",
@@ -43,15 +43,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Women's Shox Z Sneakers (Various) - from $29.99",
-    "price": "$29.99",
-    "link": "https://slickdeals.net/f/20137371-nike-women-s-shox-z-sneakers-various-from-29-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-10 05:23",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Women's X_PLR Path Shoes for $29 + free shipping",
@@ -94,42 +85,6 @@ window.DEALS = [
     "price": "$34",
     "link": "https://www.dealnews.com/adidas-Mens-Retrocross-25-Spikeless-Golf-Shoes-for-34-free-shipping/22267294.html?iref=rss-c280",
     "date": "2026-10-09 16:32",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Fall Favorites Sneaker Sale: Up to 50% off + extra 15% off + free shipping",
-    "price": "$60,",
-    "link": "https://www.dealnews.com/adidas-Fall-Favorites-Sneaker-Sale-Up-to-50-off-extra-15-off-free-shipping/22266767.html?iref=rss-c280",
-    "date": "2026-10-09 09:57",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Adizero Fall Favorite Deals: Up to 50% off + extra 15% off + free shipping",
-    "price": "$128,",
-    "link": "https://www.dealnews.com/adidas-Adizero-Fall-Favorite-Deals-Up-to-50-off-extra-15-off-free-shipping/22266747.html?iref=rss-c280",
-    "date": "2026-10-09 09:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Fall Favorites Shoe Sale for From $15, sneakers from $26 + free shipping",
-    "price": "$15,",
-    "link": "https://www.dealnews.com/adidas-Mens-Fall-Favorites-Shoe-Sale-for-From-15-sneakers-from-26-free-shipping/22249277.html?iref=rss-c280",
-    "date": "2026-10-09 09:32",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Fall Favorites Sale: Up to 50% off + extra 15% off + free shipping",
-    "price": "$40.80",
-    "link": "https://www.dealnews.com/adidas-Terrex-Fall-Favorites-Sale-Up-to-50-off-extra-15-off-free-shipping/22249644.html?iref=rss-c280",
-    "date": "2026-10-09 09:31",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
