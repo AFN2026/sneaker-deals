@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "Adidas Originals Men's Crew Sweatshirt - Ivory (Sizes XS, S, M)",
+    "price": "£18.50",
+    "link": "https://www.hotukdeals.com/deals/adidas-originals-mens-crew-sweatshirt-ivory-sizes-xs-s-m-5002127",
+    "date": "2026-10-10 20:04",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22269668.html?iref=rss-c280",
+    "date": "2026-10-10 16:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "adidas Men's Technochaos 2000 Shoes for $34 + free shipping",
     "price": "$34",
     "link": "https://www.dealnews.com/adidas-Mens-Technochaos-2000-Shoes-for-34-free-shipping/22269572.html?iref=rss-c280",
@@ -88,6 +106,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "$37.50 FS WALMART Skechers Men's Track Moulton Lightweight Memory Foam Trainer Sneakers  Sizes 7-14 (2 color options) Some wide sizes too",
+    "price": "$37.50",
+    "link": "https://slickdeals.net/f/20130846-37-50-fs-walmart-skechers-men-s-track-moulton-lightweight-memory-foam-trainer-sneakers-sizes-7-14-2-color-options-some-wide-sizes-too?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-08 19:45",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "sneakers"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
