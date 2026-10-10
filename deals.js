@@ -1,21 +1,12 @@
 window.DEALS = [
   {
-    "title": "Last chance ADIDAS Kids' Manchester United 2023 2024 Away Shirt",
-    "price": "£19.99",
-    "link": "https://www.hotukdeals.com/deals/last-chance-adidas-kids-manchester-united-2023-2024-away-shirt-5001503",
-    "date": "2026-10-09 21:31",
+    "title": "Asics Men’s Gel-Venture 11 Trail Running Trainers (Sizes 6-13) - Member Price & Free Delivery for Members",
+    "price": "£44.10",
+    "link": "https://www.hotukdeals.com/deals/asics-mens-gel-venture-11-trail-running-trainers-sizes-6-13-member-price-free-delivery-for-members-5001542",
+    "date": "2026-10-09 23:41",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "ADIDAS Kids' Football Training Bottoms Sereno - Black",
-    "price": "£4.99",
-    "link": "https://www.hotukdeals.com/deals/adidas-kids-football-training-bottoms-sereno-black-5001498",
-    "date": "2026-10-09 21:24",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
+    "keyword": "trainers"
   },
   {
     "title": "adidas Women's X_PLR Path Shoes for $29 + free shipping",
@@ -23,15 +14,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Womens-X-PLR-Path-Shoes-for-29-free-shipping/22267450.html?iref=rss-c280",
     "date": "2026-10-09 18:34",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas women Terrex Agravic TT Trail Running Shoes (Cloud White / Core Black / Impact Orange) $74.4",
-    "price": "$74.4",
-    "link": "https://slickdeals.net/f/20135316-adidas-women-terrex-agravic-tt-trail-running-shoes-cloud-white-core-black-impact-orange-74-4?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-09 18:30",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -106,6 +88,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "Nike Run Swift 3 Men's Road Running Shoes (Anthracite Light Bone) + $10 Kohl's Cash $50.97 + Free Shipping",
+    "price": "$10",
+    "link": "https://slickdeals.net/f/20131305-nike-run-swift-3-men-s-road-running-shoes-anthracite-light-bone-10-kohl-s-cash-50-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-08 22:01",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Men's Lite Racer 4.0 Shoes for $20 + free shipping",
