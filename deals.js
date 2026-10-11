@@ -1,12 +1,12 @@
 window.DEALS = [
   {
-    "title": "New Balance 370 Trainers (Castlerock / Beige) – UK Sizes 3.5, 4 & 5",
-    "price": "£29.99",
-    "link": "https://www.hotukdeals.com/deals/new-balance-370-trainers-castlerock-beige-ps2999-uk-sizes-35-4-5-at-mandm-5002450",
-    "date": "2026-10-11 11:44",
+    "title": "adidas Womens Grand Court Lo Shoes Trainers - Size 5 UK",
+    "price": "£37.80",
+    "link": "https://www.hotukdeals.com/deals/adidas-womens-grand-court-lo-shoes-trainers-size-5-uk-5002720",
+    "date": "2026-10-11 16:26",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "new balance"
+    "keyword": "adidas"
   },
   {
     "title": "adidas x Pokémon Collection: Now available + free shipping",
@@ -16,24 +16,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "adidas men Samoa Shoes (3 colors) - from $25.60 + Free Shipping",
-    "price": "$25.60",
-    "link": "https://slickdeals.net/f/20141109-adidas-men-samoa-shoes-3-colors-from-25-60-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-11 06:48",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Woot! Women's and Men's Vans and Skechers Footwear $10.99 - $74.99 + Free Shipping w/Prime",
-    "price": "$10.99",
-    "link": "https://slickdeals.net/f/20135352-woot-women-s-and-men-s-vans-and-skechers-footwear-10-99-74-99-free-shipping-w-prime?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-11 05:00",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "vans"
   },
   {
     "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
