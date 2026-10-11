@@ -1,12 +1,66 @@
 window.DEALS = [
   {
-    "title": "adidas Womens Grand Court Lo Shoes Trainers - Size 5 UK",
-    "price": "£37.80",
-    "link": "https://www.hotukdeals.com/deals/adidas-womens-grand-court-lo-shoes-trainers-size-5-uk-5002720",
-    "date": "2026-10-11 16:26",
+    "title": "Adidas Men's Adilette Aqua Slides (Black, UK 7)",
+    "price": "£10",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-adilette-aqua-slides-black-uk-7-5002944",
+    "date": "2026-10-11 20:55",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
+  },
+  {
+    "title": "Womens MOVEBOOST RUNNING SHOES, Cloud White / Chalk White / Core Black, Size 3.5-4",
+    "price": "£36.80",
+    "link": "https://www.hotukdeals.com/deals/womens-moveboost-running-shoes-cloud-white-chalk-white-core-black-size-35-4-5002930",
+    "date": "2026-10-11 20:35",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "PUMA Men's BMW M Motorsport X Extent Nitro Sneakers for $45 + free shipping",
+    "price": "$45",
+    "link": "https://www.dealnews.com/PUMA-Mens-BMW-M-Motorsport-X-Extent-Nitro-Sneakers-for-45-free-shipping/22271947.html?iref=rss-c280",
+    "date": "2026-10-11 20:07",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "puma"
+  },
+  {
+    "title": "adidas Men's or Women's Adifom Iiinfinity Slides for $15 + free shipping",
+    "price": "$15",
+    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Adifom-Iiinfinity-Slides-for-15-free-shipping/22271931.html?iref=rss-c280",
+    "date": "2026-10-11 19:56",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Court Stabil Indoor Sneakers for $28 + free shipping",
+    "price": "$28",
+    "link": "https://www.dealnews.com/adidas-Mens-Court-Stabil-Indoor-Sneakers-for-28-free-shipping/22271930.html?iref=rss-c280",
+    "date": "2026-10-11 19:51",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Vomero Premium (Black Volt Glow) $128 at Sole Classics",
+    "price": "$128",
+    "link": "https://slickdeals.net/f/20142801-nike-vomero-premium-black-volt-glow-128-at-sole-classics?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-11 18:32",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Reebok Men's Classic Leather Shoes (11.5 only) for $19 + free shipping w/ Prime",
+    "price": "$19",
+    "link": "https://www.dealnews.com/Reebok-Mens-Classic-Leather-Shoes-11-5-only-for-19-free-shipping-w-Prime/22271828.html?iref=rss-c280",
+    "date": "2026-10-11 18:22",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "reebok"
   },
   {
     "title": "adidas x Pokémon Collection: Now available + free shipping",
@@ -85,33 +139,6 @@ window.DEALS = [
     "price": "$26",
     "link": "https://www.dealnews.com/adidas-Mens-Samoa-Shoes-for-26-free-shipping/22267436.html?iref=rss-c280",
     "date": "2026-10-09 18:26",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Adizero Aruku Casual Shoes for $40 + free shipping",
-    "price": "$40",
-    "link": "https://www.dealnews.com/adidas-Mens-Adizero-Aruku-Casual-Shoes-for-40-free-shipping/22267377.html?iref=rss-c280",
-    "date": "2026-10-09 17:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Adizero Select 3.0 Shoes for $49 + free shipping",
-    "price": "$49",
-    "link": "https://www.dealnews.com/adidas-Mens-Adizero-Select-3-0-Shoes-for-49-free-shipping/22267320.html?iref=rss-c280",
-    "date": "2026-10-09 16:55",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Retrocross 25 Spikeless Golf Shoes for $34 + free shipping",
-    "price": "$34",
-    "link": "https://www.dealnews.com/adidas-Mens-Retrocross-25-Spikeless-Golf-Shoes-for-34-free-shipping/22267294.html?iref=rss-c280",
-    "date": "2026-10-09 16:32",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
