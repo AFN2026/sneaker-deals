@@ -1,21 +1,30 @@
 window.DEALS = [
   {
-    "title": "Nike P-6000 suede trainers in brown, Size 10-10.5, w/code",
-    "price": "£43.99",
-    "link": "https://www.hotukdeals.com/deals/nike-p-6000-suede-trainers-in-brown-size-10-105-wcode-5003025",
-    "date": "2026-10-12 02:31",
+    "title": "Adidas EDT Gift Sets with Code e.g Adidas Ice Dive / Adidas Core",
+    "price": "£6.12",
+    "link": "https://www.hotukdeals.com/deals/adidas-edt-gift-sets-with-code-5003503",
+    "date": "2026-10-12 13:43",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "nike"
+    "keyword": "adidas"
   },
   {
-    "title": "Khaki Contrast Sole Slip On Trainers - Free C&C",
-    "price": "£10",
-    "link": "https://www.hotukdeals.com/deals/khaki-contrast-sole-slip-on-trainers-free-cc-5003001",
-    "date": "2026-10-11 23:44",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
+    "title": "Vilanva Men's Cushioned Sneakers for $30 + free shipping",
+    "price": "$30",
+    "link": "https://www.dealnews.com/Vilanva-Mens-Cushioned-Sneakers-for-30-free-shipping/22274322.html?iref=rss-c280",
+    "date": "2026-10-12 08:28",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Airhas Men's Wide Toe Box Low Drop Gym Sneakers for $27 + free shipping",
+    "price": "$27",
+    "link": "https://www.dealnews.com/products/Airhas/Airhas-Mens-Wide-Toe-Box-Low-Drop-Gym-Sneakers/544035.html?iref=rss-c280",
+    "date": "2026-10-12 07:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
   },
   {
     "title": "PUMA Men's BMW M Motorsport X Extent Nitro Sneakers for $45 + free shipping",
@@ -31,15 +40,6 @@ window.DEALS = [
     "price": "$15",
     "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Adifom-Iiinfinity-Slides-for-15-free-shipping/22271931.html?iref=rss-c280",
     "date": "2026-10-11 19:56",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Court Stabil Indoor Sneakers for $28 + free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-Mens-Court-Stabil-Indoor-Sneakers-for-28-free-shipping/22271930.html?iref=rss-c280",
-    "date": "2026-10-11 19:51",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
@@ -97,24 +97,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Vans Shoes, Clothing & Accessories Sale: Up to 50% off + extra 30% off + shipping varies",
-    "price": "$24.50",
-    "link": "https://www.dealnews.com/Vans-Shoes-Clothing-Accessories-Sale-Up-to-50-off-extra-30-off-shipping-varies/22269185.html?iref=rss-c280",
-    "date": "2026-10-10 07:41",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "vans"
-  },
-  {
-    "title": "lululemon Shoe Specials for From $49, Sneakers from $89 + shipping varies",
-    "price": "$49,",
-    "link": "https://www.dealnews.com/lululemon-Shoe-Specials-for-From-49-Sneakers-from-89-shipping-varies/22264658.html?iref=rss-c280",
-    "date": "2026-10-10 07:18",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
