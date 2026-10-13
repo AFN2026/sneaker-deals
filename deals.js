@@ -1,5 +1,122 @@
 window.DEALS = [
   {
+    "title": "adidas Men's or Women's Jump Hook Shoes for $23 + free shipping",
+    "price": "$23",
+    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Jump-Hook-Shoes-for-23-free-shipping/22280063.html?iref=rss-c280",
+    "date": "2026-10-13 19:41",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's or Women's Zenboost Running Shoes for $35 + free shipping",
+    "price": "$35",
+    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Zenboost-Running-Shoes-for-35-free-shipping/22280001.html?iref=rss-c280",
+    "date": "2026-10-13 18:57",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's or Women's RapidMove Go Trainer M Shoes for $34 + free shipping",
+    "price": "$34",
+    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Rapid-Move-Go-Trainer-M-Shoes-for-34-free-shipping/22279961.html?iref=rss-c280",
+    "date": "2026-10-13 18:29",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Adidas: WOMENS JUMP HOOK SHOES $28.05 AC + Free Shipping with Membership",
+    "price": "$28.05",
+    "link": "https://slickdeals.net/f/20153625-adidas-womens-jump-hook-shoes-28-05-ac-free-shipping-with-membership?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-13 17:38",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Adistar XLG 2.0 Shoes for $58 + Free shipping",
+    "price": "$58",
+    "link": "https://www.dealnews.com/adidas-Mens-Adistar-XLG-2-0-Shoes-for-58-Free-shipping/22279713.html?iref=rss-c280",
+    "date": "2026-10-13 15:16",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Women's Ultraboost 5X Shoes for $63 + Free shipping",
+    "price": "$63",
+    "link": "https://www.dealnews.com/adidas-Womens-Ultraboost-5-X-Shoes-for-63-Free-shipping/22279689.html?iref=rss-c280",
+    "date": "2026-10-13 14:57",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Terrex Hikster LT Hiking Shoes for $34 + Free shipping",
+    "price": "$34",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Hikster-LT-Hiking-Shoes-for-34-Free-shipping/22279663.html?iref=rss-c280",
+    "date": "2026-10-13 14:35",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Shoe Deals for Slides from $13, sneakers from $21 + Free shipping",
+    "price": "$13,",
+    "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-for-Slides-from-13-sneakers-from-21-Free-shipping/22279630.html?iref=rss-c280",
+    "date": "2026-10-13 14:12",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $29 + Free shipping",
+    "price": "$29",
+    "link": "https://www.dealnews.com/adidas-Mens-Cloudfoam-Cuxxion-Sock-Shoes-for-29-Free-shipping/22279610.html?iref=rss-c280",
+    "date": "2026-10-13 14:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Questar 4 Running Shoes for $29 + Free shipping",
+    "price": "$29",
+    "link": "https://www.dealnews.com/adidas-Mens-Questar-4-Running-Shoes-for-29-Free-shipping/22279605.html?iref=rss-c280",
+    "date": "2026-10-13 13:49",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Technochaos 2000 Shoes for $28 + Free shipping",
+    "price": "$28",
+    "link": "https://www.dealnews.com/adidas-Mens-Technochaos-2000-Shoes-for-28-Free-shipping/22279584.html?iref=rss-c280",
+    "date": "2026-10-13 13:43",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Adilette Aqua Slides for $13 + Free shipping",
+    "price": "$13",
+    "link": "https://www.dealnews.com/adidas-Adilette-Aqua-Slides-for-13-Free-shipping/22279581.html?iref=rss-c280",
+    "date": "2026-10-13 13:33",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Questar 4 Running Shoes (Grey or White) $29.40 + Free Shipping",
+    "price": "$29.40",
+    "link": "https://slickdeals.net/f/20151699-adidas-men-s-questar-4-running-shoes-grey-or-white-29-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-13 12:33",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Merrell Men's Sprint Anthem Leather Sneakers for $49 + free shipping w/ $75",
     "price": "$49",
     "link": "https://www.dealnews.com/Merrell-Mens-Sprint-Anthem-Leather-Sneakers-for-49-free-shipping-w-75/22275343.html?iref=rss-c280",
@@ -25,60 +142,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Nike Kids' Mercurial Vapor 16 Academy Vini Jr. Indoor Soccer Shoes for $21 + free shipping w/ $49",
-    "price": "$21",
-    "link": "https://www.dealnews.com/Nike-Kids-Mercurial-Vapor-16-Academy-Vini-Jr-Indoor-Soccer-Shoes-for-21-free-shipping-w-49/22275213.html?iref=rss-c280",
-    "date": "2026-10-12 19:11",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Vilanva Men's Cushioned Sneakers for $30 + free shipping",
-    "price": "$30",
-    "link": "https://www.dealnews.com/Vilanva-Mens-Cushioned-Sneakers-for-30-free-shipping/22274322.html?iref=rss-c280",
-    "date": "2026-10-12 08:28",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Airhas Men's Wide Toe Box Low Drop Gym Sneakers for $27 + free shipping",
-    "price": "$27",
-    "link": "https://www.dealnews.com/products/Airhas/Airhas-Mens-Wide-Toe-Box-Low-Drop-Gym-Sneakers/544035.html?iref=rss-c280",
-    "date": "2026-10-12 07:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "PUMA Men's BMW M Motorsport X Extent Nitro Sneakers for $45 + free shipping",
-    "price": "$45",
-    "link": "https://www.dealnews.com/PUMA-Mens-BMW-M-Motorsport-X-Extent-Nitro-Sneakers-for-45-free-shipping/22271947.html?iref=rss-c280",
-    "date": "2026-10-11 20:07",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "puma"
-  },
-  {
-    "title": "adidas Men's or Women's Adifom Iiinfinity Slides for $15 + free shipping",
-    "price": "$15",
-    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Adifom-Iiinfinity-Slides-for-15-free-shipping/22271931.html?iref=rss-c280",
-    "date": "2026-10-11 19:56",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Reebok Men's Classic Leather Shoes (11.5 only) for $19 + free shipping w/ Prime",
-    "price": "$19",
-    "link": "https://www.dealnews.com/Reebok-Mens-Classic-Leather-Shoes-11-5-only-for-19-free-shipping-w-Prime/22271828.html?iref=rss-c280",
-    "date": "2026-10-11 18:22",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "reebok"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
