@@ -1,12 +1,39 @@
 window.DEALS = [
   {
-    "title": "Saucony Men's Hurricane 25 Running Shoes Trainers, Black/White | Sizes 7-12",
-    "price": "£60.75",
-    "link": "https://www.hotukdeals.com/deals/saucony-mens-hurricane-25-running-shoes-trainers-blackwhite-sizes-7-12-5004994",
-    "date": "2026-10-14 10:53",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
+    "title": "New Balance Sale for 25% off $125 + free shipping",
+    "price": "$125",
+    "link": "https://www.dealnews.com/New-Balance-Sale-for-25-off-125-free-shipping/22284065.html?iref=rss-c280",
+    "date": "2026-10-14 15:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "Macy's Men's Great Shoe Sale: Up to 60% off + free shipping w/ $39",
+    "price": "$39",
+    "link": "https://www.dealnews.com/Macys-Mens-Great-Shoe-Sale-Up-to-60-off-free-shipping-w-39/22284041.html?iref=rss-c280",
+    "date": "2026-10-14 15:21",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Macy's Great Shoe Sale: Up to 70% off + free shipping w/ $39",
+    "price": "$39",
+    "link": "https://www.dealnews.com/Macys-Great-Shoe-Sale-Up-to-70-off-free-shipping-w-39/22284018.html?iref=rss-c280",
+    "date": "2026-10-14 15:12",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Pro Dri-FIT 3/4th Length Fitness Pants (Smoke Grey/Black) $14.80 + Free Shiping",
+    "price": "$14.80",
+    "link": "https://slickdeals.net/f/20157540-nike-men-s-pro-dri-fit-3-4th-length-fitness-pants-smoke-grey-black-14-80-free-shiping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-14 13:45",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Men's Terrex Rockadia Shoes for $39 + free shipping",
@@ -41,15 +68,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-Fall-Shoe-Deals-for-From-13-sneakers-from-21-free-shipping/22283542.html?iref=rss-c280",
     "date": "2026-10-14 09:34",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Originals Men's Essentials 3-Stripes Chelsea 7\" Shorts (XS, Olive Strata/Black) $8.72 + Free Shipping w/ Prime or on $35+",
-    "price": "$8.72",
-    "link": "https://slickdeals.net/f/20155488-adidas-originals-men-s-essentials-3-stripes-chelsea-7-shorts-xs-olive-strata-black-8-72-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-14 02:46",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -103,51 +121,6 @@ window.DEALS = [
     "price": "$63",
     "link": "https://www.dealnews.com/adidas-Womens-Ultraboost-5-X-Shoes-for-63-Free-shipping/22279689.html?iref=rss-c280",
     "date": "2026-10-13 14:57",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Hikster LT Hiking Shoes for $34 + Free shipping",
-    "price": "$34",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Hikster-LT-Hiking-Shoes-for-34-Free-shipping/22279663.html?iref=rss-c280",
-    "date": "2026-10-13 14:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $29 + Free shipping",
-    "price": "$29",
-    "link": "https://www.dealnews.com/adidas-Mens-Cloudfoam-Cuxxion-Sock-Shoes-for-29-Free-shipping/22279610.html?iref=rss-c280",
-    "date": "2026-10-13 14:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Questar 4 Running Shoes for $29 + Free shipping",
-    "price": "$29",
-    "link": "https://www.dealnews.com/adidas-Mens-Questar-4-Running-Shoes-for-29-Free-shipping/22279605.html?iref=rss-c280",
-    "date": "2026-10-13 13:49",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Technochaos 2000 Shoes for $28 + Free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-Mens-Technochaos-2000-Shoes-for-28-Free-shipping/22279584.html?iref=rss-c280",
-    "date": "2026-10-13 13:43",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Adilette Aqua Slides for $13 + Free shipping",
-    "price": "$13",
-    "link": "https://www.dealnews.com/adidas-Adilette-Aqua-Slides-for-13-Free-shipping/22279581.html?iref=rss-c280",
-    "date": "2026-10-13 13:33",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
