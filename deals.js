@@ -1,5 +1,59 @@
 window.DEALS = [
   {
+    "title": "Saucony Men's Hurricane 25 Running Shoes Trainers, Black/White | Sizes 7-12",
+    "price": "£60.75",
+    "link": "https://www.hotukdeals.com/deals/saucony-mens-hurricane-25-running-shoes-trainers-blackwhite-sizes-7-12-5004994",
+    "date": "2026-10-14 10:53",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "trainers"
+  },
+  {
+    "title": "adidas Men's Terrex Rockadia Shoes for $39 + free shipping",
+    "price": "$39",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Rockadia-Shoes-for-39-free-shipping/22283565.html?iref=rss-c280",
+    "date": "2026-10-14 09:59",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Terrex Eastrail 3 Shoes for $39 + free shipping",
+    "price": "$39",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Eastrail-3-Shoes-for-39-free-shipping/22283564.html?iref=rss-c280",
+    "date": "2026-10-14 09:50",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas x Minecraft Men's Grand Court 3.0 Shoes for $32 + free shipping",
+    "price": "$32",
+    "link": "https://www.dealnews.com/adidas-x-Minecraft-Mens-Grand-Court-3-0-Shoes-for-32-free-shipping/22283543.html?iref=rss-c280",
+    "date": "2026-10-14 09:42",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Fall Shoe Deals for From $13, sneakers from $21 + free shipping",
+    "price": "$13,",
+    "link": "https://www.dealnews.com/adidas-Mens-Fall-Shoe-Deals-for-From-13-sneakers-from-21-free-shipping/22283542.html?iref=rss-c280",
+    "date": "2026-10-14 09:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Originals Men's Essentials 3-Stripes Chelsea 7\" Shorts (XS, Olive Strata/Black) $8.72 + Free Shipping w/ Prime or on $35+",
+    "price": "$8.72",
+    "link": "https://slickdeals.net/f/20155488-adidas-originals-men-s-essentials-3-stripes-chelsea-7-shorts-xs-olive-strata-black-8-72-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-14 02:46",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Fear of God Athletics Shoes at eBay for $35 to $40 + free shipping",
     "price": "$35",
     "link": "https://www.dealnews.com/adidas-Fear-of-God-Athletics-Shoes-at-eBay-for-35-to-40-free-shipping/22280285.html?iref=rss-c280",
@@ -7,24 +61,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "adidas men GRAND COURT 2.0 SHOES from $24 + Free Shipping at adidas via eBay",
-    "price": "$24",
-    "link": "https://slickdeals.net/f/20155149-adidas-men-grand-court-2-0-shoes-from-24-free-shipping-at-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-14 00:50",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Mens Park 26 Fleece Hoodie (Size Medium / University Red/White)",
-    "price": "£13.70",
-    "link": "https://www.hotukdeals.com/deals/nike-mens-park-26-fleece-hoodie-size-medium-university-redwhite-5004675",
-    "date": "2026-10-14 00:41",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
   },
   {
     "title": "adidas Men's or Women's Jump Hook Shoes for $23 + free shipping",
@@ -41,15 +77,6 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Zenboost-Running-Shoes-for-35-free-shipping/22280001.html?iref=rss-c280",
     "date": "2026-10-13 18:57",
     "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Women's NY 90 Shoes (Cloud White / Cloud White / Cream White, Sizes: 6.5-10) $27 + Shipping $4.95",
-    "price": "$27",
-    "link": "https://slickdeals.net/f/20153922-adidas-women-s-ny-90-shoes-cloud-white-cloud-white-cream-white-sizes-6-5-10-27-shipping-4-95?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-13 18:48",
-    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -90,15 +117,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Shoe Deals for Slides from $13, sneakers from $21 + Free shipping",
-    "price": "$13,",
-    "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-for-Slides-from-13-sneakers-from-21-Free-shipping/22279630.html?iref=rss-c280",
-    "date": "2026-10-13 14:12",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's Cloudfoam Cuxxion Sock Shoes for $29 + Free shipping",
     "price": "$29",
     "link": "https://www.dealnews.com/adidas-Mens-Cloudfoam-Cuxxion-Sock-Shoes-for-29-Free-shipping/22279610.html?iref=rss-c280",
@@ -133,24 +151,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Merrell Men's Sprint Anthem Leather Sneakers for $49 + free shipping w/ $75",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Merrell-Mens-Sprint-Anthem-Leather-Sneakers-for-49-free-shipping-w-75/22275343.html?iref=rss-c280",
-    "date": "2026-10-13 00:55",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Avia Men's Commend 2 Running Sneakers for $15 + free shipping w/ $35",
-    "price": "$15",
-    "link": "https://www.dealnews.com/Avia-Mens-Commend-2-Running-Sneakers-for-15-free-shipping-w-35/22275342.html?iref=rss-c280",
-    "date": "2026-10-13 00:51",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
