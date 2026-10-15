@@ -1,12 +1,12 @@
 window.DEALS = [
   {
-    "title": "Kappa Scafa Platform Ladies Trainers",
-    "price": "£16",
-    "link": "https://www.hotukdeals.com/deals/kappa-scafa-platform-ladies-trainers-ps1600-rrp-ps7999-5005455",
-    "date": "2026-10-14 20:40",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
+    "title": "Vans Men's Ryland Suede Shoes for $30 + free shipping w/ Prime",
+    "price": "$30",
+    "link": "https://www.dealnews.com/Vans-Mens-Ryland-Suede-Shoes-for-30-free-shipping-w-Prime/22284856.html?iref=rss-c280",
+    "date": "2026-10-15 01:33",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "vans"
   },
   {
     "title": "PUMA Kids' Ultra 6 Play CP Turf Soccer Cleats for $17 + free shipping w/ $49",
@@ -103,15 +103,6 @@ window.DEALS = [
     "price": "$35",
     "link": "https://www.dealnews.com/adidas-Fear-of-God-Athletics-Shoes-at-eBay-for-35-to-40-free-shipping/22280285.html?iref=rss-c280",
     "date": "2026-10-14 00:56",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's or Women's Jump Hook Shoes for $23 + free shipping",
-    "price": "$23",
-    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Jump-Hook-Shoes-for-23-free-shipping/22280063.html?iref=rss-c280",
-    "date": "2026-10-13 19:41",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
