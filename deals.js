@@ -1,11 +1,20 @@
 window.DEALS = [
   {
-    "title": "Nike Air Jordan Court Connect Low Men's Shoes, Sizes 7-11 W/Code",
-    "price": "£34.20",
-    "link": "https://www.hotukdeals.com/deals/nike-air-jordan-court-connect-low-mens-shoes-sizes-7-11-wcode-5006757",
-    "date": "2026-10-16 09:45",
+    "title": "adidas Infant MUFC Manchester United 24/25 Third Baby Mini Kit Off White 9-12 months",
+    "price": "£7.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-infant-mufc-manchester-united-2425-third-baby-mini-kit-off-white-9-12-months-5007025",
+    "date": "2026-10-16 15:50",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Kobe Air Force 1 Shoes for $71 + free shipping",
+    "price": "$71",
+    "link": "https://www.dealnews.com/Nike-Mens-Kobe-Air-Force-1-Shoes-for-71-free-shipping/22288862.html?iref=rss-c280",
+    "date": "2026-10-16 15:14",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
@@ -18,13 +27,22 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas FMF Mexico Trefoil Soccer Ball (Size 5) $10 + Free Shipping",
-    "price": "$10",
-    "link": "https://slickdeals.net/f/20164068-adidas-fmf-mexico-trefoil-soccer-ball-size-5-10-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-15 18:05",
+    "title": "adidas men Alphaskin Headband $8.4 + Free Shipping",
+    "price": "$8.4",
+    "link": "https://slickdeals.net/f/20165370-adidas-men-alphaskin-headband-8-4-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-16 00:03",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "Reebok Men's & Big Men's Windbreaker (Color Teal, Sizes S-L 2XL) $13.76 + Free S&H w/ Walmart+ or $35+",
+    "price": "$13.76",
+    "link": "https://slickdeals.net/f/20162877-reebok-men-s-big-men-s-windbreaker-color-teal-sizes-s-l-2xl-13-76-free-s-h-w-walmart-or-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-15 14:15",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "reebok"
   },
   {
     "title": "adidas Fall Sneaker Deals: Up to 50% off + extra 30% of + free shipping",
