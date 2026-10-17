@@ -1,12 +1,12 @@
 window.DEALS = [
   {
-    "title": "Adidas Barreda Shoes in White/Gold, Sizes 3.5-5.5 W/Code",
-    "price": "£15.30",
-    "link": "https://www.hotukdeals.com/deals/adidas-barreda-shoes-in-whitegold-sizes-35-55-wcode-5007404",
-    "date": "2026-10-17 09:56",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
+    "title": "lululemon Shoe Specials for From $49, sneakers from $89 + free shipping",
+    "price": "$49,",
+    "link": "https://www.dealnews.com/lululemon-Shoe-Specials-for-From-49-sneakers-from-89-free-shipping/22291080.html?iref=rss-c280",
+    "date": "2026-10-17 11:27",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
   },
   {
     "title": "adidas Men's Terrex Eastrail 3 Shoes for $39 + free shipping",
@@ -49,33 +49,6 @@ window.DEALS = [
     "price": "$1",
     "link": "https://www.dealnews.com/Nike-Jordan-Sneakers-on-eBay-Live-for-Deals-from-1/22288312.html?iref=rss-c280",
     "date": "2026-10-16 08:40",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Fall Sneaker Deals: Up to 50% off + extra 30% of + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Fall-Sneaker-Deals-Up-to-50-off-extra-30-of-free-shipping/22285571.html?iref=rss-c280",
-    "date": "2026-10-15 13:17",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas x Pokémon Collection: Now available + free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-x-Pok-mon-Collection-Now-available-free-shipping/22285551.html?iref=rss-c280",
-    "date": "2026-10-15 13:12",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22269668.html?iref=rss-c280",
-    "date": "2026-10-15 12:11",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
