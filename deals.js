@@ -1,30 +1,30 @@
 window.DEALS = [
   {
-    "title": "Skechers Men's Go Walk Max Trainers (Black, 11 UK)",
-    "price": "£29.99",
-    "link": "https://www.hotukdeals.com/deals/skechers-mens-go-walk-max-trainers-black-11-uk-5008132",
-    "date": "2026-10-18 14:58",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
-  },
-  {
-    "title": "Adidas Kids Tensaur Sport 3.0 Hook and Loop Shoes (FTWR White/Core Black/Gum, 12 UK Child)",
-    "price": "£21.14",
-    "link": "https://www.hotukdeals.com/deals/adidas-kids-tensaur-sport-30-hook-and-loop-shoes-ftwr-whitecore-blackgum-12-uk-child-5008125",
-    "date": "2026-10-18 14:55",
+    "title": "Adidas Men's VL Court 3.0 Shoes - Most Sizes",
+    "price": "£29",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-vl-court-30-shoes-most-sizes-5008242",
+    "date": "2026-10-18 18:16",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
   },
   {
-    "title": "JOUSEN Men's Business Casual Shoes Dress Sneakers Brown 10.5 Q06 $18.99",
-    "price": "$18.99",
-    "link": "https://slickdeals.net/f/20172534-jousen-men-s-business-casual-shoes-dress-sneakers-brown-10-5-q06-18-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-17 20:00",
+    "title": "Nike Air Max Fire Men's Trainers, Size 7 / Sizes 8-11 £49.50 - W/Code",
+    "price": "£49.50",
+    "link": "https://www.hotukdeals.com/deals/nike-air-max-fire-mens-trainers-size-7-sizes-8-11-ps4950-wcode-5008241",
+    "date": "2026-10-18 18:15",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air VaporMax Plus Shoes (Black/Anthracite/White/Bright Crimson) $121.97 + Free Shipping",
+    "price": "$121.97",
+    "link": "https://slickdeals.net/f/20173578-nike-men-s-air-vapormax-plus-shoes-black-anthracite-white-bright-crimson-121-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-18 05:29",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "sneakers"
+    "keyword": "nike"
   },
   {
     "title": "lululemon Shoe Specials for From $49, sneakers from $89 + free shipping",
@@ -97,24 +97,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Reebok Women's Small Logo Rise Tank Top, Sizes XS-XXXL (Brilliant White) - $4.86",
-    "price": "$4.86",
-    "link": "https://slickdeals.net/f/20159556-reebok-women-s-small-logo-rise-tank-top-sizes-xs-xxxl-brilliant-white-4-86?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-14 18:55",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "reebok"
-  },
-  {
-    "title": "New Balance ABZORB 2000 Unisex Sneakers $99.99",
-    "price": "$99.99",
-    "link": "https://slickdeals.net/f/20143968-new-balance-abzorb-2000-unisex-sneakers-99-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-12 02:02",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "new balance"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
