@@ -1,32 +1,5 @@
 window.DEALS = [
   {
-    "title": "PUMA Black-Cool Dark Gray - Size 7.5",
-    "price": "£35",
-    "link": "https://www.hotukdeals.com/deals/puma-black-cool-dark-gray-5007687",
-    "date": "2026-10-17 19:08",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
-  },
-  {
-    "title": "Puma Trinity 2 LT Sneakers Youth",
-    "price": "£24",
-    "link": "https://www.hotukdeals.com/deals/puma-trinity-2-lt-sneakers-youth-5007685",
-    "date": "2026-10-17 19:06",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
-  },
-  {
-    "title": "Puma Hypnotic 2 Sneakers Unisex - Various Colours",
-    "price": "£49",
-    "link": "https://www.hotukdeals.com/deals/puma-hypnotic-2-sneakers-unisex-5007682",
-    "date": "2026-10-17 19:01",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
-  },
-  {
     "title": "lululemon Shoe Specials for From $49, sneakers from $89 + free shipping",
     "price": "$49,",
     "link": "https://www.dealnews.com/lululemon-Shoe-Specials-for-From-49-sneakers-from-89-free-shipping/22291080.html?iref=rss-c280",
@@ -79,6 +52,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
+  },
+  {
+    "title": "$38-$46: PUMA Men's Tazon 6 FM Shoes (Various Colors/Sizes) $43.07",
+    "price": "$38",
+    "link": "https://slickdeals.net/f/20158089-38-46-puma-men-s-tazon-6-fm-shoes-various-colors-sizes-43-07?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-14 14:53",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "puma"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
