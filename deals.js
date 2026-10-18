@@ -1,5 +1,32 @@
 window.DEALS = [
   {
+    "title": "Skechers Men's Go Walk Max Trainers (Black, 11 UK)",
+    "price": "£29.99",
+    "link": "https://www.hotukdeals.com/deals/skechers-mens-go-walk-max-trainers-black-11-uk-5008132",
+    "date": "2026-10-18 14:58",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "trainers"
+  },
+  {
+    "title": "Adidas Kids Tensaur Sport 3.0 Hook and Loop Shoes (FTWR White/Core Black/Gum, 12 UK Child)",
+    "price": "£21.14",
+    "link": "https://www.hotukdeals.com/deals/adidas-kids-tensaur-sport-30-hook-and-loop-shoes-ftwr-whitecore-blackgum-12-uk-child-5008125",
+    "date": "2026-10-18 14:55",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "JOUSEN Men's Business Casual Shoes Dress Sneakers Brown 10.5 Q06 $18.99",
+    "price": "$18.99",
+    "link": "https://slickdeals.net/f/20172534-jousen-men-s-business-casual-shoes-dress-sneakers-brown-10-5-q06-18-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-17 20:00",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
     "title": "lululemon Shoe Specials for From $49, sneakers from $89 + free shipping",
     "price": "$49,",
     "link": "https://www.dealnews.com/lululemon-Shoe-Specials-for-From-49-sneakers-from-89-free-shipping/22291080.html?iref=rss-c280",
@@ -70,6 +97,24 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "Reebok Women's Small Logo Rise Tank Top, Sizes XS-XXXL (Brilliant White) - $4.86",
+    "price": "$4.86",
+    "link": "https://slickdeals.net/f/20159556-reebok-women-s-small-logo-rise-tank-top-sizes-xs-xxxl-brilliant-white-4-86?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-14 18:55",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "reebok"
+  },
+  {
+    "title": "New Balance ABZORB 2000 Unisex Sneakers $99.99",
+    "price": "$99.99",
+    "link": "https://slickdeals.net/f/20143968-new-balance-abzorb-2000-unisex-sneakers-99-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-12 02:02",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "new balance"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
