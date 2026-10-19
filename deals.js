@@ -1,30 +1,21 @@
 window.DEALS = [
   {
-    "title": "Adidas Men's VL Court 3.0 Shoes - Most Sizes",
-    "price": "£29",
-    "link": "https://www.hotukdeals.com/deals/adidas-mens-vl-court-30-shoes-most-sizes-5008242",
-    "date": "2026-10-18 18:16",
+    "title": "adidas Women's Runfalcon 6 Wide SHOES - Size 6 UK",
+    "price": "£26.60",
+    "link": "https://www.hotukdeals.com/deals/adidas-womens-runfalcon-6-wide-shoes-size-6-uk-5008376",
+    "date": "2026-10-19 00:35",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
   },
   {
-    "title": "Nike Air Max Fire Men's Trainers, Size 7 / Sizes 8-11 £49.50 - W/Code",
-    "price": "£49.50",
-    "link": "https://www.hotukdeals.com/deals/nike-air-max-fire-mens-trainers-size-7-sizes-8-11-ps4950-wcode-5008241",
-    "date": "2026-10-18 18:15",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air VaporMax Plus Shoes (Black/Anthracite/White/Bright Crimson) $121.97 + Free Shipping",
-    "price": "$121.97",
-    "link": "https://slickdeals.net/f/20173578-nike-men-s-air-vapormax-plus-shoes-black-anthracite-white-bright-crimson-121-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-18 05:29",
-    "source": "Slickdeals",
+    "title": "adidas Men's Runfalcon 6 Wide Shoes for $27 + free shipping",
+    "price": "$27",
+    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Wide-Shoes-for-27-free-shipping/22294731.html?iref=rss-c280",
+    "date": "2026-10-18 21:13",
+    "source": "DealNews",
     "currency": "USD",
-    "keyword": "nike"
+    "keyword": "adidas"
   },
   {
     "title": "lululemon Shoe Specials for From $49, sneakers from $89 + free shipping",
@@ -85,15 +76,6 @@ window.DEALS = [
     "price": "",
     "link": "https://www.dealnews.com/adidas-Fall-Sneaker-Deals-Up-to-50-off-extra-30-of-free-shipping/22285571.html?iref=rss-c280",
     "date": "2026-10-15 13:17",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas x Pokémon Collection: Now available + free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-x-Pok-mon-Collection-Now-available-free-shipping/22285551.html?iref=rss-c280",
-    "date": "2026-10-15 13:12",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
