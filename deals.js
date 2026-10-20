@@ -1,5 +1,68 @@
 window.DEALS = [
   {
+    "title": "PUMA Women's CLOUDSPUN High-Waist Tights XXL Only",
+    "price": "£7.70",
+    "link": "https://www.hotukdeals.com/deals/puma-womens-cloudspun-high-waist-tights-xxl-only-5009892",
+    "date": "2026-10-20 20:51",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "DSW Last-Chance Clearance: Up to 60% off + free shipping",
+    "price": "$29.98",
+    "link": "https://www.dealnews.com/DSW-Last-Chance-Clearance-Up-to-60-off-free-shipping/22299799.html?iref=rss-c280",
+    "date": "2026-10-20 20:15",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Jordan Men's or Women's Heir Series Basketball Shoes for $55 + free shipping",
+    "price": "$55",
+    "link": "https://www.dealnews.com/Jordan-Mens-or-Womens-Heir-Series-Basketball-Shoes-for-55-free-shipping/22299787.html?iref=rss-c280",
+    "date": "2026-10-20 20:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "jordan"
+  },
+  {
+    "title": "adidas Terrex Sale: Up to 50% off + extra 15% or 30% off + Free shipping",
+    "price": "$57",
+    "link": "https://www.dealnews.com/adidas-Terrex-Sale-Up-to-50-off-extra-15-or-30-off-Free-shipping/22299617.html?iref=rss-c280",
+    "date": "2026-10-20 17:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Runfalcon 6 Wide Shoes for $33...or less + Free shipping",
+    "price": "$33...",
+    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Wide-Shoes-for-33-or-less-Free-shipping/22299576.html?iref=rss-c280",
+    "date": "2026-10-20 16:29",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Shoes Sale: Up to 50% off + extra 15% off or 30% off in app + Free shipping",
+    "price": "$64",
+    "link": "https://www.dealnews.com/adidas-Mens-Shoes-Sale-Up-to-50-off-extra-15-off-or-30-off-in-app-Free-shipping/22299561.html?iref=rss-c280",
+    "date": "2026-10-20 16:15",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas PHNM Backpack (Various) $21 & More + Free Shipping on $49+",
+    "price": "$21",
+    "link": "https://slickdeals.net/f/20183202-adidas-phnm-backpack-various-21-more-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-20 15:16",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Macy's Biggest Fall Sale Men's Shoes Deals: 30% off & more + free shipping w/ $39",
     "price": "$39",
     "link": "https://www.dealnews.com/Macys-Biggest-Fall-Sale-Mens-Shoes-Deals-30-off-more-free-shipping-w-39/22299177.html?iref=rss-c280",
@@ -63,38 +126,11 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's or Women's adilette Lumia Cushioned Flip Flops for $10 + free shipping w/ $49",
-    "price": "$10",
-    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-adilette-Lumia-Cushioned-Flip-Flops-for-10-free-shipping-w-49/22296982.html?iref=rss-c280",
-    "date": "2026-10-19 19:33",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Dick's Sporting Goods New Footwear Markdowns: Up to 70% off + free shipping w/ $49",
-    "price": "$49",
-    "link": "https://www.dealnews.com/Dicks-Sporting-Goods-New-Footwear-Markdowns-Up-to-70-off-free-shipping-w-49/22296797.html?iref=rss-c280",
-    "date": "2026-10-19 17:22",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Champs Sports Shoes, Clothing, & Accessories Sale: Up to 61% off + Up to Extra $15 off + free shipping",
-    "price": "$15",
-    "link": "https://www.dealnews.com/Champs-Sports-Shoes-Clothing-Accessories-Sale-Up-to-61-off-Up-to-Extra-15-off-free-shipping/22296667.html?iref=rss-c280",
-    "date": "2026-10-19 15:34",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Saucony, Brooks, & More Running Shoes at Woot: Up to 40% off + extra 20% off + free shipping w/ Prime",
-    "price": "$79.99.",
-    "link": "https://www.dealnews.com/Saucony-Brooks-More-Running-Shoes-at-Woot-Up-to-40-off-extra-20-off-free-shipping-w-Prime/22296503.html?iref=rss-c280",
-    "date": "2026-10-19 09:44",
-    "source": "DealNews",
+    "title": "adidas women Essentials Oversized Fleece Hoodie $18.6 + Free Shipping",
+    "price": "$18.6",
+    "link": "https://slickdeals.net/f/20174658-adidas-women-essentials-oversized-fleece-hoodie-18-6-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-18 14:50",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
