@@ -1,5 +1,77 @@
 window.DEALS = [
   {
+    "title": "Air Jordan 6 GS Trainers",
+    "price": "£50",
+    "link": "https://www.hotukdeals.com/deals/jordan-6-5009428",
+    "date": "2026-10-20 10:22",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "jordan"
+  },
+  {
+    "title": "Adidas Team Poland Wheeled Travel Bag 100L W/Code",
+    "price": "£18",
+    "link": "https://www.hotukdeals.com/deals/adidas-team-poland-wheeled-travel-bag-100l-wcode-5009426",
+    "date": "2026-10-20 10:14",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Up to 60% Off Sale + 10% Off W/Code + Limited Time Free Delivery - Mens Trainers £19.80 / Mens Leather Shoes £27 / Mens Boots £28.80 & More",
+    "price": "£19.80",
+    "link": "https://www.hotukdeals.com/deals/up-to-60-off-sale-10-off-wcode-limited-time-free-delivery-mens-trainers-ps1980-mens-leather-shoes-ps27-mens-boots-ps2880-more-5009425",
+    "date": "2026-10-20 10:13",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "trainers"
+  },
+  {
+    "title": "Now Up to 50% Of F1 Store Sale Clearance With Code (New Lines Added Including Disney, Red Bull, Ferrari) Over 630 Lines",
+    "price": "£50",
+    "link": "https://www.hotukdeals.com/deals/now-up-to-50-of-f1-store-sale-clearance-with-code-new-lines-added-including-disney-red-bull-ferrari-over-630-lines-5009417",
+    "date": "2026-10-20 10:03",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Adidas Footwear Sale, including \"New In\" e.g Mens Response Pace Running Shoes / Response 2 Running Shoes £26.99",
+    "price": "£26.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-footwear-sale-including-new-in-eg-mens-response-pace-running-shoes-response-2-running-shoes-ps2699-5009410",
+    "date": "2026-10-20 09:56",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Pre Montreal '17 Shoes for $55 + shipping varies",
+    "price": "$55",
+    "link": "https://www.dealnews.com/Nike-Mens-Pre-Montreal-17-Shoes-for-55-shipping-varies/22298965.html?iref=rss-c280",
+    "date": "2026-10-20 08:46",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Lite Racer 4.0 Shoes for $17 + free shipping",
+    "price": "$17",
+    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-4-0-Shoes-for-17-free-shipping/22298885.html?iref=rss-c280",
+    "date": "2026-10-20 07:42",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Air Max Torch 4 Shoes for $61 + shipping varies",
+    "price": "$61",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Torch-4-Shoes-for-61-shipping-varies/22298865.html?iref=rss-c280",
+    "date": "2026-10-20 07:25",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
     "title": "adidas Women's Run 76/26 Sportswear Sneakers for $19 + free shipping w/ $49",
     "price": "$19",
     "link": "https://www.dealnews.com/adidas-Womens-Run-76-26-Sportswear-Sneakers-for-19-free-shipping-w-49/22297283.html?iref=rss-c280",
@@ -27,15 +99,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Timberland Men's Voyager Valley Sneakers for $61 + free shipping",
-    "price": "$61",
-    "link": "https://www.dealnews.com/Timberland-Mens-Voyager-Valley-Sneakers-for-61-free-shipping/22296911.html?iref=rss-c280",
-    "date": "2026-10-19 18:40",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
     "title": "Dick's Sporting Goods New Footwear Markdowns: Up to 70% off + free shipping w/ $49",
     "price": "$49",
     "link": "https://www.dealnews.com/Dicks-Sporting-Goods-New-Footwear-Markdowns-Up-to-70-off-free-shipping-w-49/22296797.html?iref=rss-c280",
@@ -54,51 +117,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas Women's Cloudfoam Flex Slounge Shoes for $27 + Free shipping",
-    "price": "$27",
-    "link": "https://www.dealnews.com/adidas-Womens-Cloudfoam-Flex-Slounge-Shoes-for-27-Free-shipping/22296657.html?iref=rss-c280",
-    "date": "2026-10-19 15:25",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Cloudfoam Cuxxion Sock Shoes for $29 + Free shipping",
-    "price": "$29",
-    "link": "https://www.dealnews.com/adidas-Cloudfoam-Cuxxion-Sock-Shoes-for-29-Free-shipping/22296648.html?iref=rss-c280",
-    "date": "2026-10-19 15:16",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas kids Lite Racer Adapt 7.0 Shoes from $16.8 + Free Shipping",
-    "price": "$16.8",
-    "link": "https://slickdeals.net/f/20178522-adidas-kids-lite-racer-adapt-7-0-shoes-from-16-8-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-19 14:51",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Eastrail 3 Shoes for $39 + free shipping",
-    "price": "$39",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Eastrail-3-Shoes-for-39-free-shipping/22283564.html?iref=rss-c280",
-    "date": "2026-10-19 13:42",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Rockadia Shoes for $39 + free shipping",
-    "price": "$39",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Rockadia-Shoes-for-39-free-shipping/22283565.html?iref=rss-c280",
-    "date": "2026-10-19 13:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Saucony, Brooks, & More Running Shoes at Woot: Up to 40% off + extra 20% off + free shipping w/ Prime",
     "price": "$79.99.",
     "link": "https://www.dealnews.com/Saucony-Brooks-More-Running-Shoes-at-Woot-Up-to-40-off-extra-20-off-free-shipping-w-Prime/22296503.html?iref=rss-c280",
@@ -108,13 +126,31 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Runfalcon 6 Wide Shoes for $27 + free shipping",
-    "price": "$27",
-    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Wide-Shoes-for-27-free-shipping/22294731.html?iref=rss-c280",
-    "date": "2026-10-18 21:13",
+    "title": "lululemon Shoe Specials for From $49, sneakers from $89 + free shipping",
+    "price": "$49,",
+    "link": "https://www.dealnews.com/lululemon-Shoe-Specials-for-From-49-sneakers-from-89-free-shipping/22291080.html?iref=rss-c280",
+    "date": "2026-10-17 11:27",
     "source": "DealNews",
     "currency": "USD",
-    "keyword": "adidas"
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Reebok & Dansko Shoe Sale at Woot for Deals from $20 + free shipping w/ Prime",
+    "price": "$20",
+    "link": "https://www.dealnews.com/Reebok-Dansko-Shoe-Sale-at-Woot-for-Deals-from-20-free-shipping-w-Prime/22290822.html?iref=rss-c280",
+    "date": "2026-10-17 06:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "reebok"
+  },
+  {
+    "title": "Nike Men's Kobe Air Force 1 Shoes for $71 + free shipping",
+    "price": "$71",
+    "link": "https://www.dealnews.com/Nike-Mens-Kobe-Air-Force-1-Shoes-for-71-free-shipping/22288862.html?iref=rss-c280",
+    "date": "2026-10-16 15:14",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
