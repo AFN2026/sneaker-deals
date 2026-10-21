@@ -1,29 +1,65 @@
 window.DEALS = [
   {
-    "title": "New Balance Mens NB 237 Trainers - Marble Cloud - Size 7",
-    "price": "£37.50",
-    "link": "https://www.hotukdeals.com/deals/new-balance-mens-nb-237-trainers-marble-cloud-size-7-5010270",
-    "date": "2026-10-21 10:34",
+    "title": "PUMA x HYROX Deviate 4 Men's Running Shoes - Size 6.5-11",
+    "price": "£75",
+    "link": "https://www.hotukdeals.com/deals/puma-x-hyrox-deviate-4-50-off-now-ps75-was-ps150-5010529",
+    "date": "2026-10-21 16:18",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "Nike Men's Killshot 2 PRM Shoes for $66 + free shipping w/ $50",
+    "price": "$66",
+    "link": "https://www.dealnews.com/Nike-Mens-Killshot-2-PRM-Shoes-for-66-free-shipping-w-50/22302384.html?iref=rss-c280",
+    "date": "2026-10-21 15:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Precision 7 Basketball Shoes (select sizes) for $37 + free shipping w/ $50",
+    "price": "$37",
+    "link": "https://www.dealnews.com/Nike-Mens-Precision-7-Basketball-Shoes-select-sizes-for-37-free-shipping-w-50/22302367.html?iref=rss-c280",
+    "date": "2026-10-21 15:19",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Gato LV8 \"Scorpion\"  Shoes for $76 in cart + free shipping",
+    "price": "$76",
+    "link": "https://www.dealnews.com/Nike-Mens-Gato-LV8-Scorpion-Shoes-for-76-in-cart-free-shipping/22302326.html?iref=rss-c280",
+    "date": "2026-10-21 14:46",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's V5 RNR Shoes for $58 in cart + free shipping",
+    "price": "$58",
+    "link": "https://www.dealnews.com/Nike-Mens-V5-RNR-Shoes-for-58-in-cart-free-shipping/22302291.html?iref=rss-c280",
+    "date": "2026-10-21 14:16",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "New Balance Fall Clearance Deals at Dick's Sporting Goods: Up to 55% off + free shipping w/ $49",
+    "price": "$49",
+    "link": "https://www.dealnews.com/New-Balance-Fall-Clearance-Deals-at-Dicks-Sporting-Goods-Up-to-55-off-free-shipping-w-49/22302248.html?iref=rss-c280",
+    "date": "2026-10-21 13:46",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "new balance"
   },
   {
-    "title": "Sunster 8KW 12V 24V Diesel Air Heater With Sound Dampeners (with LCD) Sunster Direct Store",
-    "price": "£79.79",
-    "link": "https://www.hotukdeals.com/deals/sunster-8kw-12v-24v-diesel-air-heater-with-sound-dampeners-with-lcd-sunster-direct-store-5010265",
-    "date": "2026-10-21 10:30",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
-  },
-  {
-    "title": "Selection of Nike Mens Shoes - e.g. Air Zoom Pegasus Premium Men's Running Shoes - Instore Outlet, Wembley",
-    "price": "£67.49",
-    "link": "https://www.hotukdeals.com/deals/selection-of-nike-mens-shoes-5010259",
-    "date": "2026-10-21 10:25",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "DSW Last-Chance Clearance: Up to 60% off + free shipping",
+    "price": "$55,",
+    "link": "https://www.dealnews.com/DSW-Last-Chance-Clearance-Up-to-60-off-free-shipping/22302094.html?iref=rss-c280",
+    "date": "2026-10-21 11:38",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
@@ -49,24 +85,6 @@ window.DEALS = [
     "price": "$37",
     "link": "https://www.dealnews.com/Nike-Mens-Le-Bron-Witness-9-Basketball-Shoes-for-37-free-shipping-w-49/22299889.html?iref=rss-c280",
     "date": "2026-10-20 21:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Trefoil Essentials Pants, multiple colors $23.97",
-    "price": "$23.97",
-    "link": "https://slickdeals.net/f/20184849-adidas-men-s-trefoil-essentials-pants-multiple-colors-23-97?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-20 21:10",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "DSW Last-Chance Clearance: Up to 60% off + free shipping",
-    "price": "$29.98",
-    "link": "https://www.dealnews.com/DSW-Last-Chance-Clearance-Up-to-60-off-free-shipping/22299799.html?iref=rss-c280",
-    "date": "2026-10-20 20:15",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
@@ -99,40 +117,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Shoes Sale: Up to 50% off + extra 15% off or 30% off in app + Free shipping",
-    "price": "$64",
-    "link": "https://www.dealnews.com/adidas-Mens-Shoes-Sale-Up-to-50-off-extra-15-off-or-30-off-in-app-Free-shipping/22299561.html?iref=rss-c280",
-    "date": "2026-10-20 16:15",
-    "source": "DealNews",
+    "title": "adidas MLS Size 4 Soccer Ball (White/Red) $14.39 + Free Shipping w/ Prime or on $35+",
+    "price": "$14.39",
+    "link": "https://slickdeals.net/f/20173314-adidas-mls-size-4-soccer-ball-white-red-14-39-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-18 02:35",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Macy's Biggest Fall Sale Men's Shoes Deals: 30% off & more + free shipping w/ $39",
-    "price": "$39",
-    "link": "https://www.dealnews.com/Macys-Biggest-Fall-Sale-Mens-Shoes-Deals-30-off-more-free-shipping-w-39/22299177.html?iref=rss-c280",
-    "date": "2026-10-20 11:28",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Adifom IIInfinity Slides for $14 + free shipping",
-    "price": "$14",
-    "link": "https://www.dealnews.com/adidas-Mens-Adifom-IIInfinity-Slides-for-14-free-shipping/22299123.html?iref=rss-c280",
-    "date": "2026-10-20 10:37",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Pre Montreal '17 Shoes for $55 + shipping varies",
-    "price": "$55",
-    "link": "https://www.dealnews.com/Nike-Mens-Pre-Montreal-17-Shoes-for-55-shipping-varies/22298965.html?iref=rss-c280",
-    "date": "2026-10-20 08:46",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
