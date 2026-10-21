@@ -1,12 +1,30 @@
 window.DEALS = [
   {
-    "title": "PUMA Women's CLOUDSPUN High-Waist Tights XXL Only",
-    "price": "£7.70",
-    "link": "https://www.hotukdeals.com/deals/puma-womens-cloudspun-high-waist-tights-xxl-only-5009892",
-    "date": "2026-10-20 20:51",
+    "title": "Skechers Women's Hotshot Fiercely Floral Trainers",
+    "price": "£51.06",
+    "link": "https://www.hotukdeals.com/deals/skechers-womens-hotshot-fiercely-floral-trainers-5009993",
+    "date": "2026-10-21 00:43",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "puma"
+    "keyword": "trainers"
+  },
+  {
+    "title": "adidas Men's or Women's Yeezy Quantum Sneakers for $50 + free shipping",
+    "price": "$50",
+    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Yeezy-Quantum-Sneakers-for-50-free-shipping/22299907.html?iref=rss-c280",
+    "date": "2026-10-20 22:05",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's LeBron Witness 9 Basketball Shoes for $37 + free shipping w/ $49",
+    "price": "$37",
+    "link": "https://www.dealnews.com/Nike-Mens-Le-Bron-Witness-9-Basketball-Shoes-for-37-free-shipping-w-49/22299889.html?iref=rss-c280",
+    "date": "2026-10-20 21:35",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "DSW Last-Chance Clearance: Up to 60% off + free shipping",
@@ -54,15 +72,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas PHNM Backpack (Various) $21 & More + Free Shipping on $49+",
-    "price": "$21",
-    "link": "https://slickdeals.net/f/20183202-adidas-phnm-backpack-various-21-more-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-20 15:16",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Macy's Biggest Fall Sale Men's Shoes Deals: 30% off & more + free shipping w/ $39",
     "price": "$39",
     "link": "https://www.dealnews.com/Macys-Biggest-Fall-Sale-Mens-Shoes-Deals-30-off-more-free-shipping-w-39/22299177.html?iref=rss-c280",
@@ -106,33 +115,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas Women's Run 76/26 Sportswear Sneakers for $19 + free shipping w/ $49",
-    "price": "$19",
-    "link": "https://www.dealnews.com/adidas-Womens-Run-76-26-Sportswear-Sneakers-for-19-free-shipping-w-49/22297283.html?iref=rss-c280",
-    "date": "2026-10-20 00:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's adiPure Shift Running Shoes for $28 + free shipping w/ $49",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-Mens-adi-Pure-Shift-Running-Shoes-for-28-free-shipping-w-49/22297215.html?iref=rss-c280",
-    "date": "2026-10-19 22:59",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas women Essentials Oversized Fleece Hoodie $18.6 + Free Shipping",
-    "price": "$18.6",
-    "link": "https://slickdeals.net/f/20174658-adidas-women-essentials-oversized-fleece-hoodie-18-6-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-18 14:50",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
