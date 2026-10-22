@@ -1,5 +1,59 @@
 window.DEALS = [
   {
+    "title": "Nike Men's Stormfit Jacket Sn54 in Volt/Black (Size Small Only) - w/code",
+    "price": "£65.70",
+    "link": "https://www.hotukdeals.com/deals/nike-mens-nike-stormfit-jkt-sn54-in-voltblack-size-small-only-wcode-5011361",
+    "date": "2026-10-22 16:21",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Puma Teamfinal 1/4 Zip Training Jacket - Electric Lime (Sizes S - XL) - w/code",
+    "price": "£4.95",
+    "link": "https://www.hotukdeals.com/deals/puma-teamfinal-training-1-4-zip-fleece-electric-lime-sizes-s-xl-wcode-5011348",
+    "date": "2026-10-22 15:59",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "adidas Terrex Skychaser Solo Approach Shoes - Size 9.5 UK",
+    "price": "£70.20",
+    "link": "https://www.hotukdeals.com/deals/adidas-terrex-skychaser-solo-approach-shoes-size-95-uk-5011324",
+    "date": "2026-10-22 15:22",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Adidas Men's ADIPISTA Shoes - Size 5.5 UK",
+    "price": "£25.10",
+    "link": "https://www.hotukdeals.com/deals/adidas-mens-adipista-shoes-size-55-uk-5011322",
+    "date": "2026-10-22 15:19",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Target Women's Shoes Sale: Up to 40% off + free shipping w/ $35",
+    "price": "$35",
+    "link": "https://www.dealnews.com/Target-Womens-Shoes-Sale-Up-to-40-off-free-shipping-w-35/22304705.html?iref=rss-c280",
+    "date": "2026-10-22 13:43",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "reebok"
+  },
+  {
+    "title": "adidas men Gazelle Spikeless Golf Shoes from $33.6 + Free Shipping",
+    "price": "$33.6",
+    "link": "https://slickdeals.net/f/20192277-adidas-men-gazelle-spikeless-golf-shoes-from-33-6-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-22 13:31",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Fall Sneaker Deals: Up to 40% off + extra 15% to 30% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/adidas-Fall-Sneaker-Deals-Up-to-40-off-extra-15-to-30-off-free-shipping/22304401.html?iref=rss-c280",
@@ -68,6 +122,15 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Terrex-Sale-Up-to-50-off-extra-15-or-30-off-Free-shipping/22301923.html?iref=rss-c280",
     "date": "2026-10-21 07:37",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Adidas via Shopsimon - Extra 40% Off Sale Items",
+    "price": "$4.95",
+    "link": "https://slickdeals.net/f/20185782-adidas-via-shopsimon-extra-40-off-sale-items?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-21 02:06",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
