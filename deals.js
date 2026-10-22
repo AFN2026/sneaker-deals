@@ -1,10 +1,10 @@
 window.DEALS = [
   {
-    "title": "Adidas men Samoa Shoes (3 Colors) from $25.80 + Free Shipping at adidas via eBay",
-    "price": "$25.80",
-    "link": "https://slickdeals.net/f/20189904-adidas-men-samoa-shoes-3-colors-from-25-80-free-shipping-at-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-22 00:08",
-    "source": "Slickdeals",
+    "title": "adidas Fall Sneaker Deals: Up to 40% off + extra 15% to 30% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Fall-Sneaker-Deals-Up-to-40-off-extra-15-to-30-off-free-shipping/22304401.html?iref=rss-c280",
+    "date": "2026-10-22 09:50",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -67,15 +67,6 @@ window.DEALS = [
     "price": "$60",
     "link": "https://www.dealnews.com/adidas-Terrex-Sale-Up-to-50-off-extra-15-or-30-off-Free-shipping/22301923.html?iref=rss-c280",
     "date": "2026-10-21 07:37",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's or Women's Yeezy Quantum Sneakers for $50 + free shipping",
-    "price": "$50",
-    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Yeezy-Quantum-Sneakers-for-50-free-shipping/22299907.html?iref=rss-c280",
-    "date": "2026-10-20 22:05",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
