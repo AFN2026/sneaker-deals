@@ -1,9 +1,9 @@
 window.DEALS = [
   {
-    "title": "adidas Men's D4T AEROREADY Long Sleeve Pullover Hoodie (Black/White) $13.20 + Free Shipping",
-    "price": "$13.20",
-    "link": "https://slickdeals.net/f/20188395-adidas-men-s-d4t-aeroready-long-sleeve-pullover-hoodie-black-white-13-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-21 17:04",
+    "title": "Adidas men Samoa Shoes (3 Colors) from $25.80 + Free Shipping at adidas via eBay",
+    "price": "$25.80",
+    "link": "https://slickdeals.net/f/20189904-adidas-men-samoa-shoes-3-colors-from-25-80-free-shipping-at-adidas-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-22 00:08",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
@@ -79,15 +79,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's LeBron Witness 9 Basketball Shoes for $37 + free shipping w/ $49",
-    "price": "$37",
-    "link": "https://www.dealnews.com/Nike-Mens-Le-Bron-Witness-9-Basketball-Shoes-for-37-free-shipping-w-49/22299889.html?iref=rss-c280",
-    "date": "2026-10-20 21:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
