@@ -1,21 +1,39 @@
 window.DEALS = [
   {
-    "title": "On Running Sale + Extra 10% off with code eg Womens Cloudeasy 1 Running Shoes / Mens Cloudspike 1500m 2 Running Trainers £49.49",
-    "price": "£49.49",
-    "link": "https://www.hotukdeals.com/deals/on-running-sale-extra-10-off-with-code-eg-womens-cloudeasy-1-running-shoes-mens-cloudspike-1500m-2-running-trainers-ps4949-5011979",
-    "date": "2026-10-23 10:39",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
+    "title": "DSW Designer Shoe Holiday Sale: Up to 50% off, 20% off full-priced shoes + free shipping",
+    "price": "$19.98",
+    "link": "https://www.dealnews.com/DSW-Designer-Shoe-Holiday-Sale-Up-to-50-off-20-off-full-priced-shoes-free-shipping/22308024.html?iref=rss-c280",
+    "date": "2026-10-23 15:54",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
-    "title": "Nike Winflo 12 GORE-TEX Men's Waterproof Road Running Shoes, Sizes 7-12 / Women's Sizes 4-8 W/Code",
-    "price": "£76.50",
-    "link": "https://www.hotukdeals.com/deals/nike-winflo-12-gore-tex-mens-waterproof-road-running-shoes-sizes-7-12-womens-sizes-4-8-wcode-5011968",
-    "date": "2026-10-23 10:31",
+    "title": "NIKE Nike Tiger Woods Mens Green/Black Sweater N",
+    "price": "£14.40",
+    "link": "https://www.hotukdeals.com/deals/nike-nike-tiger-woods-mens-greenblack-sweater-now-ps1440-with-code-5012238",
+    "date": "2026-10-23 15:50",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "nike"
+  },
+  {
+    "title": "adidas women Essentials 3-Stripes Track Suit from $22.8 + Free Shipping",
+    "price": "$22.8",
+    "link": "https://slickdeals.net/f/20197053-adidas-women-essentials-3-stripes-track-suit-from-22-8-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-23 13:45",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Gazelle Spikeless Golf Shoes for $34 + free shipping",
+    "price": "$34",
+    "link": "https://www.dealnews.com/adidas-Mens-Gazelle-Spikeless-Golf-Shoes-for-34-free-shipping/22307685.html?iref=rss-c280",
+    "date": "2026-10-23 11:30",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "Shoebacca Clearance Sale: Up to 75% off + free shipping",
@@ -70,24 +88,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's V5 RNR Shoes for $58 in cart + free shipping",
-    "price": "$58",
-    "link": "https://www.dealnews.com/Nike-Mens-V5-RNR-Shoes-for-58-in-cart-free-shipping/22302291.html?iref=rss-c280",
-    "date": "2026-10-21 14:16",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "New Balance Fall Clearance Deals at Dick's Sporting Goods: Up to 55% off + free shipping w/ $49",
-    "price": "$49",
-    "link": "https://www.dealnews.com/New-Balance-Fall-Clearance-Deals-at-Dicks-Sporting-Goods-Up-to-55-off-free-shipping-w-49/22302248.html?iref=rss-c280",
-    "date": "2026-10-21 13:46",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
   },
   {
     "title": "adidas Terrex Sale: Up to 50% off + extra 15% or 30% off + Free shipping",
