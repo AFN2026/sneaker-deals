@@ -1,32 +1,5 @@
 window.DEALS = [
   {
-    "title": "Nike Air Max Alpha 6 Men's Workout Shoes Racer Blue (Other Colours In Comments) - Various Sizes - Free C&C / Free Delivery for Members",
-    "price": "£55.99",
-    "link": "https://www.hotukdeals.com/deals/nike-air-max-alpha-6-mens-workout-shoes-blue-various-sizes-free-cc-free-delivery-for-members-5011511",
-    "date": "2026-10-22 20:19",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "22L Nike Heritage Tote Bag (Oatmeal) $10.48 + Free Shipping on $49",
-    "price": "$10.48",
-    "link": "https://slickdeals.net/f/20194107-22l-nike-heritage-tote-bag-oatmeal-10-48-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-22 18:49",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's X_PLR Path Lace-Up Sneakers (Grey Two / Cloud White / Grey Two, Sizes: 8.5-12) $21.60 + Free Shipping for New Customers",
-    "price": "$21.60",
-    "link": "https://slickdeals.net/f/20193636-adidas-men-s-x-plr-path-lace-up-sneakers-grey-two-cloud-white-grey-two-sizes-8-5-12-21-60-free-shipping-for-new-customers?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-22 17:10",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Shoebacca Clearance Sale: Up to 75% off + free shipping",
     "price": "",
     "link": "https://www.dealnews.com/Shoebacca-Clearance-Sale-Up-to-75-off-free-shipping/22304960.html?iref=rss-c280",
