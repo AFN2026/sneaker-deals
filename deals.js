@@ -1,63 +1,63 @@
 window.DEALS = [
   {
-    "title": "adidas Terrex Eastrail 3 Climaproof Men's Hiking Shoes - Size 6 - Black",
-    "price": "£37.09",
-    "link": "https://www.hotukdeals.com/deals/adidas-terrex-eastrail-3-climaproof-hiking-shoes-size-6-5012703",
-    "date": "2026-10-24 09:53",
+    "title": "Nike Sportswear Club T-Shirt Mens",
+    "price": "£13",
+    "link": "https://www.hotukdeals.com/deals/nike-sportswear-club-tshirt-was-ps2299-now-ps1300-5012922",
+    "date": "2026-10-24 14:50",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas x Pokémon Collection: Now available + free shipping",
+    "price": "$28",
+    "link": "https://www.dealnews.com/adidas-x-Pok-mon-Collection-Now-available-free-shipping/22285551.html?iref=rss-c280",
+    "date": "2026-10-24 14:25",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "Puma Unisex St Runner Adult Nl Sneaker - UK Size 7",
-    "price": "£36.60",
-    "link": "https://www.hotukdeals.com/deals/puma-unisex-st-runner-adult-nl-sneaker-uk-size-7-5012685",
-    "date": "2026-10-24 09:39",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
+    "title": "adidas Terrex Sale: Up to 50% off + extra 15% or 30% off + Free shipping",
+    "price": "$57",
+    "link": "https://www.dealnews.com/adidas-Terrex-Sale-Up-to-50-off-extra-15-or-30-off-Free-shipping/22299617.html?iref=rss-c280",
+    "date": "2026-10-24 14:25",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22310367.html?iref=rss-c280",
+    "date": "2026-10-24 11:59",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Women's Free Metcon 7 Training Shoes for $75 + free shipping",
+    "price": "$75",
+    "link": "https://www.dealnews.com/Nike-Womens-Free-Metcon-7-Training-Shoes-for-75-free-shipping/22310366.html?iref=rss-c280",
+    "date": "2026-10-24 11:47",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Air Max Torch 4 Shoes for $60 + free shipping",
+    "price": "$60",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Torch-4-Shoes-for-60-free-shipping/22310313.html?iref=rss-c280",
+    "date": "2026-10-24 10:24",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "DSW Designer Shoe Holiday Sale: Up to 50% off, 20% off full-priced shoes + free shipping",
     "price": "$19.98",
     "link": "https://www.dealnews.com/DSW-Designer-Shoe-Holiday-Sale-Up-to-50-off-20-off-full-priced-shoes-free-shipping/22308024.html?iref=rss-c280",
     "date": "2026-10-23 15:54",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Women's Pro Seamless Dri-FIT T-Shirt (Magenta) $11.23 + Free Shipping on $49",
-    "price": "$11.23",
-    "link": "https://slickdeals.net/f/20193972-nike-women-s-pro-seamless-dri-fit-t-shirt-magenta-11-23-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-22 18:21",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Shoebacca Clearance Sale: Up to 75% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/Shoebacca-Clearance-Sale-Up-to-75-off-free-shipping/22304960.html?iref=rss-c280",
-    "date": "2026-10-22 16:46",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Target Women's Shoes Sale: Up to 40% off + free shipping w/ $35",
-    "price": "$35",
-    "link": "https://www.dealnews.com/Target-Womens-Shoes-Sale-Up-to-40-off-free-shipping-w-35/22304705.html?iref=rss-c280",
-    "date": "2026-10-22 13:43",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "reebok"
-  },
-  {
-    "title": "adidas Fall Sneaker Deals: Up to 40% off + extra 15% to 30% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Fall-Sneaker-Deals-Up-to-40-off-extra-15-to-30-off-free-shipping/22304401.html?iref=rss-c280",
-    "date": "2026-10-22 09:50",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
