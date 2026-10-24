@@ -1,21 +1,21 @@
 window.DEALS = [
   {
-    "title": "Nike Ava X - Black-Black-Anthracite - Various Sizes - Extra 10% off via BLC - Free standard shipping for FLX members",
-    "price": "£45",
-    "link": "https://www.hotukdeals.com/deals/nike-ava-x-black-black-anthracite-various-sizes-free-standard-shipping-for-flx-members-5012522",
-    "date": "2026-10-24 02:29",
+    "title": "adidas Terrex Eastrail 3 Climaproof Men's Hiking Shoes - Size 6 - Black",
+    "price": "£37.09",
+    "link": "https://www.hotukdeals.com/deals/adidas-terrex-eastrail-3-climaproof-hiking-shoes-size-6-5012703",
+    "date": "2026-10-24 09:53",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "nike"
+    "keyword": "adidas"
   },
   {
-    "title": "Men's adidas Adifom IIInfinity Casual Slide Sandals (Red) $14.95 + Free Shipping w/ Prime or on $35+",
-    "price": "$14.95",
-    "link": "https://slickdeals.net/f/20199504-men-s-adidas-adifom-iiinfinity-casual-slide-sandals-red-14-95-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-23 23:26",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
+    "title": "Puma Unisex St Runner Adult Nl Sneaker - UK Size 7",
+    "price": "£36.60",
+    "link": "https://www.hotukdeals.com/deals/puma-unisex-st-runner-adult-nl-sneaker-uk-size-7-5012685",
+    "date": "2026-10-24 09:39",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
   },
   {
     "title": "DSW Designer Shoe Holiday Sale: Up to 50% off, 20% off full-priced shoes + free shipping",
@@ -27,13 +27,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Gazelle Spikeless Golf Shoes for $34 + free shipping",
-    "price": "$34",
-    "link": "https://www.dealnews.com/adidas-Mens-Gazelle-Spikeless-Golf-Shoes-for-34-free-shipping/22307685.html?iref=rss-c280",
-    "date": "2026-10-23 11:30",
-    "source": "DealNews",
+    "title": "Nike Women's Pro Seamless Dri-FIT T-Shirt (Magenta) $11.23 + Free Shipping on $49",
+    "price": "$11.23",
+    "link": "https://slickdeals.net/f/20193972-nike-women-s-pro-seamless-dri-fit-t-shirt-magenta-11-23-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-22 18:21",
+    "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "adidas"
+    "keyword": "nike"
   },
   {
     "title": "Shoebacca Clearance Sale: Up to 75% off + free shipping",
@@ -61,15 +61,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Reax 8 TR Workout Shoes (Phantom/Dark Smoke Grey/Black/Dusty Cactus) $59.97, Women's Reax 8 SL Shoes $57.97 + Free Shipping",
-    "price": "$59.97,",
-    "link": "https://slickdeals.net/f/20187573-nike-men-s-reax-8-tr-workout-shoes-phantom-dark-smoke-grey-black-dusty-cactus-59-97-women-s-reax-8-sl-shoes-57-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-21 14:21",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Sale: Up to 50% off + extra 15% or 30% off + Free shipping",
