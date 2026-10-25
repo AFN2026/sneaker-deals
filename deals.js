@@ -1,12 +1,21 @@
 window.DEALS = [
   {
-    "title": "Nike Men's Shox NZ Running Shoes for $60, ends today + free shipping",
-    "price": "$60,",
-    "link": "https://www.dealnews.com/Nike-Mens-Shox-NZ-Running-Shoes-for-60-ends-today-free-shipping/22310663.html?iref=rss-c280",
-    "date": "2026-10-24 15:50",
-    "source": "DealNews",
+    "title": "Mattel Disney and Pixar Toy Story 5 Interactables Forky and others - 7-inch Playscale Talking Figure",
+    "price": "£14.99",
+    "link": "https://www.hotukdeals.com/deals/25-off-mattel-toy-story-5-interactables-forky-buzz-jessie-lilypad-5013320",
+    "date": "2026-10-25 10:06",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "converse"
+  },
+  {
+    "title": "$29.40* | adidas 40L Excel 6 School Backpack (Jersey Grey/ Onix Grey/ Rose Gold) at Amazon",
+    "price": "$29.40",
+    "link": "https://slickdeals.net/f/20203599-29-40-adidas-40l-excel-6-school-backpack-jersey-grey-onix-grey-rose-gold-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-25 05:59",
+    "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "nike"
+    "keyword": "adidas"
   },
   {
     "title": "adidas x Pokémon Collection: Now available + free shipping",
