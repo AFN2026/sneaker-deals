@@ -1,21 +1,21 @@
 window.DEALS = [
   {
-    "title": "Mattel Disney and Pixar Toy Story 5 Interactables Forky and others - 7-inch Playscale Talking Figure",
-    "price": "£14.99",
-    "link": "https://www.hotukdeals.com/deals/25-off-mattel-toy-story-5-interactables-forky-buzz-jessie-lilypad-5013320",
-    "date": "2026-10-25 10:06",
+    "title": "NNw Balance 574 Trainers",
+    "price": "£50",
+    "link": "https://www.hotukdeals.com/deals/nnw-balance-574-trainers-5013481",
+    "date": "2026-10-25 14:49",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "converse"
+    "keyword": "trainers"
   },
   {
-    "title": "$29.40* | adidas 40L Excel 6 School Backpack (Jersey Grey/ Onix Grey/ Rose Gold) at Amazon",
-    "price": "$29.40",
-    "link": "https://slickdeals.net/f/20203599-29-40-adidas-40l-excel-6-school-backpack-jersey-grey-onix-grey-rose-gold-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-25 05:59",
+    "title": "Nike Men's Air Max Excee Shoe (Photon Dust/Black/Light Smoke Grey) $45 + Free Shipping",
+    "price": "$45",
+    "link": "https://slickdeals.net/f/20204517-nike-men-s-air-max-excee-shoe-photon-dust-black-light-smoke-grey-45-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-25 14:03",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "adidas"
+    "keyword": "nike"
   },
   {
     "title": "adidas x Pokémon Collection: Now available + free shipping",
