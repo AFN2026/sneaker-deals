@@ -1,12 +1,30 @@
 window.DEALS = [
   {
-    "title": "Nike Men's Club SS Casual T-Shirt, Sizes S-XXL in 4 Colours (Links in Description)",
-    "price": "£7.99",
-    "link": "https://www.hotukdeals.com/deals/nike-mens-club-ss-casual-t-shirt-sizes-s-xxl-in-4-colours-links-in-description-5015025",
-    "date": "2026-10-27 11:19",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
+    "title": "adidas Men's Shoes Deals for From $18, sneakers from $33 + Free shipping",
+    "price": "$18,",
+    "link": "https://www.dealnews.com/adidas-Mens-Shoes-Deals-for-From-18-sneakers-from-33-Free-shipping/22318672.html?iref=rss-c280",
+    "date": "2026-10-27 17:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Shoe Deals: Up to 50% off + extra 15% off + Free shipping",
+    "price": "$33",
+    "link": "https://www.dealnews.com/adidas-Shoe-Deals-Up-to-50-off-extra-15-off-Free-shipping/22318641.html?iref=rss-c280",
+    "date": "2026-10-27 16:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas women Streettalk $18 + Free Shipping",
+    "price": "$18",
+    "link": "https://slickdeals.net/f/20216658-adidas-women-streettalk-18-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-27 14:30",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "Nike Women's Court Vision Low Shoes for $36 + free shipping",
@@ -34,6 +52,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
+  },
+  {
+    "title": "adidas Women's Tokyo Sneakers (Off White / Earth Strata / Gold Metallic, Sizes: 8.5-10) $23.40 + Free Shipping New customers",
+    "price": "$23.40",
+    "link": "https://slickdeals.net/f/20210721-adidas-women-s-tokyo-sneakers-off-white-earth-strata-gold-metallic-sizes-8-5-10-23-40-free-shipping-new-customers?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-26 15:40",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "Woot Open Box Shoe & Apparel Clearance Deals: Up to 70% off + free shipping w/ Prime",
