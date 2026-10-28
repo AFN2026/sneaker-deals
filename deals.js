@@ -1,21 +1,30 @@
 window.DEALS = [
   {
-    "title": "$10.58* | adidas Excelerator Lunch Bag (Gradient Flash Aqua/White) at Amazon",
-    "price": "$10.58",
-    "link": "https://slickdeals.net/f/20219334-10-58-adidas-excelerator-lunch-bag-gradient-flash-aqua-white-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-27 22:52",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
+    "title": "Hush Puppies Men’s Grey Madden Suede Memory Foam Trainers (Sizes 6-12)",
+    "price": "£17.99",
+    "link": "https://www.hotukdeals.com/deals/hush-puppies-mens-grey-madden-suede-memory-foam-trainers-sizes-6-12-5016066",
+    "date": "2026-10-28 11:46",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "trainers"
   },
   {
-    "title": "$11.99* | Puma Orbita Play Premier League Machine Stitched Soccer Ball at Amazon",
-    "price": "$11.99",
-    "link": "https://slickdeals.net/f/20218605-11-99-puma-orbita-play-premier-league-machine-stitched-soccer-ball-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-27 19:38",
+    "title": "Nike Kobe IX 9 Basketball Shoes $105.97 + Free Shipping",
+    "price": "$105.97",
+    "link": "https://slickdeals.net/f/20220630-nike-kobe-ix-9-basketball-shoes-105-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-28 04:44",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "puma"
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Women's Vomero 18 Running Shoes (White Green Silver) $79.99 + Free Shipping",
+    "price": "$79.99",
+    "link": "https://slickdeals.net/f/20219781-nike-women-s-vomero-18-running-shoes-white-green-silver-79-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-28 00:53",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "Nike Men's or Women's P-6000 Shoes for $78 in cart + free shipping",
