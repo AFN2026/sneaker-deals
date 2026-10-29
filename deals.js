@@ -1,48 +1,12 @@
 window.DEALS = [
   {
-    "title": "adidas Squadra 25 Football Shorts (Team Navy Blue / White, XS)",
-    "price": "£10.04",
-    "link": "https://www.hotukdeals.com/deals/adidas-squadra-25-football-shorts-team-navy-blue-white-xs-5016709",
-    "date": "2026-10-29 03:11",
+    "title": "Reebok Club C 85 Low-Top Trainers size 2.5-4.5",
+    "price": "£21.99",
+    "link": "https://www.hotukdeals.com/deals/reebok-club-c-85-low-top-trainers-size-25-45-5017021",
+    "date": "2026-10-29 11:31",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Tensaur Hook and Loop Shoes Size 5",
-    "price": "£13.53",
-    "link": "https://www.hotukdeals.com/deals/adidas-tensaur-hook-and-loop-shoes-size-5-5016703",
-    "date": "2026-10-29 02:42",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Predator Club FG/MG Football Boots (Core Black / Cloud White / Lucid Red, UK 9.5)",
-    "price": "£34.58",
-    "link": "https://www.hotukdeals.com/deals/adidas-predator-club-fgmg-football-boots-core-black-cloud-white-lucid-red-uk-95-5016702",
-    "date": "2026-10-29 02:39",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Hoops Classic Shoes Size 6",
-    "price": "£23.10",
-    "link": "https://www.hotukdeals.com/deals/adidas-hoops-classic-shoes-size-6-5016700",
-    "date": "2026-10-29 02:38",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Vans Men's Caldrone Suede and Mesh Trainers (Black/Black, UK 15)",
-    "price": "£48",
-    "link": "https://www.hotukdeals.com/deals/vans-mens-caldrone-suede-and-mesh-trainers-blackblack-uk-15-5016696",
-    "date": "2026-10-29 01:53",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
+    "keyword": "reebok"
   },
   {
     "title": "adidas Men's Terrex Rockadia Hiking Shoes for $56 + free shipping w/ $89",
@@ -90,15 +54,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas Men's Squadra 21 Goalkeeper Jersey (XL only) $12.95",
-    "price": "$12.95",
-    "link": "https://slickdeals.net/f/20220375-adidas-men-s-squadra-21-goalkeeper-jersey-xl-only-12-95?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-28 03:32",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Nike Men's or Women's P-6000 Shoes for $78 in cart + free shipping",
     "price": "$78",
     "link": "https://www.dealnews.com/Nike-Mens-or-Womens-P-6000-Shoes-for-78-in-cart-free-shipping/22318792.html?iref=rss-c280",
@@ -117,13 +72,13 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas Men's Shoes Deals for From $18, sneakers from $33 + Free shipping",
-    "price": "$18,",
-    "link": "https://www.dealnews.com/adidas-Mens-Shoes-Deals-for-From-18-sneakers-from-33-Free-shipping/22318672.html?iref=rss-c280",
-    "date": "2026-10-27 17:01",
-    "source": "DealNews",
+    "title": "Nike Women's Club Fleece Joggers in Black $42.97 + Shipping",
+    "price": "$42.97",
+    "link": "https://slickdeals.net/f/20194869-nike-women-s-club-fleece-joggers-in-black-42-97-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-22 22:31",
+    "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "adidas"
+    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
