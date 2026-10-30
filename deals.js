@@ -1,46 +1,64 @@
 window.DEALS = [
   {
-    "title": "McLaren 2026 Team Lando Norris Driver Set Up T-Shirt - Papaya",
-    "price": "£25",
-    "link": "https://www.hotukdeals.com/deals/mclaren-lando-norris-driver-tee-2026-5017964",
-    "date": "2026-10-30 11:44",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
-  },
-  {
-    "title": "Men's Footwear Sale e.g New Balance 410 Trail Shoes / Adidas Adizero Evo SL ATR £80 / + Hoka, Nike, Saucony etc (see description). Free C&C",
-    "price": "£80",
-    "link": "https://www.hotukdeals.com/deals/mens-footwear-sale-eg-new-balance-410-trail-shoes-adidas-adizero-evo-sl-atr-ps80-hoka-nike-saucony-etc-see-description-free-cc-5017958",
-    "date": "2026-10-30 11:31",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22310367.html?iref=rss-c280",
+    "date": "2026-10-30 16:48",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
-    "title": "New Balance Womens 411v4 Running Shoes / Trainers + Free Delivery Using Code",
-    "price": "£29.99",
-    "link": "https://www.hotukdeals.com/deals/new-balance-womens-411v4-running-shoes-trainers-free-delivery-using-code-5017948",
-    "date": "2026-10-30 11:22",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "new balance"
+    "title": "Nike Men's Ava Edge Shoes for $87 + free shipping",
+    "price": "$87",
+    "link": "https://www.dealnews.com/Nike-Mens-Ava-Edge-Shoes-for-87-free-shipping/22327611.html?iref=rss-c280",
+    "date": "2026-10-30 13:11",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
-    "title": "adidas Men's Runfalcon 6 CLOUDFOAM Running Shoes (Core Black / Cloud White / Carbon) $28.05",
-    "price": "$28.05",
-    "link": "https://slickdeals.net/f/20231616-adidas-men-s-runfalcon-6-cloudfoam-running-shoes-core-black-cloud-white-carbon-28-05?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-30 10:40",
-    "source": "Slickdeals",
+    "title": "lululemon Shoe Specials for From $49, sneakers from $89 + free shipping",
+    "price": "$49,",
+    "link": "https://www.dealnews.com/lululemon-Shoe-Specials-for-From-49-sneakers-from-89-free-shipping/22327592.html?iref=rss-c280",
+    "date": "2026-10-30 12:51",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "DSW Last Chance Clearance: Up to 60% off + free shipping",
+    "price": "$30,",
+    "link": "https://www.dealnews.com/DSW-Last-Chance-Clearance-Up-to-60-off-free-shipping/22327534.html?iref=rss-c280",
+    "date": "2026-10-30 12:03",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Runfalcon 6 Cloudfoam Running Shoes for $28 + free shipping",
+    "price": "$28",
+    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Cloudfoam-Running-Shoes-for-28-free-shipping/22327533.html?iref=rss-c280",
+    "date": "2026-10-30 12:03",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "Up to 50% Off Week of Deals at adidas",
-    "price": "",
-    "link": "https://slickdeals.net/f/20231427-up-to-50-off-week-of-deals-at-adidas?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-30 08:55",
-    "source": "Slickdeals",
+    "title": "adidas Response Runner Shoes for $25.50 + free shipping",
+    "price": "$25.50",
+    "link": "https://www.dealnews.com/adidas-Response-Runner-Shoes-for-25-50-free-shipping/22327524.html?iref=rss-c280",
+    "date": "2026-10-30 11:53",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Rarely-on-Sale Shoe Deals for From $14, sneakers from $26 + free shipping",
+    "price": "$14,",
+    "link": "https://www.dealnews.com/adidas-Mens-Rarely-on-Sale-Shoe-Deals-for-From-14-sneakers-from-26-free-shipping/22327523.html?iref=rss-c280",
+    "date": "2026-10-30 11:50",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -52,60 +70,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's Pegasus Shoe Deals for From $70 + free shipping",
-    "price": "$70",
-    "link": "https://www.dealnews.com/Nike-Mens-Pegasus-Shoe-Deals-for-From-70-free-shipping/22324962.html?iref=rss-c280",
-    "date": "2026-10-29 17:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Dunk Low Retro Shoes for $73 + free shipping",
-    "price": "$73",
-    "link": "https://www.dealnews.com/Nike-Mens-Dunk-Low-Retro-Shoes-for-73-free-shipping/22324953.html?iref=rss-c280",
-    "date": "2026-10-29 17:11",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Kobe IX Elite Low EM Protro Basketball Shoes for $106 + free shipping",
-    "price": "$106",
-    "link": "https://www.dealnews.com/Nike-Mens-Kobe-IX-Elite-Low-EM-Protro-Basketball-Shoes-for-106-free-shipping/22324951.html?iref=rss-c280",
-    "date": "2026-10-29 17:06",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Predator 94 Street Shoes for $32 + free shipping w/ $49",
-    "price": "$32",
-    "link": "https://www.dealnews.com/adidas-Mens-Predator-94-Street-Shoes-for-32-free-shipping-w-49/22324913.html?iref=rss-c280",
-    "date": "2026-10-29 16:38",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Winflo 12 Shoes for $65 + free shipping",
-    "price": "$65",
-    "link": "https://www.dealnews.com/Nike-Mens-Winflo-12-Shoes-for-65-free-shipping/22324598.html?iref=rss-c280",
-    "date": "2026-10-29 12:21",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Terrex Anylander Hiking Shoes for $38 + free shipping",
-    "price": "$38",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Anylander-Hiking-Shoes-for-38-free-shipping/22324578.html?iref=rss-c280",
-    "date": "2026-10-29 12:05",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
