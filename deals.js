@@ -1,5 +1,59 @@
 window.DEALS = [
   {
+    "title": "Liverpool adidas Home/Away/Third Shirt 2026-27 w/code",
+    "price": "£51",
+    "link": "https://www.hotukdeals.com/deals/liverpool-adidas-homeawaythird-shirt-2026-27-wcode-free-delivery-5018371",
+    "date": "2026-10-30 21:34",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Skechers Women's Uno Stand On Air Trainers (White Durabuck, UK 2)",
+    "price": "£38.05",
+    "link": "https://www.hotukdeals.com/deals/skechers-womens-uno-stand-on-air-trainers-white-durabuck-uk-2-5018353",
+    "date": "2026-10-30 21:05",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "trainers"
+  },
+  {
+    "title": "BOSS by Hugo Boss Men's Colyn Derby Leather Sneakers for $70 + free shipping",
+    "price": "$70",
+    "link": "https://www.dealnews.com/BOSS-by-Hugo-Boss-Mens-Colyn-Derby-Leather-Sneakers-for-70-free-shipping/22328091.html?iref=rss-c280",
+    "date": "2026-10-30 19:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Polo Ralph Lauren Men's Train 89 V2 Running Sneakers for $62 + free shipping",
+    "price": "$62",
+    "link": "https://www.dealnews.com/Polo-Ralph-Lauren-Mens-Train-89-V2-Running-Sneakers-for-62-free-shipping/22328062.html?iref=rss-c280",
+    "date": "2026-10-30 19:16",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "ADIZERO Dropset Pro Training Shoes $120",
+    "price": "$120",
+    "link": "https://slickdeals.net/f/20233653-adizero-dropset-pro-training-shoes-120?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-30 19:02",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "New Balance Men's Fresh Foam X 880v15 Road-Running Shoes for $97 + free shipping w/ $100",
+    "price": "$97",
+    "link": "https://www.dealnews.com/New-Balance-Mens-Fresh-Foam-X-880-v15-Road-Running-Shoes-for-97-free-shipping-w-100/22327955.html?iref=rss-c280",
+    "date": "2026-10-30 17:54",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
     "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
     "price": "$50",
     "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22310367.html?iref=rss-c280",
@@ -61,15 +115,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "Lee Men's Specter Core Casual Sneakers for $20 + free shipping w/ $35",
-    "price": "$20",
-    "link": "https://www.dealnews.com/Lee-Mens-Specter-Core-Casual-Sneakers-for-20-free-shipping-w-35/22325046.html?iref=rss-c280",
-    "date": "2026-10-29 19:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
