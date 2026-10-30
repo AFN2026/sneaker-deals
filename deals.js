@@ -1,38 +1,47 @@
 window.DEALS = [
   {
-    "title": "Stella Artois Belgium Premium Lager Beer 18 x 440ml (England Only)",
-    "price": "£9.99",
-    "link": "https://www.hotukdeals.com/deals/stella-artois-belgium-premium-lager-beer-18-x-440ml-england-only-5017628",
-    "date": "2026-10-30 02:04",
+    "title": "McLaren 2026 Team Lando Norris Driver Set Up T-Shirt - Papaya",
+    "price": "£25",
+    "link": "https://www.hotukdeals.com/deals/mclaren-lando-norris-driver-tee-2026-5017964",
+    "date": "2026-10-30 11:44",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "puma"
   },
   {
-    "title": "adidas Essentials Single Jersey Big Logo T-Shirt (White / Black, Size S)",
-    "price": "£14",
-    "link": "https://www.hotukdeals.com/deals/adidas-essentials-single-jersey-big-logo-t-shirt-white-black-size-s-5017620",
-    "date": "2026-10-30 01:30",
+    "title": "Men's Footwear Sale e.g New Balance 410 Trail Shoes / Adidas Adizero Evo SL ATR £80 / + Hoka, Nike, Saucony etc (see description). Free C&C",
+    "price": "£80",
+    "link": "https://www.hotukdeals.com/deals/mens-footwear-sale-eg-new-balance-410-trail-shoes-adidas-adizero-evo-sl-atr-ps80-hoka-nike-saucony-etc-see-description-free-cc-5017958",
+    "date": "2026-10-30 11:31",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "New Balance Womens 411v4 Running Shoes / Trainers + Free Delivery Using Code",
+    "price": "£29.99",
+    "link": "https://www.hotukdeals.com/deals/new-balance-womens-411v4-running-shoes-trainers-free-delivery-using-code-5017948",
+    "date": "2026-10-30 11:22",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "new balance"
+  },
+  {
+    "title": "adidas Men's Runfalcon 6 CLOUDFOAM Running Shoes (Core Black / Cloud White / Carbon) $28.05",
+    "price": "$28.05",
+    "link": "https://slickdeals.net/f/20231616-adidas-men-s-runfalcon-6-cloudfoam-running-shoes-core-black-cloud-white-carbon-28-05?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-30 10:40",
+    "source": "Slickdeals",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "adidas Kids' Tiberio 3-Stripes Tricot Tracksuit (Black / White / Grey, 15-16 Years)",
-    "price": "£26.22",
-    "link": "https://www.hotukdeals.com/deals/adidas-kids-tiberio-3-stripes-tricot-tracksuit-black-white-grey-15-16-years-5017617",
-    "date": "2026-10-30 01:09",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Essentials Linear Logo Cotton T-Shirt (Black / White, Size XS)",
-    "price": "£6.83",
-    "link": "https://www.hotukdeals.com/deals/adidas-essentials-linear-logo-cotton-t-shirt-black-white-size-xs-5017613",
-    "date": "2026-10-30 00:58",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Up to 50% Off Week of Deals at adidas",
+    "price": "",
+    "link": "https://slickdeals.net/f/20231427-up-to-50-off-week-of-deals-at-adidas?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-30 08:55",
+    "source": "Slickdeals",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
@@ -81,15 +90,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Terrex Shoes & Clothing Deals: Up to 40% off + extra 15% off + Free shipping",
-    "price": "$51",
-    "link": "https://www.dealnews.com/adidas-Terrex-Shoes-Clothing-Deals-Up-to-40-off-extra-15-off-Free-shipping/22324795.html?iref=rss-c280",
-    "date": "2026-10-29 14:51",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Nike Men's Winflo 12 Shoes for $65 + free shipping",
     "price": "$65",
     "link": "https://www.dealnews.com/Nike-Mens-Winflo-12-Shoes-for-65-free-shipping/22324598.html?iref=rss-c280",
@@ -106,33 +106,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Rockadia Hiking Shoes for $56 + free shipping w/ $89",
-    "price": "$56",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Rockadia-Hiking-Shoes-for-56-free-shipping-w-89/22322451.html?iref=rss-c280",
-    "date": "2026-10-28 20:47",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Jordan Editions Shoe Deals at Nike for From $92 + free shipping",
-    "price": "$92",
-    "link": "https://www.dealnews.com/Jordan-Editions-Shoe-Deals-at-Nike-for-From-92-free-shipping/22322330.html?iref=rss-c280",
-    "date": "2026-10-28 19:05",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Air Force 1 Shoe Deals: Up to 40% off + free shipping",
-    "price": "$68,",
-    "link": "https://www.dealnews.com/Nike-Air-Force-1-Shoe-Deals-Up-to-40-off-free-shipping/22322314.html?iref=rss-c280",
-    "date": "2026-10-28 18:58",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
