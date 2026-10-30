@@ -1,63 +1,36 @@
 window.DEALS = [
   {
-    "title": "Converse All Star Low Trainers Shy Flamingo Egret - size 3",
-    "price": "£16",
-    "link": "https://www.hotukdeals.com/deals/converse-all-star-low-trainers-shy-flamingo-egret-size-3-5017522",
-    "date": "2026-10-29 22:07",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "converse"
-  },
-  {
-    "title": "Puma Womens Palermo Elevata Pink Fruit - 3.5 only",
-    "price": "£15",
-    "link": "https://www.hotukdeals.com/deals/puma-womens-palermo-elevata-pink-fruit-35-only-5017519",
-    "date": "2026-10-29 22:01",
+    "title": "Stella Artois Belgium Premium Lager Beer 18 x 440ml (England Only)",
+    "price": "£9.99",
+    "link": "https://www.hotukdeals.com/deals/stella-artois-belgium-premium-lager-beer-18-x-440ml-england-only-5017628",
+    "date": "2026-10-30 02:04",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "puma"
   },
   {
-    "title": "480 NEW-B HOOK & LOOP Shoes - sizes 1.5 &2.5",
-    "price": "£19",
-    "link": "https://www.hotukdeals.com/deals/480-new-b-hook-loop-shoes-sizes-15-25-5017517",
-    "date": "2026-10-29 21:57",
+    "title": "adidas Essentials Single Jersey Big Logo T-Shirt (White / Black, Size S)",
+    "price": "£14",
+    "link": "https://www.hotukdeals.com/deals/adidas-essentials-single-jersey-big-logo-t-shirt-white-black-size-s-5017620",
+    "date": "2026-10-30 01:30",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "new balance"
+    "keyword": "adidas"
   },
   {
-    "title": "New Balance B480 Lace Shoes GS - Sizes 10-13",
-    "price": "£22.50",
-    "link": "https://www.hotukdeals.com/deals/new-balance-b480-lace-shoes-gs-sizes-10-13-5017513",
-    "date": "2026-10-29 21:50",
+    "title": "adidas Kids' Tiberio 3-Stripes Tricot Tracksuit (Black / White / Grey, 15-16 Years)",
+    "price": "£26.22",
+    "link": "https://www.hotukdeals.com/deals/adidas-kids-tiberio-3-stripes-tricot-tracksuit-black-white-grey-15-16-years-5017617",
+    "date": "2026-10-30 01:09",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "new balance"
+    "keyword": "adidas"
   },
   {
-    "title": "Nike Air Max Moto 2K Men Shoes",
-    "price": "£65",
-    "link": "https://www.hotukdeals.com/deals/nike-air-max-moto-2k-men-shoes-5017512",
-    "date": "2026-10-29 21:48",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "New Balance Older Kids 480 (GS) sizes 4 - 5",
-    "price": "£30",
-    "link": "https://www.hotukdeals.com/deals/new-balance-older-kids-480-gs-sizes-4-5-5017510",
-    "date": "2026-10-29 21:46",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "new balance"
-  },
-  {
-    "title": "adidas Women's Galaxy 8 Running Shoes (Core Black / Iron Metallic, UK 6.5)",
-    "price": "£31.79",
-    "link": "https://www.hotukdeals.com/deals/adidas-womens-galaxy-8-running-shoes-core-black-iron-metallic-uk-65-5017495",
-    "date": "2026-10-29 21:24",
+    "title": "adidas Essentials Linear Logo Cotton T-Shirt (Black / White, Size XS)",
+    "price": "£6.83",
+    "link": "https://www.hotukdeals.com/deals/adidas-essentials-linear-logo-cotton-t-shirt-black-white-size-xs-5017613",
+    "date": "2026-10-30 00:58",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
