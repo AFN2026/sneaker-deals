@@ -1,30 +1,93 @@
 window.DEALS = [
   {
-    "title": "NIKE Unisex U Everyday Training Socks, 3pr, Size S - Sold by AA Selection / FBA",
-    "price": "£5.41",
-    "link": "https://www.hotukdeals.com/deals/nike-unisex-u-everyday-ltwt-ale-3pr-5018731",
-    "date": "2026-10-31 11:15",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Amazon Haul Shoe Sale for All under $15 + free shipping w/ Prime",
+    "price": "$15",
+    "link": "https://www.dealnews.com/Amazon-Haul-Shoe-Sale-for-All-under-15-free-shipping-w-Prime/22330615.html?iref=rss-c280",
+    "date": "2026-10-31 15:36",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Dick's Sporting Goods Family Shoe Sale: Up to 40% off + extra 25% off + free shipping w/ $49",
+    "price": "$49",
+    "link": "https://www.dealnews.com/Dicks-Sporting-Goods-Family-Shoe-Sale-Up-to-40-off-extra-25-off-free-shipping-w-49/22330534.html?iref=rss-c280",
+    "date": "2026-10-31 14:30",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
-    "title": "HOKA Clifton 8 / Bondi 8 £79.99 Running Trainers - Various Sizes & Colours - Free Click & Collect",
-    "price": "£79.99",
-    "link": "https://www.hotukdeals.com/deals/hoka-clifton-8-bondi-8-ps7999-running-trainers-various-sizes-colours-free-click-collect-5018721",
-    "date": "2026-10-31 11:04",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
+    "title": "Woot Open Box Shoe & Apparel Clearance Deals: Up to 70% off + free shipping w/ Prime",
+    "price": "$25,",
+    "link": "https://www.dealnews.com/Woot-Open-Box-Shoe-Apparel-Clearance-Deals-Up-to-70-off-free-shipping-w-Prime/22315562.html?iref=rss-c280",
+    "date": "2026-10-31 14:11",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
-    "title": "Skechers Women's Uno Stand On Air Trainers (Sand Durabuck Mesh, UK 8)",
-    "price": "£41.33",
-    "link": "https://www.hotukdeals.com/deals/skechers-womens-uno-stand-on-air-trainers-sand-durabuck-mesh-uk-8-5018718",
-    "date": "2026-10-31 11:02",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "trainers"
+    "title": "adidas Men's Adizero ZG Spikeless Golf Shoes for $61 + free shipping",
+    "price": "$61",
+    "link": "https://www.dealnews.com/adidas-Mens-Adizero-ZG-Spikeless-Golf-Shoes-for-61-free-shipping/22330465.html?iref=rss-c280",
+    "date": "2026-10-31 13:26",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "lululemon Shoe Specials for From $49, sneakers from $89 + free shipping",
+    "price": "$49,",
+    "link": "https://www.dealnews.com/lululemon-Shoe-Specials-for-From-49-sneakers-from-89-free-shipping/22330376.html?iref=rss-c280",
+    "date": "2026-10-31 11:57",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Terrex Hikster LT Hiking Shoes for $31 + free shipping",
+    "price": "$31",
+    "link": "https://www.dealnews.com/adidas-Terrex-Hikster-LT-Hiking-Shoes-for-31-free-shipping/22330369.html?iref=rss-c280",
+    "date": "2026-10-31 11:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Response Runner Shoes for $25.50 + free shipping",
+    "price": "$25.50",
+    "link": "https://www.dealnews.com/adidas-Response-Runner-Shoes-for-25-50-free-shipping/22327524.html?iref=rss-c280",
+    "date": "2026-10-31 11:41",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Terrex Week of Deals Sale: Up to 45% off + extra 15% off + free shipping",
+    "price": "$39,",
+    "link": "https://www.dealnews.com/adidas-Terrex-Week-of-Deals-Sale-Up-to-45-off-extra-15-off-free-shipping/22330368.html?iref=rss-c280",
+    "date": "2026-10-31 11:41",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Terrex Rockadia Hiking Shoes for $39 + free shipping",
+    "price": "$39",
+    "link": "https://www.dealnews.com/adidas-Terrex-Rockadia-Hiking-Shoes-for-39-free-shipping/22330367.html?iref=rss-c280",
+    "date": "2026-10-31 11:36",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Week of Deals Best Sellers Sale: Up to 50% off + extra 15% off + free shipping",
+    "price": "$25.50.",
+    "link": "https://www.dealnews.com/adidas-Week-of-Deals-Best-Sellers-Sale-Up-to-50-off-extra-15-off-free-shipping/22330365.html?iref=rss-c280",
+    "date": "2026-10-31 11:26",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "BOSS by Hugo Boss Men's Colyn Derby Leather Sneakers for $70 + free shipping",
@@ -54,76 +117,13 @@ window.DEALS = [
     "keyword": "new balance"
   },
   {
-    "title": "Nike Cheapest Shoe Deals for All under $50 + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Cheapest-Shoe-Deals-for-All-under-50-free-shipping-w-50/22310367.html?iref=rss-c280",
-    "date": "2026-10-30 16:48",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Ava Edge Shoes for $87 + free shipping",
-    "price": "$87",
-    "link": "https://www.dealnews.com/Nike-Mens-Ava-Edge-Shoes-for-87-free-shipping/22327611.html?iref=rss-c280",
-    "date": "2026-10-30 13:11",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "lululemon Shoe Specials for From $49, sneakers from $89 + free shipping",
-    "price": "$49,",
-    "link": "https://www.dealnews.com/lululemon-Shoe-Specials-for-From-49-sneakers-from-89-free-shipping/22327592.html?iref=rss-c280",
-    "date": "2026-10-30 12:51",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "DSW Last Chance Clearance: Up to 60% off + free shipping",
-    "price": "$30,",
-    "link": "https://www.dealnews.com/DSW-Last-Chance-Clearance-Up-to-60-off-free-shipping/22327534.html?iref=rss-c280",
-    "date": "2026-10-30 12:03",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Runfalcon 6 Cloudfoam Running Shoes for $28 + free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Cloudfoam-Running-Shoes-for-28-free-shipping/22327533.html?iref=rss-c280",
-    "date": "2026-10-30 12:03",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Response Runner Shoes for $25.50 + free shipping",
-    "price": "$25.50",
-    "link": "https://www.dealnews.com/adidas-Response-Runner-Shoes-for-25-50-free-shipping/22327524.html?iref=rss-c280",
-    "date": "2026-10-30 11:53",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Rarely-on-Sale Shoe Deals for From $14, sneakers from $26 + free shipping",
-    "price": "$14,",
-    "link": "https://www.dealnews.com/adidas-Mens-Rarely-on-Sale-Shoe-Deals-for-From-14-sneakers-from-26-free-shipping/22327523.html?iref=rss-c280",
-    "date": "2026-10-30 11:50",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "$11 Avia Little & Big Kids Retro Air Bubble Sneakers",
-    "price": "$11",
-    "link": "https://slickdeals.net/f/20209488-11-avia-little-big-kids-retro-air-bubble-sneakers?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-26 12:52",
+    "title": "New Balance 996v6 48% off at Joe's New Balance $69.99",
+    "price": "$69.99",
+    "link": "https://slickdeals.net/f/20228862-new-balance-996v6-48-off-at-joe-s-new-balance-69-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-29 19:07",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "sneakers"
+    "keyword": "new balance"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
