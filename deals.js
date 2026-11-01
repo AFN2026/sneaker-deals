@@ -1,14 +1,5 @@
 window.DEALS = [
   {
-    "title": "McLaren Mastercard F1 PUMA 2026 Team T-shirt",
-    "price": "£36",
-    "link": "https://www.hotukdeals.com/deals/mclaren-mastercard-f1-puma-2026-team-t-shirt-5019100",
-    "date": "2026-10-31 20:21",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
-  },
-  {
     "title": "Amazon Haul Shoe Sale for All under $15 + free shipping w/ Prime",
     "price": "$15",
     "link": "https://www.dealnews.com/Amazon-Haul-Shoe-Sale-for-All-under-15-free-shipping-w-Prime/22330615.html?iref=rss-c280",
@@ -124,15 +115,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "new balance"
-  },
-  {
-    "title": "adidas Men's Runfalcon 5 Running Shoes (Limited Sizes, Cloud White / Cloud White / Cloud White) $25.5",
-    "price": "$25.5",
-    "link": "https://slickdeals.net/f/20231586-adidas-men-s-runfalcon-5-running-shoes-limited-sizes-cloud-white-cloud-white-cloud-white-25-5?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-10-30 10:28",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
