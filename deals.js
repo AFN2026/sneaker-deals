@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "adidas Women's Breaknet 3.0 Shoes Size 4.5",
+    "price": "£21.81",
+    "link": "https://www.hotukdeals.com/deals/adidas-womens-breaknet-30-shoes-size-45-5020074",
+    "date": "2026-11-01 21:30",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Advantage 2.0 Shoes - Size 7.5",
+    "price": "£23.09",
+    "link": "https://www.hotukdeals.com/deals/adidas-advantage-20-shoes-size-75-5020070",
+    "date": "2026-11-01 21:23",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's VL Court 3.0 Shoes for $22.50 + free shipping",
     "price": "$22.50",
     "link": "https://www.dealnews.com/adidas-Mens-VL-Court-3-0-Shoes-for-22-50-free-shipping/22332807.html?iref=rss-c280",
