@@ -1,23 +1,5 @@
 window.DEALS = [
   {
-    "title": "adidas Women's Breaknet 3.0 Shoes Size 4.5",
-    "price": "£21.81",
-    "link": "https://www.hotukdeals.com/deals/adidas-womens-breaknet-30-shoes-size-45-5020074",
-    "date": "2026-11-01 21:30",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Advantage 2.0 Shoes - Size 7.5",
-    "price": "£23.09",
-    "link": "https://www.hotukdeals.com/deals/adidas-advantage-20-shoes-size-75-5020070",
-    "date": "2026-11-01 21:23",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's VL Court 3.0 Shoes for $22.50 + free shipping",
     "price": "$22.50",
     "link": "https://www.dealnews.com/adidas-Mens-VL-Court-3-0-Shoes-for-22-50-free-shipping/22332807.html?iref=rss-c280",
@@ -124,6 +106,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "new balance"
+  },
+  {
+    "title": "adidas Victory League Giftset including Eau de Toilette (1.6fl oz.) and Shower Gel (8.4fl oz.), For Him $9.99",
+    "price": "$9.99",
+    "link": "https://slickdeals.net/f/20228817-adidas-victory-league-giftset-including-eau-de-toilette-1-6fl-oz-and-shower-gel-8-4fl-oz-for-him-9-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-29 18:50",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
