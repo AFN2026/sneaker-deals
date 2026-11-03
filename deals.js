@@ -1,5 +1,95 @@
 window.DEALS = [
   {
+    "title": "Donnay Men Trainers",
+    "price": "£10.50",
+    "link": "https://www.hotukdeals.com/deals/donnay-men-trainers-5021136",
+    "date": "2026-11-03 00:14",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "trainers"
+  },
+  {
+    "title": "adidas Germany Away Shirt 2025 Adults",
+    "price": "£19.50",
+    "link": "https://www.hotukdeals.com/deals/adidas-germany-away-shirt-2025-adults-5021135",
+    "date": "2026-11-03 00:13",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "New Balance Footwear Deals at New Balance Reconsidered: Extra 20% off + $7.50 shipping",
+    "price": "$7.50",
+    "link": "https://www.dealnews.com/New-Balance-Footwear-Deals-at-New-Balance-Reconsidered-Extra-20-off-7-50-shipping/22337019.html?iref=rss-c280",
+    "date": "2026-11-02 21:15",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "BOSS by Hugo Boss Men's Kurt Sneakers for $99 + free shipping",
+    "price": "$99",
+    "link": "https://www.dealnews.com/BOSS-by-Hugo-Boss-Mens-Kurt-Sneakers-for-99-free-shipping/22336911.html?iref=rss-c280",
+    "date": "2026-11-02 19:42",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Avia Men's 02 Air Trainer Sneakers for $13 + free shipping w/ $35",
+    "price": "$13",
+    "link": "https://www.dealnews.com/Avia-Mens-02-Air-Trainer-Sneakers-for-13-free-shipping-w-35/22336837.html?iref=rss-c280",
+    "date": "2026-11-02 18:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Skechers S Sport Sneakers Deals at eBay for From $13 + free shipping",
+    "price": "$13",
+    "link": "https://www.dealnews.com/Skechers-S-Sport-Sneakers-Deals-at-eBay-for-From-13-free-shipping/22336571.html?iref=rss-c280",
+    "date": "2026-11-02 15:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "S Sport by Skechers Men's Brennen Slip-On Sneakers for $17 + free shipping",
+    "price": "$17",
+    "link": "https://www.dealnews.com/S-Sport-by-Skechers-Mens-Brennen-Slip-On-Sneakers-for-17-free-shipping/22336553.html?iref=rss-c280",
+    "date": "2026-11-02 15:30",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Men's VL Court Base Shoes for $26 + Free shipping",
+    "price": "$26",
+    "link": "https://www.dealnews.com/adidas-Mens-VL-Court-Base-Shoes-for-26-Free-shipping/22336535.html?iref=rss-c280",
+    "date": "2026-11-02 15:16",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Lite Racer 4.0 Shoes for $24 + Free shipping",
+    "price": "$24",
+    "link": "https://www.dealnews.com/adidas-Lite-Racer-4-0-Shoes-for-24-Free-shipping/22336525.html?iref=rss-c280",
+    "date": "2026-11-02 15:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Adistar XLG 2.0 Shoes for $64 + Free shipping",
+    "price": "$64",
+    "link": "https://www.dealnews.com/adidas-Adistar-XLG-2-0-Shoes-for-64-Free-shipping/22336484.html?iref=rss-c280",
+    "date": "2026-11-02 14:43",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's VL Court 3.0 Shoes for $22 + free shipping",
     "price": "$22",
     "link": "https://www.dealnews.com/adidas-Mens-VL-Court-3-0-Shoes-for-22-free-shipping/22336228.html?iref=rss-c280",
@@ -27,94 +117,13 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Adizero ZG Spikeless Golf Shoes for $61 + free shipping",
-    "price": "$61",
-    "link": "https://www.dealnews.com/adidas-Mens-Adizero-ZG-Spikeless-Golf-Shoes-for-61-free-shipping/22330465.html?iref=rss-c280",
-    "date": "2026-10-31 13:26",
-    "source": "DealNews",
+    "title": "2-Pack Reebok Girl’s Athletic Balance Gym Short (Sizes 4-12) $4.50 + Free S&H w/ Walmart+ or $35+",
+    "price": "$4.50",
+    "link": "https://slickdeals.net/f/20222244-2-pack-reebok-girl-s-athletic-balance-gym-short-sizes-4-12-4-50-free-s-h-w-walmart-or-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-10-28 13:18",
+    "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "lululemon Shoe Specials for From $49, sneakers from $89 + free shipping",
-    "price": "$49,",
-    "link": "https://www.dealnews.com/lululemon-Shoe-Specials-for-From-49-sneakers-from-89-free-shipping/22330376.html?iref=rss-c280",
-    "date": "2026-10-31 11:57",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Terrex Hikster LT Hiking Shoes for $31 + free shipping",
-    "price": "$31",
-    "link": "https://www.dealnews.com/adidas-Terrex-Hikster-LT-Hiking-Shoes-for-31-free-shipping/22330369.html?iref=rss-c280",
-    "date": "2026-10-31 11:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Response Runner Shoes for $25.50 + free shipping",
-    "price": "$25.50",
-    "link": "https://www.dealnews.com/adidas-Response-Runner-Shoes-for-25-50-free-shipping/22327524.html?iref=rss-c280",
-    "date": "2026-10-31 11:41",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Week of Deals Sale: Up to 45% off + extra 15% off + free shipping",
-    "price": "$39,",
-    "link": "https://www.dealnews.com/adidas-Terrex-Week-of-Deals-Sale-Up-to-45-off-extra-15-off-free-shipping/22330368.html?iref=rss-c280",
-    "date": "2026-10-31 11:41",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Rockadia Hiking Shoes for $39 + free shipping",
-    "price": "$39",
-    "link": "https://www.dealnews.com/adidas-Terrex-Rockadia-Hiking-Shoes-for-39-free-shipping/22330367.html?iref=rss-c280",
-    "date": "2026-10-31 11:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Week of Deals Best Sellers Sale: Up to 50% off + extra 15% off + free shipping",
-    "price": "$25.50.",
-    "link": "https://www.dealnews.com/adidas-Week-of-Deals-Best-Sellers-Sale-Up-to-50-off-extra-15-off-free-shipping/22330365.html?iref=rss-c280",
-    "date": "2026-10-31 11:26",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "BOSS by Hugo Boss Men's Colyn Derby Leather Sneakers for $70 + free shipping",
-    "price": "$70",
-    "link": "https://www.dealnews.com/BOSS-by-Hugo-Boss-Mens-Colyn-Derby-Leather-Sneakers-for-70-free-shipping/22328091.html?iref=rss-c280",
-    "date": "2026-10-30 19:39",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Polo Ralph Lauren Men's Train 89 V2 Running Sneakers for $62 + free shipping",
-    "price": "$62",
-    "link": "https://www.dealnews.com/Polo-Ralph-Lauren-Mens-Train-89-V2-Running-Sneakers-for-62-free-shipping/22328062.html?iref=rss-c280",
-    "date": "2026-10-30 19:16",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "New Balance Men's Fresh Foam X 880v15 Road-Running Shoes for $97 + free shipping w/ $100",
-    "price": "$97",
-    "link": "https://www.dealnews.com/New-Balance-Mens-Fresh-Foam-X-880-v15-Road-Running-Shoes-for-97-free-shipping-w-100/22327955.html?iref=rss-c280",
-    "date": "2026-10-30 17:54",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
+    "keyword": "reebok"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
