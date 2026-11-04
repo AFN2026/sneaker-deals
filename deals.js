@@ -1,11 +1,20 @@
 window.DEALS = [
   {
-    "title": "Adidas Samba OG Women's Shoes, Off White-Sandy Pink-Gum (Free Delivery for Members)",
-    "price": "£43",
-    "link": "https://www.hotukdeals.com/deals/adidas-samba-og-womens-5022142",
-    "date": "2026-11-03 22:40",
+    "title": "Clock Tower: Rewind - XBOX Series X|S",
+    "price": "£6.69",
+    "link": "https://www.hotukdeals.com/deals/clock-tower-rewind-xbox-series-xs-5022245",
+    "date": "2026-11-04 02:17",
     "source": "HotUKDeals",
     "currency": "GBP",
+    "keyword": "vans"
+  },
+  {
+    "title": "adidas men Daily 4.0 Shoes (Grey One / Royal Blue / Grey Three) $29",
+    "price": "$29",
+    "link": "https://slickdeals.net/f/20251959-adidas-men-daily-4-0-shoes-grey-one-royal-blue-grey-three-29?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-03 23:06",
+    "source": "Slickdeals",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
@@ -52,6 +61,15 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
+  },
+  {
+    "title": "Nike Run Swift 3 Women's Running Shoes $46.75",
+    "price": "$46.75",
+    "link": "https://slickdeals.net/f/20250384-nike-run-swift-3-women-s-running-shoes-46-75?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-03 17:09",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "Nike Men's Vomero 18 Shoes for $88 + free shipping",
