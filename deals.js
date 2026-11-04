@@ -1,19 +1,46 @@
 window.DEALS = [
   {
-    "title": "Clock Tower: Rewind - XBOX Series X|S",
-    "price": "£6.69",
-    "link": "https://www.hotukdeals.com/deals/clock-tower-rewind-xbox-series-xs-5022245",
-    "date": "2026-11-04 02:17",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
+    "title": "adidas Men's Campus 00s Shoes for $27 + free shipping",
+    "price": "$27",
+    "link": "https://www.dealnews.com/adidas-Mens-Campus-00-s-Shoes-for-27-free-shipping/22346456.html?iref=rss-c280",
+    "date": "2026-11-04 13:25",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
-    "title": "adidas men Daily 4.0 Shoes (Grey One / Royal Blue / Grey Three) $29",
-    "price": "$29",
-    "link": "https://slickdeals.net/f/20251959-adidas-men-daily-4-0-shoes-grey-one-royal-blue-grey-three-29?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-03 23:06",
-    "source": "Slickdeals",
+    "title": "Adidas Hoops Classic Shoes | All white | UK size 6.5 only",
+    "price": "£35.88",
+    "link": "https://www.hotukdeals.com/deals/adidas-hoops-classic-shoes-all-white-uk-size-65-only-5022739",
+    "date": "2026-11-04 13:04",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Adidas OG Footwear Sale + 20% Extra e.g Women's Superstar Mule | Men's Rivalry £27.20 (More in Description; Gazelle, Nora, Puig etc ) W/Code",
+    "price": "£27.20",
+    "link": "https://www.hotukdeals.com/deals/adidas-og-footwear-sale-20-extra-eg-womens-superstar-mule-mens-rivalry-ps2720-more-in-description-gazelle-nora-puig-etc-wcode-5022738",
+    "date": "2026-11-04 13:01",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Fear of God Athletics Shoes at eBay for $35 to $40 + free shipping",
+    "price": "$35",
+    "link": "https://www.dealnews.com/adidas-Fear-of-God-Athletics-Shoes-at-eBay-for-35-to-40-free-shipping/22346202.html?iref=rss-c280",
+    "date": "2026-11-04 10:02",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Adilette Aqua Slides for $8 + free shipping",
+    "price": "$8",
+    "link": "https://www.dealnews.com/products/adidas/adidas-Mens-Adilette-Aqua-Slides/498597.html?iref=rss-c280",
+    "date": "2026-11-04 09:35",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -63,15 +90,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Nike Run Swift 3 Women's Running Shoes $46.75",
-    "price": "$46.75",
-    "link": "https://slickdeals.net/f/20250384-nike-run-swift-3-women-s-running-shoes-46-75?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-03 17:09",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
     "title": "Nike Men's Vomero 18 Shoes for $88 + free shipping",
     "price": "$88",
     "link": "https://www.dealnews.com/Nike-Mens-Vomero-18-Shoes-for-88-free-shipping/22341645.html?iref=rss-c280",
@@ -97,33 +115,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Skechers S Sport Sneakers Deals at eBay for From $13 + free shipping",
-    "price": "$13",
-    "link": "https://www.dealnews.com/Skechers-S-Sport-Sneakers-Deals-at-eBay-for-From-13-free-shipping/22336571.html?iref=rss-c280",
-    "date": "2026-11-02 15:39",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "S Sport by Skechers Men's Brennen Slip-On Sneakers for $17 + free shipping",
-    "price": "$17",
-    "link": "https://www.dealnews.com/S-Sport-by-Skechers-Mens-Brennen-Slip-On-Sneakers-for-17-free-shipping/22336553.html?iref=rss-c280",
-    "date": "2026-11-02 15:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Men's VL Court Base Shoes for $26 + Free shipping",
-    "price": "$26",
-    "link": "https://www.dealnews.com/adidas-Mens-VL-Court-Base-Shoes-for-26-Free-shipping/22336535.html?iref=rss-c280",
-    "date": "2026-11-02 15:16",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
