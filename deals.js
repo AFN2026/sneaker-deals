@@ -1,21 +1,57 @@
 window.DEALS = [
   {
-    "title": "Costco Members - Nike Men's Offcourt Slides (3 colors) - $14.97 + free shipping",
-    "price": "$14.97",
-    "link": "https://slickdeals.net/f/20258220-costco-members-nike-men-s-offcourt-slides-3-colors-14-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-05 03:05",
-    "source": "Slickdeals",
+    "title": "Adidas Gazelle Stack Trainers Halo Blush Blue Spark Gum UK Size 6",
+    "price": "£22",
+    "link": "https://www.hotukdeals.com/deals/adidas-gazelle-stack-trainers-halo-blush-blue-spark-gum-uk-size-6-5023849",
+    "date": "2026-11-05 13:35",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nine Inch Nails - Tron: Ares soundtrack coloured vinyl",
+    "price": "£19.10",
+    "link": "https://www.hotukdeals.com/deals/nine-inch-nails-tron-ares-soundtrack-vinyl-5023839",
+    "date": "2026-11-05 13:27",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "Jordan Editions Shoe Deals at Nike for From $91 + free shipping",
+    "price": "$91",
+    "link": "https://www.dealnews.com/Jordan-Editions-Shoe-Deals-at-Nike-for-From-91-free-shipping/22350726.html?iref=rss-c280",
+    "date": "2026-11-05 10:26",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
   },
   {
-    "title": "Allini Prosecco Spumante 75cl - Lidl plus price",
-    "price": "£4.69",
-    "link": "https://www.hotukdeals.com/deals/allini-prosecco-spumante-75cl-lidl-plus-price-5023370",
-    "date": "2026-11-05 02:11",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
+    "title": "adidas Terrex Rockadia Hiking Shoes for $39, ending today + free shipping",
+    "price": "$39,",
+    "link": "https://www.dealnews.com/adidas-Terrex-Rockadia-Hiking-Shoes-for-39-ending-today-free-shipping/22330367.html?iref=rss-c280",
+    "date": "2026-11-05 09:15",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Week of Deals Shoe Sale for Sneakers from $24, ending today + free shipping",
+    "price": "$24,",
+    "link": "https://www.dealnews.com/adidas-Mens-Week-of-Deals-Shoe-Sale-for-Sneakers-from-24-ending-today-free-shipping/22350631.html?iref=rss-c280",
+    "date": "2026-11-05 09:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Coostar Men's Non-Slip Waterproof Chef Sneakers for $25 + free shipping w/ Prime",
+    "price": "$25",
+    "link": "https://www.dealnews.com/products/Coostar/Coostar-Mens-Non-Slip-Waterproof-Chef-Sneakers/541513.html?iref=rss-c280",
+    "date": "2026-11-05 08:29",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
   },
   {
     "title": "Nike Men's Waffle Racer Shoes for $53 in cart + free shipping",
@@ -72,15 +108,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Terrex Hikster LT Hiking Shoes for $31 + free shipping",
-    "price": "$31",
-    "link": "https://www.dealnews.com/adidas-Terrex-Hikster-LT-Hiking-Shoes-for-31-free-shipping/22330369.html?iref=rss-c280",
-    "date": "2026-11-04 16:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Nike Men's Structure 26 Road Running Shoes for $95 + free shipping",
     "price": "$95",
     "link": "https://www.dealnews.com/Nike-Mens-Structure-26-Road-Running-Shoes-for-95-free-shipping/22346612.html?iref=rss-c280",
@@ -94,42 +121,6 @@ window.DEALS = [
     "price": "$64",
     "link": "https://www.dealnews.com/adidas-Ultraboost-5-X-Mens-Running-Shoes-for-64-free-shipping/22346492.html?iref=rss-c280",
     "date": "2026-11-04 13:48",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Anylander Hiking Shoes (sizes 10+) for $38 + free shipping",
-    "price": "$38",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Anylander-Hiking-Shoes-sizes-10-for-38-free-shipping/22346469.html?iref=rss-c280",
-    "date": "2026-11-04 13:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Campus 00s Shoes for $27 + free shipping",
-    "price": "$27",
-    "link": "https://www.dealnews.com/adidas-Mens-Campus-00-s-Shoes-for-27-free-shipping/22346456.html?iref=rss-c280",
-    "date": "2026-11-04 13:25",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Fear of God Athletics Shoes at eBay for $35 to $40 + free shipping",
-    "price": "$35",
-    "link": "https://www.dealnews.com/adidas-Fear-of-God-Athletics-Shoes-at-eBay-for-35-to-40-free-shipping/22346202.html?iref=rss-c280",
-    "date": "2026-11-04 10:02",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Adilette Aqua Slides for $8 + free shipping",
-    "price": "$8",
-    "link": "https://www.dealnews.com/products/adidas/adidas-Mens-Adilette-Aqua-Slides/498597.html?iref=rss-c280",
-    "date": "2026-11-04 09:35",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
