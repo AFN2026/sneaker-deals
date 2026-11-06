@@ -1,66 +1,75 @@
 window.DEALS = [
   {
-    "title": "adidas Adizero Evo SL",
-    "price": "",
-    "link": "https://slickdeals.net/f/20264622-adidas-adizero-evo-sl?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-06 02:46",
+    "title": "adidas Men's Lightblaze EVO SL Shoes (Core White/Silver) $68.60 + Free Shipping",
+    "price": "$68.60",
+    "link": "https://slickdeals.net/f/20266503-adidas-men-s-lightblaze-evo-sl-shoes-core-white-silver-68-60-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-06 12:59",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "Vansoet 220V to 110V Voltage Converter Universal Travel Adapter UK/AU/US/EU Worldwide Plug Adapter - $18.89 AC",
-    "price": "$18.89",
-    "link": "https://slickdeals.net/f/20263215-vansoet-220v-to-110v-voltage-converter-universal-travel-adapter-uk-au-us-eu-worldwide-plug-adapter-18-89-ac?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-05 21:05",
+    "title": "$8 adidas Mens Adilette Aqua Slides (sizes 6, 8,10, 11, 12 and 13 only)",
+    "price": "$8",
+    "link": "https://slickdeals.net/f/20266188-8-adidas-mens-adilette-aqua-slides-sizes-6-8-10-11-12-and-13-only?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-06 11:37",
     "source": "Slickdeals",
     "currency": "USD",
-    "keyword": "vans"
+    "keyword": "adidas"
   },
   {
-    "title": "Polo Ralph Lauren Men's Bedford Leather & Suede Sneakers for $64 + free shipping",
-    "price": "$64",
-    "link": "https://www.dealnews.com/Polo-Ralph-Lauren-Mens-Bedford-Leather-Suede-Sneakers-for-64-free-shipping/22351199.html?iref=rss-c280",
-    "date": "2026-11-05 16:06",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Jordan Editions Shoe Deals at Nike for From $91 + free shipping",
-    "price": "$91",
-    "link": "https://www.dealnews.com/Jordan-Editions-Shoe-Deals-at-Nike-for-From-91-free-shipping/22350726.html?iref=rss-c280",
-    "date": "2026-11-05 10:26",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Terrex Rockadia Hiking Shoes for $39, ending today + free shipping",
-    "price": "$39,",
-    "link": "https://www.dealnews.com/adidas-Terrex-Rockadia-Hiking-Shoes-for-39-ending-today-free-shipping/22330367.html?iref=rss-c280",
-    "date": "2026-11-05 09:15",
+    "title": "adidas Terrex Holiday Sale: Up to 50% off + extra 30% off + free shipping",
+    "price": "$77,",
+    "link": "https://www.dealnews.com/adidas-Terrex-Holiday-Sale-Up-to-50-off-extra-30-off-free-shipping/22355488.html?iref=rss-c280",
+    "date": "2026-11-06 11:03",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Week of Deals Shoe Sale for Sneakers from $24, ending today + free shipping",
-    "price": "$24,",
-    "link": "https://www.dealnews.com/adidas-Mens-Week-of-Deals-Shoe-Sale-for-Sneakers-from-24-ending-today-free-shipping/22350631.html?iref=rss-c280",
-    "date": "2026-11-05 09:08",
+    "title": "adidas Men's Country II Shoes for $32 + free shipping",
+    "price": "$32",
+    "link": "https://www.dealnews.com/adidas-Mens-Country-II-Shoes-for-32-free-shipping/22355475.html?iref=rss-c280",
+    "date": "2026-11-06 10:46",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "Coostar Men's Non-Slip Waterproof Chef Sneakers for $25 + free shipping w/ Prime",
+    "title": "adidas Men's Shoe Deals at adidas for From $15, running shoes from $27 + free shipping",
+    "price": "$15,",
+    "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-at-adidas-for-From-15-running-shoes-from-27-free-shipping/22355470.html?iref=rss-c280",
+    "date": "2026-11-06 10:37",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Terrex Rockadia Hiking Shoes for $32 + free shipping",
+    "price": "$32",
+    "link": "https://www.dealnews.com/adidas-Terrex-Rockadia-Hiking-Shoes-for-32-free-shipping/22355468.html?iref=rss-c280",
+    "date": "2026-11-06 10:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Terrex Hikster LT Hiking Shoes for $25 + free shipping",
     "price": "$25",
-    "link": "https://www.dealnews.com/products/Coostar/Coostar-Mens-Non-Slip-Waterproof-Chef-Sneakers/541513.html?iref=rss-c280",
-    "date": "2026-11-05 08:29",
+    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Hikster-LT-Hiking-Shoes-for-25-free-shipping/22355464.html?iref=rss-c280",
+    "date": "2026-11-06 10:30",
     "source": "DealNews",
     "currency": "USD",
-    "keyword": "sneakers"
+    "keyword": "adidas"
+  },
+  {
+    "title": "ASICS, adidas, Altra, & Saucony Deals at Woot for Up to 47% off, from $40 + free shipping w/ Prime",
+    "price": "$40",
+    "link": "https://www.dealnews.com/ASICS-adidas-Altra-Saucony-Deals-at-Woot-for-Up-to-47-off-from-40-free-shipping-w-Prime/22355400.html?iref=rss-c280",
+    "date": "2026-11-06 08:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
