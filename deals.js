@@ -1,12 +1,21 @@
 window.DEALS = [
   {
-    "title": "House of Fraser Black Friday Deals",
-    "price": "£26",
-    "link": "https://www.hotukdeals.com/deals/house-of-fraser-black-friday-deals-5024330",
-    "date": "2026-11-05 22:17",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
+    "title": "adidas Adizero Evo SL",
+    "price": "",
+    "link": "https://slickdeals.net/f/20264622-adidas-adizero-evo-sl?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-06 02:46",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Vansoet 220V to 110V Voltage Converter Universal Travel Adapter UK/AU/US/EU Worldwide Plug Adapter - $18.89 AC",
+    "price": "$18.89",
+    "link": "https://slickdeals.net/f/20263215-vansoet-220v-to-110v-voltage-converter-universal-travel-adapter-uk-au-us-eu-worldwide-plug-adapter-18-89-ac?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-05 21:05",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "vans"
   },
   {
     "title": "Polo Ralph Lauren Men's Bedford Leather & Suede Sneakers for $64 + free shipping",
