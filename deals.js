@@ -1,5 +1,23 @@
 window.DEALS = [
   {
+    "title": "Puma Phase Shopper Bag Free C&C",
+    "price": "£5",
+    "link": "https://www.hotukdeals.com/deals/puma-phase-shopper-free-cc-5025927",
+    "date": "2026-11-07 21:01",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "adidas Early Holiday Shoe Deals for All under $35 + free shipping",
+    "price": "$35",
+    "link": "https://www.dealnews.com/adidas-Early-Holiday-Shoe-Deals-for-All-under-35-free-shipping/22360356.html?iref=rss-c280",
+    "date": "2026-11-07 12:05",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "adidas Men's Early Holiday Deals: Up to 60% off + extra 30% off + Free shipping",
     "price": "$26",
     "link": "https://www.dealnews.com/adidas-Mens-Early-Holiday-Deals-Up-to-60-off-extra-30-off-Free-shipping/22360355.html?iref=rss-c280",
@@ -63,24 +81,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas men Lite Racer 4.0 Shoes (Limited Sizes, 3 Colors) $21",
-    "price": "$21",
-    "link": "https://slickdeals.net/f/20270781-adidas-men-lite-racer-4-0-shoes-limited-sizes-3-colors-21?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-07 08:36",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas men X_PLR Path Shoes (Core Black / Carbon / Yellow) $26",
-    "price": "$26",
-    "link": "https://slickdeals.net/f/20270706-adidas-men-x-plr-path-shoes-core-black-carbon-yellow-26?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-07 07:47",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Men's or Women's Daily 4.0 Sneakers for $26 in cart + free shipping w/ $89",
     "price": "$26",
     "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Daily-4-0-Sneakers-for-26-in-cart-free-shipping-w-89/22355929.html?iref=rss-c280",
@@ -121,15 +121,6 @@ window.DEALS = [
     "price": "$32",
     "link": "https://www.dealnews.com/adidas-Terrex-Rockadia-Hiking-Shoes-for-32-free-shipping/22355468.html?iref=rss-c280",
     "date": "2026-11-06 10:32",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Terrex Hikster LT Hiking Shoes for $25 + free shipping",
-    "price": "$25",
-    "link": "https://www.dealnews.com/adidas-Mens-Terrex-Hikster-LT-Hiking-Shoes-for-25-free-shipping/22355464.html?iref=rss-c280",
-    "date": "2026-11-06 10:30",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
