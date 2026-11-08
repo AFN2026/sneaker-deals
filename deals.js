@@ -1,5 +1,68 @@
 window.DEALS = [
   {
+    "title": "Nike Men's Vomero 18 Shoes for $88 + free shipping",
+    "price": "$88",
+    "link": "https://www.dealnews.com/Nike-Mens-Vomero-18-Shoes-for-88-free-shipping/22341645.html?iref=rss-c280",
+    "date": "2026-11-08 12:07",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Skechers S Sport Sneakers Deals at eBay for From $13 + free shipping",
+    "price": "$13",
+    "link": "https://www.dealnews.com/Skechers-S-Sport-Sneakers-Deals-at-eBay-for-From-13-free-shipping/22336571.html?iref=rss-c280",
+    "date": "2026-11-08 11:38",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "On Running Cloudsurfer Next 1 Running Shoes - eg Womens Cloudsurfer Next 1 Kiwi/Ivory Trainers / Mens Cloudsurfer Next 1 £83.99",
+    "price": "£83.99",
+    "link": "https://www.hotukdeals.com/deals/on-running-cloudsurfer-next-1-running-shoes-eg-womens-cloudsurfer-next-1-kiwiivory-trainers-mens-cloudsurfer-next-1-ps8399-5026165",
+    "date": "2026-11-08 11:37",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "trainers"
+  },
+  {
+    "title": "Under Armour Women's Challenger Boxy T-Shirt - Size XXL",
+    "price": "£5.29",
+    "link": "https://www.hotukdeals.com/deals/under-armour-womens-challenger-boxy-t-shirt-t-shirt-pack-of-1-xxl-5026164",
+    "date": "2026-11-08 11:33",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "jordan"
+  },
+  {
+    "title": "AJ Max Aura 7 Men's Shoes",
+    "price": "£58.50",
+    "link": "https://www.hotukdeals.com/deals/aj-max-aura-7-shoes-mens-5026156",
+    "date": "2026-11-08 11:05",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "jordan"
+  },
+  {
+    "title": "adidas Men's D.C. United MLS Long Sleeve T-Shirt (White, XL  ) $11.12 + Free Shipping w/ Prime or on $35+",
+    "price": "$11.12",
+    "link": "https://slickdeals.net/f/20274246-adidas-men-s-d-c-united-mls-long-sleeve-t-shirt-white-xl-11-12-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-08 07:19",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Jordan Unisex Cordura Crossbody Bag (Legend MD Brown) $13.93 + Free Store Pickup at Macy's or Free Shipping on $39+",
+    "price": "$13.93",
+    "link": "https://slickdeals.net/f/20273853-jordan-unisex-cordura-crossbody-bag-legend-md-brown-13-93-free-store-pickup-at-macy-s-or-free-shipping-on-39?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-08 04:46",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "jordan"
+  },
+  {
     "title": "adidas Early Holiday Shoe Deals for All under $35 + free shipping",
     "price": "$35",
     "link": "https://www.dealnews.com/adidas-Early-Holiday-Shoe-Deals-for-All-under-35-free-shipping/22360356.html?iref=rss-c280",
@@ -94,24 +157,6 @@ window.DEALS = [
     "price": "$32",
     "link": "https://www.dealnews.com/adidas-Mens-Country-II-Shoes-for-32-free-shipping/22355475.html?iref=rss-c280",
     "date": "2026-11-06 10:46",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Shoe Deals at adidas for From $15, running shoes from $27 + free shipping",
-    "price": "$15,",
-    "link": "https://www.dealnews.com/adidas-Mens-Shoe-Deals-at-adidas-for-From-15-running-shoes-from-27-free-shipping/22355470.html?iref=rss-c280",
-    "date": "2026-11-06 10:37",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Terrex Rockadia Hiking Shoes for $32 + free shipping",
-    "price": "$32",
-    "link": "https://www.dealnews.com/adidas-Terrex-Rockadia-Hiking-Shoes-for-32-free-shipping/22355468.html?iref=rss-c280",
-    "date": "2026-11-06 10:32",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
