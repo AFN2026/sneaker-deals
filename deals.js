@@ -1,12 +1,39 @@
 window.DEALS = [
   {
-    "title": "VANS Old Skool Sneakers, Blue or Grey plus others, Size 3-7.5 - w/code Blue Light Code",
-    "price": "£30.39",
-    "link": "https://www.hotukdeals.com/deals/vans-old-skool-sneakers-blue-or-grey-size-3-75-wcode-blue-light-code-5026604",
-    "date": "2026-11-08 21:25",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "vans"
+    "title": "adidas Kids' adizero Impact Spider-Man Turf Baseball Shoes for $16 + free shipping w/ $49",
+    "price": "$16",
+    "link": "https://www.dealnews.com/adidas-Kids-adizero-Impact-Spider-Man-Turf-Baseball-Shoes-for-16-free-shipping-w-49/22365800.html?iref=rss-c280",
+    "date": "2026-11-09 00:46",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's or Women's Flex Train Workout Shoes for $50 + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Flex-Train-Workout-Shoes-for-50-free-shipping-w-50/22365718.html?iref=rss-c280",
+    "date": "2026-11-08 22:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's or Women's Air Max 2017 Shoes for $105 + free shipping",
+    "price": "$105",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Air-Max-2017-Shoes-for-105-free-shipping/22365707.html?iref=rss-c280",
+    "date": "2026-11-08 22:20",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Women's Adizero Boston 12 Running Shoes for $67 + free shipping",
+    "price": "$67",
+    "link": "https://www.dealnews.com/adidas-Womens-Adizero-Boston-12-Running-Shoes-for-67-free-shipping/22365662.html?iref=rss-c280",
+    "date": "2026-11-08 21:41",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Lite Racer Adapt 7.0 Shoes for $29 + free shipping",
@@ -15,24 +42,6 @@ window.DEALS = [
     "date": "2026-11-08 21:20",
     "source": "DealNews",
     "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Adidas Originals ZX 500 RS Trainers Blue, Size 6",
-    "price": "£38",
-    "link": "https://www.hotukdeals.com/deals/adidas-originals-zx-500-rs-trainers-blue-size-6-5026597",
-    "date": "2026-11-08 21:16",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Mens adidas Originals ZX 600, Grey, Size 7, Free C&C",
-    "price": "£40",
-    "link": "https://www.hotukdeals.com/deals/mens-adidas-originals-zx-600-grey-size-7-free-cc-5026593",
-    "date": "2026-11-08 21:13",
-    "source": "HotUKDeals",
-    "currency": "GBP",
     "keyword": "adidas"
   },
   {
@@ -106,60 +115,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "adidas Response Runner Running Shoes for $27 + Free shipping",
-    "price": "$27",
-    "link": "https://www.dealnews.com/adidas-Response-Runner-Running-Shoes-for-27-Free-shipping/22360266.html?iref=rss-c280",
-    "date": "2026-11-07 10:42",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Bruno Marc Men's Cushionix Stride Sneakers for $25 + free shipping w/ Prime",
-    "price": "$25",
-    "link": "https://www.dealnews.com/Bruno-Marc-Mens-Cushionix-Stride-Sneakers-for-25-free-shipping-w-Prime/22360264.html?iref=rss-c280",
-    "date": "2026-11-07 10:32",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Woot Open-Box Shoe & Accessory Clearance: Up to 85% off + free shipping w/ Prime",
-    "price": "$85",
-    "link": "https://www.dealnews.com/Woot-Open-Box-Shoe-Accessory-Clearance-Up-to-85-off-free-shipping-w-Prime/22360242.html?iref=rss-c280",
-    "date": "2026-11-07 09:59",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Terrex Holiday Sale: Up to 50% off + extra 30% off + free shipping",
-    "price": "$77,",
-    "link": "https://www.dealnews.com/adidas-Terrex-Holiday-Sale-Up-to-50-off-extra-30-off-free-shipping/22355488.html?iref=rss-c280",
-    "date": "2026-11-07 09:54",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's or Women's Daily 4.0 Sneakers for $26 in cart + free shipping w/ $89",
-    "price": "$26",
-    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Daily-4-0-Sneakers-for-26-in-cart-free-shipping-w-89/22355929.html?iref=rss-c280",
-    "date": "2026-11-06 18:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "New Balance Men's 515 Sneaker for $34 in cart + free shipping w/ $89",
-    "price": "$34",
-    "link": "https://www.dealnews.com/New-Balance-Mens-515-Sneaker-for-34-in-cart-free-shipping-w-89/22355927.html?iref=rss-c280",
-    "date": "2026-11-06 18:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
