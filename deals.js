@@ -1,12 +1,66 @@
 window.DEALS = [
   {
-    "title": "Bruno Marc Men's Formal Oxford Dress Sneakers (2 Colors) $23.99 + Free Shipping w/ Prime or on $35+",
-    "price": "$23.99",
-    "link": "https://slickdeals.net/f/20281131-bruno-marc-men-s-formal-oxford-dress-sneakers-2-colors-23-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-09 21:42",
-    "source": "Slickdeals",
+    "title": "Adidas Women's Essentials Small Logo Flared Leggings - Pure Ruby / XS,S,M,XL",
+    "price": "£14",
+    "link": "https://www.hotukdeals.com/deals/adidas-womens-essentials-small-logo-flared-leggings-pure-ruby-xssmxl-5028318",
+    "date": "2026-11-10 13:37",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "ADICOLOR XS BAG - Warm Vanilla - w/code Blue Light (Free delivery for members)",
+    "price": "£18.81",
+    "link": "https://www.hotukdeals.com/deals/adicolor-xs-bag-warm-vanilla-wcode-blue-light-5028308",
+    "date": "2026-11-10 13:18",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Men's Man City Official 26/27 Replica Home Shirt (Small)",
+    "price": "£37.76",
+    "link": "https://www.hotukdeals.com/deals/mens-man-city-official-2627-replica-home-shirt-small-5028305",
+    "date": "2026-11-10 13:17",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "adidas Men's Ultraboost 5X Shoes for $58 + free shipping",
+    "price": "$58",
+    "link": "https://www.dealnews.com/adidas-Mens-Ultraboost-5-X-Shoes-for-58-free-shipping/22375627.html?iref=rss-c280",
+    "date": "2026-11-10 12:14",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Looyor Women's Lace-Up Walking Sneakers for $15 + free shipping w/ Prime",
+    "price": "$15",
+    "link": "https://www.dealnews.com/Looyor-Womens-Lace-Up-Walking-Sneakers-for-15-free-shipping-w-Prime/22375361.html?iref=rss-c280",
+    "date": "2026-11-10 11:00",
+    "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
+  },
+  {
+    "title": "Converse Singles' Day Sale: 40% off + free shipping",
+    "price": "$69,",
+    "link": "https://www.dealnews.com/Converse-Singles-Day-Sale-40-off-free-shipping/22375533.html?iref=rss-c280",
+    "date": "2026-11-10 10:49",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "converse"
+  },
+  {
+    "title": "DSW Early Black Friday Sale Deals: Up to 50% off + free shipping",
+    "price": "$35",
+    "link": "https://www.dealnews.com/DSW-Early-Black-Friday-Sale-Deals-Up-to-50-off-free-shipping/22375339.html?iref=rss-c280",
+    "date": "2026-11-10 08:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "Dockers Men's Pulse Active Rebound Casual Sneakers for $25 + free shipping w/ $39",
@@ -45,19 +99,10 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
-    "title": "adidas Men's Expandable Backpack (Blanch Cargo) $44 + Free Shipping",
-    "price": "$44",
-    "link": "https://slickdeals.net/f/20279838-adidas-men-s-expandable-backpack-blanch-cargo-44-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-09 17:48",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Women's Duramo SL 2 Wide Running Shoes (Core Black/Cloud White/Grey Five) $28 + Free Shipping",
-    "price": "$28",
-    "link": "https://slickdeals.net/f/20279664-adidas-women-s-duramo-sl-2-wide-running-shoes-core-black-cloud-white-grey-five-28-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-09 17:11",
+    "title": "adidas Beacon Backpack (Alumina/Black) $37.10 + Free Shipping",
+    "price": "$37.10",
+    "link": "https://slickdeals.net/f/20279898-adidas-beacon-backpack-alumina-black-37-10-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-09 18:04",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
@@ -103,51 +148,6 @@ window.DEALS = [
     "price": "$20",
     "link": "https://www.dealnews.com/adidas-Mens-Advantage-Shoes-sizes-10-5-for-20-free-shipping/22370318.html?iref=rss-c280",
     "date": "2026-11-09 14:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Woot Open-Box Shoe & Accessory Clearance: Up to 85% off + free shipping w/ Prime",
-    "price": "$85",
-    "link": "https://www.dealnews.com/Woot-Open-Box-Shoe-Accessory-Clearance-Up-to-85-off-free-shipping-w-Prime/22360242.html?iref=rss-c280",
-    "date": "2026-11-09 11:13",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Kids' adizero Impact Spider-Man Turf Baseball Shoes for $16 + free shipping w/ $49",
-    "price": "$16",
-    "link": "https://www.dealnews.com/adidas-Kids-adizero-Impact-Spider-Man-Turf-Baseball-Shoes-for-16-free-shipping-w-49/22365800.html?iref=rss-c280",
-    "date": "2026-11-09 00:46",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's or Women's Flex Train Workout Shoes for $50 + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Flex-Train-Workout-Shoes-for-50-free-shipping-w-50/22365718.html?iref=rss-c280",
-    "date": "2026-11-08 22:39",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's or Women's Air Max 2017 Shoes for $105 + free shipping",
-    "price": "$105",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Air-Max-2017-Shoes-for-105-free-shipping/22365707.html?iref=rss-c280",
-    "date": "2026-11-08 22:20",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Women's Adizero Boston 12 Running Shoes for $67 + free shipping",
-    "price": "$67",
-    "link": "https://www.dealnews.com/adidas-Womens-Adizero-Boston-12-Running-Shoes-for-67-free-shipping/22365662.html?iref=rss-c280",
-    "date": "2026-11-08 21:41",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
