@@ -1,12 +1,30 @@
 window.DEALS = [
   {
-    "title": "Black Friday Sale + Extra 20% off W/Code, Adidas, Rab, Berghaus & more eg Jack & Jones Down Jacket /The North Face Convertible Jacket £55.99",
-    "price": "£55.99",
-    "link": "https://www.hotukdeals.com/deals/black-friday-sale-extra-20-off-wcode-adidas-rab-berghaus-more-eg-jack-jones-down-jacket-the-north-face-convertible-jacket-ps5599-5030348",
-    "date": "2026-11-12 01:34",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
+    "title": "Joe's New Balance Outlet Sale: Extra 40% to 50% off + free shipping on all orders",
+    "price": "",
+    "link": "https://www.dealnews.com/Joes-New-Balance-Outlet-Sale-Extra-40-to-50-off-free-shipping-on-all-orders/22384371.html?iref=rss-c280",
+    "date": "2026-11-12 13:16",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "S Sport by Skechers Men's Tyler Sneakers for $19 + free shipping",
+    "price": "$19",
+    "link": "https://www.dealnews.com/S-Sport-by-Skechers-Mens-Tyler-Sneakers-for-19-free-shipping/22384080.html?iref=rss-c280",
+    "date": "2026-11-12 09:53",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "Nike Men's Air Max SC Shoes for from $46 + free shipping",
+    "price": "$46",
+    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-SC-Shoes-for-from-46-free-shipping/22384016.html?iref=rss-c280",
+    "date": "2026-11-12 09:14",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
   },
   {
     "title": "Cole Haan Men's Grand Crosscourt Daily Court Leather Sneakers for $75 + free shipping w/ $99",
@@ -45,82 +63,28 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "Looyor Women's Lace-Up Walking Sneakers for $15 + free shipping w/ Prime",
-    "price": "$15",
-    "link": "https://www.dealnews.com/Looyor-Womens-Lace-Up-Walking-Sneakers-for-15-free-shipping-w-Prime/22375361.html?iref=rss-c280",
+    "title": "Looyor Women's Lace-Up Walking Sneakers for $10 + free shipping w/ Prime",
+    "price": "$10",
+    "link": "https://www.dealnews.com/Looyor-Womens-Lace-Up-Walking-Sneakers-for-10-free-shipping-w-Prime/22375361.html?iref=rss-c280",
     "date": "2026-11-11 17:43",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
   },
   {
-    "title": "Nike Men's Air Max Torch 4 Shoes for $60 + free shipping",
-    "price": "$60",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Torch-4-Shoes-for-60-free-shipping/22310313.html?iref=rss-c280",
-    "date": "2026-11-11 16:00",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Duramo SL 2 Running Shoes for $26 + free shipping",
-    "price": "$26",
-    "link": "https://www.dealnews.com/adidas-Mens-Duramo-SL-2-Running-Shoes-for-26-free-shipping/22380100.html?iref=rss-c280",
-    "date": "2026-11-11 13:04",
-    "source": "DealNews",
+    "title": "$51.20 adidas Mens adi365 Full Reflective Jacket",
+    "price": "$51.20",
+    "link": "https://slickdeals.net/f/20285847-51-20-adidas-mens-adi365-full-reflective-jacket?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-10 18:50",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Adistar XLG 2.0 Shoes for $63 + free shipping",
-    "price": "$63",
-    "link": "https://www.dealnews.com/adidas-Mens-Adistar-XLG-2-0-Shoes-for-63-free-shipping/22380007.html?iref=rss-c280",
-    "date": "2026-11-11 11:33",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Originals Early Holiday Deals: Up to 60% off + extra 30% off, ends today + Free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Originals-Early-Holiday-Deals-Up-to-60-off-extra-30-off-ends-today-Free-shipping/22380002.html?iref=rss-c280",
-    "date": "2026-11-11 11:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas x Pokémon Collection: Now available + free shipping",
+    "title": "adidas men Lite Racer Adapt 7.0 Shoes (Core Black / Grey Six / Grey Six) $28",
     "price": "$28",
-    "link": "https://www.dealnews.com/adidas-x-Pok-mon-Collection-Now-available-free-shipping/22379980.html?iref=rss-c280",
-    "date": "2026-11-11 10:53",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Early Holiday Sneaker Deals: Up to 50% off + extra 30% off, last day + free shipping",
-    "price": "$31.50.",
-    "link": "https://www.dealnews.com/adidas-Early-Holiday-Sneaker-Deals-Up-to-50-off-extra-30-off-last-day-free-shipping/22379971.html?iref=rss-c280",
-    "date": "2026-11-11 10:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Puma Singles' Day Sale: 40% off + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Puma-Singles-Day-Sale-40-off-free-shipping-w-50/22379967.html?iref=rss-c280",
-    "date": "2026-11-11 10:35",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "puma"
-  },
-  {
-    "title": "adidas men Workout Essentials Feelready 3 Stripes T-Shirt (2 Colors) from $7.20",
-    "price": "$7.20",
-    "link": "https://slickdeals.net/f/20288640-adidas-men-workout-essentials-feelready-3-stripes-t-shirt-2-colors-from-7-20?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-11 06:25",
+    "link": "https://slickdeals.net/f/20285829-adidas-men-lite-racer-adapt-7-0-shoes-core-black-grey-six-grey-six-28?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-10 18:45",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
