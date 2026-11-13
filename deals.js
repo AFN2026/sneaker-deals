@@ -18,15 +18,6 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
-    "title": "adidas women RUN 70s 2.0 Shoes $22.40",
-    "price": "$22.40",
-    "link": "https://slickdeals.net/f/20299482-adidas-women-run-70s-2-0-shoes-22-40?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-12 20:56",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "Nike Men's Downshifter 14 Road Running Shoes for $50 + free shipping w/ $50",
     "price": "$50",
     "link": "https://www.dealnews.com/Nike-Mens-Downshifter-14-Road-Running-Shoes-for-50-free-shipping-w-50/22384982.html?iref=rss-c280",
