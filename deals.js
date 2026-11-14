@@ -1,5 +1,77 @@
 window.DEALS = [
   {
+    "title": "adidas Men's Adistar XLG 2.0 Shoes for $51 + free shipping",
+    "price": "$51",
+    "link": "https://www.dealnews.com/adidas-Mens-Adistar-XLG-2-0-Shoes-for-51-free-shipping/22393801.html?iref=rss-c280",
+    "date": "2026-11-14 11:10",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Kaptir 4.0 Shoes for $38 + Free shipping",
+    "price": "$38",
+    "link": "https://www.dealnews.com/adidas-Kaptir-4-0-Shoes-for-38-Free-shipping/22393799.html?iref=rss-c280",
+    "date": "2026-11-14 11:01",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas x Minecraft Men's Grand Court 3.0 Shoes (size 11 only) for $25.50 + free shipping",
+    "price": "$25.50",
+    "link": "https://www.dealnews.com/adidas-x-Minecraft-Mens-Grand-Court-3-0-Shoes-size-11-only-for-25-50-free-shipping/22393752.html?iref=rss-c280",
+    "date": "2026-11-14 10:27",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Adizero EVO SL Black Friday Deals: Up to 30% off + extra 15% off select pairs + Free shipping",
+    "price": "$100,",
+    "link": "https://www.dealnews.com/adidas-Adizero-EVO-SL-Black-Friday-Deals-Up-to-30-off-extra-15-off-select-pairs-Free-shipping/22393751.html?iref=rss-c280",
+    "date": "2026-11-14 10:22",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Jump Hook Sneakers for $21 + free shipping",
+    "price": "$21",
+    "link": "https://www.dealnews.com/adidas-Mens-Jump-Hook-Sneakers-for-21-free-shipping/22393732.html?iref=rss-c280",
+    "date": "2026-11-14 10:09",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Goletto IX Firm/Multi-Ground Soccer Cleats for $17 + free shipping",
+    "price": "$17",
+    "link": "https://www.dealnews.com/adidas-Goletto-IX-Firm-Multi-Ground-Soccer-Cleats-for-17-free-shipping/22393731.html?iref=rss-c280",
+    "date": "2026-11-14 10:04",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Terrex Black Friday Sale: Up to 60% off + extra 15% off + free shipping",
+    "price": "$20,",
+    "link": "https://www.dealnews.com/adidas-Terrex-Black-Friday-Sale-Up-to-60-off-extra-15-off-free-shipping/22393718.html?iref=rss-c280",
+    "date": "2026-11-14 09:55",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Black Friday Shoe Deals for From $12, sneakers from $21 + free shipping",
+    "price": "$12,",
+    "link": "https://www.dealnews.com/adidas-Mens-Black-Friday-Shoe-Deals-for-From-12-sneakers-from-21-free-shipping/22393717.html?iref=rss-c280",
+    "date": "2026-11-14 09:53",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "S Sport by Skechers Men's Reiff 3.0 Sneakers for $17 + free shipping",
     "price": "$17",
     "link": "https://www.dealnews.com/S-Sport-by-Skechers-Mens-Reiff-3-0-Sneakers-for-17-free-shipping/22390202.html?iref=rss-c280",
@@ -61,69 +133,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Questar 4 Cloudfoam+ Running Shoes for $25.50 + free shipping",
-    "price": "$25.50",
-    "link": "https://www.dealnews.com/adidas-Mens-Questar-4-Cloudfoam-Running-Shoes-for-25-50-free-shipping/22389752.html?iref=rss-c280",
-    "date": "2026-11-13 11:43",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Lite Racer Adapt 7.0 Shoes for $24 + free shipping",
-    "price": "$24",
-    "link": "https://www.dealnews.com/adidas-Mens-Lite-Racer-Adapt-7-0-Shoes-for-24-free-shipping/22389746.html?iref=rss-c280",
-    "date": "2026-11-13 11:34",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Runfalcon 6 Wide Shoes for $22 + Free shipping",
-    "price": "$22",
-    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Wide-Shoes-for-22-Free-shipping/22389730.html?iref=rss-c280",
-    "date": "2026-11-13 11:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Black Friday Shoe Deals for From $12, sneakers from $19 + free shipping",
-    "price": "$12,",
-    "link": "https://www.dealnews.com/adidas-Mens-Black-Friday-Shoe-Deals-for-From-12-sneakers-from-19-free-shipping/22389729.html?iref=rss-c280",
-    "date": "2026-11-13 11:26",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Response Runner Running Shoes for $21 + free shipping",
-    "price": "$21",
-    "link": "https://www.dealnews.com/adidas-Mens-Response-Runner-Running-Shoes-for-21-free-shipping/22389723.html?iref=rss-c280",
-    "date": "2026-11-13 11:22",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Vilanva Men's Walking and Running Sneakers for $28 + free shipping w/ Prime",
-    "price": "$28",
-    "link": "https://www.dealnews.com/Vilanva-Mens-Walking-and-Running-Sneakers-for-28-free-shipping-w-Prime/22389580.html?iref=rss-c280",
-    "date": "2026-11-13 09:56",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "Nike Men's HyperAce 3 Volleyball Shoes (Sizes 9 & 9.5) for $42 + free shipping w/ $49",
-    "price": "$42",
-    "link": "https://www.dealnews.com/Nike-Mens-Hyper-Ace-3-Volleyball-Shoes-Sizes-9-9-5-for-42-free-shipping-w-49/22389520.html?iref=rss-c280",
-    "date": "2026-11-13 09:08",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
