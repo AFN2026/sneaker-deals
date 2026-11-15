@@ -1,39 +1,48 @@
 window.DEALS = [
   {
-    "title": "adidas Kids Tensaur Sport 3.0 Shoes (White/Red/Navy, Size 6.5 UK)",
-    "price": "£14.24",
-    "link": "https://www.hotukdeals.com/deals/adidas-kids-tensaur-sport-30-shoes-whiterednavy-size-65-uk-5033237",
-    "date": "2026-11-15 01:28",
+    "title": "Adidas Performance Runfalcon 6 ATR Shoes in Shadow Olive / Tech Grey",
+    "price": "£28.50",
+    "link": "https://www.hotukdeals.com/deals/adidas-performance-runfalcon-6-atr-shoes-in-shadow-olive-tech-grey-5033551",
+    "date": "2026-11-15 13:10",
     "source": "HotUKDeals",
     "currency": "GBP",
     "keyword": "adidas"
   },
   {
-    "title": "adidas Strutter Trainers (Core Black/Grey Six, Size 5.5 UK)",
-    "price": "£31.12",
-    "link": "https://www.hotukdeals.com/deals/adidas-strutter-trainers-core-blackgrey-six-size-55-uk-5033234",
-    "date": "2026-11-15 01:17",
+    "title": "Womens Chuck Taylor All Star Hi Cozy Suede Trainers Gingersnap/Egret - UK sizes 3-8",
+    "price": "£24.99",
+    "link": "https://www.hotukdeals.com/deals/womens-chuck-taylor-all-star-hi-cozy-suede-trainers-gingersnapegret-uk-sizes-3-8-5033545",
+    "date": "2026-11-15 13:02",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Adidas men's grand court shoes (core black / core black / cloud white) - $23",
-    "price": "$23",
-    "link": "https://slickdeals.net/f/20311296-adidas-men-s-grand-court-shoes-core-black-core-black-cloud-white-23?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-15 01:00",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
+    "keyword": "converse"
   },
   {
     "title": "Looyor Women's Lace-Up Walking Sneakers for $10 + free shipping w/ Prime",
     "price": "$10",
     "link": "https://www.dealnews.com/Looyor-Womens-Lace-Up-Walking-Sneakers-for-10-free-shipping-w-Prime/22375361.html?iref=rss-c280",
-    "date": "2026-11-14 18:04",
+    "date": "2026-11-15 12:59",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
+  },
+  {
+    "title": "Women's Puma Vikky V3 Leather Trainers Purple Size 5 UK",
+    "price": "£13.99",
+    "link": "https://www.hotukdeals.com/deals/womens-puma-vikky-v3-leather-trainers-purple-at-mm-direct-uk-size-5-5033541",
+    "date": "2026-11-15 12:54",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "puma"
+  },
+  {
+    "title": "adidas Women's OL Olympique Lyon 24/25 Home Jersey White or Black, Size XS-XL",
+    "price": "£4.99",
+    "link": "https://www.hotukdeals.com/deals/adidas-womens-ol-olympique-lyon-2425-home-jersey-white-or-black-size-xs-xl-5033535",
+    "date": "2026-11-15 12:48",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Women's Terrex Anylander Hiking Shoes for $27 + free shipping",
@@ -59,6 +68,15 @@ window.DEALS = [
     "link": "https://www.dealnews.com/adidas-Kaptir-4-0-Shoes-for-38-Free-shipping/22393799.html?iref=rss-c280",
     "date": "2026-11-14 11:01",
     "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "$9.60 adidas Womens Backless 3 Hat with Climacool",
+    "price": "$9.60",
+    "link": "https://slickdeals.net/f/20308533-9-60-adidas-womens-backless-3-hat-with-climacool?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-14 10:51",
+    "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
   },
@@ -135,6 +153,15 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
+    "title": "adidas Men's Samoa Shoes (3 Colors) $27.2",
+    "price": "$27.2",
+    "link": "https://slickdeals.net/f/20303568-adidas-men-s-samoa-shoes-3-colors-27-2?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-13 14:44",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Sneaker Deals on eBay Live for Auctions from $1 + shipping varies",
     "price": "$1",
     "link": "https://www.dealnews.com/Sneaker-Deals-on-eBay-Live-for-Auctions-from-1-shipping-varies/22389958.html?iref=rss-c280",
@@ -142,15 +169,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas Women's Cloudfoam Flex Slounge Shoes for $22 + free shipping",
-    "price": "$22",
-    "link": "https://www.dealnews.com/adidas-Womens-Cloudfoam-Flex-Slounge-Shoes-for-22-free-shipping/22389805.html?iref=rss-c280",
-    "date": "2026-11-13 12:18",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
