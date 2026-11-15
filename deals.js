@@ -1,21 +1,30 @@
 window.DEALS = [
   {
-    "title": "Skechers Women's Uno Stand On Air Trainers (Mint Durabuck Mesh - Size 7 UK)",
-    "price": "£45.02",
-    "link": "https://www.hotukdeals.com/deals/skechers-womens-uno-stand-on-air-trainers-mint-durabuck-mesh-size-7-uk-5033103",
-    "date": "2026-11-14 21:07",
+    "title": "adidas Kids Tensaur Sport 3.0 Shoes (White/Red/Navy, Size 6.5 UK)",
+    "price": "£14.24",
+    "link": "https://www.hotukdeals.com/deals/adidas-kids-tensaur-sport-30-shoes-whiterednavy-size-65-uk-5033237",
+    "date": "2026-11-15 01:28",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "trainers"
+    "keyword": "adidas"
   },
   {
-    "title": "Pinnacle Kapur 3 Mountain Bike - Silver - Size L",
-    "price": "£539",
-    "link": "https://www.hotukdeals.com/deals/pinnacle-kapur-3-mountain-bike-silver-size-l-5033099",
-    "date": "2026-11-14 20:52",
+    "title": "adidas Strutter Trainers (Core Black/Grey Six, Size 5.5 UK)",
+    "price": "£31.12",
+    "link": "https://www.hotukdeals.com/deals/adidas-strutter-trainers-core-blackgrey-six-size-55-uk-5033234",
+    "date": "2026-11-15 01:17",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "vans"
+    "keyword": "adidas"
+  },
+  {
+    "title": "Adidas men's grand court shoes (core black / core black / cloud white) - $23",
+    "price": "$23",
+    "link": "https://slickdeals.net/f/20311296-adidas-men-s-grand-court-shoes-core-black-core-black-cloud-white-23?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-15 01:00",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "Looyor Women's Lace-Up Walking Sneakers for $10 + free shipping w/ Prime",
