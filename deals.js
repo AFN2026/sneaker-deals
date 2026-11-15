@@ -1,21 +1,48 @@
 window.DEALS = [
   {
-    "title": "Adidas Performance Runfalcon 6 ATR Shoes in Shadow Olive / Tech Grey",
-    "price": "£28.50",
-    "link": "https://www.hotukdeals.com/deals/adidas-performance-runfalcon-6-atr-shoes-in-shadow-olive-tech-grey-5033551",
-    "date": "2026-11-15 13:10",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "adidas Men's Technochaos 2000 Shoes for $27 + free shipping",
+    "price": "$27",
+    "link": "https://www.dealnews.com/adidas-Mens-Technochaos-2000-Shoes-for-27-free-shipping/22399014.html?iref=rss-c280",
+    "date": "2026-11-15 21:41",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "adidas"
   },
   {
-    "title": "Womens Chuck Taylor All Star Hi Cozy Suede Trainers Gingersnap/Egret - UK sizes 3-8",
-    "price": "£24.99",
-    "link": "https://www.hotukdeals.com/deals/womens-chuck-taylor-all-star-hi-cozy-suede-trainers-gingersnapegret-uk-sizes-3-8-5033545",
-    "date": "2026-11-15 13:02",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "converse"
+    "title": "adidas Men's or Women's Purechill Shoes for $26 + free shipping",
+    "price": "$26",
+    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Purechill-Shoes-for-26-free-shipping/22399013.html?iref=rss-c280",
+    "date": "2026-11-15 21:28",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Black Friday Men's Adizero Deals: Up to 60% off + Free shipping",
+    "price": "$120",
+    "link": "https://www.dealnews.com/adidas-Black-Friday-Mens-Adizero-Deals-Up-to-60-off-Free-shipping/22398994.html?iref=rss-c280",
+    "date": "2026-11-15 20:32",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Shoe Deals for From $23, sneakers from $37 + free shipping w/ $50",
+    "price": "$23,",
+    "link": "https://www.dealnews.com/Nike-Shoe-Deals-for-From-23-sneakers-from-37-free-shipping-w-50/22322312.html?iref=rss-c280",
+    "date": "2026-11-15 13:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Skechers S Sport Sneakers Deals at eBay for From $13 + free shipping",
+    "price": "$13",
+    "link": "https://www.dealnews.com/Skechers-S-Sport-Sneakers-Deals-at-eBay-for-From-13-free-shipping/22336571.html?iref=rss-c280",
+    "date": "2026-11-15 13:44",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
   },
   {
     "title": "Looyor Women's Lace-Up Walking Sneakers for $10 + free shipping w/ Prime",
@@ -25,24 +52,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "sneakers"
-  },
-  {
-    "title": "Women's Puma Vikky V3 Leather Trainers Purple Size 5 UK",
-    "price": "£13.99",
-    "link": "https://www.hotukdeals.com/deals/womens-puma-vikky-v3-leather-trainers-purple-at-mm-direct-uk-size-5-5033541",
-    "date": "2026-11-15 12:54",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
-  },
-  {
-    "title": "adidas Women's OL Olympique Lyon 24/25 Home Jersey White or Black, Size XS-XL",
-    "price": "£4.99",
-    "link": "https://www.hotukdeals.com/deals/adidas-womens-ol-olympique-lyon-2425-home-jersey-white-or-black-size-xs-xl-5033535",
-    "date": "2026-11-15 12:48",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Women's Terrex Anylander Hiking Shoes for $27 + free shipping",
@@ -72,15 +81,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "$9.60 adidas Womens Backless 3 Hat with Climacool",
-    "price": "$9.60",
-    "link": "https://slickdeals.net/f/20308533-9-60-adidas-womens-backless-3-hat-with-climacool?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-14 10:51",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas x Minecraft Men's Grand Court 3.0 Shoes (size 11 only) for $25.50 + free shipping",
     "price": "$25.50",
     "link": "https://www.dealnews.com/adidas-x-Minecraft-Mens-Grand-Court-3-0-Shoes-size-11-only-for-25-50-free-shipping/22393752.html?iref=rss-c280",
@@ -99,24 +99,6 @@ window.DEALS = [
     "keyword": "adidas"
   },
   {
-    "title": "adidas Men's Jump Hook Sneakers for $21 + free shipping",
-    "price": "$21",
-    "link": "https://www.dealnews.com/adidas-Mens-Jump-Hook-Sneakers-for-21-free-shipping/22393732.html?iref=rss-c280",
-    "date": "2026-11-14 10:09",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Goletto IX Firm/Multi-Ground Soccer Cleats for $17 + free shipping",
-    "price": "$17",
-    "link": "https://www.dealnews.com/adidas-Goletto-IX-Firm-Multi-Ground-Soccer-Cleats-for-17-free-shipping/22393731.html?iref=rss-c280",
-    "date": "2026-11-14 10:04",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
     "title": "adidas Terrex Black Friday Sale: Up to 60% off + extra 15% off + free shipping",
     "price": "$20,",
     "link": "https://www.dealnews.com/adidas-Terrex-Black-Friday-Sale-Up-to-60-off-extra-15-off-free-shipping/22393718.html?iref=rss-c280",
@@ -124,51 +106,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Black Friday Shoe Deals for From $12, sneakers from $21 + free shipping",
-    "price": "$12,",
-    "link": "https://www.dealnews.com/adidas-Mens-Black-Friday-Shoe-Deals-for-From-12-sneakers-from-21-free-shipping/22393717.html?iref=rss-c280",
-    "date": "2026-11-14 09:53",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "S Sport by Skechers Men's Reiff 3.0 Sneakers for $17 + free shipping",
-    "price": "$17",
-    "link": "https://www.dealnews.com/S-Sport-by-Skechers-Mens-Reiff-3-0-Sneakers-for-17-free-shipping/22390202.html?iref=rss-c280",
-    "date": "2026-11-13 18:22",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "S Sport by Skechers Men's Brennen Slip-On Sneakers for $17 + free shipping",
-    "price": "$17",
-    "link": "https://www.dealnews.com/S-Sport-by-Skechers-Mens-Brennen-Slip-On-Sneakers-for-17-free-shipping/22390096.html?iref=rss-c280",
-    "date": "2026-11-13 16:25",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Men's Samoa Shoes (3 Colors) $27.2",
-    "price": "$27.2",
-    "link": "https://slickdeals.net/f/20303568-adidas-men-s-samoa-shoes-3-colors-27-2?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-13 14:44",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Sneaker Deals on eBay Live for Auctions from $1 + shipping varies",
-    "price": "$1",
-    "link": "https://www.dealnews.com/Sneaker-Deals-on-eBay-Live-for-Auctions-from-1-shipping-varies/22389958.html?iref=rss-c280",
-    "date": "2026-11-13 14:28",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Terrex Shoes & Clothing Deals for From $14, Shoes from $36 + free shipping",
