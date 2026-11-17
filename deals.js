@@ -1,12 +1,75 @@
 window.DEALS = [
   {
-    "title": "Nike Women's Reactx Rejuven8 Shoe (3 Colors) from $24.97 + Free Shipping on $49",
-    "price": "$24.97",
-    "link": "https://slickdeals.net/f/20319114-nike-women-s-reactx-rejuven8-shoe-3-colors-from-24-97-free-shipping-on-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-16 13:02",
-    "source": "Slickdeals",
+    "title": "Athletic Works Men's Banded Jogger Slip-On Sneakers for $10 + free shipping w/ $35",
+    "price": "$10",
+    "link": "https://www.dealnews.com/Athletic-Works-Mens-Banded-Jogger-Slip-On-Sneakers-for-10-free-shipping-w-35/22403978.html?iref=rss-c280",
+    "date": "2026-11-17 00:23",
+    "source": "DealNews",
     "currency": "USD",
-    "keyword": "nike"
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Terrex Eastrail 3 Hiking Shoes for $34 + Free shipping",
+    "price": "$34",
+    "link": "https://www.dealnews.com/adidas-Terrex-Eastrail-3-Hiking-Shoes-for-34-Free-shipping/22403327.html?iref=rss-c280",
+    "date": "2026-11-16 16:00",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Terrex Rockadia Hiking Shoes for $36 + Free shipping",
+    "price": "$36",
+    "link": "https://www.dealnews.com/adidas-Terrex-Rockadia-Hiking-Shoes-for-36-Free-shipping/22403320.html?iref=rss-c280",
+    "date": "2026-11-16 15:48",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Duramo SL 2 Running Shoes (sizes 11.5+) for $24 + Free shipping",
+    "price": "$24",
+    "link": "https://www.dealnews.com/adidas-Duramo-SL-2-Running-Shoes-sizes-11-5-for-24-Free-shipping/22403301.html?iref=rss-c280",
+    "date": "2026-11-16 15:37",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Grand Court 3.0 Shoes for $24 + Free shipping",
+    "price": "$24",
+    "link": "https://www.dealnews.com/adidas-Grand-Court-3-0-Shoes-for-24-Free-shipping/22403281.html?iref=rss-c280",
+    "date": "2026-11-16 15:19",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Runfalcon 5 Running Shoes for $26 + Free shipping",
+    "price": "$26",
+    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-5-Running-Shoes-for-26-Free-shipping/22403261.html?iref=rss-c280",
+    "date": "2026-11-16 15:05",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Galaxy 7 Running Shoes for $26 + Free shipping",
+    "price": "$26",
+    "link": "https://www.dealnews.com/adidas-Galaxy-7-Running-Shoes-for-26-Free-shipping/22403236.html?iref=rss-c280",
+    "date": "2026-11-16 14:51",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas x Coca-Cola Samba OG Shoes for $44 + Free shipping",
+    "price": "$44",
+    "link": "https://www.dealnews.com/adidas-x-Coca-Cola-Samba-OG-Shoes-for-44-Free-shipping/22403217.html?iref=rss-c280",
+    "date": "2026-11-16 14:41",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "Jousen Men's Business Casual Dress Sneakers for $38 + free shipping",
@@ -40,78 +103,6 @@ window.DEALS = [
     "price": "$26",
     "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Purechill-Shoes-for-26-free-shipping/22399013.html?iref=rss-c280",
     "date": "2026-11-15 21:28",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Black Friday Men's Adizero Deals: Up to 60% off + Free shipping",
-    "price": "$120",
-    "link": "https://www.dealnews.com/adidas-Black-Friday-Mens-Adizero-Deals-Up-to-60-off-Free-shipping/22398994.html?iref=rss-c280",
-    "date": "2026-11-15 20:32",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Shoe Deals for From $23, sneakers from $37 + free shipping w/ $50",
-    "price": "$23,",
-    "link": "https://www.dealnews.com/Nike-Shoe-Deals-for-From-23-sneakers-from-37-free-shipping-w-50/22322312.html?iref=rss-c280",
-    "date": "2026-11-15 13:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Skechers S Sport Sneakers Deals at eBay for From $13 + free shipping",
-    "price": "$13",
-    "link": "https://www.dealnews.com/Skechers-S-Sport-Sneakers-Deals-at-eBay-for-From-13-free-shipping/22336571.html?iref=rss-c280",
-    "date": "2026-11-15 13:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "sneakers"
-  },
-  {
-    "title": "adidas Men's Adistar XLG 2.0 Shoes for $51 + free shipping",
-    "price": "$51",
-    "link": "https://www.dealnews.com/adidas-Mens-Adistar-XLG-2-0-Shoes-for-51-free-shipping/22393801.html?iref=rss-c280",
-    "date": "2026-11-14 11:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Kaptir 4.0 Shoes for $38 + Free shipping",
-    "price": "$38",
-    "link": "https://www.dealnews.com/adidas-Kaptir-4-0-Shoes-for-38-Free-shipping/22393799.html?iref=rss-c280",
-    "date": "2026-11-14 11:01",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas x Minecraft Men's Grand Court 3.0 Shoes (size 11 only) for $25.50 + free shipping",
-    "price": "$25.50",
-    "link": "https://www.dealnews.com/adidas-x-Minecraft-Mens-Grand-Court-3-0-Shoes-size-11-only-for-25-50-free-shipping/22393752.html?iref=rss-c280",
-    "date": "2026-11-14 10:27",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Adizero EVO SL Black Friday Deals: Up to 30% off + extra 15% off select pairs + Free shipping",
-    "price": "$100,",
-    "link": "https://www.dealnews.com/adidas-Adizero-EVO-SL-Black-Friday-Deals-Up-to-30-off-extra-15-off-select-pairs-Free-shipping/22393751.html?iref=rss-c280",
-    "date": "2026-11-14 10:22",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Jump Hook Sneakers for $21 + free shipping",
-    "price": "$21",
-    "link": "https://www.dealnews.com/adidas-Mens-Jump-Hook-Sneakers-for-21-free-shipping/22393732.html?iref=rss-c280",
-    "date": "2026-11-14 10:09",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
