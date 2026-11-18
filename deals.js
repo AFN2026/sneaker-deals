@@ -1,21 +1,75 @@
 window.DEALS = [
   {
-    "title": "7M Water Fed Pole Telescopic Window Cleaning Brush Kit with Swivel Brush Head with code at Zhitaozhang Tool Store",
-    "price": "£15",
-    "link": "https://www.hotukdeals.com/deals/7m-water-fed-pole-telescopic-window-cleaning-brush-kit-with-swivel-brush-head-with-code-at-zhitaozhang-tool-store-5037512",
-    "date": "2026-11-18 14:33",
+    "title": "Reebok Women's Classic Nylon Trainers (2.5 - 4.5)",
+    "price": "£14.99",
+    "link": "https://www.hotukdeals.com/deals/reebok-womens-classic-nylon-trainers-ps1499-5038012",
+    "date": "2026-11-18 22:35",
     "source": "HotUKDeals",
     "currency": "GBP",
-    "keyword": "vans"
+    "keyword": "reebok"
   },
   {
-    "title": "Mens Nike P-6000, Lt Bone-Pale Ivory-Black, Size 6-7 w/code Unidays - free member delivery",
-    "price": "£47.50",
-    "link": "https://www.hotukdeals.com/deals/mens-nike-p-6000-lt-bone-pale-ivory-black-size-6-7-wcode-unidays-5037507",
-    "date": "2026-11-18 14:24",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "Converse Men's Day One Classic Sneakers for $19 ... or less + free shipping",
+    "price": "$19",
+    "link": "https://www.dealnews.com/Converse-Mens-Day-One-Classic-Sneakers-for-19-or-less-free-shipping/22409306.html?iref=rss-c280",
+    "date": "2026-11-18 22:17",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "converse"
+  },
+  {
+    "title": "Nike Men's Flex Train Workout Shoes for $51 + free shipping",
+    "price": "$51",
+    "link": "https://www.dealnews.com/Nike-Mens-Flex-Train-Workout-Shoes-for-51-free-shipping/22409253.html?iref=rss-c280",
+    "date": "2026-11-18 21:39",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's or Women's Benassi JDI Slides for $23 + free shipping w/ $50",
+    "price": "$23",
+    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Benassi-JDI-Slides-for-23-free-shipping-w-50/22409237.html?iref=rss-c280",
+    "date": "2026-11-18 21:23",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Jordan Session Shoes for $45 + free shipping w/ $50",
+    "price": "$45",
+    "link": "https://www.dealnews.com/Nike-Mens-Jordan-Session-Shoes-for-45-free-shipping-w-50/22408848.html?iref=rss-c280",
+    "date": "2026-11-18 16:36",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "New Balance Select Styles Sale for 25% off $125 + free shipping",
+    "price": "$125",
+    "link": "https://www.dealnews.com/New-Balance-Select-Styles-Sale-for-25-off-125-free-shipping/22408824.html?iref=rss-c280",
+    "date": "2026-11-18 16:21",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
+    "title": "Skechers S Sport Sneakers Deals at eBay for From $13 + free shipping",
+    "price": "$13",
+    "link": "https://www.dealnews.com/Skechers-S-Sport-Sneakers-Deals-at-eBay-for-From-13-free-shipping/22336571.html?iref=rss-c280",
+    "date": "2026-11-18 15:34",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "sneakers"
+  },
+  {
+    "title": "adidas Men's Hyperboost EPHR Shoes for $72 + Free shipping",
+    "price": "$72",
+    "link": "https://www.dealnews.com/adidas-Mens-Hyperboost-EPHR-Shoes-for-72-Free-shipping/22408739.html?iref=rss-c280",
+    "date": "2026-11-18 15:23",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
   },
   {
     "title": "adidas Men's Purechill Slides for $19 + Free shipping",
@@ -67,15 +121,6 @@ window.DEALS = [
     "price": "$114",
     "link": "https://www.dealnews.com/Nike-Mens-Pegasus-Premium-Shoes-for-114-free-shipping/22408423.html?iref=rss-c280",
     "date": "2026-11-18 11:42",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Free Run 5.0 Shoes for $37 + free shipping w/ $50",
-    "price": "$37",
-    "link": "https://www.dealnews.com/Nike-Mens-Free-Run-5-0-Shoes-for-37-free-shipping-w-50/22408296.html?iref=rss-c280",
-    "date": "2026-11-18 10:03",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
@@ -178,33 +223,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's Runfalcon 5 TR Running Shoes for $28 + Free shipping",
-    "price": "$28",
-    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-5-TR-Running-Shoes-for-28-Free-shipping/22406329.html?iref=rss-c280",
-    "date": "2026-11-17 17:03",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas X_PLRPATH Wide Shoes for $30 + Free shipping",
-    "price": "$30",
-    "link": "https://www.dealnews.com/adidas-X-PLRPATH-Wide-Shoes-for-30-Free-shipping/22406287.html?iref=rss-c280",
-    "date": "2026-11-17 16:38",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Runfalcon 6 Cloudfoam Running Shoes for $33 + Free shipping",
-    "price": "$33",
-    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-6-Cloudfoam-Running-Shoes-for-33-Free-shipping/22406264.html?iref=rss-c280",
-    "date": "2026-11-17 16:23",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Terrex Black Friday Sale: Up to 60% off + extra 15% off + free shipping",
