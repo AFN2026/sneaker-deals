@@ -1,5 +1,77 @@
 window.DEALS = [
   {
+    "title": "Mens Nike Hybrid RN White and Black",
+    "price": "£56.99",
+    "link": "https://www.hotukdeals.com/deals/nike-hybrid-rn-white-and-black-5041286",
+    "date": "2026-11-20 23:21",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
+    "title": "adidas Men's Entrada26 Shorts Large/Tall Team Green/White $4.59 - Amazon",
+    "price": "$4.59",
+    "link": "https://slickdeals.net/f/20359761-adidas-men-s-entrada26-shorts-large-tall-team-green-white-4-59-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-20 22:11",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Men's Revolution 8 Road Running Shoes for From $34 + free shipping w/ $50",
+    "price": "$34",
+    "link": "https://www.dealnews.com/Nike-Mens-Revolution-8-Road-Running-Shoes-for-From-34-free-shipping-w-50/22415549.html?iref=rss-c280",
+    "date": "2026-11-20 18:23",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Reax 8 TR Workout Shoes for $45 + free shipping w/ $50",
+    "price": "$45",
+    "link": "https://www.dealnews.com/Nike-Mens-Reax-8-TR-Workout-Shoes-for-45-free-shipping-w-50/22415533.html?iref=rss-c280",
+    "date": "2026-11-20 18:03",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Flex Control 4 Men's Workout Shoes for From $44 + free shipping",
+    "price": "$44",
+    "link": "https://www.dealnews.com/Nike-Flex-Control-4-Mens-Workout-Shoes-for-From-44-free-shipping/22415517.html?iref=rss-c280",
+    "date": "2026-11-20 17:51",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Infinity G NN Golf Shoes for $42 + free shipping",
+    "price": "$42",
+    "link": "https://www.dealnews.com/Nike-Infinity-G-NN-Golf-Shoes-for-42-free-shipping/22415500.html?iref=rss-c280",
+    "date": "2026-11-20 17:39",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Jordan Men's or Women's Hydro 4 Retro Slides for $40 + free shipping",
+    "price": "$40",
+    "link": "https://www.dealnews.com/Jordan-Mens-or-Womens-Hydro-4-Retro-Slides-for-40-free-shipping/22415481.html?iref=rss-c280",
+    "date": "2026-11-20 17:28",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "New Balance Black Friday Men's Sneaker Deals at Macy's: Up to 52% off + free shipping w/ $39",
+    "price": "$39",
+    "link": "https://www.dealnews.com/New-Balance-Black-Friday-Mens-Sneaker-Deals-at-Macys-Up-to-52-off-free-shipping-w-39/22415400.html?iref=rss-c280",
+    "date": "2026-11-20 16:37",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "new balance"
+  },
+  {
     "title": "lululemon Black Friday Shoe Specials for From $39, Sneakers from $79 + free shipping",
     "price": "$39,",
     "link": "https://www.dealnews.com/lululemon-Black-Friday-Shoe-Specials-for-From-39-Sneakers-from-79-free-shipping/22415139.html?iref=rss-c280",
@@ -9,76 +81,13 @@ window.DEALS = [
     "keyword": "sneakers"
   },
   {
-    "title": "Nike Air Max 90 Drift - Black - Free delivery for members",
-    "price": "£67.49",
-    "link": "https://www.hotukdeals.com/deals/great-price-cheaper-then-most-the-other-deals-of-this-model-5040706",
-    "date": "2026-11-20 14:18",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "Adidas Originals Manchester United 24/25 Third Shirt - Size S",
-    "price": "£15",
-    "link": "https://www.hotukdeals.com/deals/adidas-originals-manchester-united-2425-third-shirt-size-s-5040705",
-    "date": "2026-11-20 14:17",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Converse x LFC Slim Logo T-Shirt, Size S",
-    "price": "£5",
-    "link": "https://www.hotukdeals.com/deals/converse-x-lfc-slim-logo-t-shirt-size-s-5040702",
-    "date": "2026-11-20 14:14",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "converse"
-  },
-  {
-    "title": "Nike Men’s P6000 shoes (Selected styles)",
-    "price": "£65.99",
-    "link": "https://www.hotukdeals.com/deals/nike-mens-p6000-shoes-5040698",
-    "date": "2026-11-20 14:12",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "nike"
-  },
-  {
-    "title": "Puma RS-X3 Layers Multicolor Womens Trainers, Size 3.5 - w/code",
-    "price": "£34.39",
-    "link": "https://www.hotukdeals.com/deals/puma-rs-x3-layers-multicolor-womens-trainers-size-35-wcode-5040684",
-    "date": "2026-11-20 14:04",
-    "source": "HotUKDeals",
-    "currency": "GBP",
-    "keyword": "puma"
-  },
-  {
-    "title": "adidas Men's X_PLR Path Shoes (Core Black / Cloud White / Cloud White) $22.1",
-    "price": "$22.1",
-    "link": "https://slickdeals.net/f/20355747-adidas-men-s-x-plr-path-shoes-core-black-cloud-white-cloud-white-22-1?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-20 12:14",
+    "title": "adidas men Core adidas Performance Primegreen Polo Shirt (Collegiate Royal) $17.5",
+    "price": "$17.5",
+    "link": "https://slickdeals.net/f/20356158-adidas-men-core-adidas-performance-primegreen-polo-shirt-collegiate-royal-17-5?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-20 13:26",
     "source": "Slickdeals",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "adidas Men's Runfalcon 5 Running Shoes (5 Colors) $20.4",
-    "price": "$20.4",
-    "link": "https://slickdeals.net/f/20355546-adidas-men-s-runfalcon-5-running-shoes-5-colors-20-4?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-20 11:35",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Free Metcon 7 Training Shoes $61.48 + Free S&H",
-    "price": "$61.48",
-    "link": "https://slickdeals.net/f/20355528-nike-men-s-free-metcon-7-training-shoes-61-48-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-20 11:28",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "nike"
   },
   {
     "title": "adidas Women's Ultraboost 5X Running Shoes for $61 + free shipping",
@@ -202,123 +211,6 @@ window.DEALS = [
     "price": "$25",
     "link": "https://www.dealnews.com/Nike-Womens-React-X-Rejuven8-Recovery-Shoes-for-25-free-shipping-w-49/22412701.html?iref=rss-c280",
     "date": "2026-11-20 01:38",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas Men's or Women's Purechill Shoes for $20 + free shipping w/ $39",
-    "price": "$20",
-    "link": "https://www.dealnews.com/adidas-Mens-or-Womens-Purechill-Shoes-for-20-free-shipping-w-39/22412423.html?iref=rss-c280",
-    "date": "2026-11-19 22:13",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's or Women's Air Max Excee SE Sneakers for $55 + free shipping",
-    "price": "$55",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Air-Max-Excee-SE-Sneakers-for-55-free-shipping/22412422.html?iref=rss-c280",
-    "date": "2026-11-19 22:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Max Bia Sneakers for $46 + free shipping",
-    "price": "$46",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Bia-Sneakers-for-46-free-shipping/22412420.html?iref=rss-c280",
-    "date": "2026-11-19 22:05",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Max Excee Sneakers for $48 + free shipping",
-    "price": "$48",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Max-Excee-Sneakers-for-48-free-shipping/22412402.html?iref=rss-c280",
-    "date": "2026-11-19 21:57",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Vomero Black Friday Preview Deals: Up to 34% off + extra 25% off + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Vomero-Black-Friday-Preview-Deals-Up-to-34-off-extra-25-off-free-shipping-w-50/22411999.html?iref=rss-c280",
-    "date": "2026-11-19 17:44",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Air Jordan Skyline Low Shoes for $61 + free shipping",
-    "price": "$61",
-    "link": "https://www.dealnews.com/Nike-Mens-Air-Jordan-Skyline-Low-Shoes-for-61-free-shipping/22411993.html?iref=rss-c280",
-    "date": "2026-11-19 17:36",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Zoom Fly 6 Road Racing Shoes for $100 + free shipping",
-    "price": "$100",
-    "link": "https://www.dealnews.com/Nike-Mens-Zoom-Fly-6-Road-Racing-Shoes-for-100-free-shipping/22411968.html?iref=rss-c280",
-    "date": "2026-11-19 17:30",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Ja 4 \"Nightmare\" Basketball Shoes for $79 + free shipping",
-    "price": "$79",
-    "link": "https://www.dealnews.com/Nike-Ja-4-Nightmare-Basketball-Shoes-for-79-free-shipping/22411960.html?iref=rss-c280",
-    "date": "2026-11-19 17:18",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's or Women's Air Max SC Shoes for $42 + free shipping w/ $50",
-    "price": "$42",
-    "link": "https://www.dealnews.com/Nike-Mens-or-Womens-Air-Max-SC-Shoes-for-42-free-shipping-w-50/22411777.html?iref=rss-c280",
-    "date": "2026-11-19 16:05",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Women's Run Defy Road Running Shoes for $35 + free shipping w/ $50",
-    "price": "$35",
-    "link": "https://www.dealnews.com/Nike-Womens-Run-Defy-Road-Running-Shoes-for-35-free-shipping-w-50/22411745.html?iref=rss-c280",
-    "date": "2026-11-19 15:54",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Free Run 5.0 Road Running Shoes for $50 + free shipping",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Mens-Free-Run-5-0-Road-Running-Shoes-for-50-free-shipping/22411689.html?iref=rss-c280",
-    "date": "2026-11-19 15:21",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Killshot 2 PRM Shoes for $55 + free shipping",
-    "price": "$55",
-    "link": "https://www.dealnews.com/Nike-Mens-Killshot-2-PRM-Shoes-for-55-free-shipping/22411665.html?iref=rss-c280",
-    "date": "2026-11-19 15:10",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Free RN NN Road Running Shoes for $51 + free shipping",
-    "price": "$51",
-    "link": "https://www.dealnews.com/Nike-Mens-Free-RN-NN-Road-Running-Shoes-for-51-free-shipping/22411623.html?iref=rss-c280",
-    "date": "2026-11-19 14:45",
     "source": "DealNews",
     "currency": "USD",
     "keyword": "nike"
