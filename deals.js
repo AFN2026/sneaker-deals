@@ -1,5 +1,14 @@
 window.DEALS = [
   {
+    "title": "Nike Black Friday Extra 10% for Blue Light Holders",
+    "price": "£4.50",
+    "link": "https://www.hotukdeals.com/deals/nike-black-friday-extra-10-for-blue-light-holders-5042403",
+    "date": "2026-11-22 02:02",
+    "source": "HotUKDeals",
+    "currency": "GBP",
+    "keyword": "nike"
+  },
+  {
     "title": "Vans Black Friday Sale: Extra 30% off + shipping varies",
     "price": "$65",
     "link": "https://www.dealnews.com/Vans-Black-Friday-Sale-Extra-30-off-shipping-varies/22417953.html?iref=rss-c280",
@@ -54,6 +63,15 @@ window.DEALS = [
     "keyword": "nike"
   },
   {
+    "title": "adidas men BUSENITZ VULC II Shoes (Silver Pebble / Team Victory Red / Cloud White) $30",
+    "price": "$30",
+    "link": "https://slickdeals.net/f/20361621-adidas-men-busenitz-vulc-ii-shoes-silver-pebble-team-victory-red-cloud-white-30?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "date": "2026-11-21 04:56",
+    "source": "Slickdeals",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
     "title": "Nike Men's Revolution 8 Road Running Shoes for From $34 + free shipping w/ $50",
     "price": "$34",
     "link": "https://www.dealnews.com/Nike-Mens-Revolution-8-Road-Running-Shoes-for-From-34-free-shipping-w-50/22415549.html?iref=rss-c280",
@@ -106,15 +124,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "new balance"
-  },
-  {
-    "title": "adidas men ADIDAS KIT Small Logo Full-zip Hoodie (Khaki Six) $22.5",
-    "price": "$22.5",
-    "link": "https://slickdeals.net/f/20356035-adidas-men-adidas-kit-small-logo-full-zip-hoodie-khaki-six-22-5?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-20 13:06",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
   },
   {
     "title": "adidas Black Friday Sale: Up to 60% off + free shipping",
