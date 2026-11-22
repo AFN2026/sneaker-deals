@@ -1,11 +1,101 @@
 window.DEALS = [
   {
-    "title": "Nike Black Friday Extra 10% for Blue Light Holders",
-    "price": "£4.50",
-    "link": "https://www.hotukdeals.com/deals/nike-black-friday-extra-10-for-blue-light-holders-5042403",
-    "date": "2026-11-22 02:02",
-    "source": "HotUKDeals",
-    "currency": "GBP",
+    "title": "adidas Women's Runfalcon 5 Running Shoes for $20 + free shipping",
+    "price": "$20",
+    "link": "https://www.dealnews.com/adidas-Womens-Runfalcon-5-Running-Shoes-for-20-free-shipping/22420775.html?iref=rss-c280",
+    "date": "2026-11-22 13:14",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Runfalcon 5 Wide Running Shoes for $20 + free shipping",
+    "price": "$20",
+    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-5-Wide-Running-Shoes-for-20-free-shipping/22420774.html?iref=rss-c280",
+    "date": "2026-11-22 13:11",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's X_PLR Path Shoes for $22 + free shipping",
+    "price": "$22",
+    "link": "https://www.dealnews.com/adidas-Mens-X-PLR-Path-Shoes-for-22-free-shipping/22420773.html?iref=rss-c280",
+    "date": "2026-11-22 13:08",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Duramo SL 10 Running Shoes for $22 + free shipping",
+    "price": "$22",
+    "link": "https://www.dealnews.com/adidas-Mens-Duramo-SL-10-Running-Shoes-for-22-free-shipping/22420772.html?iref=rss-c280",
+    "date": "2026-11-22 13:05",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Men's Runfalcon 5 Running Shoes for $20 + free shipping",
+    "price": "$20",
+    "link": "https://www.dealnews.com/adidas-Mens-Runfalcon-5-Running-Shoes-for-20-free-shipping/22414689.html?iref=rss-c280",
+    "date": "2026-11-22 12:22",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "adidas Black Friday Sale 2026: Up to 60% off + extra 15% off + free shipping",
+    "price": "",
+    "link": "https://www.dealnews.com/adidas-Black-Friday-Sale-2026-Up-to-60-off-extra-15-off-free-shipping/22414575.html?iref=rss-c280",
+    "date": "2026-11-22 12:21",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "adidas"
+  },
+  {
+    "title": "Nike Jordan Black Friday Deals: Extra 25% off + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Jordan-Black-Friday-Deals-Extra-25-off-free-shipping-w-50/22420565.html?iref=rss-c280",
+    "date": "2026-11-22 10:05",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Black Friday Shoe Deals for From $19, sneakers from $34 + free shipping w/ $50",
+    "price": "$19,",
+    "link": "https://www.dealnews.com/Nike-Mens-Black-Friday-Shoe-Deals-for-From-19-sneakers-from-34-free-shipping-w-50/22420559.html?iref=rss-c280",
+    "date": "2026-11-22 10:00",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Revolution 7 Road Running Shoes for $34 + free shipping w/ $50",
+    "price": "$34",
+    "link": "https://www.dealnews.com/Nike-Mens-Revolution-7-Road-Running-Shoes-for-34-free-shipping-w-50/22420558.html?iref=rss-c280",
+    "date": "2026-11-22 09:56",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Men's Infinity G NN Golf Shoes for $42 + free shipping",
+    "price": "$42",
+    "link": "https://www.dealnews.com/Nike-Mens-Infinity-G-NN-Golf-Shoes-for-42-free-shipping/22420557.html?iref=rss-c280",
+    "date": "2026-11-22 09:52",
+    "source": "DealNews",
+    "currency": "USD",
+    "keyword": "nike"
+  },
+  {
+    "title": "Nike Black Friday Sale 2026: Extra 25% off + free shipping w/ $50",
+    "price": "$50",
+    "link": "https://www.dealnews.com/Nike-Black-Friday-Sale-2026-Extra-25-off-free-shipping-w-50/22420541.html?iref=rss-c280",
+    "date": "2026-11-22 09:44",
+    "source": "DealNews",
+    "currency": "USD",
     "keyword": "nike"
   },
   {
@@ -25,105 +115,6 @@ window.DEALS = [
     "source": "DealNews",
     "currency": "USD",
     "keyword": "adidas"
-  },
-  {
-    "title": "adidas Black Friday Sale 2026: Up to 60% off + extra 15% off + free shipping",
-    "price": "",
-    "link": "https://www.dealnews.com/adidas-Black-Friday-Sale-2026-Up-to-60-off-extra-15-off-free-shipping/22414575.html?iref=rss-c280",
-    "date": "2026-11-21 14:58",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Air Max Early Black Friday Sale: Up to 31% off + extra 25% off + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Air-Max-Early-Black-Friday-Sale-Up-to-31-off-extra-25-off-free-shipping-w-50/22408268.html?iref=rss-c280",
-    "date": "2026-11-21 10:08",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Jordan Early Black Friday Deals: Extra 25% off + free shipping w/ $50",
-    "price": "$50",
-    "link": "https://www.dealnews.com/Nike-Jordan-Early-Black-Friday-Deals-Extra-25-off-free-shipping-w-50/22408202.html?iref=rss-c280",
-    "date": "2026-11-21 10:08",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Early Black Friday Shoe Deals for From $19, sneakers from $35 + free shipping w/ $50",
-    "price": "$19,",
-    "link": "https://www.dealnews.com/Nike-Mens-Early-Black-Friday-Shoe-Deals-for-From-19-sneakers-from-35-free-shipping-w-50/22408203.html?iref=rss-c280",
-    "date": "2026-11-21 10:08",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "adidas men BUSENITZ VULC II Shoes (Silver Pebble / Team Victory Red / Cloud White) $30",
-    "price": "$30",
-    "link": "https://slickdeals.net/f/20361621-adidas-men-busenitz-vulc-ii-shoes-silver-pebble-team-victory-red-cloud-white-30?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "date": "2026-11-21 04:56",
-    "source": "Slickdeals",
-    "currency": "USD",
-    "keyword": "adidas"
-  },
-  {
-    "title": "Nike Men's Revolution 8 Road Running Shoes for From $34 + free shipping w/ $50",
-    "price": "$34",
-    "link": "https://www.dealnews.com/Nike-Mens-Revolution-8-Road-Running-Shoes-for-From-34-free-shipping-w-50/22415549.html?iref=rss-c280",
-    "date": "2026-11-20 18:23",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Men's Reax 8 TR Workout Shoes for $45 + free shipping w/ $50",
-    "price": "$45",
-    "link": "https://www.dealnews.com/Nike-Mens-Reax-8-TR-Workout-Shoes-for-45-free-shipping-w-50/22415533.html?iref=rss-c280",
-    "date": "2026-11-20 18:03",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Flex Control 4 Men's Workout Shoes for From $44 + free shipping",
-    "price": "$44",
-    "link": "https://www.dealnews.com/Nike-Flex-Control-4-Mens-Workout-Shoes-for-From-44-free-shipping/22415517.html?iref=rss-c280",
-    "date": "2026-11-20 17:51",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Nike Infinity G NN Golf Shoes for $42 + free shipping",
-    "price": "$42",
-    "link": "https://www.dealnews.com/Nike-Infinity-G-NN-Golf-Shoes-for-42-free-shipping/22415500.html?iref=rss-c280",
-    "date": "2026-11-20 17:39",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "Jordan Men's or Women's Hydro 4 Retro Slides for $40 + free shipping",
-    "price": "$40",
-    "link": "https://www.dealnews.com/Jordan-Mens-or-Womens-Hydro-4-Retro-Slides-for-40-free-shipping/22415481.html?iref=rss-c280",
-    "date": "2026-11-20 17:28",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "nike"
-  },
-  {
-    "title": "New Balance Black Friday Men's Sneaker Deals at Macy's: Up to 52% off + free shipping w/ $39",
-    "price": "$39",
-    "link": "https://www.dealnews.com/New-Balance-Black-Friday-Mens-Sneaker-Deals-at-Macys-Up-to-52-off-free-shipping-w-39/22415400.html?iref=rss-c280",
-    "date": "2026-11-20 16:37",
-    "source": "DealNews",
-    "currency": "USD",
-    "keyword": "new balance"
   },
   {
     "title": "adidas Black Friday Sale: Up to 60% off + free shipping",
